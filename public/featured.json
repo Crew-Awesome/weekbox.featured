@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-13T20:50:05.395Z",
+  "expiresAt": "2026-07-13T21:50:05.395Z",
+  "gameId": 8694,
+  "categoryRoots": [
+    34764,
+    28367,
+    29202
+  ],
+  "rankings": [
+    {
+      "id": "day",
+      "label": "Best of Today",
+      "mods": [
+        {
+          "id": 693868,
+          "title": "Whitty (Pico Mix) Vslice Port",
+          "author": "lucashoelpepasho",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a546afeef908.jpg",
+          "likes": 2,
+          "downloads": 0,
+          "views": 185,
+          "publishedAt": 1783918521,
+          "url": "https://gamebanana.com/mods/693868"
+        },
+        {
+          "id": 693799,
+          "title": "Lucho funker Recolor",
+          "author": "luchoMtt",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a541f20dbff6.jpg",
+          "likes": 2,
+          "downloads": 0,
+          "views": 127,
+          "publishedAt": 1783898252,
+          "url": "https://gamebanana.com/mods/693799"
+        },
+        {
+          "id": 693770,
+          "title": "Blueballed Rescript Psych Online Skin 2",
+          "author": "beanaddict707",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a53ff45ed3d0.jpg",
+          "likes": 1,
+          "downloads": 0,
+          "views": 141,
+          "publishedAt": 1783890109,
+          "url": "https://gamebanana.com/mods/693770"
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "label": "Best of This Week",
+      "mods": [
+        {
+          "id": 692216,
+          "title": "Marvin's Marvinous Monday (DEMO)",
+          "author": "CalciumLmao",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
+          "likes": 61,
+          "downloads": 0,
+          "views": 3280,
+          "publishedAt": 1783384939,
+          "url": "https://gamebanana.com/mods/692216"
+        },
+        {
+          "id": 693107,
+          "title": "(MOBILE FIX!) FRIDAY NIGHT FUNKIN : MELLOWVALLEY",
+          "author": "FunkiFanta",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
+          "likes": 31,
+          "downloads": 0,
+          "views": 1125,
+          "publishedAt": 1783690334,
+          "url": "https://gamebanana.com/mods/693107"
+        },
+        {
+          "id": 692447,
+          "title": "BUM BIDDY | ONESHOT",
+          "author": "LeaNimatics",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a4d76557f3c7.jpg",
+          "likes": 25,
+          "downloads": 0,
+          "views": 1596,
+          "publishedAt": 1783462057,
+          "url": "https://gamebanana.com/mods/692447"
+        }
+      ]
+    },
+    {
+      "id": "month",
+      "label": "Best of This Month",
+      "mods": [
+        {
+          "id": 673891,
+          "title": "VS. Mouse Ultimate [INCOMPLETE OFFICIAL RELEASE]",
+          "author": "FridayDayFunkin",
+          "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
+          "likes": 158,
+          "downloads": 0,
+          "views": 15670,
+          "publishedAt": 1782072173,
+          "url": "https://gamebanana.com/mods/673891"
+        },
+        {
+          "id": 689006,
+          "title": "Nightmare Funkin' (Ft. JohnnyUtah)",
+          "author": "staxcore",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
+          "likes": 146,
+          "downloads": 0,
+          "views": 8494,
+          "publishedAt": 1782698090,
+          "url": "https://gamebanana.com/mods/689006"
+        },
+        {
+          "id": 688513,
+          "title": "FNF: VS CORA",
+          "author": "kuronamii",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a3b0a8da8598.jpg",
+          "likes": 52,
+          "downloads": 0,
+          "views": 2641,
+          "publishedAt": 1782255421,
+          "url": "https://gamebanana.com/mods/688513"
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
+        {
+          "id": 678384,
+          "title": "Your Best Friend - Undertale Oneshot",
+          "author": "baconanimates2",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a0bb50ddde71.jpg",
+          "likes": 60,
+          "downloads": 0,
+          "views": 6647,
+          "publishedAt": 1779152490,
+          "url": "https://gamebanana.com/mods/678384"
+        },
+        {
+          "id": 691582,
+          "title": "VS TORD RETORDED",
+          "author": "tordfan28",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
+          "likes": 50,
+          "downloads": 0,
+          "views": 3779,
+          "publishedAt": 1783191342,
+          "url": "https://gamebanana.com/mods/691582"
+        },
+        {
+          "id": 673538,
+          "title": "Friday Night Tower (VS Staten Tower)",
+          "author": "rapparep lol",
+          "image": "https://images.gamebanana.com/img/ss/mods/69f3a2fb82baf.jpg",
+          "likes": 46,
+          "downloads": 0,
+          "views": 4667,
+          "publishedAt": 1777581005,
+          "url": "https://gamebanana.com/mods/673538"
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
+        {
+          "id": 688408,
+          "title": "Blast Processing (Sonic 35th Anniversary Special)",
+          "author": "Team Freak (TF)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a3ab64d7d7f2.jpg",
+          "likes": 45,
+          "downloads": 0,
+          "views": 2701,
+          "publishedAt": 1782234310,
+          "url": "https://gamebanana.com/mods/688408"
+        },
+        {
+          "id": 673875,
+          "title": "FNF: Back Again",
+          "author": "Hydietri",
+          "image": "https://images.gamebanana.com/img/ss/mods/69f4fd177eedb.jpg",
+          "likes": 37,
+          "downloads": 0,
+          "views": 3774,
+          "publishedAt": 1777665834,
+          "url": "https://gamebanana.com/mods/673875"
+        },
+        {
+          "id": 690564,
+          "title": "Scooby-Doo! Creepy Run",
+          "author": "CheesyCap",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a44975b17658.jpg",
+          "likes": 37,
+          "downloads": 0,
+          "views": 2803,
+          "publishedAt": 1782877847,
+          "url": "https://gamebanana.com/mods/690564"
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
+        {
+          "id": 684455,
+          "title": "Zootropolis Funkin' (Demo / V1)",
+          "author": "Mashions",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a276a7eb6080.jpg",
+          "likes": 37,
+          "downloads": 0,
+          "views": 2507,
+          "publishedAt": 1780971461,
+          "url": "https://gamebanana.com/mods/684455"
+        },
+        {
+          "id": 691628,
+          "title": "FNF pero con la primera imagen de GOOGLE",
+          "author": "CompotaHyper",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
+          "likes": 37,
+          "downloads": 0,
+          "views": 2057,
+          "publishedAt": 1783204474,
+          "url": "https://gamebanana.com/mods/691628"
+        },
+        {
+          "id": 676148,
+          "title": "Majin Tuah",
+          "author": "BetterMankey",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a0045f9e197c.jpg",
+          "likes": 36,
+          "downloads": 0,
+          "views": 3256,
+          "publishedAt": 1778405115,
+          "url": "https://gamebanana.com/mods/676148"
+        }
+      ]
+    },
+    {
+      "id": "all-time",
+      "label": "Best of All Time",
+      "mods": [
+        {
+          "id": 566597,
+          "title": "QT: Rewired",
+          "author": "JoaDash",
+          "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
+          "likes": 871,
+          "downloads": 0,
+          "views": 235296,
+          "publishedAt": 1738810121,
+          "url": "https://gamebanana.com/mods/566597"
+        },
+        {
+          "id": 551727,
+          "title": "FNF: SPOOKY MIX",
+          "author": "Denoohay",
+          "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
+          "likes": 707,
+          "downloads": 0,
+          "views": 233867,
+          "publishedAt": 1730328189,
+          "url": "https://gamebanana.com/mods/551727"
+        },
+        {
+          "id": 387663,
+          "title": "Mistful Crimson Morning DEMO",
+          "author": "Stonesteve",
+          "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
+          "likes": 652,
+          "downloads": 0,
+          "views": 543717,
+          "publishedAt": 1657048768,
+          "url": "https://gamebanana.com/mods/387663"
+        }
+      ]
+    }
+  ]
+}
