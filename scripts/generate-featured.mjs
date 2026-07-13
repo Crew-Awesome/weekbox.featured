@@ -80,7 +80,7 @@ async function buildFeaturedData() {
     const mods = candidates
       .filter((mod) => !selectedIds.has(mod._idRow))
       .sort((left, right) => score(right) - score(left))
-      .slice(0, 3);
+      .slice(0, 4);
     mods.forEach((mod) => selectedIds.add(mod._idRow));
     return { id, label, mods: mods.map(toFeaturedMod) };
   });

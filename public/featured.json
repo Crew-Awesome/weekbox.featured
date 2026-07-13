@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T20:52:55.705Z",
-  "expiresAt": "2026-07-13T21:52:55.705Z",
+  "generatedAt": "2026-07-13T20:56:44.981Z",
+  "expiresAt": "2026-07-13T21:56:44.981Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
@@ -45,6 +45,17 @@
           "views": 141,
           "publishedAt": 1783890109,
           "url": "https://gamebanana.com/mods/693770"
+        },
+        {
+          "id": 693817,
+          "title": "Sweet business V slice Port!",
+          "author": "Bengamer1997",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a543532593fe.jpg",
+          "likes": 1,
+          "downloads": 0,
+          "views": 106,
+          "publishedAt": 1783903616,
+          "url": "https://gamebanana.com/mods/693817"
         }
       ]
     },
@@ -84,6 +95,17 @@
           "views": 1596,
           "publishedAt": 1783462057,
           "url": "https://gamebanana.com/mods/692447"
+        },
+        {
+          "id": 692224,
+          "title": "EventIcons+",
+          "author": "Mikassette",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a4c4e50cd59d.jpg",
+          "likes": 19,
+          "downloads": 0,
+          "views": 667,
+          "publishedAt": 1783385969,
+          "url": "https://gamebanana.com/mods/692224"
         }
       ]
     },
@@ -123,6 +145,17 @@
           "views": 2641,
           "publishedAt": 1782255421,
           "url": "https://gamebanana.com/mods/688513"
+        },
+        {
+          "id": 691582,
+          "title": "VS TORD RETORDED",
+          "author": "tordfan28",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
+          "likes": 50,
+          "downloads": 0,
+          "views": 3779,
+          "publishedAt": 1783191342,
+          "url": "https://gamebanana.com/mods/691582"
         }
       ]
     },
@@ -142,17 +175,6 @@
           "url": "https://gamebanana.com/mods/678384"
         },
         {
-          "id": 691582,
-          "title": "VS TORD RETORDED",
-          "author": "tordfan28",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
-          "likes": 50,
-          "downloads": 0,
-          "views": 3779,
-          "publishedAt": 1783191342,
-          "url": "https://gamebanana.com/mods/691582"
-        },
-        {
           "id": 673538,
           "title": "Friday Night Tower (VS Staten Tower)",
           "author": "rapparep lol",
@@ -162,13 +184,7 @@
           "views": 4667,
           "publishedAt": 1777581005,
           "url": "https://gamebanana.com/mods/673538"
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 688408,
           "title": "Blast Processing (Sonic 35th Anniversary Special)",
@@ -190,7 +206,13 @@
           "views": 3774,
           "publishedAt": 1777665834,
           "url": "https://gamebanana.com/mods/673875"
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 690564,
           "title": "Scooby-Doo! Creepy Run",
@@ -201,13 +223,7 @@
           "views": 2803,
           "publishedAt": 1782877847,
           "url": "https://gamebanana.com/mods/690564"
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 684455,
           "title": "Zootropolis Funkin' (Demo / V1)",
@@ -240,6 +256,56 @@
           "views": 3256,
           "publishedAt": 1778405115,
           "url": "https://gamebanana.com/mods/676148"
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
+        {
+          "id": 681839,
+          "title": "FUNKSCAPE [DEMO]",
+          "author": "burber_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a1b6a205ce82.jpg",
+          "likes": 30,
+          "downloads": 0,
+          "views": 4304,
+          "publishedAt": 1780182156,
+          "url": "https://gamebanana.com/mods/681839"
+        },
+        {
+          "id": 679978,
+          "title": "Roblox Fortnite: Save The Mod",
+          "author": "Aiden-Does-Stuff",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a135b8833c00.jpg",
+          "likes": 30,
+          "downloads": 0,
+          "views": 1953,
+          "publishedAt": 1779653580,
+          "url": "https://gamebanana.com/mods/679978"
+        },
+        {
+          "id": 679375,
+          "title": "FUNKBOUND",
+          "author": "Chilltin",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a137b5d5d353.jpg",
+          "likes": 29,
+          "downloads": 0,
+          "views": 2327,
+          "publishedAt": 1779570512,
+          "url": "https://gamebanana.com/mods/679375"
+        },
+        {
+          "id": 675900,
+          "title": "Deltatale FNF",
+          "author": "DatGB",
+          "image": "https://images.gamebanana.com/img/ss/mods/69ff7a353625c.jpg",
+          "likes": 29,
+          "downloads": 0,
+          "views": 1613,
+          "publishedAt": 1778350737,
+          "url": "https://gamebanana.com/mods/675900"
         }
       ]
     },
@@ -279,6 +345,17 @@
           "views": 543717,
           "publishedAt": 1657048768,
           "url": "https://gamebanana.com/mods/387663"
+        },
+        {
+          "id": 602414,
+          "title": "Sky: REBORN",
+          "author": "st4rcannon",
+          "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
+          "likes": 579,
+          "downloads": 0,
+          "views": 200471,
+          "publishedAt": 1750701603,
+          "url": "https://gamebanana.com/mods/602414"
         }
       ]
     }
