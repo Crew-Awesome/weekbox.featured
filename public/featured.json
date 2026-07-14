@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T12:02:12.327Z",
-  "expiresAt": "2026-07-14T13:02:12.327Z",
+  "generatedAt": "2026-07-14T14:13:18.622Z",
+  "expiresAt": "2026-07-14T15:13:18.622Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
@@ -20,7 +20,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a55dd3aa8fe9.jpg",
           "likes": 3,
           "downloads": 0,
-          "views": 53,
+          "views": 72,
           "publishedAt": 1784012565,
           "url": "https://gamebanana.com/mods/694167"
         },
@@ -31,9 +31,20 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a5522ccc5e20.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 203,
+          "views": 209,
           "publishedAt": 1783964376,
           "url": "https://gamebanana.com/mods/693994"
+        },
+        {
+          "id": 694201,
+          "title": "Garcello (Hazier river) skin",
+          "author": "Ars009",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a561387a2e8a.jpg",
+          "likes": 2,
+          "downloads": 0,
+          "views": 37,
+          "publishedAt": 1784026055,
+          "url": "https://gamebanana.com/mods/694201"
         },
         {
           "id": 694060,
@@ -42,20 +53,9 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a555a756fa5d.jpg",
           "likes": 1,
           "downloads": 0,
-          "views": 117,
+          "views": 130,
           "publishedAt": 1783978645,
           "url": "https://gamebanana.com/mods/694060"
-        },
-        {
-          "id": 693956,
-          "title": "FNF' V.S. Simba (Fanmade Update) (V-Slice Port)",
-          "author": "mikuscatfnf099",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a54f71f14f42.jpg",
-          "likes": 1,
-          "downloads": 0,
-          "views": 93,
-          "publishedAt": 1783954910,
-          "url": "https://gamebanana.com/mods/693956"
         }
       ]
     },
@@ -68,7 +68,7 @@
           "title": "(MOBILE FIX!) FRIDAY NIGHT FUNKIN : MELLOWVALLEY",
           "author": "FunkiFanta",
           "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
-          "likes": 33,
+          "likes": 34,
           "downloads": 0,
           "views": 1290,
           "publishedAt": 1783690334,
@@ -81,7 +81,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4d76557f3c7.jpg",
           "likes": 25,
           "downloads": 0,
-          "views": 1738,
+          "views": 1756,
           "publishedAt": 1783462057,
           "url": "https://gamebanana.com/mods/692447"
         },
@@ -92,7 +92,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
           "likes": 20,
           "downloads": 0,
-          "views": 720,
+          "views": 725,
           "publishedAt": 1783730230,
           "url": "https://gamebanana.com/mods/693248"
         },
@@ -103,7 +103,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a51b9e29c271.jpg",
           "likes": 16,
           "downloads": 0,
-          "views": 820,
+          "views": 823,
           "publishedAt": 1783741392,
           "url": "https://gamebanana.com/mods/693289"
         }
@@ -120,7 +120,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 158,
           "downloads": 0,
-          "views": 15827,
+          "views": 15861,
           "publishedAt": 1782072173,
           "url": "https://gamebanana.com/mods/673891"
         },
@@ -131,7 +131,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
           "likes": 146,
           "downloads": 0,
-          "views": 8751,
+          "views": 8781,
           "publishedAt": 1782698090,
           "url": "https://gamebanana.com/mods/689006"
         },
@@ -142,7 +142,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
           "likes": 61,
           "downloads": 0,
-          "views": 3436,
+          "views": 3444,
           "publishedAt": 1783384939,
           "url": "https://gamebanana.com/mods/692216"
         },
@@ -181,7 +181,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 50,
           "downloads": 0,
-          "views": 3904,
+          "views": 3918,
           "publishedAt": 1783191342,
           "url": "https://gamebanana.com/mods/691582"
         },
@@ -192,7 +192,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f3a2fb82baf.jpg",
           "likes": 46,
           "downloads": 0,
-          "views": 4671,
+          "views": 4673,
           "publishedAt": 1777581005,
           "url": "https://gamebanana.com/mods/673538"
         },
@@ -220,7 +220,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f4fd177eedb.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 3776,
+          "views": 3778,
           "publishedAt": 1777665834,
           "url": "https://gamebanana.com/mods/673875"
         },
@@ -231,7 +231,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a44975b17658.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2839,
+          "views": 2850,
           "publishedAt": 1782877847,
           "url": "https://gamebanana.com/mods/690564"
         },
@@ -242,7 +242,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a276a7eb6080.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2512,
+          "views": 2513,
           "publishedAt": 1780971461,
           "url": "https://gamebanana.com/mods/684455"
         },
@@ -253,7 +253,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2122,
+          "views": 2131,
           "publishedAt": 1783204474,
           "url": "https://gamebanana.com/mods/691628"
         }
@@ -281,7 +281,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a1b6a205ce82.jpg",
           "likes": 30,
           "downloads": 0,
-          "views": 4313,
+          "views": 4314,
           "publishedAt": 1780182156,
           "url": "https://gamebanana.com/mods/681839"
         },
@@ -303,7 +303,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a137b5d5d353.jpg",
           "likes": 29,
           "downloads": 0,
-          "views": 2334,
+          "views": 2335,
           "publishedAt": 1779570512,
           "url": "https://gamebanana.com/mods/679375"
         }
@@ -320,7 +320,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 873,
           "downloads": 0,
-          "views": 235610,
+          "views": 235645,
           "publishedAt": 1738810121,
           "url": "https://gamebanana.com/mods/566597"
         },
@@ -331,7 +331,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
           "likes": 706,
           "downloads": 0,
-          "views": 234013,
+          "views": 234041,
           "publishedAt": 1730328189,
           "url": "https://gamebanana.com/mods/551727"
         },
@@ -342,7 +342,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
           "likes": 652,
           "downloads": 0,
-          "views": 543803,
+          "views": 543818,
           "publishedAt": 1657048768,
           "url": "https://gamebanana.com/mods/387663"
         },
@@ -353,7 +353,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 579,
           "downloads": 0,
-          "views": 200639,
+          "views": 200654,
           "publishedAt": 1750701603,
           "url": "https://gamebanana.com/mods/602414"
         }
