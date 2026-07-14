@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T20:44:49.026Z",
-  "expiresAt": "2026-07-14T21:44:49.026Z",
+  "generatedAt": "2026-07-14T21:40:14.674Z",
+  "expiresAt": "2026-07-14T22:40:14.674Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
@@ -20,7 +20,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a5644a785584.jpg",
           "likes": 4,
           "downloads": 0,
-          "views": 103,
+          "views": 116,
           "publishedAt": 1784039437,
           "url": "https://gamebanana.com/mods/694229"
         },
@@ -31,7 +31,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a55dd3aa8fe9.jpg",
           "likes": 3,
           "downloads": 0,
-          "views": 127,
+          "views": 133,
           "publishedAt": 1784012565,
           "url": "https://gamebanana.com/mods/694167"
         },
@@ -42,20 +42,20 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a561387a2e8a.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 89,
+          "views": 94,
           "publishedAt": 1784026055,
           "url": "https://gamebanana.com/mods/694201"
         },
         {
-          "id": 694053,
-          "title": "Nermal Nermal Nermalin' (fanmade)",
-          "author": "YO :V",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a55507595c0b.jpg",
+          "id": 694318,
+          "title": "Car Crash Script (Recreated In V-Slice)",
+          "author": "Cam Likes Kirby",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a56973b12e86.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 82,
-          "publishedAt": 1783976962,
-          "url": "https://gamebanana.com/mods/694053"
+          "views": 22,
+          "publishedAt": 1784059260,
+          "url": "https://gamebanana.com/mods/694318"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
           "likes": 34,
           "downloads": 0,
-          "views": 1392,
+          "views": 1400,
           "publishedAt": 1783690334,
           "url": "https://gamebanana.com/mods/693107"
         },
@@ -81,7 +81,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4d76557f3c7.jpg",
           "likes": 25,
           "downloads": 0,
-          "views": 1815,
+          "views": 1823,
           "publishedAt": 1783462057,
           "url": "https://gamebanana.com/mods/692447"
         },
@@ -92,7 +92,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
           "likes": 20,
           "downloads": 0,
-          "views": 747,
+          "views": 749,
           "publishedAt": 1783730230,
           "url": "https://gamebanana.com/mods/693248"
         },
@@ -103,7 +103,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a51b9e29c271.jpg",
           "likes": 17,
           "downloads": 0,
-          "views": 830,
+          "views": 834,
           "publishedAt": 1783741392,
           "url": "https://gamebanana.com/mods/693289"
         }
@@ -120,20 +120,9 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 158,
           "downloads": 0,
-          "views": 15922,
+          "views": 15933,
           "publishedAt": 1782072173,
           "url": "https://gamebanana.com/mods/673891"
-        },
-        {
-          "id": 689006,
-          "title": "Nightmare Funkin' (Ft. JohnnyUtah)",
-          "author": "staxcore",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
-          "likes": 147,
-          "downloads": 0,
-          "views": 8886,
-          "publishedAt": 1782698090,
-          "url": "https://gamebanana.com/mods/689006"
         },
         {
           "id": 692216,
@@ -142,7 +131,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
           "likes": 61,
           "downloads": 0,
-          "views": 3482,
+          "views": 3488,
           "publishedAt": 1783384939,
           "url": "https://gamebanana.com/mods/692216"
         },
@@ -156,6 +145,17 @@
           "views": 2654,
           "publishedAt": 1782255421,
           "url": "https://gamebanana.com/mods/688513"
+        },
+        {
+          "id": 691582,
+          "title": "VS TORD RETORDED",
+          "author": "tordfan28",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
+          "likes": 50,
+          "downloads": 0,
+          "views": 3964,
+          "publishedAt": 1783191342,
+          "url": "https://gamebanana.com/mods/691582"
         }
       ]
     },
@@ -175,17 +175,6 @@
           "url": "https://gamebanana.com/mods/678384"
         },
         {
-          "id": 691582,
-          "title": "VS TORD RETORDED",
-          "author": "tordfan28",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
-          "likes": 50,
-          "downloads": 0,
-          "views": 3958,
-          "publishedAt": 1783191342,
-          "url": "https://gamebanana.com/mods/691582"
-        },
-        {
           "id": 673538,
           "title": "Friday Night Tower (VS Staten Tower)",
           "author": "rapparep lol",
@@ -197,30 +186,13 @@
           "url": "https://gamebanana.com/mods/673538"
         },
         {
-          "id": 688408,
-          "title": "Blast Processing (Sonic 35th Anniversary Special)",
-          "author": "Team Freak (TF)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a3ab64d7d7f2.jpg",
-          "likes": 45,
-          "downloads": 0,
-          "views": 2712,
-          "publishedAt": 1782234310,
-          "url": "https://gamebanana.com/mods/688408"
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
-        {
           "id": 673875,
           "title": "FNF: Back Again",
           "author": "Hydietri",
           "image": "https://images.gamebanana.com/img/ss/mods/69f4fd177eedb.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 3778,
+          "views": 3780,
           "publishedAt": 1777665834,
           "url": "https://gamebanana.com/mods/673875"
         },
@@ -234,7 +206,13 @@
           "views": 2871,
           "publishedAt": 1782877847,
           "url": "https://gamebanana.com/mods/690564"
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 684455,
           "title": "Zootropolis Funkin' (Demo / V1)",
@@ -253,16 +231,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2151,
+          "views": 2154,
           "publishedAt": 1783204474,
           "url": "https://gamebanana.com/mods/691628"
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 676148,
           "title": "Majin Tuah",
@@ -270,7 +242,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a0045f9e197c.jpg",
           "likes": 36,
           "downloads": 0,
-          "views": 3260,
+          "views": 3261,
           "publishedAt": 1778405115,
           "url": "https://gamebanana.com/mods/676148"
         },
@@ -284,7 +256,13 @@
           "views": 4317,
           "publishedAt": 1780182156,
           "url": "https://gamebanana.com/mods/681839"
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 679978,
           "title": "Roblox Fortnite: Save The Mod",
@@ -292,7 +270,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a135b8833c00.jpg",
           "likes": 30,
           "downloads": 0,
-          "views": 1960,
+          "views": 1961,
           "publishedAt": 1779653580,
           "url": "https://gamebanana.com/mods/679978"
         },
@@ -306,6 +284,28 @@
           "views": 2336,
           "publishedAt": 1779570512,
           "url": "https://gamebanana.com/mods/679375"
+        },
+        {
+          "id": 675900,
+          "title": "Deltatale FNF",
+          "author": "DatGB",
+          "image": "https://images.gamebanana.com/img/ss/mods/69ff7a353625c.jpg",
+          "likes": 29,
+          "downloads": 0,
+          "views": 1620,
+          "publishedAt": 1778350737,
+          "url": "https://gamebanana.com/mods/675900"
+        },
+        {
+          "id": 686762,
+          "title": "Is That a Gubby",
+          "author": "Snowie :3",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a32e70a9204d.jpg",
+          "likes": 28,
+          "downloads": 0,
+          "views": 4538,
+          "publishedAt": 1781720942,
+          "url": "https://gamebanana.com/mods/686762"
         }
       ]
     },
@@ -320,7 +320,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 874,
           "downloads": 0,
-          "views": 235837,
+          "views": 235868,
           "publishedAt": 1738810121,
           "url": "https://gamebanana.com/mods/566597"
         },
@@ -331,7 +331,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
           "likes": 706,
           "downloads": 0,
-          "views": 234100,
+          "views": 234111,
           "publishedAt": 1730328189,
           "url": "https://gamebanana.com/mods/551727"
         },
@@ -342,7 +342,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
           "likes": 652,
           "downloads": 0,
-          "views": 543855,
+          "views": 543858,
           "publishedAt": 1657048768,
           "url": "https://gamebanana.com/mods/387663"
         },
@@ -353,7 +353,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 579,
           "downloads": 0,
-          "views": 200725,
+          "views": 200744,
           "publishedAt": 1750701603,
           "url": "https://gamebanana.com/mods/602414"
         }
