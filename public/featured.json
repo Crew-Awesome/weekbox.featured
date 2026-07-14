@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T03:32:43.123Z",
-  "expiresAt": "2026-07-14T04:32:43.123Z",
+  "generatedAt": "2026-07-14T05:56:37.501Z",
+  "expiresAt": "2026-07-14T06:56:37.501Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
@@ -14,24 +14,13 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 693868,
-          "title": "Whitty (Pico Mix) Vslice Port",
-          "author": "lucashoelpepasho",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a546afeef908.jpg",
-          "likes": 2,
-          "downloads": 0,
-          "views": 233,
-          "publishedAt": 1783918521,
-          "url": "https://gamebanana.com/mods/693868"
-        },
-        {
           "id": 693994,
           "title": "Fanmade Week 8 Destination 3 Songs and Charts",
           "author": "TomaxY9",
           "image": "https://images.gamebanana.com/img/ss/mods/6a5522ccc5e20.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 162,
+          "views": 178,
           "publishedAt": 1783964376,
           "url": "https://gamebanana.com/mods/693994"
         },
@@ -42,9 +31,20 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a54f71f14f42.jpg",
           "likes": 1,
           "downloads": 0,
-          "views": 75,
+          "views": 80,
           "publishedAt": 1783954910,
           "url": "https://gamebanana.com/mods/693956"
+        },
+        {
+          "id": 694060,
+          "title": "FNF X approve please genie psych engine",
+          "author": "ronrotsen",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a555a756fa5d.jpg",
+          "likes": 1,
+          "downloads": 0,
+          "views": 70,
+          "publishedAt": 1783978645,
+          "url": "https://gamebanana.com/mods/694060"
         },
         {
           "id": 694039,
@@ -53,7 +53,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a5596299a355.jpg",
           "likes": 1,
           "downloads": 0,
-          "views": 49,
+          "views": 56,
           "publishedAt": 1783974525,
           "url": "https://gamebanana.com/mods/694039"
         }
@@ -68,9 +68,9 @@
           "title": "(MOBILE FIX!) FRIDAY NIGHT FUNKIN : MELLOWVALLEY",
           "author": "FunkiFanta",
           "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
-          "likes": 31,
+          "likes": 33,
           "downloads": 0,
-          "views": 1201,
+          "views": 1225,
           "publishedAt": 1783690334,
           "url": "https://gamebanana.com/mods/693107"
         },
@@ -81,7 +81,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4d76557f3c7.jpg",
           "likes": 25,
           "downloads": 0,
-          "views": 1662,
+          "views": 1677,
           "publishedAt": 1783462057,
           "url": "https://gamebanana.com/mods/692447"
         },
@@ -92,7 +92,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
           "likes": 20,
           "downloads": 0,
-          "views": 694,
+          "views": 702,
           "publishedAt": 1783730230,
           "url": "https://gamebanana.com/mods/693248"
         },
@@ -103,7 +103,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a51b9e29c271.jpg",
           "likes": 16,
           "downloads": 0,
-          "views": 810,
+          "views": 815,
           "publishedAt": 1783741392,
           "url": "https://gamebanana.com/mods/693289"
         }
@@ -120,7 +120,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 158,
           "downloads": 0,
-          "views": 15746,
+          "views": 15767,
           "publishedAt": 1782072173,
           "url": "https://gamebanana.com/mods/673891"
         },
@@ -131,7 +131,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
           "likes": 146,
           "downloads": 0,
-          "views": 8613,
+          "views": 8647,
           "publishedAt": 1782698090,
           "url": "https://gamebanana.com/mods/689006"
         },
@@ -142,7 +142,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
           "likes": 61,
           "downloads": 0,
-          "views": 3378,
+          "views": 3393,
           "publishedAt": 1783384939,
           "url": "https://gamebanana.com/mods/692216"
         },
@@ -181,7 +181,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 50,
           "downloads": 0,
-          "views": 3826,
+          "views": 3850,
           "publishedAt": 1783191342,
           "url": "https://gamebanana.com/mods/691582"
         },
@@ -192,7 +192,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f3a2fb82baf.jpg",
           "likes": 46,
           "downloads": 0,
-          "views": 4669,
+          "views": 4670,
           "publishedAt": 1777581005,
           "url": "https://gamebanana.com/mods/673538"
         },
@@ -203,7 +203,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3ab64d7d7f2.jpg",
           "likes": 45,
           "downloads": 0,
-          "views": 2703,
+          "views": 2705,
           "publishedAt": 1782234310,
           "url": "https://gamebanana.com/mods/688408"
         }
@@ -220,7 +220,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f4fd177eedb.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 3775,
+          "views": 3776,
           "publishedAt": 1777665834,
           "url": "https://gamebanana.com/mods/673875"
         },
@@ -231,7 +231,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a44975b17658.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2817,
+          "views": 2818,
           "publishedAt": 1782877847,
           "url": "https://gamebanana.com/mods/690564"
         },
@@ -253,7 +253,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2085,
+          "views": 2094,
           "publishedAt": 1783204474,
           "url": "https://gamebanana.com/mods/691628"
         }
@@ -281,7 +281,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a1b6a205ce82.jpg",
           "likes": 30,
           "downloads": 0,
-          "views": 4308,
+          "views": 4310,
           "publishedAt": 1780182156,
           "url": "https://gamebanana.com/mods/681839"
         },
@@ -318,9 +318,9 @@
           "title": "QT: Rewired",
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
-          "likes": 872,
+          "likes": 873,
           "downloads": 0,
-          "views": 235495,
+          "views": 235543,
           "publishedAt": 1738810121,
           "url": "https://gamebanana.com/mods/566597"
         },
@@ -331,7 +331,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
           "likes": 706,
           "downloads": 0,
-          "views": 233941,
+          "views": 233959,
           "publishedAt": 1730328189,
           "url": "https://gamebanana.com/mods/551727"
         },
@@ -342,7 +342,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
           "likes": 652,
           "downloads": 0,
-          "views": 543764,
+          "views": 543771,
           "publishedAt": 1657048768,
           "url": "https://gamebanana.com/mods/387663"
         },
@@ -353,7 +353,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 579,
           "downloads": 0,
-          "views": 200533,
+          "views": 200573,
           "publishedAt": 1750701603,
           "url": "https://gamebanana.com/mods/602414"
         }
