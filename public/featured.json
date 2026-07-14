@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T16:54:05.472Z",
-  "expiresAt": "2026-07-14T17:54:05.472Z",
+  "generatedAt": "2026-07-14T18:16:35.829Z",
+  "expiresAt": "2026-07-14T19:16:35.829Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
@@ -14,37 +14,37 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 694229,
+          "title": "VS Stickman",
+          "author": "MilitaryNoob-g7q",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a5644a785584.jpg",
+          "likes": 4,
+          "downloads": 0,
+          "views": 65,
+          "publishedAt": 1784039437,
+          "url": "https://gamebanana.com/mods/694229"
+        },
+        {
           "id": 694167,
           "title": "77 Rings V-Slice Port",
           "author": "FNF Fan (@full.fnf tiktok)",
           "image": "https://images.gamebanana.com/img/ss/mods/6a55dd3aa8fe9.jpg",
           "likes": 3,
           "downloads": 0,
-          "views": 91,
+          "views": 109,
           "publishedAt": 1784012565,
           "url": "https://gamebanana.com/mods/694167"
         },
         {
-          "id": 694229,
-          "title": "VS Stickman",
-          "author": "MilitaryNoob-g7q",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a5644a785584.jpg",
-          "likes": 3,
-          "downloads": 0,
-          "views": 30,
-          "publishedAt": 1784039437,
-          "url": "https://gamebanana.com/mods/694229"
-        },
-        {
-          "id": 693994,
-          "title": "Fanmade Week 8 Destination 3 Songs and Charts",
-          "author": "TomaxY9",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a5522ccc5e20.jpg",
+          "id": 694053,
+          "title": "Nermal Nermal Nermalin' (fanmade)",
+          "author": "YO :V",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a55507595c0b.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 222,
-          "publishedAt": 1783964376,
-          "url": "https://gamebanana.com/mods/693994"
+          "views": 76,
+          "publishedAt": 1783976962,
+          "url": "https://gamebanana.com/mods/694053"
         },
         {
           "id": 694201,
@@ -53,7 +53,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a561387a2e8a.jpg",
           "likes": 2,
           "downloads": 0,
-          "views": 54,
+          "views": 70,
           "publishedAt": 1784026055,
           "url": "https://gamebanana.com/mods/694201"
         }
@@ -70,7 +70,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
           "likes": 34,
           "downloads": 0,
-          "views": 1342,
+          "views": 1366,
           "publishedAt": 1783690334,
           "url": "https://gamebanana.com/mods/693107"
         },
@@ -81,7 +81,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4d76557f3c7.jpg",
           "likes": 25,
           "downloads": 0,
-          "views": 1773,
+          "views": 1796,
           "publishedAt": 1783462057,
           "url": "https://gamebanana.com/mods/692447"
         },
@@ -92,7 +92,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
           "likes": 20,
           "downloads": 0,
-          "views": 735,
+          "views": 742,
           "publishedAt": 1783730230,
           "url": "https://gamebanana.com/mods/693248"
         },
@@ -103,7 +103,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a51b9e29c271.jpg",
           "likes": 17,
           "downloads": 0,
-          "views": 824,
+          "views": 829,
           "publishedAt": 1783741392,
           "url": "https://gamebanana.com/mods/693289"
         }
@@ -120,7 +120,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 158,
           "downloads": 0,
-          "views": 15886,
+          "views": 15900,
           "publishedAt": 1782072173,
           "url": "https://gamebanana.com/mods/673891"
         },
@@ -131,7 +131,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
           "likes": 147,
           "downloads": 0,
-          "views": 8817,
+          "views": 8845,
           "publishedAt": 1782698090,
           "url": "https://gamebanana.com/mods/689006"
         },
@@ -142,7 +142,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
           "likes": 61,
           "downloads": 0,
-          "views": 3462,
+          "views": 3468,
           "publishedAt": 1783384939,
           "url": "https://gamebanana.com/mods/692216"
         },
@@ -153,7 +153,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3b0a8da8598.jpg",
           "likes": 52,
           "downloads": 0,
-          "views": 2650,
+          "views": 2653,
           "publishedAt": 1782255421,
           "url": "https://gamebanana.com/mods/688513"
         }
@@ -181,7 +181,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 50,
           "downloads": 0,
-          "views": 3940,
+          "views": 3943,
           "publishedAt": 1783191342,
           "url": "https://gamebanana.com/mods/691582"
         },
@@ -203,7 +203,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3ab64d7d7f2.jpg",
           "likes": 45,
           "downloads": 0,
-          "views": 2706,
+          "views": 2708,
           "publishedAt": 1782234310,
           "url": "https://gamebanana.com/mods/688408"
         }
@@ -231,7 +231,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a44975b17658.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2857,
+          "views": 2860,
           "publishedAt": 1782877847,
           "url": "https://gamebanana.com/mods/690564"
         },
@@ -242,7 +242,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a276a7eb6080.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2513,
+          "views": 2517,
           "publishedAt": 1780971461,
           "url": "https://gamebanana.com/mods/684455"
         },
@@ -253,7 +253,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2144,
+          "views": 2145,
           "publishedAt": 1783204474,
           "url": "https://gamebanana.com/mods/691628"
         }
@@ -320,7 +320,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 874,
           "downloads": 0,
-          "views": 235711,
+          "views": 235771,
           "publishedAt": 1738810121,
           "url": "https://gamebanana.com/mods/566597"
         },
@@ -331,7 +331,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
           "likes": 706,
           "downloads": 0,
-          "views": 234056,
+          "views": 234075,
           "publishedAt": 1730328189,
           "url": "https://gamebanana.com/mods/551727"
         },
@@ -342,7 +342,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
           "likes": 652,
           "downloads": 0,
-          "views": 543833,
+          "views": 543838,
           "publishedAt": 1657048768,
           "url": "https://gamebanana.com/mods/387663"
         },
@@ -353,7 +353,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 579,
           "downloads": 0,
-          "views": 200691,
+          "views": 200700,
           "publishedAt": 1750701603,
           "url": "https://gamebanana.com/mods/602414"
         }
