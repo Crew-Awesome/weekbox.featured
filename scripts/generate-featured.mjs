@@ -63,6 +63,7 @@ function toFeaturedMod({ mod, categoryId }) {
     downloads: mod._nDownloadCount || 0,
     views: mod._nViewCount || 0,
     publishedAt: mod._tsDateAdded || 0,
+    updatedAt: mod._tsDateModified || mod._tsDateAdded || 0,
     url: mod._sProfileUrl || `https://gamebanana.com/mods/${mod._idRow}`,
     engine: engine && { id: engine.id, name: engine.name, icon: engine.icon },
     category: { id: categoryId, name: engine?.categoryName || 'Unknown category' }
@@ -96,7 +97,9 @@ function uniqueMods(mods) {
 async function buildFeaturedData() {
   const nowSeconds = Math.floor(Date.now() / 1000);
   const [recentGroups, allTimeGroups] = await Promise.all([
-    Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_Newest', 4))),
+    // A mod can be years old but still actively maintained. Pull the latest
+    // modified submissions so those updates are eligible for recent periods.
+    Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_LatestModified', 4))),
     Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_MostLiked', 1)))
   ]);
   const recentMods = uniqueMods(recentGroups.flat());
@@ -104,7 +107,7 @@ async function buildFeaturedData() {
   const selectedIds = new Set();
   const rankings = PERIODS.map(([id, label, seconds]) => {
     const candidates = seconds
-      ? recentMods.filter(({ mod }) => (mod._tsDateAdded || 0) >= nowSeconds - seconds)
+      ? recentMods.filter(({ mod }) => (mod._tsDateModified || mod._tsDateAdded || 0) >= nowSeconds - seconds)
       : allTimeMods;
     const mods = candidates
       .filter(({ mod }) => !selectedIds.has(mod._idRow))
