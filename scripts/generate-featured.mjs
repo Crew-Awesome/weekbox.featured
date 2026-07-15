@@ -1,7 +1,21 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 
 const GAME_ID = 8694;
-const CATEGORY_ROOTS = [34764, 28367, 29202, 3827];
+// Only query the explicitly supported FNF mod-folder categories. The legacy
+// category root (43772) and old legacy root (3833) are intentionally omitted.
+const CATEGORY_ROOTS = [
+  29202, // Base Game / V-Slice
+  28367, // Psych Engine
+  34764, // Codename Engine
+  3827, // Executables
+  43798, // P-Slice
+  44037, // ALE Psych
+  43850, // FPS Plus
+  43788, // Psych Online
+  43774 // Legacy Base/Full Mods (direct links only)
+];
+// These entries are engine distributions rather than playable mods.
+const EXCLUDED_MOD_IDS = new Set([309789]);
 const API_URL = 'https://gamebanana.com/apiv11/Mod/Index';
 const EXPIRY_MS = 60 * 60 * 1000;
 const PERIODS = [
@@ -62,7 +76,8 @@ async function fetchCategory(categoryId, sort, pageLimit) {
 }
 
 function uniqueMods(mods) {
-  return [...new Map(mods.map((entry) => [entry.mod._idRow, entry])).values()];
+  return [...new Map(mods.map((entry) => [entry.mod._idRow, entry])).values()]
+    .filter(({ mod }) => !EXCLUDED_MOD_IDS.has(mod._idRow));
 }
 
 async function buildFeaturedData() {
