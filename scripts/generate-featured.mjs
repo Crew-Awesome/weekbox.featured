@@ -96,7 +96,7 @@ async function buildFeaturedData() {
     const mods = candidates
       .filter(({ mod }) => !selectedIds.has(mod._idRow))
       .sort((left, right) => score(right.mod) - score(left.mod))
-      .slice(0, 4);
+      .slice(0, 5);
     mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
     return { id, label, mods: mods.map(toFeaturedMod) };
   });
