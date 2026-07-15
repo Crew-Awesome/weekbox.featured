@@ -40,6 +40,7 @@ const PERIODS = [
 ];
 const RECENT_NEW_MOD_SLOTS = 3;
 const RANKING_SIZE = 5;
+const MAX_MODS_PER_ENGINE = 2;
 
 function recordsFrom(response) {
   return Array.isArray(response?._aRecords) ? response._aRecords : [];
@@ -47,6 +48,18 @@ function recordsFrom(response) {
 
 function score(mod) {
   return (mod._nLikeCount || 0) * 1_000_000 + (mod._nDownloadCount || 0) * 1_000 + (mod._nViewCount || 0);
+}
+
+function recentScore(mod, cutoff, periodSeconds) {
+  // Log scaling stops established mods from overwhelming newer, lower-volume
+  // releases, while still rewarding community approval most strongly.
+  const quality =
+    Math.log2(1 + (mod._nLikeCount || 0)) * 4 +
+    Math.log2(1 + (mod._nDownloadCount || 0)) * 2 +
+    Math.log2(1 + (mod._nViewCount || 0));
+  const activityAt = Math.max(mod._tsDateAdded || 0, mod._tsDateUpdated || 0);
+  const freshness = Math.min(1, Math.max(0, (activityAt - cutoff) / periodSeconds));
+  return quality + freshness * 3;
 }
 
 function imageUrl(mod) {
@@ -100,10 +113,41 @@ function isRecentlyActive(mod, cutoff) {
   return (mod._tsDateAdded || 0) >= cutoff || (mod._tsDateUpdated || 0) >= cutoff;
 }
 
-function rankAvailable(mods, selectedIds) {
+function engineId(entry) {
+  return ENGINE_BY_CATEGORY[entry.categoryId]?.id || 'unknown';
+}
+
+function rankAvailable(mods, selectedIds, rank) {
   return mods
     .filter(({ mod }) => !selectedIds.has(mod._idRow))
-    .sort((left, right) => score(right.mod) - score(left.mod));
+    .sort((left, right) => rank(right) - rank(left) || right.mod._idRow - left.mod._idRow);
+}
+
+function takeBalanced(mods, selectedIds, count, rank, engineCounts) {
+  const ranked = rankAvailable(mods, selectedIds, rank);
+  const picked = [];
+  const pickedIds = new Set();
+
+  for (const entry of ranked) {
+    if (picked.length === count) break;
+    const id = engineId(entry);
+    if ((engineCounts.get(id) || 0) >= MAX_MODS_PER_ENGINE) continue;
+    picked.push(entry);
+    pickedIds.add(entry.mod._idRow);
+    engineCounts.set(id, (engineCounts.get(id) || 0) + 1);
+  }
+
+  // Diversity is a preference, never a reason to leave a feature slot empty.
+  for (const entry of ranked) {
+    if (picked.length === count) break;
+    if (pickedIds.has(entry.mod._idRow)) continue;
+    picked.push(entry);
+    pickedIds.add(entry.mod._idRow);
+    const id = engineId(entry);
+    engineCounts.set(id, (engineCounts.get(id) || 0) + 1);
+  }
+
+  return picked;
 }
 
 async function buildFeaturedData() {
@@ -130,15 +174,24 @@ async function buildFeaturedData() {
           (mod._tsDateAdded || 0) < cutoff && (mod._tsDateUpdated || 0) >= cutoff
         )
       : [];
+    const rank = seconds
+      ? ({ mod }) => recentScore(mod, cutoff, seconds)
+      : ({ mod }) => score(mod);
+    const engineCounts = new Map();
     // Recent rankings favour new uploads, but reserve room for genuinely
     // updated older mods. Either group can fill any unused slots.
-    const mods = [
-      ...rankAvailable(newMods, selectedIds).slice(0, RECENT_NEW_MOD_SLOTS),
-      ...rankAvailable(updatedMods, selectedIds).slice(0, RANKING_SIZE - RECENT_NEW_MOD_SLOTS)
-    ];
-    mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
+    const mods = takeBalanced(newMods, selectedIds, seconds ? RECENT_NEW_MOD_SLOTS : RANKING_SIZE, rank, engineCounts);
+    const modIds = new Set(mods.map(({ mod }) => mod._idRow));
+    const reservedIds = new Set([...selectedIds, ...modIds]);
+    if (seconds) {
+      mods.push(
+        ...takeBalanced(updatedMods, reservedIds, RANKING_SIZE - RECENT_NEW_MOD_SLOTS, rank, engineCounts)
+      );
+    }
     if (mods.length < RANKING_SIZE) {
-      mods.push(...rankAvailable(candidates, selectedIds).slice(0, RANKING_SIZE - mods.length));
+      mods.push(
+        ...takeBalanced(candidates, new Set([...selectedIds, ...mods.map(({ mod }) => mod._idRow)]), RANKING_SIZE - mods.length, rank, engineCounts)
+      );
     }
     mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
     return { id, label, mods: mods.map(toFeaturedMod) };
