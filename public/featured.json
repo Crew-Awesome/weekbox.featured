@@ -1,12 +1,13 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-07-15T01:00:15.486Z",
-  "expiresAt": "2026-07-15T02:00:15.486Z",
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-15T03:23:46.091Z",
+  "expiresAt": "2026-07-15T04:23:46.091Z",
   "gameId": 8694,
   "categoryRoots": [
     34764,
     28367,
-    29202
+    29202,
+    3827
   ],
   "rankings": [
     {
@@ -14,48 +15,52 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 694229,
-          "title": "VS Stickman",
-          "author": "MilitaryNoob-g7q",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a5644a785584.jpg",
-          "likes": 4,
+          "id": 694195,
+          "title": "Souls of Despair - OFFICIAL RELEASE",
+          "author": "SoUr SUgar",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a5605d6f169f.jpg",
+          "likes": 8,
           "downloads": 0,
-          "views": 138,
-          "publishedAt": 1784039437,
-          "url": "https://gamebanana.com/mods/694229"
+          "views": 365,
+          "publishedAt": 1784023149,
+          "url": "https://gamebanana.com/mods/694195",
+          "categoryId": 3827
         },
         {
           "id": 694318,
           "title": "Car Crash Script (Recreated In V-Slice)",
           "author": "Cam Likes Kirby",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56973b12e86.jpg",
+          "likes": 5,
+          "downloads": 0,
+          "views": 145,
+          "publishedAt": 1784059260,
+          "url": "https://gamebanana.com/mods/694318",
+          "categoryId": 29202
+        },
+        {
+          "id": 694163,
+          "title": "Vs. un known: The Pigeon's Path Update",
+          "author": "un_knownGamer324",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a55c474d65f1.jpg",
           "likes": 4,
           "downloads": 0,
-          "views": 91,
-          "publishedAt": 1784059260,
-          "url": "https://gamebanana.com/mods/694318"
+          "views": 213,
+          "publishedAt": 1784009155,
+          "url": "https://gamebanana.com/mods/694163",
+          "categoryId": 3827
         },
         {
-          "id": 694167,
-          "title": "77 Rings V-Slice Port",
-          "author": "FNF Fan (@full.fnf tiktok)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a55dd3aa8fe9.jpg",
-          "likes": 3,
+          "id": 694229,
+          "title": "VS Stickman",
+          "author": "MilitaryNoob-g7q",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a5644a785584.jpg",
+          "likes": 4,
           "downloads": 0,
-          "views": 156,
-          "publishedAt": 1784012565,
-          "url": "https://gamebanana.com/mods/694167"
-        },
-        {
-          "id": 694201,
-          "title": "Garcello (Hazier river) skin",
-          "author": "Ars009",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a561387a2e8a.jpg",
-          "likes": 2,
-          "downloads": 0,
-          "views": 120,
-          "publishedAt": 1784026055,
-          "url": "https://gamebanana.com/mods/694201"
+          "views": 145,
+          "publishedAt": 1784039437,
+          "url": "https://gamebanana.com/mods/694229",
+          "categoryId": 29202
         }
       ]
     },
@@ -68,11 +73,24 @@
           "title": "(MOBILE FIX!) FRIDAY NIGHT FUNKIN : MELLOWVALLEY",
           "author": "FunkiFanta",
           "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
-          "likes": 35,
+          "likes": 36,
           "downloads": 0,
-          "views": 1421,
+          "views": 1477,
           "publishedAt": 1783690334,
-          "url": "https://gamebanana.com/mods/693107"
+          "url": "https://gamebanana.com/mods/693107",
+          "categoryId": 29202
+        },
+        {
+          "id": 692593,
+          "title": "FNF'NORMAL DAY FUNKIN: DEMO 2",
+          "author": "REXTYLE",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a4e43dca7c00.jpg",
+          "likes": 22,
+          "downloads": 0,
+          "views": 1652,
+          "publishedAt": 1783516583,
+          "url": "https://gamebanana.com/mods/692593",
+          "categoryId": 3827
         },
         {
           "id": 693248,
@@ -81,9 +99,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
           "likes": 20,
           "downloads": 0,
-          "views": 761,
+          "views": 766,
           "publishedAt": 1783730230,
-          "url": "https://gamebanana.com/mods/693248"
+          "url": "https://gamebanana.com/mods/693248",
+          "categoryId": 29202
         },
         {
           "id": 693289,
@@ -92,20 +111,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a51b9e29c271.jpg",
           "likes": 17,
           "downloads": 0,
-          "views": 839,
+          "views": 844,
           "publishedAt": 1783741392,
-          "url": "https://gamebanana.com/mods/693289"
-        },
-        {
-          "id": 693067,
-          "title": "Skin selector (Beta)",
-          "author": "Dedmistic",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a502a1d41aa6.jpg",
-          "likes": 15,
-          "downloads": 0,
-          "views": 1155,
-          "publishedAt": 1783674897,
-          "url": "https://gamebanana.com/mods/693067"
+          "url": "https://gamebanana.com/mods/693289",
+          "categoryId": 29202
         }
       ]
     },
@@ -120,9 +129,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 159,
           "downloads": 0,
-          "views": 15959,
+          "views": 15981,
           "publishedAt": 1782072173,
-          "url": "https://gamebanana.com/mods/673891"
+          "url": "https://gamebanana.com/mods/673891",
+          "categoryId": 34764
         },
         {
           "id": 689006,
@@ -131,31 +141,34 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
           "likes": 147,
           "downloads": 0,
-          "views": 8986,
+          "views": 9037,
           "publishedAt": 1782698090,
-          "url": "https://gamebanana.com/mods/689006"
+          "url": "https://gamebanana.com/mods/689006",
+          "categoryId": 29202
         },
         {
-          "id": 692216,
-          "title": "Marvin's Marvinous Monday (DEMO)",
-          "author": "CalciumLmao",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
+          "id": 688505,
+          "title": "Seek's ULTIMATE Deltarune Mod",
+          "author": "seeksstuff",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a3b057b9f939.jpg",
+          "likes": 140,
+          "downloads": 0,
+          "views": 12064,
+          "publishedAt": 1782253872,
+          "url": "https://gamebanana.com/mods/688505",
+          "categoryId": 3827
+        },
+        {
+          "id": 686479,
+          "title": "VS Rephrase: REDUX",
+          "author": "DaPootisBirdYT",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a315f8b6a075.jpg",
           "likes": 61,
           "downloads": 0,
-          "views": 3504,
-          "publishedAt": 1783384939,
-          "url": "https://gamebanana.com/mods/692216"
-        },
-        {
-          "id": 691582,
-          "title": "VS TORD RETORDED",
-          "author": "tordfan28",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
-          "likes": 50,
-          "downloads": 0,
-          "views": 3976,
-          "publishedAt": 1783191342,
-          "url": "https://gamebanana.com/mods/691582"
+          "views": 8406,
+          "publishedAt": 1781712121,
+          "url": "https://gamebanana.com/mods/686479",
+          "categoryId": 3827
         }
       ]
     },
@@ -164,15 +177,94 @@
       "label": "Best of 3 Months",
       "mods": [
         {
+          "id": 685004,
+          "title": "Friday Night Funkin': Undertale Mix",
+          "author": "floofusdoofus",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a2b4182e1d27.jpg",
+          "likes": 82,
+          "downloads": 0,
+          "views": 10955,
+          "publishedAt": 1781298107,
+          "url": "https://gamebanana.com/mods/685004",
+          "categoryId": 3827
+        },
+        {
+          "id": 692216,
+          "title": "Marvin's Marvinous Monday (DEMO)",
+          "author": "CalciumLmao",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
+          "likes": 61,
+          "downloads": 0,
+          "views": 3515,
+          "publishedAt": 1783384939,
+          "url": "https://gamebanana.com/mods/692216",
+          "categoryId": 29202
+        },
+        {
           "id": 678384,
           "title": "Your Best Friend - Undertale Oneshot",
           "author": "baconanimates2",
           "image": "https://images.gamebanana.com/img/ss/mods/6a0bb50ddde71.jpg",
           "likes": 60,
           "downloads": 0,
-          "views": 6668,
+          "views": 6682,
           "publishedAt": 1779152490,
-          "url": "https://gamebanana.com/mods/678384"
+          "url": "https://gamebanana.com/mods/678384",
+          "categoryId": 34764
+        },
+        {
+          "id": 690483,
+          "title": "15KOPECKS V1.5",
+          "author": "dUmer",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a43d428c8c95.jpg",
+          "likes": 55,
+          "downloads": 0,
+          "views": 3846,
+          "publishedAt": 1782853603,
+          "url": "https://gamebanana.com/mods/690483",
+          "categoryId": 3827
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
+        {
+          "id": 691582,
+          "title": "VS TORD RETORDED",
+          "author": "tordfan28",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
+          "likes": 51,
+          "downloads": 0,
+          "views": 3995,
+          "publishedAt": 1783191342,
+          "url": "https://gamebanana.com/mods/691582",
+          "categoryId": 34764
+        },
+        {
+          "id": 686054,
+          "title": "Muse Knockdown [Just as Planned]",
+          "author": "Jozin191",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a2ef31305810.jpg",
+          "likes": 50,
+          "downloads": 0,
+          "views": 2489,
+          "publishedAt": 1781470802,
+          "url": "https://gamebanana.com/mods/686054",
+          "categoryId": 3827
+        },
+        {
+          "id": 687699,
+          "title": "Deltarune Funkin' [Chaos, Chaos! Update]",
+          "author": "LukyFoxes",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a37567fae65d.jpg",
+          "likes": 49,
+          "downloads": 0,
+          "views": 5036,
+          "publishedAt": 1782016607,
+          "url": "https://gamebanana.com/mods/687699",
+          "categoryId": 3827
         },
         {
           "id": 673538,
@@ -181,10 +273,17 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f3a2fb82baf.jpg",
           "likes": 46,
           "downloads": 0,
-          "views": 4676,
+          "views": 4679,
           "publishedAt": 1777581005,
-          "url": "https://gamebanana.com/mods/673538"
-        },
+          "url": "https://gamebanana.com/mods/673538",
+          "categoryId": 34764
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 673875,
           "title": "FNF: Back Again",
@@ -192,9 +291,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69f4fd177eedb.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 3785,
+          "views": 3786,
           "publishedAt": 1777665834,
-          "url": "https://gamebanana.com/mods/673875"
+          "url": "https://gamebanana.com/mods/673875",
+          "categoryId": 34764
         },
         {
           "id": 690564,
@@ -203,16 +303,11 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a44975b17658.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2877,
+          "views": 2878,
           "publishedAt": 1782877847,
-          "url": "https://gamebanana.com/mods/690564"
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+          "url": "https://gamebanana.com/mods/690564",
+          "categoryId": 29202
+        },
         {
           "id": 684455,
           "title": "Zootropolis Funkin' (Demo / V1)",
@@ -222,7 +317,8 @@
           "downloads": 0,
           "views": 2520,
           "publishedAt": 1780971461,
-          "url": "https://gamebanana.com/mods/684455"
+          "url": "https://gamebanana.com/mods/684455",
+          "categoryId": 34764
         },
         {
           "id": 691628,
@@ -231,81 +327,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a497856285e6.jpg",
           "likes": 37,
           "downloads": 0,
-          "views": 2175,
+          "views": 2183,
           "publishedAt": 1783204474,
-          "url": "https://gamebanana.com/mods/691628"
-        },
-        {
-          "id": 676148,
-          "title": "Majin Tuah",
-          "author": "BetterMankey",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a0045f9e197c.jpg",
-          "likes": 36,
-          "downloads": 0,
-          "views": 3261,
-          "publishedAt": 1778405115,
-          "url": "https://gamebanana.com/mods/676148"
-        },
-        {
-          "id": 681839,
-          "title": "FUNKSCAPE [DEMO]",
-          "author": "burber_",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a1b6a205ce82.jpg",
-          "likes": 30,
-          "downloads": 0,
-          "views": 4318,
-          "publishedAt": 1780182156,
-          "url": "https://gamebanana.com/mods/681839"
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
-        {
-          "id": 679978,
-          "title": "Roblox Fortnite: Save The Mod",
-          "author": "Aiden-Does-Stuff",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a135b8833c00.jpg",
-          "likes": 30,
-          "downloads": 0,
-          "views": 1962,
-          "publishedAt": 1779653580,
-          "url": "https://gamebanana.com/mods/679978"
-        },
-        {
-          "id": 679375,
-          "title": "FUNKBOUND",
-          "author": "Chilltin",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a137b5d5d353.jpg",
-          "likes": 29,
-          "downloads": 0,
-          "views": 2337,
-          "publishedAt": 1779570512,
-          "url": "https://gamebanana.com/mods/679375"
-        },
-        {
-          "id": 675900,
-          "title": "Deltatale FNF",
-          "author": "DatGB",
-          "image": "https://images.gamebanana.com/img/ss/mods/69ff7a353625c.jpg",
-          "likes": 29,
-          "downloads": 0,
-          "views": 1620,
-          "publishedAt": 1778350737,
-          "url": "https://gamebanana.com/mods/675900"
-        },
-        {
-          "id": 686762,
-          "title": "Is That a Gubby",
-          "author": "Snowie :3",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a32e70a9204d.jpg",
-          "likes": 28,
-          "downloads": 0,
-          "views": 4547,
-          "publishedAt": 1781720942,
-          "url": "https://gamebanana.com/mods/686762"
+          "url": "https://gamebanana.com/mods/691628",
+          "categoryId": 28367
         }
       ]
     },
@@ -314,48 +339,52 @@
       "label": "Best of All Time",
       "mods": [
         {
-          "id": 566597,
-          "title": "QT: Rewired",
-          "author": "JoaDash",
-          "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
-          "likes": 874,
+          "id": 44334,
+          "title": "The Full-Ass Tricky Mod",
+          "author": "Banbuds",
+          "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
+          "likes": 3168,
           "downloads": 0,
-          "views": 236007,
-          "publishedAt": 1738810121,
-          "url": "https://gamebanana.com/mods/566597"
+          "views": 9480943,
+          "publishedAt": 1615930285,
+          "url": "https://gamebanana.com/mods/44334",
+          "categoryId": 3827
         },
         {
-          "id": 551727,
-          "title": "FNF: SPOOKY MIX",
-          "author": "Denoohay",
-          "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
-          "likes": 706,
+          "id": 309789,
+          "title": "Friday Night Funkin' - Psych Engine",
+          "author": "Shadow Mario",
+          "image": "https://images.gamebanana.com/img/ss/mods/670dd82e8b327.jpg",
+          "likes": 2772,
           "downloads": 0,
-          "views": 234138,
-          "publishedAt": 1730328189,
-          "url": "https://gamebanana.com/mods/551727"
+          "views": 3261248,
+          "publishedAt": 1627942533,
+          "url": "https://gamebanana.com/mods/309789",
+          "categoryId": 3827
         },
         {
-          "id": 387663,
-          "title": "Mistful Crimson Morning DEMO",
-          "author": "Stonesteve",
-          "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
-          "likes": 652,
+          "id": 166531,
+          "title": "Smoke 'Em Out Struggle [FULL WEEK] | VS Garcello",
+          "author": "atsuover",
+          "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
+          "likes": 2606,
           "downloads": 0,
-          "views": 543870,
-          "publishedAt": 1657048768,
-          "url": "https://gamebanana.com/mods/387663"
+          "views": 4412938,
+          "publishedAt": 1620061183,
+          "url": "https://gamebanana.com/mods/166531",
+          "categoryId": 3827
         },
         {
-          "id": 602414,
-          "title": "Sky: REBORN",
-          "author": "st4rcannon",
-          "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
-          "likes": 579,
+          "id": 55652,
+          "title": "VS IMPOSTOR: LEGACY",
+          "author": "Clowfoe",
+          "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
+          "likes": 2328,
           "downloads": 0,
-          "views": 200791,
-          "publishedAt": 1750701603,
-          "url": "https://gamebanana.com/mods/602414"
+          "views": 3325894,
+          "publishedAt": 1619342831,
+          "url": "https://gamebanana.com/mods/55652",
+          "categoryId": 3827
         }
       ]
     }

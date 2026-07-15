@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 
 const GAME_ID = 8694;
-const CATEGORY_ROOTS = [34764, 28367, 29202];
+const CATEGORY_ROOTS = [34764, 28367, 29202, 3827];
 const API_URL = 'https://gamebanana.com/apiv11/Mod/Index';
 const EXPIRY_MS = 60 * 60 * 1000;
 const PERIODS = [
@@ -27,7 +27,7 @@ function imageUrl(mod) {
   return image ? `${image._sBaseUrl}/${image._sFile}` : 'https://images.gamebanana.com/img/ss/mods/default.jpg';
 }
 
-function toFeaturedMod(mod) {
+function toFeaturedMod({ mod, categoryId }) {
   return {
     id: mod._idRow,
     title: mod._sName,
@@ -37,7 +37,8 @@ function toFeaturedMod(mod) {
     downloads: mod._nDownloadCount || 0,
     views: mod._nViewCount || 0,
     publishedAt: mod._tsDateAdded || 0,
-    url: mod._sProfileUrl || `https://gamebanana.com/mods/${mod._idRow}`
+    url: mod._sProfileUrl || `https://gamebanana.com/mods/${mod._idRow}`,
+    categoryId
   };
 }
 
@@ -57,11 +58,11 @@ async function fetchCategory(categoryId, sort, pageLimit) {
     if (records.length < 50) break;
   }
 
-  return mods;
+  return mods.map((mod) => ({ mod, categoryId }));
 }
 
 function uniqueMods(mods) {
-  return [...new Map(mods.map((mod) => [mod._idRow, mod])).values()];
+  return [...new Map(mods.map((entry) => [entry.mod._idRow, entry])).values()];
 }
 
 async function buildFeaturedData() {
@@ -75,19 +76,19 @@ async function buildFeaturedData() {
   const selectedIds = new Set();
   const rankings = PERIODS.map(([id, label, seconds]) => {
     const candidates = seconds
-      ? recentMods.filter((mod) => (mod._tsDateAdded || 0) >= nowSeconds - seconds)
+      ? recentMods.filter(({ mod }) => (mod._tsDateAdded || 0) >= nowSeconds - seconds)
       : allTimeMods;
     const mods = candidates
-      .filter((mod) => !selectedIds.has(mod._idRow))
-      .sort((left, right) => score(right) - score(left))
+      .filter(({ mod }) => !selectedIds.has(mod._idRow))
+      .sort((left, right) => score(right.mod) - score(left.mod))
       .slice(0, 4);
-    mods.forEach((mod) => selectedIds.add(mod._idRow));
+    mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
     return { id, label, mods: mods.map(toFeaturedMod) };
   });
 
   const generatedAt = new Date();
   return {
-    schemaVersion: 1,
+    schemaVersion: 2,
     generatedAt: generatedAt.toISOString(),
     expiresAt: new Date(generatedAt.getTime() + EXPIRY_MS).toISOString(),
     gameId: GAME_ID,
