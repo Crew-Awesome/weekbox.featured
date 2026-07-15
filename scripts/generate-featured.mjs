@@ -38,6 +38,8 @@ const PERIODS = [
   ['year', 'Best of This Year', 365 * 24 * 60 * 60],
   ['all-time', 'Best of All Time', 0]
 ];
+const RECENT_NEW_MOD_SLOTS = 3;
+const RANKING_SIZE = 5;
 
 function recordsFrom(response) {
   return Array.isArray(response?._aRecords) ? response._aRecords : [];
@@ -98,6 +100,12 @@ function isRecentlyActive(mod, cutoff) {
   return (mod._tsDateAdded || 0) >= cutoff || (mod._tsDateUpdated || 0) >= cutoff;
 }
 
+function rankAvailable(mods, selectedIds) {
+  return mods
+    .filter(({ mod }) => !selectedIds.has(mod._idRow))
+    .sort((left, right) => score(right.mod) - score(left.mod));
+}
+
 async function buildFeaturedData() {
   const nowSeconds = Math.floor(Date.now() / 1000);
   const [recentGroups, allTimeGroups] = await Promise.all([
@@ -113,10 +121,25 @@ async function buildFeaturedData() {
     const candidates = seconds
       ? recentMods.filter(({ mod }) => isRecentlyActive(mod, nowSeconds - seconds))
       : allTimeMods;
-    const mods = candidates
-      .filter(({ mod }) => !selectedIds.has(mod._idRow))
-      .sort((left, right) => score(right.mod) - score(left.mod))
-      .slice(0, 5);
+    const cutoff = nowSeconds - seconds;
+    const newMods = seconds
+      ? candidates.filter(({ mod }) => (mod._tsDateAdded || 0) >= cutoff)
+      : candidates;
+    const updatedMods = seconds
+      ? candidates.filter(({ mod }) =>
+          (mod._tsDateAdded || 0) < cutoff && (mod._tsDateUpdated || 0) >= cutoff
+        )
+      : [];
+    // Recent rankings favour new uploads, but reserve room for genuinely
+    // updated older mods. Either group can fill any unused slots.
+    const mods = [
+      ...rankAvailable(newMods, selectedIds).slice(0, RECENT_NEW_MOD_SLOTS),
+      ...rankAvailable(updatedMods, selectedIds).slice(0, RANKING_SIZE - RECENT_NEW_MOD_SLOTS)
+    ];
+    mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
+    if (mods.length < RANKING_SIZE) {
+      mods.push(...rankAvailable(candidates, selectedIds).slice(0, RANKING_SIZE - mods.length));
+    }
     mods.forEach(({ mod }) => selectedIds.add(mod._idRow));
     return { id, label, mods: mods.map(toFeaturedMod) };
   });
