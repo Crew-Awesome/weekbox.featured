@@ -136,24 +136,31 @@ async function buildFeaturedData() {
   });
   const recentMods = uniqueMods(recentGroups.flat());
   const allTimeMods = uniqueMods(allTimeGroups.flat());
+  // A featured mod belongs to its most immediate qualifying period only.
+  // Keeping this set outside the period loop prevents duplicate cards across
+  // Today, Week, Month, and the longer rankings.
+  const featuredModIds = new Set();
   const rankings = PERIODS.map(([apiPeriod, id, label, seconds]) => {
     // TopSubs is the canonical ranking. It exposes only three entries per
     // period, so use the same unbalanced popularity ordering only to fill the
     // remaining two slots from whitelisted submissions.
     const primary = eligibleMods
       .filter((topSub) => topSub._sPeriod === apiPeriod)
+      .filter((topSub) => !featuredModIds.has(topSub._idRow))
       .map((topSub) => ({ mod: topSub, profile: profiles.get(topSub._idRow), categoryId: profiles.get(topSub._idRow)._aSuperCategory._idRow }));
-    const selectedIds = new Set(primary.map(({ mod }) => mod._idRow));
+    const selectedIds = new Set([...featuredModIds, ...primary.map(({ mod }) => mod._idRow)]);
     const cutoff = nowSeconds - seconds;
     const fallback = (seconds ? recentMods.filter(({ mod }) => activeSince(mod, cutoff)) : allTimeMods)
       .filter(({ mod }) => !selectedIds.has(mod._idRow))
       .sort((left, right) => score(right.mod) - score(left.mod) || right.mod._idRow - left.mod._idRow)
       .slice(0, FEATURED_PER_PERIOD - primary.length)
       .map(({ mod, categoryId }) => ({ mod, profile: mod, categoryId }));
+    const mods = [...primary, ...fallback];
+    mods.forEach(({ mod }) => featuredModIds.add(mod._idRow));
     return {
       id,
       label,
-      mods: [...primary, ...fallback].map(toFeaturedMod)
+      mods: mods.map(toFeaturedMod)
     };
   });
 
