@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
-  "generatedAt": "2026-07-16T06:04:50.149Z",
-  "revision": "2a6969f1fc05e62e",
+  "schemaVersion": 4,
+  "generatedAt": "2026-07-16T07:43:03.456Z",
+  "revision": "ddacb8ac387bfcca",
   "gameId": 8694,
   "categoryRoots": [
     29202,
@@ -23,12 +23,12 @@
           "id": 694525,
           "title": "Psychovania (Psychomania Ver. Megalovania)",
           "author": "Yeral",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a57b5880435b.jpg",
-          "likes": 10,
-          "downloads": 0,
-          "views": 336,
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a57b5880435b.jpg",
+          "likes": 11,
+          "downloads": 392,
+          "views": 359,
           "publishedAt": 1784133967,
-          "updatedAt": 0,
+          "updatedAt": 1784168835,
           "url": "https://gamebanana.com/mods/694525",
           "engine": {
             "id": "psych",
@@ -39,203 +39,13 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        },
-        {
-          "id": 694613,
-          "title": "Paper Gals",
-          "author": "cute_soda99",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a5810cd02c6e.jpg",
-          "likes": 8,
-          "downloads": 0,
-          "views": 198,
-          "publishedAt": 1784157462,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/694613",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 694507,
-          "title": "bopeebo rumble",
-          "author": "opfnf",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a57a0359ae78.jpg",
-          "likes": 4,
-          "downloads": 0,
-          "views": 157,
-          "publishedAt": 1784127546,
-          "updatedAt": 1784138630,
-          "url": "https://gamebanana.com/mods/694507",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 517012,
-          "title": "Time Bar [V-Slice Mod]",
-          "author": "JugieNoob",
-          "image": "https://images.gamebanana.com/img/ss/mods/6658d8da19726.jpg",
-          "likes": 120,
-          "downloads": 0,
-          "views": 90671,
-          "publishedAt": 1717098897,
-          "updatedAt": 1784131089,
-          "url": "https://gamebanana.com/mods/517012",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 630720,
-          "title": "VSI: FAKEOUT! - HOLIDAY COLLECTION",
-          "author": "Kiiismet",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a57fa3484ca7.jpg",
-          "likes": 30,
-          "downloads": 0,
-          "views": 5606,
-          "publishedAt": 1762056204,
-          "updatedAt": 1784153294,
-          "url": "https://gamebanana.com/mods/630720",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
         }
       ]
     },
     {
       "id": "week",
       "label": "Best of This Week",
-      "mods": [
-        {
-          "id": 693107,
-          "title": "(MOBILE FIX!) FRIDAY NIGHT FUNKIN : MELLOWVALLEY",
-          "author": "FunkiFanta",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a50f1f6597d6.jpg",
-          "likes": 36,
-          "downloads": 0,
-          "views": 1703,
-          "publishedAt": 1783690334,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/693107",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 693248,
-          "title": "[V-Slice] Previewable Alt Instrumentals",
-          "author": "Comedy Lost",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a518d09dadfe.jpg",
-          "likes": 20,
-          "downloads": 0,
-          "views": 869,
-          "publishedAt": 1783730230,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/693248",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 694107,
-          "title": "Friday Night Funkin Shaders Psych Engine",
-          "author": "Alejandro.mp4",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a55895fc0f32.jpg",
-          "likes": 11,
-          "downloads": 0,
-          "views": 750,
-          "publishedAt": 1783991494,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/694107",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 627836,
-          "title": "BERGABASH (UPDATE OUT NOW)",
-          "author": "Bergatron",
-          "image": "https://images.gamebanana.com/img/ss/mods/68f3b3206a6db.jpg",
-          "likes": 136,
-          "downloads": 0,
-          "views": 21542,
-          "publishedAt": 1760803897,
-          "updatedAt": 1783918290,
-          "url": "https://gamebanana.com/mods/627836",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 665630,
-          "title": "SEX MOD+ (Psych V1.0.4 Port)+LowEffort25LikeExtra",
-          "author": "Pairos13",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a518de6380ca.jpg",
-          "likes": 28,
-          "downloads": 0,
-          "views": 21423,
-          "publishedAt": 1775070133,
-          "updatedAt": 1783730632,
-          "url": "https://gamebanana.com/mods/665630",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        }
-      ]
+      "mods": []
     },
     {
       "id": "month",
@@ -245,12 +55,12 @@
           "id": 673891,
           "title": "VS. Mouse Ultimate [INCOMPLETE OFFICIAL RELEASE]",
           "author": "FridayDayFunkin",
-          "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fde790a1feb.jpg",
           "likes": 159,
-          "downloads": 0,
-          "views": 16239,
+          "downloads": 18768,
+          "views": 16251,
           "publishedAt": 1782072173,
-          "updatedAt": 0,
+          "updatedAt": 1782154971,
           "url": "https://gamebanana.com/mods/673891",
           "engine": {
             "id": "codename",
@@ -260,90 +70,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 692216,
-          "title": "Marvin's Marvinous Monday (DEMO)",
-          "author": "CalciumLmao",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a4c4b42e2f18.jpg",
-          "likes": 61,
-          "downloads": 0,
-          "views": 3613,
-          "publishedAt": 1783384939,
-          "updatedAt": 1783483946,
-          "url": "https://gamebanana.com/mods/692216",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 691582,
-          "title": "VS TORD RETORDED",
-          "author": "tordfan28",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
-          "likes": 52,
-          "downloads": 0,
-          "views": 4134,
-          "publishedAt": 1783191342,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/691582",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 564105,
-          "title": "FNF: Gooey Mix [Pitstop 2]",
-          "author": "LeGooey",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a4fea62c6d1e.jpg",
-          "likes": 376,
-          "downloads": 0,
-          "views": 123538,
-          "publishedAt": 1734969593,
-          "updatedAt": 1783623623,
-          "url": "https://gamebanana.com/mods/564105",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 582726,
-          "title": "Another FNF Engine Made In Godot v1.4.0",
-          "author": "The Big Boss 050",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
-          "likes": 87,
-          "downloads": 0,
-          "views": 19289,
-          "publishedAt": 1742496031,
-          "updatedAt": 1784074194,
-          "url": "https://gamebanana.com/mods/582726",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -356,12 +82,12 @@
           "id": 683489,
           "title": "High Quality Funkin'",
           "author": "SiIvaGunner",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a237d04312fc.jpg",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 296,
-          "downloads": 0,
-          "views": 18552,
+          "downloads": 11965,
+          "views": 18568,
           "publishedAt": 1780711398,
-          "updatedAt": 1781909527,
+          "updatedAt": 1781911895,
           "url": "https://gamebanana.com/mods/683489",
           "engine": {
             "id": "vslice",
@@ -369,20 +95,20 @@
             "icon": "vslice.png"
           },
           "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
+            "id": 29202,
+            "name": "Base Game Mod Folders"
           }
         },
         {
           "id": 674401,
           "title": "HAZIER RIVER: Smoke 'Em Out Struggle DEMO",
           "author": "DigitLuck",
-          "image": "https://images.gamebanana.com/img/ss/mods/69fbd0353953a.jpg",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fbd0353953a.jpg",
           "likes": 248,
-          "downloads": 0,
-          "views": 34721,
+          "downloads": 160741,
+          "views": 34729,
           "publishedAt": 1777824002,
-          "updatedAt": 1778562140,
+          "updatedAt": 1779414330,
           "url": "https://gamebanana.com/mods/674401",
           "engine": {
             "id": "vslice",
@@ -390,63 +116,21 @@
             "icon": "vslice.png"
           },
           "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
+            "id": 29202,
+            "name": "Base Game Mod Folders"
           }
         },
         {
-          "id": 690483,
-          "title": "15KOPECKS V1.5",
-          "author": "dUmer",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a43d428c8c95.jpg",
-          "likes": 55,
-          "downloads": 0,
-          "views": 3911,
-          "publishedAt": 1782853603,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/690483",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 299500,
-          "title": "Lost in the Labyrinth: Vs. The Keeper",
-          "author": "GameWorld1",
-          "image": "https://images.gamebanana.com/img/ss/mods/60e94cec26122.jpg",
-          "likes": 68,
-          "downloads": 0,
-          "views": 62572,
-          "publishedAt": 1624844296,
-          "updatedAt": 1782588991,
-          "url": "https://gamebanana.com/mods/299500",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 571604,
-          "title": "FNF:REDONE",
-          "author": "Key97",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
-          "likes": 60,
-          "downloads": 0,
-          "views": 34797,
-          "publishedAt": 1737928649,
-          "updatedAt": 1783537791,
-          "url": "https://gamebanana.com/mods/571604",
+          "id": 665295,
+          "title": "Friday Night Funkin': [RESCRIPT]",
+          "author": "PickleNuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_69cc5b438fd79.jpg",
+          "likes": 245,
+          "downloads": 74612,
+          "views": 25547,
+          "publishedAt": 1779474976,
+          "updatedAt": 1779754629,
+          "url": "https://gamebanana.com/mods/665295",
           "engine": {
             "id": "psych",
             "name": "Psych Engine",
@@ -464,108 +148,45 @@
       "label": "Best of 6 Months",
       "mods": [
         {
-          "id": 660113,
-          "title": "Blake Expansion",
-          "author": "Team Blake Expansion",
-          "image": "https://images.gamebanana.com/img/ss/mods/69b5dd25897e8.jpg",
-          "likes": 156,
-          "downloads": 0,
-          "views": 26205,
-          "publishedAt": 1773527880,
-          "updatedAt": 1782105491,
-          "url": "https://gamebanana.com/mods/660113",
+          "id": 650004,
+          "title": "FNF: SONIC JAM!",
+          "author": "DingusCola",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
+          "likes": 546,
+          "downloads": 142329,
+          "views": 63405,
+          "publishedAt": 1769918333,
+          "updatedAt": 1784169251,
+          "url": "https://gamebanana.com/mods/650004",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
             "icon": "vslice.png"
           },
           "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
+            "id": 29202,
+            "name": "Base Game Mod Folders"
           }
         },
         {
-          "id": 673621,
-          "title": "Friday Night Shootin': Reimagined [Gossip retake]",
-          "author": "ZariDoodz",
-          "image": "https://images.gamebanana.com/img/ss/mods/69f3da43a4803.jpg",
-          "likes": 151,
-          "downloads": 0,
-          "views": 18143,
-          "publishedAt": 1777593148,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/673621",
+          "id": 653229,
+          "title": "Friday Night Funkin': Remnants",
+          "author": "SPG64",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6990ace8782ff.jpg",
+          "likes": 388,
+          "downloads": 84780,
+          "views": 54688,
+          "publishedAt": 1771103120,
+          "updatedAt": 1778097371,
+          "url": "https://gamebanana.com/mods/653229",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
             "icon": "vslice.png"
           },
           "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 647130,
-          "title": "[FINAL UPDATE]Knife Party [V2]: VS JEFF THE KILLER",
-          "author": "AdamkoAd",
-          "image": "https://images.gamebanana.com/img/ss/mods/696d7e9a9c454.jpg",
-          "likes": 62,
-          "downloads": 0,
-          "views": 10162,
-          "publishedAt": 1769351440,
-          "updatedAt": 1782745701,
-          "url": "https://gamebanana.com/mods/647130",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 586813,
-          "title": "Friday Night Funkin': Y Sides V2",
-          "author": "Mr. Madera",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a4405c450082.jpg",
-          "likes": 100,
-          "downloads": 0,
-          "views": 11730,
-          "publishedAt": 1743965896,
-          "updatedAt": 1782855015,
-          "url": "https://gamebanana.com/mods/586813",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 325129,
-          "title": "Umbal (aka Friday Night Funkin' Vs Umball)",
-          "author": "ZackBanana",
-          "image": "https://images.gamebanana.com/img/ss/mods/69f336841a898.jpg",
-          "likes": 74,
-          "downloads": 0,
-          "views": 54527,
-          "publishedAt": 1633089428,
-          "updatedAt": 1778154317,
-          "url": "https://gamebanana.com/mods/325129",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
+            "id": 29202,
+            "name": "Base Game Mod Folders"
           }
         }
       ]
@@ -578,12 +199,12 @@
           "id": 632935,
           "title": "Heartbreak Havoc [Vs. Sky: REDUX]",
           "author": "Dra9on5",
-          "image": "https://images.gamebanana.com/img/ss/mods/69128623d3f36.jpg",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
           "likes": 529,
-          "downloads": 0,
-          "views": 94578,
+          "downloads": 334820,
+          "views": 94589,
           "publishedAt": 1763770731,
-          "updatedAt": 1778978671,
+          "updatedAt": 1778978659,
           "url": "https://gamebanana.com/mods/632935",
           "engine": {
             "id": "vslice",
@@ -591,195 +212,21 @@
             "icon": "vslice.png"
           },
           "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
+            "id": 29202,
+            "name": "Base Game Mod Folders"
           }
         },
         {
-          "id": 621910,
-          "title": "FNF: Huggy Mix",
-          "author": "DaPootisBirdYT",
-          "image": "https://images.gamebanana.com/img/ss/mods/68d1013a09061.jpg",
-          "likes": 156,
-          "downloads": 0,
-          "views": 54788,
-          "publishedAt": 1758661262,
-          "updatedAt": 1776206950,
-          "url": "https://gamebanana.com/mods/621910",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 611878,
-          "title": "The Ankha Beat Crossing",
-          "author": "Antonyny",
-          "image": "https://images.gamebanana.com/img/ss/mods/69ce1c306b4e2.jpg",
-          "likes": 74,
-          "downloads": 0,
-          "views": 10245,
-          "publishedAt": 1754528161,
-          "updatedAt": 1776633408,
-          "url": "https://gamebanana.com/mods/611878",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 355577,
-          "title": "Internet Favorites 6.1",
-          "author": "PringleKitten",
-          "image": "https://images.gamebanana.com/img/ss/mods/67d8d44d8ffe1.jpg",
-          "likes": 49,
-          "downloads": 0,
-          "views": 67291,
-          "publishedAt": 1644028494,
-          "updatedAt": 1783325776,
-          "url": "https://gamebanana.com/mods/355577",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 585004,
-          "title": "(V2.1) Yet Another Sprunki FNF Mod",
-          "author": "JustCamilo",
-          "image": "https://images.gamebanana.com/img/ss/mods/67e986a310315.jpg",
-          "likes": 38,
-          "downloads": 0,
-          "views": 53158,
-          "publishedAt": 1743358093,
-          "updatedAt": 1783534087,
-          "url": "https://gamebanana.com/mods/585004",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "all-time",
-      "label": "Best of All Time",
-      "mods": [
-        {
-          "id": 44334,
-          "title": "The Full-Ass Tricky Mod",
-          "author": "Banbuds",
-          "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
-          "likes": 3169,
-          "downloads": 0,
-          "views": 9481199,
-          "publishedAt": 1615930285,
-          "updatedAt": 1622678310,
-          "url": "https://gamebanana.com/mods/44334",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 166531,
-          "title": "Smoke 'Em Out Struggle [FULL WEEK] | VS Garcello",
-          "author": "atsuover",
-          "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
-          "likes": 2606,
-          "downloads": 0,
-          "views": 4413172,
-          "publishedAt": 1620061183,
-          "updatedAt": 0,
-          "url": "https://gamebanana.com/mods/166531",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 566597,
-          "title": "QT: Rewired",
-          "author": "JoaDash",
-          "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
-          "likes": 874,
-          "downloads": 0,
-          "views": 237049,
-          "publishedAt": 1738810121,
-          "updatedAt": 1775130741,
-          "url": "https://gamebanana.com/mods/566597",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 551727,
-          "title": "FNF: SPOOKY MIX",
-          "author": "Denoohay",
-          "image": "https://images.gamebanana.com/img/ss/mods/68285aaea7281.jpg",
-          "likes": 707,
-          "downloads": 0,
-          "views": 234425,
-          "publishedAt": 1730328189,
-          "updatedAt": 1775877908,
-          "url": "https://gamebanana.com/mods/551727",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 43774,
-            "name": "Originals / Full Mods (Base)"
-          }
-        },
-        {
-          "id": 387663,
-          "title": "Mistful Crimson Morning DEMO",
-          "author": "Stonesteve",
-          "image": "https://images.gamebanana.com/img/ss/mods/67fadf7548c3b.jpg",
-          "likes": 652,
-          "downloads": 0,
-          "views": 544022,
-          "publishedAt": 1657048768,
-          "updatedAt": 1658451411,
-          "url": "https://gamebanana.com/mods/387663",
+          "id": 614094,
+          "title": "Gumballs",
+          "author": "mariosbignuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_689ffe5f69406.jpg",
+          "likes": 307,
+          "downloads": 28023,
+          "views": 62187,
+          "publishedAt": 1755466572,
+          "updatedAt": 1772335834,
+          "url": "https://gamebanana.com/mods/614094",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -791,6 +238,11 @@
           }
         }
       ]
+    },
+    {
+      "id": "all-time",
+      "label": "Best of All Time",
+      "mods": []
     }
   ]
 }
