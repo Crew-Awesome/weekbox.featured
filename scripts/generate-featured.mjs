@@ -20,6 +20,8 @@ const WHITELISTED_CATEGORY_IDS = new Set(CATEGORY_ROOTS);
 const EXCLUDED_MOD_IDS = new Set([309789]);
 const TOP_SUBS_URL = `https://gamebanana.com/apiv12/Game/${GAME_ID}/TopSubs`;
 const PROFILE_URL = 'https://gamebanana.com/apiv11/Mod';
+const MOD_INDEX_URL = 'https://gamebanana.com/apiv11/Mod/Index';
+const FEATURED_PER_PERIOD = 5;
 const ENGINE_BY_CATEGORY = {
   29202: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Base Game Mod Folders' },
   28367: { id: 'psych', name: 'Psych Engine', icon: 'psych.png', categoryName: 'Psych Engine Mod Folders' },
@@ -32,14 +34,18 @@ const ENGINE_BY_CATEGORY = {
   43774: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Originals / Full Mods (Base)' }
 };
 const PERIODS = [
-  ['today', 'day', 'Best of Today'],
-  ['week', 'week', 'Best of This Week'],
-  ['month', 'month', 'Best of This Month'],
-  ['3month', 'three-months', 'Best of 3 Months'],
-  ['6month', 'six-months', 'Best of 6 Months'],
-  ['year', 'year', 'Best of This Year'],
-  ['alltime', 'all-time', 'Best of All Time']
+  ['today', 'day', 'Best of Today', 24 * 60 * 60],
+  ['week', 'week', 'Best of This Week', 7 * 24 * 60 * 60],
+  ['month', 'month', 'Best of This Month', 30 * 24 * 60 * 60],
+  ['3month', 'three-months', 'Best of 3 Months', 90 * 24 * 60 * 60],
+  ['6month', 'six-months', 'Best of 6 Months', 180 * 24 * 60 * 60],
+  ['year', 'year', 'Best of This Year', 365 * 24 * 60 * 60],
+  ['alltime', 'all-time', 'Best of All Time', 0]
 ];
+
+function recordsFrom(response) {
+  return Array.isArray(response?._aRecords) ? response._aRecords : [];
+}
 
 function imageUrl(mod) {
   if (mod._sImageUrl) return mod._sImageUrl;
@@ -64,26 +70,59 @@ async function fetchProfile(modId) {
   return response.json();
 }
 
-function toFeaturedMod({ topSub, profile, categoryId }) {
+async function fetchCategory(categoryId, sort, pageLimit) {
+  const mods = [];
+  for (let page = 1; page <= pageLimit; page++) {
+    const params = new URLSearchParams({ _sSort: sort, _nPage: String(page), _nPerpage: '50' });
+    params.set('_aFilters[Generic_Game]', String(GAME_ID));
+    params.set('_aFilters[Generic_Category]', String(categoryId));
+    const response = await fetch(`${MOD_INDEX_URL}?${params}`);
+    if (!response.ok) throw new Error(`GameBanana returned ${response.status} for category ${categoryId}`);
+    const records = recordsFrom(await response.json());
+    mods.push(...records);
+    if (records.length < 50) break;
+  }
+  return mods.map((mod) => ({ mod, categoryId }));
+}
+
+function score(mod) {
+  return (mod._nLikeCount || 0) * 1_000_000 + (mod._nDownloadCount || 0) * 1_000 + (mod._nViewCount || 0);
+}
+
+function activeSince(mod, cutoff) {
+  return (mod._tsDateAdded || 0) >= cutoff || (mod._tsDateUpdated || mod._tsDateModified || 0) >= cutoff;
+}
+
+function uniqueMods(mods) {
+  return [...new Map(mods.map((entry) => [entry.mod._idRow, entry])).values()]
+    .filter(({ mod }) => !EXCLUDED_MOD_IDS.has(mod._idRow));
+}
+
+function toFeaturedMod({ mod, profile, categoryId }) {
   const engine = ENGINE_BY_CATEGORY[categoryId];
   return {
-    id: topSub._idRow,
-    title: topSub._sName,
-    author: topSub._aSubmitter?._sName || 'Unknown',
-    image: imageUrl(topSub),
-    likes: topSub._nLikeCount || profile._nLikeCount || 0,
+    id: mod._idRow,
+    title: mod._sName,
+    author: mod._aSubmitter?._sName || 'Unknown',
+    image: imageUrl(mod),
+    likes: mod._nLikeCount || profile?._nLikeCount || 0,
     downloads: profile._nDownloadCount || 0,
     views: profile._nViewCount || 0,
     publishedAt: profile._tsDateAdded || 0,
-    updatedAt: profile._tsDateModified || 0,
-    url: topSub._sProfileUrl || profile._sProfileUrl || `https://gamebanana.com/mods/${topSub._idRow}`,
+    updatedAt: profile._tsDateUpdated || profile._tsDateModified || 0,
+    url: mod._sProfileUrl || profile._sProfileUrl || `https://gamebanana.com/mods/${mod._idRow}`,
     engine: { id: engine.id, name: engine.name, icon: engine.icon },
     category: { id: categoryId, name: engine.categoryName }
   };
 }
 
 async function buildFeaturedData() {
-  const topSubs = await fetchTopSubs();
+  const nowSeconds = Math.floor(Date.now() / 1000);
+  const [topSubs, recentGroups, allTimeGroups] = await Promise.all([
+    fetchTopSubs(),
+    Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_NewAndUpdated', 4))),
+    Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_MostLiked', 1)))
+  ]);
   const uniqueTopSubs = [...new Map(topSubs.map((mod) => [mod._idRow, mod])).values()]
     .filter((mod) => !EXCLUDED_MOD_IDS.has(mod._idRow));
   const profiles = new Map(
@@ -95,18 +134,28 @@ async function buildFeaturedData() {
     const categoryId = profiles.get(topSub._idRow)?._aSuperCategory?._idRow;
     return WHITELISTED_CATEGORY_IDS.has(categoryId);
   });
-  const rankings = PERIODS.map(([apiPeriod, id, label]) => ({
-    id,
-    label,
-    // Preserve GameBanana's period-specific rank and order exactly. We only
-    // remove entries outside our whitelist or explicit exclusion list.
-    mods: eligibleMods
+  const recentMods = uniqueMods(recentGroups.flat());
+  const allTimeMods = uniqueMods(allTimeGroups.flat());
+  const rankings = PERIODS.map(([apiPeriod, id, label, seconds]) => {
+    // TopSubs is the canonical ranking. It exposes only three entries per
+    // period, so use the same unbalanced popularity ordering only to fill the
+    // remaining two slots from whitelisted submissions.
+    const primary = eligibleMods
       .filter((topSub) => topSub._sPeriod === apiPeriod)
-      .map((topSub) => {
-        const profile = profiles.get(topSub._idRow);
-        return toFeaturedMod({ topSub, profile, categoryId: profile._aSuperCategory._idRow });
-      })
-  }));
+      .map((topSub) => ({ mod: topSub, profile: profiles.get(topSub._idRow), categoryId: profiles.get(topSub._idRow)._aSuperCategory._idRow }));
+    const selectedIds = new Set(primary.map(({ mod }) => mod._idRow));
+    const cutoff = nowSeconds - seconds;
+    const fallback = (seconds ? recentMods.filter(({ mod }) => activeSince(mod, cutoff)) : allTimeMods)
+      .filter(({ mod }) => !selectedIds.has(mod._idRow))
+      .sort((left, right) => score(right.mod) - score(left.mod) || right.mod._idRow - left.mod._idRow)
+      .slice(0, FEATURED_PER_PERIOD - primary.length)
+      .map(({ mod, categoryId }) => ({ mod, profile: mod, categoryId }));
+    return {
+      id,
+      label,
+      mods: [...primary, ...fallback].map(toFeaturedMod)
+    };
+  });
 
   const content = { gameId: GAME_ID, categoryRoots: CATEGORY_ROOTS, rankings };
   const revision = createHash('sha256').update(JSON.stringify(content)).digest('hex').slice(0, 16);
