@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-07-16T07:51:37.672Z",
-  "revision": "0e4db102e4bba7e0",
+  "generatedAt": "2026-07-16T07:54:35.321Z",
+  "revision": "c6f877125197a0c9",
   "gameId": 8694,
   "categoryRoots": [
     29202,
@@ -247,8 +247,8 @@
           "author": "FridayDayFunkin",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fde790a1feb.jpg",
           "likes": 159,
-          "downloads": 18768,
-          "views": 16251,
+          "downloads": 18776,
+          "views": 16256,
           "publishedAt": 1782072173,
           "updatedAt": 1782154971,
           "url": "https://gamebanana.com/mods/673891",

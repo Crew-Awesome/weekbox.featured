@@ -191,6 +191,8 @@ await writeFile(
     schemaVersion: 1,
     revision: featuredData.revision,
     generatedAt: featuredData.generatedAt,
-    featuredUrl: 'featured.json'
+    // A revisioned URL prevents clients/CDNs from reusing a prior featured
+    // payload after the rankings change.
+    featuredUrl: `featured.json?revision=${featuredData.revision}`
   }, null, 2)}\n`
 );
