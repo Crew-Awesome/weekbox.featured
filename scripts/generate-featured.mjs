@@ -159,7 +159,8 @@ async function buildFeaturedData() {
 
   const content = { gameId: GAME_ID, categoryRoots: CATEGORY_ROOTS, rankings };
   const revision = createHash('sha256').update(JSON.stringify(content)).digest('hex').slice(0, 16);
-  return { schemaVersion: 4, generatedAt: new Date().toISOString(), revision, ...content };
+  // Weekbox's FeaturedService currently accepts schema version 3.
+  return { schemaVersion: 3, generatedAt: new Date().toISOString(), revision, ...content };
 }
 
 async function readPreviousFeaturedData() {
