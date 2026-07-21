@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 
 const GAME_ID = 8694;
 // Only submissions in these FNF mod-folder trees are eligible. The legacy
@@ -15,7 +15,6 @@ const CATEGORY_ROOTS = [
   43788, // Psych Online
   43774 // Legacy Base/Full Mods (direct links only)
 ];
-const WHITELISTED_CATEGORY_IDS = new Set(CATEGORY_ROOTS);
 // These entries are engine distributions rather than playable mods.
 const EXCLUDED_MOD_IDS = new Set([309789]);
 const TOP_SUBS_URL = `https://gamebanana.com/apiv12/Game/${GAME_ID}/TopSubs`;
@@ -33,6 +32,7 @@ const ENGINE_BY_CATEGORY = {
   43788: { id: 'psychonline', name: 'Psych Online', icon: 'psychonline.png', categoryName: 'Psych Online Mod Folders' },
   43774: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Originals / Full Mods (Base)' }
 };
+const VSLICE_CATEGORY_ROOTS = CATEGORY_ROOTS.filter((categoryId) => ENGINE_BY_CATEGORY[categoryId]?.id === 'vslice');
 const PERIODS = [
   ['today', 'day', 'Best of Today', 24 * 60 * 60],
   ['week', 'week', 'Best of This Week', 7 * 24 * 60 * 60],
@@ -116,8 +116,7 @@ function toFeaturedMod({ mod, profile, categoryId }) {
   };
 }
 
-async function buildFeaturedData() {
-  const nowSeconds = Math.floor(Date.now() / 1000);
+async function fetchFeaturedSources() {
   const [topSubs, recentGroups, allTimeGroups] = await Promise.all([
     fetchTopSubs(),
     Promise.all(CATEGORY_ROOTS.map((categoryId) => fetchCategory(categoryId, 'Generic_NewAndUpdated', 4))),
@@ -129,13 +128,21 @@ async function buildFeaturedData() {
     await Promise.all(uniqueTopSubs.map(async (mod) => [mod._idRow, await fetchProfile(mod._idRow)]))
   );
 
+  return { topSubs, profiles, recentGroups, allTimeGroups };
+}
+
+async function buildFeaturedData(categoryRoots, sources) {
+  const nowSeconds = Math.floor(Date.now() / 1000);
+  const { topSubs, profiles, recentGroups, allTimeGroups } = sources;
+  const allowedCategoryIds = new Set(categoryRoots);
+
   const eligibleMods = topSubs.filter((topSub) => {
     if (EXCLUDED_MOD_IDS.has(topSub._idRow)) return false;
     const categoryId = profiles.get(topSub._idRow)?._aSuperCategory?._idRow;
-    return WHITELISTED_CATEGORY_IDS.has(categoryId);
+    return allowedCategoryIds.has(categoryId);
   });
-  const recentMods = uniqueMods(recentGroups.flat());
-  const allTimeMods = uniqueMods(allTimeGroups.flat());
+  const recentMods = uniqueMods(recentGroups.flat().filter(({ categoryId }) => allowedCategoryIds.has(categoryId)));
+  const allTimeMods = uniqueMods(allTimeGroups.flat().filter(({ categoryId }) => allowedCategoryIds.has(categoryId)));
   // A featured mod belongs to its most immediate qualifying period only.
   // Keeping this set outside the period loop prevents duplicate cards across
   // Today, Week, Month, and the longer rankings.
@@ -164,35 +171,32 @@ async function buildFeaturedData() {
     };
   });
 
-  const content = { gameId: GAME_ID, categoryRoots: CATEGORY_ROOTS, rankings };
+  const content = { gameId: GAME_ID, categoryRoots, rankings };
   const revision = createHash('sha256').update(JSON.stringify(content)).digest('hex').slice(0, 16);
   // Weekbox's FeaturedService currently accepts schema version 3.
   return { schemaVersion: 3, generatedAt: new Date().toISOString(), revision, ...content };
 }
 
-async function readPreviousFeaturedData() {
+async function readPreviousFeaturedData(fileName) {
   try {
-    return JSON.parse(await readFile(new URL('../public/featured.json', import.meta.url), 'utf8'));
+    return JSON.parse(await readFile(new URL(`../public/${fileName}`, import.meta.url), 'utf8'));
   } catch {
     return null;
   }
 }
 
-const previousFeaturedData = await readPreviousFeaturedData();
-const featuredData = await buildFeaturedData();
+const previousFeaturedData = await readPreviousFeaturedData('featured.json');
+const previousVsliceFeaturedData = await readPreviousFeaturedData('featured-vslice.json');
+const sources = await fetchFeaturedSources();
+const featuredData = await buildFeaturedData(CATEGORY_ROOTS, sources);
 if (previousFeaturedData?.revision === featuredData.revision) {
   featuredData.generatedAt = previousFeaturedData.generatedAt;
 }
+const vsliceFeaturedData = await buildFeaturedData(VSLICE_CATEGORY_ROOTS, sources);
+if (previousVsliceFeaturedData?.revision === vsliceFeaturedData.revision) {
+  vsliceFeaturedData.generatedAt = previousVsliceFeaturedData.generatedAt;
+}
 await mkdir(new URL('../public/', import.meta.url), { recursive: true });
 await writeFile(new URL('../public/featured.json', import.meta.url), `${JSON.stringify(featuredData, null, 2)}\n`);
-await writeFile(
-  new URL('../public/featured-manifest.json', import.meta.url),
-  `${JSON.stringify({
-    schemaVersion: 1,
-    revision: featuredData.revision,
-    generatedAt: featuredData.generatedAt,
-    // A revisioned URL prevents clients/CDNs from reusing a prior featured
-    // payload after the rankings change.
-    featuredUrl: `featured.json?revision=${featuredData.revision}`
-  }, null, 2)}\n`
-);
+await writeFile(new URL('../public/featured-vslice.json', import.meta.url), `${JSON.stringify(vsliceFeaturedData, null, 2)}\n`);
+await rm(new URL('../public/featured-manifest.json', import.meta.url), { force: true });
