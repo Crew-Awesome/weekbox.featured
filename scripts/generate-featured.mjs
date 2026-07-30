@@ -10,7 +10,6 @@ const CATEGORY_ROOTS = [
   34764, // Codename Engine
   3827, // Executables
   43798, // P-Slice
-  44037, // ALE Psych
   43850, // FPS Plus
   43788, // Psych Online
   43774 // Legacy Base/Full Mods (direct links only)
@@ -27,7 +26,6 @@ const ENGINE_BY_CATEGORY = {
   34764: { id: 'codename', name: 'Codename Engine', icon: 'codename.png', categoryName: 'Codename Engine Mod Folders' },
   3827: { id: 'executable', name: 'Executable', icon: 'exe.png', categoryName: 'Executable Mod Folders' },
   43798: { id: 'pslice', name: 'P-Slice', icon: 'pslice.png', categoryName: 'P-Slice Mod Folders' },
-  44037: { id: 'alepsych', name: 'ALE Psych', icon: 'alepsych.png', categoryName: 'ALE Psych Mod Folders' },
   43850: { id: 'fpsplus', name: 'FPS Plus', icon: 'fpsplus.png', categoryName: 'FPS Plus Mod Folders' },
   43788: { id: 'psychonline', name: 'Psych Online', icon: 'psychonline.png', categoryName: 'Psych Online Mod Folders' },
   43774: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Originals / Full Mods (Base)' }
@@ -103,6 +101,7 @@ function toFeaturedMod({ mod, profile, categoryId }) {
   return {
     id: mod._idRow,
     title: mod._sName,
+    description: profile?._sText || mod._sText || '',
     author: mod._aSubmitter?._sName || 'Unknown',
     image: imageUrl(mod),
     likes: mod._nLikeCount || profile?._nLikeCount || 0,
