@@ -101,7 +101,7 @@ function toFeaturedMod({ mod, profile, categoryId }) {
   return {
     id: mod._idRow,
     title: mod._sName,
-    description: profile?._sText || mod._sText || mod._sDescription || profile?._sDescription || '',
+    description: (profile?._sText || mod._sText || mod._sDescription || profile?._sDescription || '').replace(/<[^>]*>?/gm, '').replace(/\s+/g, ' ').trim(),
     author: mod._aSubmitter?._sName || 'Unknown',
     image: imageUrl(mod),
     likes: mod._nLikeCount || profile?._nLikeCount || 0,
