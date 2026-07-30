@@ -101,7 +101,7 @@ function toFeaturedMod({ mod, profile, categoryId }) {
   return {
     id: mod._idRow,
     title: mod._sName,
-    description: profile?._sText || mod._sText || '',
+    description: profile?._sText || mod._sText || mod._sDescription || profile?._sDescription || '',
     author: mod._aSubmitter?._sName || 'Unknown',
     image: imageUrl(mod),
     likes: mod._nLikeCount || profile?._nLikeCount || 0,
@@ -146,10 +146,8 @@ async function buildFeaturedData(categoryRoots, sources) {
   // Keeping this set outside the period loop prevents duplicate cards across
   // Today, Week, Month, and the longer rankings.
   const featuredModIds = new Set();
-  const rankings = PERIODS.map(([apiPeriod, id, label, seconds]) => {
-    // TopSubs is the canonical ranking. It exposes only three entries per
-    // period, so use the same unbalanced popularity ordering only to fill the
-    // remaining two slots from whitelisted submissions.
+  const rankings = [];
+  for (const [apiPeriod, id, label, seconds] of PERIODS) {
     const primary = eligibleMods
       .filter((topSub) => topSub._sPeriod === apiPeriod)
       .filter((topSub) => !featuredModIds.has(topSub._idRow))
@@ -159,16 +157,30 @@ async function buildFeaturedData(categoryRoots, sources) {
     const fallback = (seconds ? recentMods.filter(({ mod }) => activeSince(mod, cutoff)) : allTimeMods)
       .filter(({ mod }) => !selectedIds.has(mod._idRow))
       .sort((left, right) => score(right.mod) - score(left.mod) || right.mod._idRow - left.mod._idRow)
-      .slice(0, FEATURED_PER_PERIOD - primary.length)
-      .map(({ mod, categoryId }) => ({ mod, profile: mod, categoryId }));
-    const mods = [...primary, ...fallback];
+      .slice(0, FEATURED_PER_PERIOD - primary.length);
+      
+    const fallbackWithProfiles = await Promise.all(fallback.map(async ({ mod, categoryId }) => {
+      let profile = profiles.get(mod._idRow);
+      if (!profile) {
+        try {
+          profile = await fetchProfile(mod._idRow);
+          profiles.set(mod._idRow, profile);
+        } catch (e) {
+          profile = mod;
+        }
+      }
+      return { mod, profile, categoryId };
+    }));
+
+    const mods = [...primary, ...fallbackWithProfiles];
     mods.forEach(({ mod }) => featuredModIds.add(mod._idRow));
-    return {
+    
+    rankings.push({
       id,
       label,
       mods: mods.map(toFeaturedMod)
-    };
-  });
+    });
+  }
 
   const content = { gameId: GAME_ID, categoryRoots, rankings };
   const revision = createHash('sha256').update(JSON.stringify(content)).digest('hex').slice(0, 16);
