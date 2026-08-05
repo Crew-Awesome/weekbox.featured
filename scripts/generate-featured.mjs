@@ -5,14 +5,12 @@ const GAME_ID = 8694;
 // Only submissions in these FNF mod-folder trees are eligible. The legacy
 // category roots (43772 and 3833) remain deliberately unsupported.
 const CATEGORY_ROOTS = [
-  29202, // Base Game / V-Slice
   28367, // Psych Engine
   34764, // Codename Engine
   3827, // Executables
   43798, // P-Slice
   43850, // FPS Plus
   43788, // Psych Online
-  43774 // Legacy Base/Full Mods (direct links only)
 ];
 // These entries are engine distributions rather than playable mods.
 const EXCLUDED_MOD_IDS = new Set([309789]);
@@ -21,16 +19,13 @@ const PROFILE_URL = 'https://gamebanana.com/apiv11/Mod';
 const MOD_INDEX_URL = 'https://gamebanana.com/apiv11/Mod/Index';
 const FEATURED_PER_PERIOD = 5;
 const ENGINE_BY_CATEGORY = {
-  29202: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Base Game Mod Folders' },
   28367: { id: 'psych', name: 'Psych Engine', icon: 'psych.png', categoryName: 'Psych Engine Mod Folders' },
   34764: { id: 'codename', name: 'Codename Engine', icon: 'codename.png', categoryName: 'Codename Engine Mod Folders' },
   3827: { id: 'executable', name: 'Executable', icon: 'exe.png', categoryName: 'Executable Mod Folders' },
   43798: { id: 'pslice', name: 'P-Slice', icon: 'pslice.png', categoryName: 'P-Slice Mod Folders' },
   43850: { id: 'fpsplus', name: 'FPS Plus', icon: 'fpsplus.png', categoryName: 'FPS Plus Mod Folders' },
-  43788: { id: 'psychonline', name: 'Psych Online', icon: 'psychonline.png', categoryName: 'Psych Online Mod Folders' },
-  43774: { id: 'vslice', name: 'Base Game', icon: 'vslice.png', categoryName: 'Originals / Full Mods (Base)' }
+  43788: { id: 'psychonline', name: 'Psych Online', icon: 'psychonline.png', categoryName: 'Psych Online Mod Folders' }
 };
-const VSLICE_CATEGORY_ROOTS = CATEGORY_ROOTS.filter((categoryId) => ENGINE_BY_CATEGORY[categoryId]?.id === 'vslice');
 const PERIODS = [
   ['today', 'day', 'Best of Today', 24 * 60 * 60],
   ['week', 'week', 'Best of This Week', 7 * 24 * 60 * 60],
@@ -197,17 +192,11 @@ async function readPreviousFeaturedData(fileName) {
 }
 
 const previousFeaturedData = await readPreviousFeaturedData('featured.json');
-const previousVsliceFeaturedData = await readPreviousFeaturedData('featured-vslice.json');
 const sources = await fetchFeaturedSources();
 const featuredData = await buildFeaturedData(CATEGORY_ROOTS, sources);
 if (previousFeaturedData?.revision === featuredData.revision) {
   featuredData.generatedAt = previousFeaturedData.generatedAt;
 }
-const vsliceFeaturedData = await buildFeaturedData(VSLICE_CATEGORY_ROOTS, sources);
-if (previousVsliceFeaturedData?.revision === vsliceFeaturedData.revision) {
-  vsliceFeaturedData.generatedAt = previousVsliceFeaturedData.generatedAt;
-}
 await mkdir(new URL('../public/', import.meta.url), { recursive: true });
 await writeFile(new URL('../public/featured.json', import.meta.url), `${JSON.stringify(featuredData, null, 2)}\n`);
-await writeFile(new URL('../public/featured-vslice.json', import.meta.url), `${JSON.stringify(vsliceFeaturedData, null, 2)}\n`);
 await rm(new URL('../public/featured-manifest.json', import.meta.url), { force: true });
