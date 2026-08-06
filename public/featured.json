@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-06T10:17:28.780Z",
-  "revision": "23f2cca6cd93ff86",
+  "generatedAt": "2026-08-06T12:21:36.911Z",
+  "revision": "a1934fc98ea44930",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -22,9 +22,9 @@
           "description": "A mod that reboots the 2022 Vs Nermal mod, apart of Team Bloopy.Jon needs someone to look after the house for him during the day while he’s out, so he hires Girlfriend, daughter of the dearest family, and she brings Boyfriend. Garfield doesn't like the news of a new visitor, so he hides as much as he possibly can. Meanwhile, Nermal (Garfield’s hated enemy) is staying at the house and greets them with a friendly rap battle (He wants to show Girlfriend how cute he is).",
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
-          "likes": 150,
-          "downloads": 7948,
-          "views": 8249,
+          "likes": 151,
+          "downloads": 7987,
+          "views": 8282,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -39,36 +39,14 @@
           }
         },
         {
-          "id": 571604,
-          "title": "FNF:REDONE",
-          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
-          "author": "Key97",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
-          "likes": 63,
-          "downloads": 8428,
-          "views": 35892,
-          "publishedAt": 1737928649,
-          "updatedAt": 1785929300,
-          "url": "https://gamebanana.com/mods/571604",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
           "id": 615291,
           "title": "[FAH MIX] The Average OC Mod 2.5",
           "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.BF is transported to a mystical brightly lit space with a woman he's never met, and things only get deeper from there. This mod includes:>Four full (?) original songs, featuring vastly different ideas and characters.>A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.>A loosely driven, solely shown in pause menu story spanning every song.>Custom menus, featuring brand new music work and hand-drawn visuals.>30+ Achievements and unlockables>OCs, duh.",
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
           "likes": 54,
-          "downloads": 1080,
-          "views": 10793,
+          "downloads": 1085,
+          "views": 10813,
           "publishedAt": 1755844445,
           "updatedAt": 1786000066,
           "url": "https://gamebanana.com/mods/615291",
@@ -89,10 +67,10 @@
           "author": "Mask231",
           "image": "https://images.gamebanana.com/img/ss/mods/66a8054e3942d.jpg",
           "likes": 32,
-          "downloads": 10954,
-          "views": 37475,
+          "downloads": 10956,
+          "views": 37486,
           "publishedAt": 1722266671,
-          "updatedAt": 1785948479,
+          "updatedAt": 1786012638,
           "url": "https://gamebanana.com/mods/531587",
           "engine": {
             "id": "psych",
@@ -110,9 +88,9 @@
           "description": "After a long period of work, we have improved and expanded this mod- which previously looked low-qualityand here it is:NORMAL DAY FUNKIN: DEMO 2:+ Full Week Of browncoat Zombie + Demo of week 2 with Micheal Jackson+ 1 Freeplay Song ..And Also!!+NEW AND FIXED MENU STUFF!! Also, I do not allow the creation of fan mods, song FLP files, or covers based on this mod. However, if you would like to help with the mod, I would welcome it, as the mod is not yet finished.PLEASE BEFORE PLAYING READ THIS:DONT PLAY MOD WITH ONLY MODS FOLDER!! PLAY THE FULL BUILDIf something like this appears when you launch the mod, follow and apply these steps. Rest assured about the mod.look at ''LOOK AT THIS'' png, it will help you!!thank you for readingalso you cant enter something with pressing 7 on main menu, so, just play mod",
           "author": "REXTYLE",
           "image": "https://images.gamebanana.com/img/ss/mods/6a4e44488c035.jpg",
-          "likes": 23,
-          "downloads": 1183,
-          "views": 2895,
+          "likes": 24,
+          "downloads": 1187,
+          "views": 2907,
           "publishedAt": 1783516583,
           "updatedAt": 1785999174,
           "url": "https://gamebanana.com/mods/692593",
@@ -124,6 +102,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 700820,
+          "title": "A POTENTIALLY EDUCATIONAL FNF MOD!",
+          "description": "Rap against Baldi in his newfangled singing minigame!Yeah uhhhh i got bored again and uh yea.baldi.Really like how this came out.",
+          "author": "CollinC1317",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a738cd6827fc.jpg",
+          "likes": 7,
+          "downloads": 180,
+          "views": 188,
+          "publishedAt": 1785960155,
+          "updatedAt": 1785961084,
+          "url": "https://gamebanana.com/mods/700820",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 275,
-          "downloads": 25882,
-          "views": 103389,
+          "downloads": 25910,
+          "views": 103408,
           "publishedAt": 1720810950,
           "updatedAt": 1785825502,
           "url": "https://gamebanana.com/mods/527369",
@@ -161,7 +161,7 @@
           "author": "Buryu_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
-          "downloads": 2913,
+          "downloads": 2915,
           "views": 19620,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
@@ -183,8 +183,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 95,
-          "downloads": 4205,
-          "views": 17276,
+          "downloads": 4219,
+          "views": 17297,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -205,8 +205,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6ee9665feb7.jpg",
           "likes": 87,
-          "downloads": 3786,
-          "views": 11393,
+          "downloads": 3792,
+          "views": 11405,
           "publishedAt": 1754528161,
           "updatedAt": 1785688715,
           "url": "https://gamebanana.com/mods/611878",
@@ -227,8 +227,8 @@
           "author": "beihu235",
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
-          "downloads": 9255,
-          "views": 49345,
+          "downloads": 9258,
+          "views": 49357,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -255,8 +255,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2337,
-          "downloads": 1791210,
-          "views": 3333380,
+          "downloads": 1791280,
+          "views": 3333398,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -277,8 +277,8 @@
           "author": "blam_daylight",
           "image": "https://images.gamebanana.com/img/ss/mods/69ee4aa0eee17.jpg",
           "likes": 383,
-          "downloads": 72251,
-          "views": 148139,
+          "downloads": 72261,
+          "views": 148149,
           "publishedAt": 1735749157,
           "updatedAt": 1784481526,
           "url": "https://gamebanana.com/mods/566192",
@@ -299,8 +299,8 @@
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
           "likes": 381,
-          "downloads": 98649,
-          "views": 26841,
+          "downloads": 99012,
+          "views": 26925,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -321,8 +321,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 253,
-          "downloads": 84424,
-          "views": 30141,
+          "downloads": 84452,
+          "views": 30159,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -343,8 +343,8 @@
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 117,
-          "downloads": 25889,
-          "views": 81744,
+          "downloads": 25894,
+          "views": 81748,
           "publishedAt": 1661343542,
           "updatedAt": 1784977992,
           "url": "https://gamebanana.com/mods/397970",
@@ -371,8 +371,8 @@
           "author": "FridayDayFunkin",
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 164,
-          "downloads": 23882,
-          "views": 20592,
+          "downloads": 23890,
+          "views": 20603,
           "publishedAt": 1782072173,
           "updatedAt": 1782154971,
           "url": "https://gamebanana.com/mods/673891",
@@ -393,8 +393,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 91,
-          "downloads": 4246,
-          "views": 21772,
+          "downloads": 4257,
+          "views": 21785,
           "publishedAt": 1742496031,
           "updatedAt": 1785373145,
           "url": "https://gamebanana.com/mods/582726",
@@ -415,8 +415,8 @@
           "author": "haywireghost",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
           "likes": 67,
-          "downloads": 4354,
-          "views": 3947,
+          "downloads": 4380,
+          "views": 3982,
           "publishedAt": 1785524316,
           "updatedAt": 1785783066,
           "url": "https://gamebanana.com/mods/697876",
@@ -431,14 +431,36 @@
           }
         },
         {
+          "id": 571604,
+          "title": "FNF:REDONE",
+          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
+          "author": "Key97",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
+          "likes": 63,
+          "downloads": 8429,
+          "views": 35898,
+          "publishedAt": 1737928649,
+          "updatedAt": 1785929300,
+          "url": "https://gamebanana.com/mods/571604",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
           "id": 691582,
           "title": "VS TORD RETORDED",
           "description": "hello this is tord retorded u should know tord`s car number yes(retake of vs tord/vs tord exprantennnrt)here first week and 1 freeplay sonkyeah, I renamed archive that wasn't funny, okay? ok",
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 53,
-          "downloads": 2065,
-          "views": 5503,
+          "downloads": 2071,
+          "views": 5504,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -450,28 +472,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 679223,
-          "title": "Sonic 3D Blast FNF Port!",
-          "description": "For a while now I've been made aware of lots things that were just different and wrong with my copy of Sonic 3d Blastso I figured I'd upload it to the internet to show you all.IT IS ALSO NOT A VIRUS IGNORE ANY WARNINGS SAYING IT ISJUST A MOD MADE FOR FUN",
-          "author": "Wulsy",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a46a71970b2c.jpg",
-          "likes": 53,
-          "downloads": 924,
-          "views": 5436,
-          "publishedAt": 1784324889,
-          "updatedAt": 1784431721,
-          "url": "https://gamebanana.com/mods/679223",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -488,7 +488,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
           "downloads": 6096,
-          "views": 17782,
+          "views": 17783,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -503,14 +503,36 @@
           }
         },
         {
+          "id": 679223,
+          "title": "Sonic 3D Blast FNF Port!",
+          "description": "For a while now I've been made aware of lots things that were just different and wrong with my copy of Sonic 3d Blastso I figured I'd upload it to the internet to show you all.IT IS ALSO NOT A VIRUS IGNORE ANY WARNINGS SAYING IT ISJUST A MOD MADE FOR FUN",
+          "author": "Wulsy",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a46a71970b2c.jpg",
+          "likes": 53,
+          "downloads": 924,
+          "views": 5446,
+          "publishedAt": 1784324889,
+          "updatedAt": 1784431721,
+          "url": "https://gamebanana.com/mods/679223",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 698379,
           "title": "FNF: GUNLICK (DEMO)",
           "description": "Fashionably late, but here it is. GUNLICK!!! Demo. YesPlay as Beef.G as you face 3 different opponents in the City of ST.GROOVES!You’ll need Codename Engine 1.0.1 to play this mod pack.",
           "author": "skat3rpup537",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
-          "downloads": 1334,
-          "views": 2732,
+          "downloads": 1337,
+          "views": 2735,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -531,8 +553,8 @@
           "author": "blae",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69dba55f47a.jpg",
           "likes": 51,
-          "downloads": 2584,
-          "views": 2573,
+          "downloads": 2589,
+          "views": 2579,
           "publishedAt": 1785323078,
           "updatedAt": 1785323130,
           "url": "https://gamebanana.com/mods/698531",
@@ -554,32 +576,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/67d8d44d8ffe1.jpg",
           "likes": 49,
           "downloads": 3876,
-          "views": 68603,
+          "views": 68611,
           "publishedAt": 1644028494,
           "updatedAt": 1784803884,
           "url": "https://gamebanana.com/mods/355577",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 693558,
-          "title": "Vs. Prange Guy [PRANGER THAN EVER]",
-          "description": "FNF: Vs Prange Guy - [PRANGER THAN EVER] is a remake of FNF: Vs Prange Guy, a Friday Night Funkin' mod based on FNF: VS OURPLE GUY by kiwiquest.An Orange-Flavored D-Sides Take on Ourple GuyFalsely accused of a terrible crime, Prange flees from the police and crashes a local pizzeria looking for sanctuary. Instead of... safety... he finds Boyfriend and Girlfriend chilling inside. BF immediately drags him into an stupidly long rap battle. As the cops close in, Prange's nerves completely shatter, triggering a glitch that knocks him out cold.FeaturesRejuiced Visuals: All art has been done from scratch, truly pranger than ever if you ask me.Fresh music: All the soundtrack has been remade, hell, even the menu theme! New songs! Midnight, Lurking, Go Cliff... and those are just a few! Oh boy!And other awesome features!! Follow the development!Keep up-to-date with everything Prange on our Twitter! https://x.com/prangeguydsides/",
-          "author": "PinkyMichael76",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a54840ddd14d.jpg",
-          "likes": 49,
-          "downloads": 1790,
-          "views": 4283,
-          "publishedAt": 1784182079,
-          "updatedAt": 1784261661,
-          "url": "https://gamebanana.com/mods/693558",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -603,8 +603,8 @@
           "author": "mariosbignuts",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_689ffe5f69406.jpg",
           "likes": 316,
-          "downloads": 29444,
-          "views": 65214,
+          "downloads": 29450,
+          "views": 65225,
           "publishedAt": 1755466572,
           "updatedAt": 1772335834,
           "url": "https://gamebanana.com/mods/614094",
@@ -616,6 +616,28 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 693558,
+          "title": "Vs. Prange Guy [PRANGER THAN EVER]",
+          "description": "FNF: Vs Prange Guy - [PRANGER THAN EVER] is a remake of FNF: Vs Prange Guy, a Friday Night Funkin' mod based on FNF: VS OURPLE GUY by kiwiquest.An Orange-Flavored D-Sides Take on Ourple GuyFalsely accused of a terrible crime, Prange flees from the police and crashes a local pizzeria looking for sanctuary. Instead of... safety... he finds Boyfriend and Girlfriend chilling inside. BF immediately drags him into an stupidly long rap battle. As the cops close in, Prange's nerves completely shatter, triggering a glitch that knocks him out cold.FeaturesRejuiced Visuals: All art has been done from scratch, truly pranger than ever if you ask me.Fresh music: All the soundtrack has been remade, hell, even the menu theme! New songs! Midnight, Lurking, Go Cliff... and those are just a few! Oh boy!And other awesome features!! Follow the development!Keep up-to-date with everything Prange on our Twitter! https://x.com/prangeguydsides/",
+          "author": "PinkyMichael76",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a54840ddd14d.jpg",
+          "likes": 49,
+          "downloads": 1791,
+          "views": 4285,
+          "publishedAt": 1784182079,
+          "updatedAt": 1784261661,
+          "url": "https://gamebanana.com/mods/693558",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         },
         {
@@ -648,7 +670,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/692649592b215.jpg",
           "likes": 43,
           "downloads": 3755,
-          "views": 21064,
+          "views": 21067,
           "publishedAt": 1750799529,
           "updatedAt": 1785248564,
           "url": "https://gamebanana.com/mods/602743",
@@ -683,28 +705,6 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
-        {
-          "id": 684455,
-          "title": "Zootropolis Funkin' (Demo / V1)",
-          "description": "Zootopolis Funkin' is a new Codename Engine drag-n-drop mod that's simple and straight to the core. From one of the most memorable scenes in Disney's Zootopia, comes a lil' one-shot made with passion for the movie most of us grew-up with. Teaser and teaser, and the bread crumbs finally leading to this, we're so happy to see this lil' idea actually come to life after so long.Thank you to everyone who was excited for this, and the team for making it possible!(Message from Mash, go play Funkin' with The Bad Guys!)[Made by the same team for Zootropolis Funkin'!]",
-          "author": "Mashions",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a276a7eb6080.jpg",
-          "likes": 38,
-          "downloads": 873,
-          "views": 2787,
-          "publishedAt": 1780971461,
-          "updatedAt": 1781142958,
-          "url": "https://gamebanana.com/mods/684455",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
         }
       ]
     },
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3176,
-          "downloads": 4554307,
-          "views": 9486931,
+          "downloads": 4554356,
+          "views": 9486952,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2609,
-          "downloads": 1962300,
-          "views": 4418441,
+          "downloads": 1962369,
+          "views": 4418460,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3699841,
-          "views": 8855904,
+          "downloads": 3699890,
+          "views": 8855922,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -785,8 +785,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2074,
-          "downloads": 831503,
-          "views": 2916211,
+          "downloads": 831514,
+          "views": 2916232,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
@@ -807,8 +807,8 @@
           "author": "CommandoDev",
           "image": "https://images.gamebanana.com/img/ss/mods/619fc02aef0d4.jpg",
           "likes": 1955,
-          "downloads": 1889344,
-          "views": 4847485,
+          "downloads": 1889384,
+          "views": 4847512,
           "publishedAt": 1629665717,
           "updatedAt": 1629677474,
           "url": "https://gamebanana.com/mods/316022",
