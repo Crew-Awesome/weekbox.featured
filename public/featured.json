@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-09T21:47:36.394Z",
-  "revision": "7d432a28fdddd14b",
+  "generatedAt": "2026-08-09T22:49:12.665Z",
+  "revision": "b225eddbb5647396",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 277,
-          "downloads": 27265,
-          "views": 104344,
+          "downloads": 27295,
+          "views": 104376,
           "publishedAt": 1720810950,
           "updatedAt": 1786311546,
           "url": "https://gamebanana.com/mods/527369",
@@ -61,28 +61,6 @@
           }
         },
         {
-          "id": 611878,
-          "title": "The Ankha Beat Crossing - [Lolly Update]",
-          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
-          "author": "Antonyny",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
-          "likes": 98,
-          "downloads": 4242,
-          "views": 12062,
-          "publishedAt": 1754528161,
-          "updatedAt": 1786227386,
-          "url": "https://gamebanana.com/mods/611878",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
           "id": 615291,
           "title": "[FAH MIX] The Average OC Mod 2.5",
           "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.BF is transported to a mystical brightly lit space with a woman he's never met, and things only get deeper from there. This mod includes:>Four full (?) original songs, featuring vastly different ideas and characters.>A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.>A loosely driven, solely shown in pause menu story spanning every song.>Custom menus, featuring brand new music work and hand-drawn visuals.>30+ Achievements and unlockables>OCs, duh.",
@@ -90,7 +68,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
           "likes": 55,
           "downloads": 1156,
-          "views": 11246,
+          "views": 11251,
           "publishedAt": 1755844445,
           "updatedAt": 1786239491,
           "url": "https://gamebanana.com/mods/615291",
@@ -111,8 +89,8 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/67fd17313b289.jpg",
           "likes": 40,
-          "downloads": 1419,
-          "views": 6902,
+          "downloads": 1430,
+          "views": 6914,
           "publishedAt": 1744754720,
           "updatedAt": 1786244767,
           "url": "https://gamebanana.com/mods/588294",
@@ -124,6 +102,28 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
+          "id": 567478,
+          "title": "OBSCURA RE-TAKE [V2 CANCELED BUILD]",
+          "description": "WE DO NOT SUPPORT THE ACTIONS OF \"Blaze The Movie Fan\"This mod is a fan retake of BLAZETHEMOVIEFANFAN's original obscura mod!We have unfortunately canceled the update so everything in the V2 build is in an incomplete state or is missing completely.BUILDS:P-Slice Build is much more complete then the source build:Shaders workAlot more polishingCutscenes do not workSome bugs cause it to crash if pausing (i think)PISSED OFF SONG IS IN THIS BUILDNo menus (as its a mod folder MOD)(i recommend playing this build for ur first playthrough/gameplay)Psych 0.7.3 Source Build is incomplete due to trouble with porting and such:Shaders do not workLess polishingCutscenes workNo crash bugs (at least i think so)Menus! (a bit incomplete)NO PISSED OFF SONG(play this for the menus and gallery)",
+          "author": "cj_crew",
+          "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
+          "likes": 36,
+          "downloads": 1417,
+          "views": 7721,
+          "publishedAt": 1736231105,
+          "updatedAt": 1786245680,
+          "url": "https://gamebanana.com/mods/567478",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 156,
-          "downloads": 9108,
-          "views": 9226,
+          "downloads": 9111,
+          "views": 9241,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -161,8 +161,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 98,
-          "downloads": 4618,
-          "views": 18038,
+          "downloads": 4622,
+          "views": 18046,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -177,14 +177,36 @@
           }
         },
         {
+          "id": 611878,
+          "title": "The Ankha Beat Crossing - [Lolly Update]",
+          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
+          "author": "Antonyny",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
+          "likes": 98,
+          "downloads": 4248,
+          "views": 12090,
+          "publishedAt": 1754528161,
+          "updatedAt": 1786227386,
+          "url": "https://gamebanana.com/mods/611878",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
+        },
+        {
           "id": 697876,
           "title": "Petrifying Plumbers - Floor 1",
           "description": "EPILEPSY/DISCOMFORT WARNING: The mod contains flashing lights!Primarily based on the YouTube series The Power Star Archives by Greenlight.Watching it is recommended before playing!Many events from the episodes are altered in this mod and are not canon to the series.This mod plans to release via waves (titled Floors in this case), currently being at the first wave. This means that out of all of the content previously shown and teased, only a small portion of it will be available in this first wave.In the course of a tranquil night, BF and GF try out playing a random Mario fan game delivered by an anonymous user online...&nbsp;Fight against the AI in charge of the Power Star Project, Buggy, in his own game and make your way through the various floors of Peach's Castle as you complete songs and obtain Power Stars in order to unlock its doors, reach the top and figure out how to escape!Currently featuring 5 songs and a playable overworld hub, and on top of the PSA content, this mod also has a variety of other Mario fan media!&nbsp;Remember to check our Twitter and YouTube accounts for teasers and other information on what's to come!Get the&nbsp;Chromatics&nbsp;here.",
           "author": "haywireghost",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
           "likes": 78,
-          "downloads": 5206,
-          "views": 4874,
+          "downloads": 5223,
+          "views": 4884,
           "publishedAt": 1785524316,
           "updatedAt": 1785783066,
           "url": "https://gamebanana.com/mods/697876",
@@ -206,7 +228,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9306,
-          "views": 49659,
+          "views": 49661,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -218,28 +240,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 571604,
-          "title": "FNF:REDONE",
-          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
-          "author": "Key97",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
-          "likes": 63,
-          "downloads": 8701,
-          "views": 36174,
-          "publishedAt": 1737928649,
-          "updatedAt": 1786106067,
-          "url": "https://gamebanana.com/mods/571604",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -255,8 +255,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2339,
-          "downloads": 1795271,
-          "views": 3334462,
+          "downloads": 1795327,
+          "views": 3334473,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -276,9 +276,9 @@
           "description": "Boyfriend is missing late at night, and you, Girlfriend, are out looking for him. Mind laiden with panic, head swimming with thought\"Oh where could he be? perhaps our favourite spot?\"And as sun met horizon, the night fast encroaching...A sound from the distance, and slowly approaching.A call from the fog, a beckoning voice...Why don't you come closer, you don't have a choice.\"To hell with it\" you speak aloud, and advance.You put one foot forward, and enter my dance...So into the darkness, and into the black.Not knowing, or caring, if you'll ever come back.- - Available for Mac, Windows, and Linux!A demo for the official reboot of the Poképasta mod Hypno's Lullaby V2, FNF Lullaby was passed down to newer leadership, featuring legacy developers still in play. Its been a long time coming to ensure the game is brought back alive, birthed in a new light. I can't help but be proud of each and every single member that contributed and came along with us through the full journey. Enter the grand shop that is the Cabinet of Novelties, and aid the ever illustrious Collector in his journey to, well, collect magical artifacts. Your paycheck? Endless entertainment in the form of bootleg cartridges imbued with suffering essence. Become a Collectoree! For more information, visit cabinetofnovelties.com.For those who are struggling with the fangame's mechanics; the Collector offers his services localized in the shop's Console settings under Misc, titled \"Baby Mode.\"This fangame was made using Rubicon Engine, a Godot FNF Engine.- - For immediate advanced settings:Windows/LinuxCTRL + ALT + SMacCMD + Option + S",
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
-          "likes": 398,
-          "downloads": 124645,
-          "views": 31609,
+          "likes": 400,
+          "downloads": 125109,
+          "views": 31728,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -299,8 +299,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 253,
-          "downloads": 86155,
-          "views": 30903,
+          "downloads": 86163,
+          "views": 30911,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -343,8 +343,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 92,
-          "downloads": 4477,
-          "views": 22002,
+          "downloads": 4480,
+          "views": 22004,
           "publishedAt": 1742496031,
           "updatedAt": 1785373145,
           "url": "https://gamebanana.com/mods/582726",
@@ -371,8 +371,8 @@
           "author": "FridayDayFunkin",
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 164,
-          "downloads": 24645,
-          "views": 21231,
+          "downloads": 24655,
+          "views": 21239,
           "publishedAt": 1782072173,
           "updatedAt": 1782154971,
           "url": "https://gamebanana.com/mods/673891",
@@ -384,6 +384,28 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 571604,
+          "title": "FNF:REDONE",
+          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
+          "author": "Key97",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
+          "likes": 63,
+          "downloads": 8701,
+          "views": 36175,
+          "publishedAt": 1737928649,
+          "updatedAt": 1786106067,
+          "url": "https://gamebanana.com/mods/571604",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         },
         {
@@ -415,8 +437,8 @@
           "author": "blae",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69dba55f47a.jpg",
           "likes": 52,
-          "downloads": 2940,
-          "views": 2936,
+          "downloads": 2945,
+          "views": 2939,
           "publishedAt": 1785323078,
           "updatedAt": 1785323130,
           "url": "https://gamebanana.com/mods/698531",
@@ -438,7 +460,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
           "downloads": 1464,
-          "views": 3114,
+          "views": 3120,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -450,28 +472,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 355577,
-          "title": "Internet Favorites 6.2.1",
-          "description": "Installation, How-To's, and Differences from base Psych can be found here: GitHub LinkMobile users trying to import an update to the mod can go straight to here: GitHub LinkGAME ISNT LOADING!!!!1. If you can't play cuz of \"default\" missing asset ID error, move folder \"THE GAME\" out of the zipped folder download. EX. downloads/THEGAME2. If you have error \"file path too long\" unzip / use 7zip. Windows Issue.3. Airborne Robots \"Null Object Reference\" crash: Honestly idfk vro, sometimes it works sometimes it don't, or wont at all. I'm lost on this issue.",
-          "author": "PringleKitten",
-          "image": "https://images.gamebanana.com/img/ss/mods/67d8d44d8ffe1.jpg",
-          "likes": 49,
-          "downloads": 3881,
-          "views": 68742,
-          "publishedAt": 1644028494,
-          "updatedAt": 1784803884,
-          "url": "https://gamebanana.com/mods/355577",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -488,7 +488,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
           "downloads": 6181,
-          "views": 17975,
+          "views": 17976,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -503,6 +503,28 @@
           }
         },
         {
+          "id": 355577,
+          "title": "Internet Favorites 6.2.1",
+          "description": "Installation, How-To's, and Differences from base Psych can be found here: GitHub LinkMobile users trying to import an update to the mod can go straight to here: GitHub LinkGAME ISNT LOADING!!!!1. If you can't play cuz of \"default\" missing asset ID error, move folder \"THE GAME\" out of the zipped folder download. EX. downloads/THEGAME2. If you have error \"file path too long\" unzip / use 7zip. Windows Issue.3. Airborne Robots \"Null Object Reference\" crash: Honestly idfk vro, sometimes it works sometimes it don't, or wont at all. I'm lost on this issue.",
+          "author": "PringleKitten",
+          "image": "https://images.gamebanana.com/img/ss/mods/67d8d44d8ffe1.jpg",
+          "likes": 49,
+          "downloads": 3881,
+          "views": 68743,
+          "publishedAt": 1644028494,
+          "updatedAt": 1784803884,
+          "url": "https://gamebanana.com/mods/355577",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 602743,
           "title": "Plus Engine",
           "description": "Engine based in Psych 1.0.4 with modcharts like NotITG and compatible with hxcodec videos from Psych mods 0.6.3 and 0.7.3.Join the Discord!!Contributions are welcome! If you have ideas, improvements, or fixes, feel free to fork the repo and open a pull request.> This project is subject to bugs, fixes, improvements and changes.## Developer Credits:* Lenin Asto - Main Programmer for Plus Engine Fork* Legacy Odyssey - Co-Programmer for Plus Engine Fork## Original Credits:* Shadow Mario - Main Programmer and Head of Psych Engine.* Riveren - Main Artist/Animator of Psych Engine.## Mobile Credits:* Homura - Head Porter of Psych Engine Mobile.* Karim - Second Porter of Psych Engine Mobile.* Moxie - Helper of Psych Engine Mobile.## Special Thanks* bbpanzu - Ex-Team Member (Programmer).* crowplexus - HScript Iris, Input System v3, and Other PRs.* Kamizeta - Creator of Pessy, Psych Engine's mascot.* MaxNeton - Loading Screen Easter Egg Artist/Animator.* Keoiki - Note Splash Animations and Latin Alphabet.* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform.* EliteMasterEric - Runtime Shaders support and Other PRs.* MAJigsaw77 - .MP4 Video Loader Library (hxvlc).* iFlicky - Composer of Psync, Tea Time and some sound effects.* KadeDev - Fixed some issues on Chart Editor and Other PRs.* superpowers04 - LUA JIT Fork.* CheemsAndFriends - Creator of FlxAnimate.* Ezhalt - Pessy's Easter Egg Jingle.* MaliciousBunny - Video for the Final Update.***# Build Mobile:You need to have:- Android Build Tools / Android Command Line Tools- Android SDK 35- Android NDK r27d- Java JDK 17# Features after 1.0.4- Variables for window and system management in Lua: Many variables were added, whether to hide the taskbar or window borders, etc.- Key Viewer- Modchart support and settings.- New Gameplay Changers (Opponent Mode, No Drop Penalty, Perfect Only).- You can choose your default accuracy system. ITG, Psych, DJMax, Wife3, osu!, Simple- Added the songs \"erect\" and \"nightmare\"* Support for NotITG levels (without modifiers) and Stepmania, includes UI- Android support- Added the \"miss\" and \"combo broken\" sprites- Added the option for \"bad\" and \"shit\" to break the combo- New VideoSprite functionality with optimized hxvlc- New shader compatibility depending on your graphics card- Judgement Counter.- Advanced variables in Lua for the craziest Modcharts.- New results State and really cool.- Compatible wth hxcodec videos from Psych mods 0.6.3 and 0.7.3.- Smooth Health Bar* +5 Languages availables- New cool transicioning- If you are in Charting Mode the step, beat, and section will be displayed in gameplay.- FPS Counter rework- Trace in Game- Rework the OutdatedSubstate.hx* Rework the FreeplayState.hx- More things will continue to be added in the future...#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99",
@@ -510,7 +532,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/692649592b215.jpg",
           "likes": 43,
           "downloads": 3768,
-          "views": 21239,
+          "views": 21242,
           "publishedAt": 1750799529,
           "updatedAt": 1785248564,
           "url": "https://gamebanana.com/mods/602743",
@@ -531,8 +553,8 @@
           "author": "vurado",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6322904273e.jpg",
           "likes": 41,
-          "downloads": 2206,
-          "views": 7814,
+          "downloads": 2207,
+          "views": 7817,
           "publishedAt": 1764954949,
           "updatedAt": 1785454421,
           "url": "https://gamebanana.com/mods/637709",
@@ -567,28 +589,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
-        {
-          "id": 553388,
-          "title": "Friday Night Funkin': SollVerse Release 1.0 Update",
-          "description": "One day, Boyfriend and Girlfriend woke up in a place they shouldn’t have been. The air was quiet, and the world felt strangely unfamiliar. In the distance, a tall figure stepped forward, staring straight at Boyfriend....SollVerse is a fun project that has been inspired by Mid-Fight Masses and Muzix Medley (apart from what happened....).RELEASE 1.0!&nbsp;This Version features 5 songs.Uncertain By Roller Lhite!Atomizer By Kyotoxer!Sapphire By SollaxxScape &amp; Kyotoxer!&nbsp;Epistrophy By TheMFM!Amethyst By TheMFM!and one more extra song ;)A Custom Build Psych Engine called Sollaxx Engine!Version 2.1More soonDisclaimer: The mod has just left the BETA STAGE, but still will have tons of updates in the future.updates will be available over time of mod's development.Stay Tuned!-SollaxxScape",
-          "author": "SollaxxScape",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
-          "likes": 37,
-          "downloads": 6834,
-          "views": 18184,
-          "publishedAt": 1730671567,
-          "updatedAt": 1785533675,
-          "url": "https://gamebanana.com/mods/553388",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -602,9 +602,9 @@
           "description": "What started off as a oneshot reskin based off Octigone's remix of Pico, has now turned into a full mod!This mod is a full reskin of FNF, based off PC games from the early-mid 2000's. It contains an original story, featuring custom art, and new music made by few of the many talented people in the fandom! You will need codename engine to play this, download it herehttps://codename-engine.com/(IF YOU ALREADY HAVE CODENAME ENGINE, PLEASE UPDATE IT TO VERSION 1.0, WHICH HAS ONLY BEEN RECENTLY RELEASED!! THIS MOD WILL NOT FUNCTION PROPERLY ON BETA VERSIONS)P.S. funk101 will be updated in a future update",
           "author": "mariosbignuts",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_689ffe5f69406.jpg",
-          "likes": 316,
-          "downloads": 29727,
-          "views": 65731,
+          "likes": 317,
+          "downloads": 29735,
+          "views": 65739,
           "publishedAt": 1755466572,
           "updatedAt": 1772335834,
           "url": "https://gamebanana.com/mods/614094",
@@ -619,17 +619,17 @@
           }
         },
         {
-          "id": 618481,
-          "title": "Fridtay Funk Baldi ; Kill Baldi",
-          "description": "This mod is all about Baldi’s Basics fangames! It’s mostly a fun, high-effort troll rather than a serious mod! so i hope yall would like it!i really don't know what to say i hope you would enjoy it:]FLASHING LIGHTS WARNING",
-          "author": "BaranMuzu",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a3874c46c583.jpg",
+          "id": 553388,
+          "title": "Friday Night Funkin': SollVerse Release 1.0 Update",
+          "description": "One day, Boyfriend and Girlfriend woke up in a place they shouldn’t have been. The air was quiet, and the world felt strangely unfamiliar. In the distance, a tall figure stepped forward, staring straight at Boyfriend....SollVerse is a fun project that has been inspired by Mid-Fight Masses and Muzix Medley (apart from what happened....).RELEASE 1.0!&nbsp;This Version features 5 songs.Uncertain By Roller Lhite!Atomizer By Kyotoxer!Sapphire By SollaxxScape &amp; Kyotoxer!&nbsp;Epistrophy By TheMFM!Amethyst By TheMFM!and one more extra song ;)A Custom Build Psych Engine called Sollaxx Engine!Version 2.1More soonDisclaimer: The mod has just left the BETA STAGE, but still will have tons of updates in the future.updates will be available over time of mod's development.Stay Tuned!-SollaxxScape",
+          "author": "SollaxxScape",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 37,
-          "downloads": 2372,
-          "views": 10941,
-          "publishedAt": 1757174800,
-          "updatedAt": 1785315635,
-          "url": "https://gamebanana.com/mods/618481",
+          "downloads": 6834,
+          "views": 18185,
+          "publishedAt": 1730671567,
+          "updatedAt": 1785533675,
+          "url": "https://gamebanana.com/mods/553388",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -641,25 +641,25 @@
           }
         },
         {
-          "id": 567478,
-          "title": "OBSCURA RE-TAKE [V2 CANCELED BUILD]",
-          "description": "WE DO NOT SUPPORT THE ACTIONS OF \"Blaze The Movie Fan\"This mod is a fan retake of BLAZETHEMOVIEFANFAN's original obscura mod!We have unfortunately canceled the update so everything in the V2 build is in an incomplete state or is missing completely.BUILDS:P-Slice Build is much more complete then the source build:Shaders workAlot more polishingCutscenes do not workSome bugs cause it to crash if pausing (i think)PISSED OFF SONG IS IN THIS BUILDNo menus (as its a mod folder MOD)(i recommend playing this build for ur first playthrough/gameplay)Psych 0.7.3 Source Build is incomplete due to trouble with porting and such:Shaders do not workLess polishingCutscenes workNo crash bugs (at least i think so)Menus! (a bit incomplete)NO PISSED OFF SONG(play this for the menus and gallery)",
-          "author": "cj_crew",
-          "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
-          "likes": 36,
-          "downloads": 1410,
-          "views": 7720,
-          "publishedAt": 1736231105,
-          "updatedAt": 1786245680,
-          "url": "https://gamebanana.com/mods/567478",
+          "id": 618481,
+          "title": "Fridtay Funk Baldi ; Kill Baldi",
+          "description": "This mod is all about Baldi’s Basics fangames! It’s mostly a fun, high-effort troll rather than a serious mod! so i hope yall would like it!i really don't know what to say i hope you would enjoy it:]FLASHING LIGHTS WARNING",
+          "author": "BaranMuzu",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a3874c46c583.jpg",
+          "likes": 37,
+          "downloads": 2372,
+          "views": 10944,
+          "publishedAt": 1757174800,
+          "updatedAt": 1785315635,
+          "url": "https://gamebanana.com/mods/618481",
           "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
           },
           "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         },
         {
@@ -692,7 +692,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6764971da6e1e.jpg",
           "likes": 35,
           "downloads": 805,
-          "views": 7792,
+          "views": 7794,
           "publishedAt": 1734645693,
           "updatedAt": 1785842212,
           "url": "https://gamebanana.com/mods/563212",
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3177,
-          "downloads": 4557567,
-          "views": 9487967,
+          "downloads": 4557578,
+          "views": 9487972,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2610,
-          "downloads": 1965354,
-          "views": 4419447,
+          "downloads": 1965385,
+          "views": 4419462,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3702129,
-          "views": 8856600,
+          "downloads": 3702147,
+          "views": 8856608,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -785,8 +785,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2076,
-          "downloads": 832226,
-          "views": 2917062,
+          "downloads": 832239,
+          "views": 2917072,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
@@ -807,8 +807,8 @@
           "author": "CommandoDev",
           "image": "https://images.gamebanana.com/img/ss/mods/619fc02aef0d4.jpg",
           "likes": 1955,
-          "downloads": 1891642,
-          "views": 4848475,
+          "downloads": 1891676,
+          "views": 4848485,
           "publishedAt": 1629665717,
           "updatedAt": 1629677474,
           "url": "https://gamebanana.com/mods/316022",
