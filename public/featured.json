@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-14T16:05:45.680Z",
-  "revision": "9401a3481746df8f",
+  "generatedAt": "2026-08-14T17:10:51.895Z",
+  "revision": "3c2f5bc11d163b4d",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "laik7u7",
           "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
           "likes": 27,
-          "downloads": 8127,
-          "views": 8154,
+          "downloads": 8146,
+          "views": 8197,
           "publishedAt": 1783906665,
           "updatedAt": 1786716087,
           "url": "https://gamebanana.com/mods/693828",
@@ -45,8 +45,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 25,
-          "downloads": 977,
-          "views": 1163,
+          "downloads": 997,
+          "views": 1173,
           "publishedAt": 1786600885,
           "updatedAt": 1786681091,
           "url": "https://gamebanana.com/mods/703563",
@@ -67,8 +67,8 @@
           "author": "nutshellover39",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a1b6dcc522.jpg",
           "likes": 22,
-          "downloads": 829,
-          "views": 1916,
+          "downloads": 840,
+          "views": 1927,
           "publishedAt": 1786388010,
           "updatedAt": 1786691012,
           "url": "https://gamebanana.com/mods/702651",
@@ -89,8 +89,8 @@
           "author": "SS iResPawn",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e7fa9bf54d.jpg",
           "likes": 22,
-          "downloads": 218,
-          "views": 1783,
+          "downloads": 220,
+          "views": 1787,
           "publishedAt": 1764290477,
           "updatedAt": 1786677682,
           "url": "https://gamebanana.com/mods/636290",
@@ -139,8 +139,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 285,
-          "downloads": 28725,
-          "views": 105812,
+          "downloads": 28735,
+          "views": 105822,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -161,8 +161,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 273,
-          "downloads": 33364,
-          "views": 84085,
+          "downloads": 33366,
+          "views": 84096,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -183,8 +183,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 99,
-          "downloads": 4530,
-          "views": 12729,
+          "downloads": 4532,
+          "views": 12733,
           "publishedAt": 1754528161,
           "updatedAt": 1786227386,
           "url": "https://gamebanana.com/mods/611878",
@@ -206,7 +206,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 96,
           "downloads": 5233,
-          "views": 22778,
+          "views": 22783,
           "publishedAt": 1742496031,
           "updatedAt": 1786544403,
           "url": "https://gamebanana.com/mods/582726",
@@ -227,8 +227,8 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 66,
-          "downloads": 4594,
-          "views": 11504,
+          "downloads": 4602,
+          "views": 11506,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
           "url": "https://gamebanana.com/mods/636619",
@@ -249,36 +249,14 @@
       "label": "Best of This Month",
       "mods": [
         {
-          "id": 55652,
-          "title": "VS IMPOSTOR: LEGACY",
-          "description": "VS IMPOSTOR IS BACK!A from-the-ground-up remaster of the 2023 mod, VS IMPOSTOR V4! VS IMPOSTOR: LEGACY intends to be faithful to the original experience, while introducing new tweaks and features to make it the definitive version of the mod you know and love!VS IMPOSTOR is a total-conversion mod for Friday Night Funkin', in which you face off against colorful Among Us characters. With over 10 weeks and 57 songs! this mod has plenty of content for you to explore, especially with brand-new awards and cosmetics for you to find and collect! And who knows? maybe there are more secrets to discover...OPTIMIZATIONTHE MOD IS ACTUALLY OPTIMIZED NOW... here's a little comparison of Danger alone... although in the real v4 nothing ever unloaded from your memory so by the time you'd get to danger on a fresh playthrough it'd probably be more like 4gigsLANGUAGEThis time around, the mod's not only in English! We've brought members of the community together and have translated the mod into 28 languages!EXPANDED COSMICUBE!Legacy's Cosmicube has been heavily expanded compared to the original from 2023. With tons of new skins and pets to find, you'll have a lot more to find and discover!AWARDSThere are 28 new awards for you to unlock! Will you get them all?BRAND-NEW DLC!With 5 new songs, and an entirely new Cosmicube, the SECURITY DLC will be made available when Legacy launches on April 25th!To install, just drag and drop the \"securitydlc\" folder into the content folderStill need help? Follow our video guide!MODDINGWanna make your own cosmicube? Add your own week or songs! Check out the official modding doc!",
-          "author": "Clowfoe",
-          "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
-          "likes": 2339,
-          "downloads": 1799978,
-          "views": 3335931,
-          "publishedAt": 1619342831,
-          "updatedAt": 1784840160,
-          "url": "https://gamebanana.com/mods/55652",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 696957,
           "title": "HYPNO'S LULLABY REBOOT [Demo]",
           "description": "Boyfriend is missing late at night, and you, Girlfriend, are out looking for him. Mind laiden with panic, head swimming with thought\"Oh where could he be? perhaps our favourite spot?\"And as sun met horizon, the night fast encroaching...A sound from the distance, and slowly approaching.A call from the fog, a beckoning voice...Why don't you come closer, you don't have a choice.\"To hell with it\" you speak aloud, and advance.You put one foot forward, and enter my dance...So into the darkness, and into the black.Not knowing, or caring, if you'll ever come back.- - Available for Mac, Windows, and Linux!A demo for the official reboot of the Poképasta mod Hypno's Lullaby V2, FNF Lullaby was passed down to newer leadership, featuring legacy developers still in play. Its been a long time coming to ensure the game is brought back alive, birthed in a new light. I can't help but be proud of each and every single member that contributed and came along with us through the full journey. Enter the grand shop that is the Cabinet of Novelties, and aid the ever illustrious Collector in his journey to, well, collect magical artifacts. Your paycheck? Endless entertainment in the form of bootleg cartridges imbued with suffering essence. Become a Collectoree! For more information, visit cabinetofnovelties.com.For those who are struggling with the fangame's mechanics; the Collector offers his services localized in the shop's Console settings under Misc, titled \"Baby Mode.\"This fangame was made using Rubicon Engine, a Godot FNF Engine.- - For immediate advanced settings:Windows/LinuxCTRL + ALT + SMacCMD + Option + S",
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
           "likes": 421,
-          "downloads": 147037,
-          "views": 36644,
+          "downloads": 147186,
+          "views": 36680,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -299,8 +277,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 255,
-          "downloads": 88063,
-          "views": 31846,
+          "downloads": 88085,
+          "views": 31853,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -321,8 +299,8 @@
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 156,
-          "downloads": 9654,
-          "views": 10013,
+          "downloads": 9660,
+          "views": 10021,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -343,8 +321,8 @@
           "author": "Buryu_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
-          "downloads": 3132,
-          "views": 19759,
+          "downloads": 3133,
+          "views": 19760,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
           "url": "https://gamebanana.com/mods/430425",
@@ -356,6 +334,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 592129,
+          "title": "awesome mod V2.1",
+          "description": "awesome mod about a awesome dude made by awesome friendscheck now",
+          "author": "hypsk8r",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
+          "likes": 99,
+          "downloads": 4885,
+          "views": 18606,
+          "publishedAt": 1746284275,
+          "updatedAt": 1785749709,
+          "url": "https://gamebanana.com/mods/592129",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -371,33 +371,11 @@
           "author": "FridayDayFunkin",
           "image": "https://images.gamebanana.com/img/ss/mods/69fde790a1feb.jpg",
           "likes": 164,
-          "downloads": 25468,
-          "views": 22039,
+          "downloads": 25476,
+          "views": 22043,
           "publishedAt": 1782072173,
           "updatedAt": 1782154971,
           "url": "https://gamebanana.com/mods/673891",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 592129,
-          "title": "awesome mod V2.1",
-          "description": "awesome mod about a awesome dude made by awesome friendscheck now",
-          "author": "hypsk8r",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
-          "likes": 99,
-          "downloads": 4880,
-          "views": 18601,
-          "publishedAt": 1746284275,
-          "updatedAt": 1785749709,
-          "url": "https://gamebanana.com/mods/592129",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -414,7 +392,7 @@
           "description": "EPILEPSY/DISCOMFORT WARNING: The mod contains flashing lights!Primarily based on the YouTube series The Power Star Archives by Greenlight.Watching it is recommended before playing!Many events from the episodes are altered in this mod and are not canon to the series.This mod plans to release via waves (titled Floors in this case), currently being at the first wave. This means that out of all of the content previously shown and teased, only a small portion of it will be available in this first wave.In the course of a tranquil night, BF and GF try out playing a random Mario fan game delivered by an anonymous user online...&nbsp;Fight against the AI in charge of the Power Star Project, Buggy, in his own game and make your way through the various floors of Peach's Castle as you complete songs and obtain Power Stars in order to unlock its doors, reach the top and figure out how to escape!Currently featuring 5 songs and a playable overworld hub, and on top of the PSA content, this mod also has a variety of other Mario fan media!&nbsp;Remember to check our Twitter and YouTube accounts for teasers and other information on what's to come!Get the&nbsp;Chromatics&nbsp;here.",
           "author": "haywireghost",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
-          "likes": 78,
+          "likes": 79,
           "downloads": 5808,
           "views": 5807,
           "publishedAt": 1785524316,
@@ -438,7 +416,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9341,
-          "views": 50006,
+          "views": 50010,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -459,7 +437,7 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 63,
-          "downloads": 8888,
+          "downloads": 8891,
           "views": 36314,
           "publishedAt": 1737928649,
           "updatedAt": 1786625765,
@@ -472,6 +450,28 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
+          "id": 702396,
+          "title": "SCP: Project Funkin'",
+          "description": "You are Boyfriend, and you wake up inside the SCP Foundation itself...A guard gives you a few instructions to help you survive—will you make it?WARNING: This version is free of updates, as we have encountered numerous issues.",
+          "author": "N1CEDEV",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
+          "likes": 63,
+          "downloads": 1393,
+          "views": 2063,
+          "publishedAt": 1786386490,
+          "updatedAt": 1786597426,
+          "url": "https://gamebanana.com/mods/702396",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -487,8 +487,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
-          "downloads": 6310,
-          "views": 18134,
+          "downloads": 6313,
+          "views": 18137,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -503,36 +503,14 @@
           }
         },
         {
-          "id": 702396,
-          "title": "SCP: Project Funkin'",
-          "description": "You are Boyfriend, and you wake up inside the SCP Foundation itself...A guard gives you a few instructions to help you survive—will you make it?WARNING: This version is free of updates, as we have encountered numerous issues.",
-          "author": "N1CEDEV",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
-          "likes": 63,
-          "downloads": 1385,
-          "views": 2051,
-          "publishedAt": 1786386490,
-          "updatedAt": 1786597426,
-          "url": "https://gamebanana.com/mods/702396",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 702283,
           "title": "Undertale: Funk Mode - Usurpation",
           "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 60,
-          "downloads": 2251,
-          "views": 3547,
+          "downloads": 2262,
+          "views": 3565,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -553,8 +531,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 58,
-          "downloads": 12396,
-          "views": 3742,
+          "downloads": 12592,
+          "views": 3778,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -589,6 +567,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 691582,
+          "title": "VS TORD RETORDED",
+          "description": "hello this is tord retorded u should know tord`s car number yes(retake of vs tord/vs tord exprantennnrt)here first week and 1 freeplay sonkyeah, I renamed archive that wasn't funny, okay? ok",
+          "author": "tordfan28",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
+          "likes": 53,
+          "downloads": 2315,
+          "views": 5892,
+          "publishedAt": 1783191342,
+          "updatedAt": 1783684925,
+          "url": "https://gamebanana.com/mods/691582",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
         }
       ]
     },
@@ -603,33 +603,11 @@
           "author": "mariosbignuts",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_689ffe5f69406.jpg",
           "likes": 321,
-          "downloads": 30073,
-          "views": 66340,
+          "downloads": 30075,
+          "views": 66343,
           "publishedAt": 1755466572,
           "updatedAt": 1772335834,
           "url": "https://gamebanana.com/mods/614094",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 691582,
-          "title": "VS TORD RETORDED",
-          "description": "hello this is tord retorded u should know tord`s car number yes(retake of vs tord/vs tord exprantennnrt)here first week and 1 freeplay sonkyeah, I renamed archive that wasn't funny, okay? ok",
-          "author": "tordfan28",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
-          "likes": 53,
-          "downloads": 2313,
-          "views": 5889,
-          "publishedAt": 1783191342,
-          "updatedAt": 1783684925,
-          "url": "https://gamebanana.com/mods/691582",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -647,8 +625,8 @@
           "author": "blae",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69dba55f47a.jpg",
           "likes": 52,
-          "downloads": 3224,
-          "views": 3204,
+          "downloads": 3228,
+          "views": 3205,
           "publishedAt": 1785323078,
           "updatedAt": 1785323130,
           "url": "https://gamebanana.com/mods/698531",
@@ -669,8 +647,8 @@
           "author": "skat3rpup537",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
-          "downloads": 1565,
-          "views": 3581,
+          "downloads": 1567,
+          "views": 3587,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -691,11 +669,33 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 45,
-          "downloads": 2204,
-          "views": 8817,
+          "downloads": 2218,
+          "views": 8822,
           "publishedAt": 1725825645,
           "updatedAt": 1786376086,
           "url": "https://gamebanana.com/mods/541027",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 602743,
+          "title": "Plus Engine",
+          "description": "Engine based in Psych 1.0.4 with modcharts like NotITG and compatible with hxcodec videos from Psych mods 0.6.3 and 0.7.3.Join the Discord!!Contributions are welcome! If you have ideas, improvements, or fixes, feel free to fork the repo and open a pull request.> This project is subject to bugs, fixes, improvements and changes.## Developer Credits:* Lenin Asto - Main Programmer for Plus Engine Fork* Legacy Odyssey - Co-Programmer for Plus Engine Fork## Original Credits:* Shadow Mario - Main Programmer and Head of Psych Engine.* Riveren - Main Artist/Animator of Psych Engine.## Mobile Credits:* Homura - Head Porter of Psych Engine Mobile.* Karim - Second Porter of Psych Engine Mobile.* Moxie - Helper of Psych Engine Mobile.## Special Thanks* bbpanzu - Ex-Team Member (Programmer).* crowplexus - HScript Iris, Input System v3, and Other PRs.* Kamizeta - Creator of Pessy, Psych Engine's mascot.* MaxNeton - Loading Screen Easter Egg Artist/Animator.* Keoiki - Note Splash Animations and Latin Alphabet.* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform.* EliteMasterEric - Runtime Shaders support and Other PRs.* MAJigsaw77 - .MP4 Video Loader Library (hxvlc).* iFlicky - Composer of Psync, Tea Time and some sound effects.* KadeDev - Fixed some issues on Chart Editor and Other PRs.* superpowers04 - LUA JIT Fork.* CheemsAndFriends - Creator of FlxAnimate.* Ezhalt - Pessy's Easter Egg Jingle.* MaliciousBunny - Video for the Final Update.***# Build Mobile:You need to have:- Android Build Tools / Android Command Line Tools- Android SDK 35- Android NDK r27d- Java JDK 17# Features after 1.0.4- Variables for window and system management in Lua: Many variables were added, whether to hide the taskbar or window borders, etc.- Key Viewer- Modchart support and settings.- New Gameplay Changers (Opponent Mode, No Drop Penalty, Perfect Only).- You can choose your default accuracy system. ITG, Psych, DJMax, Wife3, osu!, Simple- Added the songs \"erect\" and \"nightmare\"* Support for NotITG levels (without modifiers) and Stepmania, includes UI- Android support- Added the \"miss\" and \"combo broken\" sprites- Added the option for \"bad\" and \"shit\" to break the combo- New VideoSprite functionality with optimized hxvlc- New shader compatibility depending on your graphics card- Judgement Counter.- Advanced variables in Lua for the craziest Modcharts.- New results State and really cool.- Compatible wth hxcodec videos from Psych mods 0.6.3 and 0.7.3.- Smooth Health Bar* +5 Languages availables- New cool transicioning- If you are in Charting Mode the step, beat, and section will be displayed in gameplay.- FPS Counter rework- Trace in Game- Rework the OutdatedSubstate.hx* Rework the FreeplayState.hx- More things will continue to be added in the future...#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99",
+          "author": "Lenin Anonimo",
+          "image": "https://images.gamebanana.com/img/ss/mods/692649592b215.jpg",
+          "likes": 43,
+          "downloads": 3795,
+          "views": 21568,
+          "publishedAt": 1750799529,
+          "updatedAt": 1785248564,
+          "url": "https://gamebanana.com/mods/602743",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3178,
-          "downloads": 4561539,
-          "views": 9489431,
+          "downloads": 4561594,
+          "views": 9489444,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,11 +741,33 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2612,
-          "downloads": 1968646,
-          "views": 4420849,
+          "downloads": 1968690,
+          "views": 4420866,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 55652,
+          "title": "VS IMPOSTOR: LEGACY",
+          "description": "VS IMPOSTOR IS BACK!A from-the-ground-up remaster of the 2023 mod, VS IMPOSTOR V4! VS IMPOSTOR: LEGACY intends to be faithful to the original experience, while introducing new tweaks and features to make it the definitive version of the mod you know and love!VS IMPOSTOR is a total-conversion mod for Friday Night Funkin', in which you face off against colorful Among Us characters. With over 10 weeks and 57 songs! this mod has plenty of content for you to explore, especially with brand-new awards and cosmetics for you to find and collect! And who knows? maybe there are more secrets to discover...OPTIMIZATIONTHE MOD IS ACTUALLY OPTIMIZED NOW... here's a little comparison of Danger alone... although in the real v4 nothing ever unloaded from your memory so by the time you'd get to danger on a fresh playthrough it'd probably be more like 4gigsLANGUAGEThis time around, the mod's not only in English! We've brought members of the community together and have translated the mod into 28 languages!EXPANDED COSMICUBE!Legacy's Cosmicube has been heavily expanded compared to the original from 2023. With tons of new skins and pets to find, you'll have a lot more to find and discover!AWARDSThere are 28 new awards for you to unlock! Will you get them all?BRAND-NEW DLC!With 5 new songs, and an entirely new Cosmicube, the SECURITY DLC will be made available when Legacy launches on April 25th!To install, just drag and drop the \"securitydlc\" folder into the content folderStill need help? Follow our video guide!MODDINGWanna make your own cosmicube? Add your own week or songs! Check out the official modding doc!",
+          "author": "Clowfoe",
+          "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
+          "likes": 2339,
+          "downloads": 1800013,
+          "views": 3335941,
+          "publishedAt": 1619342831,
+          "updatedAt": 1784840160,
+          "url": "https://gamebanana.com/mods/55652",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -763,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3704701,
-          "views": 8857563,
+          "downloads": 3704715,
+          "views": 8857567,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -785,33 +807,11 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2078,
-          "downloads": 833002,
-          "views": 2918118,
+          "downloads": 833008,
+          "views": 2918123,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 316022,
-          "title": "Friday Night Funkin': Vs. Sonic.Exe (UPDATE 2 OUT)",
-          "description": "PC requirements:a good pc lol",
-          "author": "CommandoDev",
-          "image": "https://images.gamebanana.com/img/ss/mods/619fc02aef0d4.jpg",
-          "likes": 1954,
-          "downloads": 1894290,
-          "views": 4849796,
-          "publishedAt": 1629665717,
-          "updatedAt": 1629677474,
-          "url": "https://gamebanana.com/mods/316022",
           "engine": {
             "id": "executable",
             "name": "Executable",
