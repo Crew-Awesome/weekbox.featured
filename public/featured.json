@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-15T18:46:51.995Z",
-  "revision": "d175b4aa76d4dd14",
+  "generatedAt": "2026-08-15T19:05:59.011Z",
+  "revision": "4763c2aea54e565c",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -45,8 +45,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 3988,
-          "views": 15830,
+          "downloads": 3993,
+          "views": 15836,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -67,8 +67,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 32,
-          "downloads": 1570,
-          "views": 1266,
+          "downloads": 1609,
+          "views": 1305,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -89,8 +89,8 @@
           "author": "Pencil_Color",
           "image": "https://images.gamebanana.com/img/ss/mods/6a804c9636980.jpg",
           "likes": 17,
-          "downloads": 1212,
-          "views": 4718,
+          "downloads": 1323,
+          "views": 4795,
           "publishedAt": 1743344360,
           "updatedAt": 1786795500,
           "url": "https://gamebanana.com/mods/584948",
@@ -111,8 +111,8 @@
           "author": "SMB-5",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7eb36ac255a.jpg",
           "likes": 15,
-          "downloads": 451,
-          "views": 476,
+          "downloads": 477,
+          "views": 515,
           "publishedAt": 1786755606,
           "updatedAt": 1786755606,
           "url": "https://gamebanana.com/mods/704064",
@@ -139,8 +139,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 286,
-          "downloads": 28986,
-          "views": 106051,
+          "downloads": 28998,
+          "views": 106066,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -161,8 +161,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 273,
-          "downloads": 33454,
-          "views": 84356,
+          "downloads": 33456,
+          "views": 84364,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -271,28 +271,6 @@
           }
         },
         {
-          "id": 665295,
-          "title": "Friday Night Funkin': [RESCRIPT]",
-          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
-          "author": "PickleNuts",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
-          "likes": 255,
-          "downloads": 88688,
-          "views": 32066,
-          "publishedAt": 1779474976,
-          "updatedAt": 1784228187,
-          "url": "https://gamebanana.com/mods/665295",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
           "id": 694404,
           "title": "Nermal Nermal Nermallin'",
           "description": "A mod that reboots the 2022 Vs Nermal mod, apart of Team Bloopy.Jon needs someone to look after the house for him during the day while he’s out, so he hires Girlfriend, daughter of the dearest family, and she brings Boyfriend. Garfield doesn't like the news of a new visitor, so he hides as much as he possibly can. Meanwhile, Nermal (Garfield’s hated enemy) is staying at the house and greets them with a friendly rap battle (He wants to show Girlfriend how cute he is).",
@@ -321,7 +299,7 @@
           "author": "Buryu_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
-          "downloads": 3162,
+          "downloads": 3166,
           "views": 19788,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
@@ -357,13 +335,7 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "three-months",
-      "label": "Best of 3 Months",
-      "mods": [
+        },
         {
           "id": 697876,
           "title": "Petrifying Plumbers - Floor 1",
@@ -384,6 +356,34 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
+        {
+          "id": 665295,
+          "title": "Friday Night Funkin': [RESCRIPT]",
+          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
+          "author": "PickleNuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
+          "likes": 255,
+          "downloads": 88688,
+          "views": 32066,
+          "publishedAt": 1779474976,
+          "updatedAt": 1784228187,
+          "url": "https://gamebanana.com/mods/665295",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
           }
         },
         {
@@ -415,8 +415,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 66,
-          "downloads": 1627,
-          "views": 2361,
+          "downloads": 1632,
+          "views": 2366,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -460,7 +460,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 63,
           "downloads": 8930,
-          "views": 36338,
+          "views": 36339,
           "publishedAt": 1737928649,
           "updatedAt": 1786625765,
           "url": "https://gamebanana.com/mods/571604",
@@ -554,7 +554,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 53,
           "downloads": 2355,
-          "views": 5950,
+          "views": 5951,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2339,
-          "downloads": 1801223,
-          "views": 3336239,
+          "downloads": 1801284,
+          "views": 3336251,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
