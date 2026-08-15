@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-15T21:56:40.585Z",
-  "revision": "9fabad80022cb835",
+  "generatedAt": "2026-08-15T22:36:33.773Z",
+  "revision": "0ffd7b6dae4840e1",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "Anxiouskitty",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a8033cc9710c.jpg",
           "likes": 5,
-          "downloads": 58,
-          "views": 115,
+          "downloads": 64,
+          "views": 122,
           "publishedAt": 1786786622,
           "updatedAt": 1786822422,
           "url": "https://gamebanana.com/mods/704518",
@@ -66,7 +66,7 @@
           "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy.&nbsp;(x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod &amp; Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on&nbsp;Twitter&nbsp;or \"peepeemann69\" on Discord or Twitter.",
           "author": "peepeemann69",
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
-          "likes": 81,
+          "likes": 82,
           "downloads": 4164,
           "views": 52407,
           "publishedAt": 1712631322,
@@ -89,8 +89,8 @@
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
           "likes": 61,
-          "downloads": 1892,
-          "views": 11479,
+          "downloads": 1911,
+          "views": 11500,
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
@@ -111,8 +111,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 4028,
-          "views": 15872,
+          "downloads": 4056,
+          "views": 15894,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -177,35 +177,13 @@
           }
         },
         {
-          "id": 611878,
-          "title": "The Ankha Beat Crossing - [Lolly Update]",
-          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
-          "author": "Antonyny",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
-          "likes": 100,
-          "downloads": 4609,
-          "views": 12793,
-          "publishedAt": 1754528161,
-          "updatedAt": 1786227386,
-          "url": "https://gamebanana.com/mods/611878",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
           "id": 636619,
           "title": "SONIC IS ALONE.",
           "description": "(OLD TITLE: Sꬽnic 1 in Psych Engine)Okay this has been long enough, people are already assuming that it's Sonic.exe when it's not, people don't know how to make it less obvious. When I've (Herox) heard that Selbi hates Sonic.exe in his explanation why he made \"Sonic is alone.\", I was like \"fuck it\". And then I did it as a \"Sonic is alone.\" bait and switch. So, for a while, I've been meaning for myself (Herox) to make a \"Sonic is alone.\" FNF mod, even Selbi didn't mind about their work being made into a FNF song. So then I've decided for myself to make a reality.IF YOU SEE \"PRESS YOUR KEYBINDS TO NOT DIE\", MAKE SURE TO PRESS \"Z\"!SUPPORT SELBI'S WORK HERE:YouTube ChannelSONIC IS ALONE.TAILS IS ALONE.SONIC ERAZOR WEBSITEInspirations behind this mod:SONIC PARTY HARD (Inspiration)Spin Dαsh in Sonic 2 SMS (Main Inspiration before reveal)--OLD DESCRIPTION:This is Sonic 1 made in Psych Engine, I've wanted to do it myself to see how Sonic Engine works for a FNF engine. Basically, anyone else has tried for themselves to see how capable you can do with LUA back then. But with the power of today's standards, we can do it now! So basically this is a demonstration so expect any bugs coming!So with that, enjoy for what we have at the moment! This will be consistently worked on when it progresses! This only have Green Hill and Final Zone in this.You move Sonic with arrow keys and Z as a jump button btw, I forgot to say that.Made in Psych Engine v0.7.3 and works best! v1.0.4 also works well.",
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 66,
-          "downloads": 4686,
+          "downloads": 4694,
           "views": 11595,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
@@ -227,8 +205,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 66,
-          "downloads": 1652,
-          "views": 2385,
+          "downloads": 1665,
+          "views": 2389,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -240,6 +218,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 702352,
+          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
+          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
+          "author": "Floofum",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
+          "likes": 65,
+          "downloads": 16478,
+          "views": 4471,
+          "publishedAt": 1786316742,
+          "updatedAt": 1786320080,
+          "url": "https://gamebanana.com/mods/702352",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -255,8 +255,8 @@
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
           "likes": 423,
-          "downloads": 152392,
-          "views": 37598,
+          "downloads": 152623,
+          "views": 37648,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -299,7 +299,7 @@
           "author": "Buryu_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
-          "downloads": 3166,
+          "downloads": 3168,
           "views": 19788,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
@@ -312,6 +312,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 611878,
+          "title": "The Ankha Beat Crossing - [Lolly Update]",
+          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
+          "author": "Antonyny",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
+          "likes": 100,
+          "downloads": 4617,
+          "views": 12795,
+          "publishedAt": 1754528161,
+          "updatedAt": 1786227386,
+          "url": "https://gamebanana.com/mods/611878",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
           }
         },
         {
@@ -335,28 +357,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
-        {
-          "id": 697876,
-          "title": "Petrifying Plumbers - Floor 1",
-          "description": "EPILEPSY/DISCOMFORT WARNING: The mod contains flashing lights!Primarily based on the YouTube series The Power Star Archives by Greenlight.Watching it is recommended before playing!Many events from the episodes are altered in this mod and are not canon to the series.This mod plans to release via waves (titled Floors in this case), currently being at the first wave. This means that out of all of the content previously shown and teased, only a small portion of it will be available in this first wave.In the course of a tranquil night, BF and GF try out playing a random Mario fan game delivered by an anonymous user online...&nbsp;Fight against the AI in charge of the Power Star Project, Buggy, in his own game and make your way through the various floors of Peach's Castle as you complete songs and obtain Power Stars in order to unlock its doors, reach the top and figure out how to escape!Currently featuring 5 songs and a playable overworld hub, and on top of the PSA content, this mod also has a variety of other Mario fan media!&nbsp;Remember to check our Twitter and YouTube accounts for teasers and other information on what's to come!Get the&nbsp;Chromatics&nbsp;here.",
-          "author": "haywireghost",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
-          "likes": 79,
-          "downloads": 5967,
-          "views": 6097,
-          "publishedAt": 1785524316,
-          "updatedAt": 1785783066,
-          "url": "https://gamebanana.com/mods/697876",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 255,
-          "downloads": 88763,
-          "views": 32091,
+          "downloads": 88779,
+          "views": 32095,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -387,17 +387,17 @@
           }
         },
         {
-          "id": 505473,
-          "title": "NovaFlare Engine",
-          "description": "This Engine is based on PsychEngine (0.73)This project has been discontinued. Thank you for your use.About the difference between function and psych:1. more state rebuild2. play opponent support3. sound split fix4. guitarHeroSustains logic update5. note judgement check update（like malody）6. win icon support7. result screen at end songs8. More stable frame count and stability(lots of things&nbsp;I forget）…[more description atgithub ]）NovaFlare credit： * Beihu：main programer and head leaderSpecial thanks： * Careful_Scarf_487：Main artists* mengqi：artists* als：Open screen animation support* ddd：sound support&nbsp;Psych Engine thanks：*&nbsp;*&nbsp;Shadow Mario&nbsp;- Programmer*&nbsp;RiverOaken&nbsp;- Artist*&nbsp;bbpanzu&nbsp;- Ex-Programmer*&nbsp;Yoshubs&nbsp;- Second Ex-Programmer*&nbsp;SqirraRNG&nbsp;- Crash Handler and Base code for Chart Editor's Waveform*&nbsp;EliteMasterEric&nbsp;- Runtime Shaders support*&nbsp;KadeDev&nbsp;- Fixed some cool stuff on Chart Editor and other PRs*&nbsp;iFlicky&nbsp;- Composer of Psync and Tea Time, also made the Dialogue Sounds*&nbsp;PolybiusProxy&nbsp;- .MP4 Video Loader Library (hxCodec)*&nbsp;Keoiki&nbsp;- Note Splash Animations*&nbsp;Smokey&nbsp;- Sprite Atlas Support*&nbsp;superpowers04&nbsp;- LUA JIT Fork",
-          "author": "beihu235",
-          "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
-          "likes": 77,
-          "downloads": 9348,
-          "views": 50089,
-          "publishedAt": 1712401264,
-          "updatedAt": 1785866828,
-          "url": "https://gamebanana.com/mods/505473",
+          "id": 697876,
+          "title": "Petrifying Plumbers - Floor 1",
+          "description": "EPILEPSY/DISCOMFORT WARNING: The mod contains flashing lights!Primarily based on the YouTube series The Power Star Archives by Greenlight.Watching it is recommended before playing!Many events from the episodes are altered in this mod and are not canon to the series.This mod plans to release via waves (titled Floors in this case), currently being at the first wave. This means that out of all of the content previously shown and teased, only a small portion of it will be available in this first wave.In the course of a tranquil night, BF and GF try out playing a random Mario fan game delivered by an anonymous user online...&nbsp;Fight against the AI in charge of the Power Star Project, Buggy, in his own game and make your way through the various floors of Peach's Castle as you complete songs and obtain Power Stars in order to unlock its doors, reach the top and figure out how to escape!Currently featuring 5 songs and a playable overworld hub, and on top of the PSA content, this mod also has a variety of other Mario fan media!&nbsp;Remember to check our Twitter and YouTube accounts for teasers and other information on what's to come!Get the&nbsp;Chromatics&nbsp;here.",
+          "author": "haywireghost",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
+          "likes": 79,
+          "downloads": 5975,
+          "views": 6102,
+          "publishedAt": 1785524316,
+          "updatedAt": 1785783066,
+          "url": "https://gamebanana.com/mods/697876",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -409,25 +409,25 @@
           }
         },
         {
-          "id": 702352,
-          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
-          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
-          "author": "Floofum",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
-          "likes": 65,
-          "downloads": 16271,
-          "views": 4430,
-          "publishedAt": 1786316742,
-          "updatedAt": 1786320080,
-          "url": "https://gamebanana.com/mods/702352",
+          "id": 505473,
+          "title": "NovaFlare Engine",
+          "description": "This Engine is based on PsychEngine (0.73)This project has been discontinued. Thank you for your use.About the difference between function and psych:1. more state rebuild2. play opponent support3. sound split fix4. guitarHeroSustains logic update5. note judgement check update（like malody）6. win icon support7. result screen at end songs8. More stable frame count and stability(lots of things&nbsp;I forget）…[more description atgithub ]）NovaFlare credit： * Beihu：main programer and head leaderSpecial thanks： * Careful_Scarf_487：Main artists* mengqi：artists* als：Open screen animation support* ddd：sound support&nbsp;Psych Engine thanks：*&nbsp;*&nbsp;Shadow Mario&nbsp;- Programmer*&nbsp;RiverOaken&nbsp;- Artist*&nbsp;bbpanzu&nbsp;- Ex-Programmer*&nbsp;Yoshubs&nbsp;- Second Ex-Programmer*&nbsp;SqirraRNG&nbsp;- Crash Handler and Base code for Chart Editor's Waveform*&nbsp;EliteMasterEric&nbsp;- Runtime Shaders support*&nbsp;KadeDev&nbsp;- Fixed some cool stuff on Chart Editor and other PRs*&nbsp;iFlicky&nbsp;- Composer of Psync and Tea Time, also made the Dialogue Sounds*&nbsp;PolybiusProxy&nbsp;- .MP4 Video Loader Library (hxCodec)*&nbsp;Keoiki&nbsp;- Note Splash Animations*&nbsp;Smokey&nbsp;- Sprite Atlas Support*&nbsp;superpowers04&nbsp;- LUA JIT Fork",
+          "author": "beihu235",
+          "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
+          "likes": 77,
+          "downloads": 9348,
+          "views": 50093,
+          "publishedAt": 1712401264,
+          "updatedAt": 1785866828,
+          "url": "https://gamebanana.com/mods/505473",
           "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
           },
           "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         },
         {
@@ -487,8 +487,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
-          "downloads": 6367,
-          "views": 18184,
+          "downloads": 6368,
+          "views": 18187,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -509,7 +509,7 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
           "likes": 55,
-          "downloads": 1197,
+          "downloads": 1199,
           "views": 11364,
           "publishedAt": 1755844445,
           "updatedAt": 1786239491,
@@ -531,8 +531,8 @@
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 53,
-          "downloads": 2359,
-          "views": 5952,
+          "downloads": 2360,
+          "views": 5953,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -553,8 +553,8 @@
           "author": "blae",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69dba55f47a.jpg",
           "likes": 52,
-          "downloads": 3279,
-          "views": 3300,
+          "downloads": 3280,
+          "views": 3305,
           "publishedAt": 1785323078,
           "updatedAt": 1785323130,
           "url": "https://gamebanana.com/mods/698531",
@@ -603,8 +603,8 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 45,
-          "downloads": 2390,
-          "views": 8949,
+          "downloads": 2397,
+          "views": 8956,
           "publishedAt": 1725825645,
           "updatedAt": 1786376086,
           "url": "https://gamebanana.com/mods/541027",
@@ -647,7 +647,7 @@
           "author": "vurado",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6322904273e.jpg",
           "likes": 41,
-          "downloads": 2274,
+          "downloads": 2275,
           "views": 7963,
           "publishedAt": 1764954949,
           "updatedAt": 1785454421,
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3180,
-          "downloads": 4562796,
-          "views": 9489772,
+          "downloads": 4562836,
+          "views": 9489783,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2612,
-          "downloads": 1969640,
-          "views": 4421199,
+          "downloads": 1969676,
+          "views": 4421216,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2339,
-          "downloads": 1801386,
-          "views": 3336270,
+          "downloads": 1801441,
+          "views": 3336284,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3705463,
-          "views": 8857844,
+          "downloads": 3705477,
+          "views": 8857849,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
