@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-16T09:11:17.822Z",
-  "revision": "28d3c1405c13fedf",
+  "generatedAt": "2026-08-16T09:41:26.117Z",
+  "revision": "93e50e67e4afc5c9",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -16,28 +16,6 @@
       "id": "day",
       "label": "Best of Today",
       "mods": [
-        {
-          "id": 704518,
-          "title": "Vs Makkun",
-          "description": "A mod for a rakkun girl called Makkun :vAnd idk",
-          "author": "Anxiouskitty",
-          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a8033cc9710c.jpg",
-          "likes": 10,
-          "downloads": 134,
-          "views": 289,
-          "publishedAt": 1786786622,
-          "updatedAt": 1786822422,
-          "url": "https://gamebanana.com/mods/704518",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
         {
           "id": 563168,
           "title": "ANIMANIA!",
@@ -89,8 +67,8 @@
           "author": "peepeemann69",
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 85,
-          "downloads": 4300,
-          "views": 52778,
+          "downloads": 4308,
+          "views": 52813,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -125,6 +103,28 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
+        },
+        {
+          "id": 551355,
+          "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
+          "description": "Thanks for installing! In this mod, you mainly play as Tails, facing Cream in fun and energetic singing battles. This version includes new songs and more content compared to the previous release. Sonic is now fully playable. A lot of effort was put into the new artwork, including updated sprites and visual improvements to give the mod a more polished and expressive style. The mod is still relatively short and remains a beta, but it represents a big step forward from earlier versions. Your feedback is always appreciated and helps shape future updates. I hope you have fun playing it, and thanks for checking it out!This is a small update. It's been difficult to get people to help with the mod, and I haven't figured out how to fix the crashes yet. For now, there are a few minor changes. I hope you still support the mod.It was made with a lot of effort.https://www.youtube.com/watch?v=gdEQaOksAWk",
+          "author": "EmmAMT",
+          "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
+          "likes": 62,
+          "downloads": 2006,
+          "views": 11655,
+          "publishedAt": 1729982633,
+          "updatedAt": 1786817147,
+          "url": "https://gamebanana.com/mods/551355",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
         }
       ]
     },
@@ -139,8 +139,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 286,
-          "downloads": 29189,
-          "views": 106210,
+          "downloads": 29201,
+          "views": 106217,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -183,8 +183,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 67,
-          "downloads": 1790,
-          "views": 2504,
+          "downloads": 1794,
+          "views": 2511,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -255,8 +255,8 @@
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
           "likes": 424,
-          "downloads": 154409,
-          "views": 37993,
+          "downloads": 154463,
+          "views": 38011,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -322,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 101,
           "downloads": 4645,
-          "views": 12833,
+          "views": 12834,
           "publishedAt": 1754528161,
           "updatedAt": 1786227386,
           "url": "https://gamebanana.com/mods/611878",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 256,
-          "downloads": 89059,
-          "views": 32183,
+          "downloads": 89073,
+          "views": 32190,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -431,17 +431,17 @@
           }
         },
         {
-          "id": 551355,
-          "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
-          "description": "Thanks for installing! In this mod, you mainly play as Tails, facing Cream in fun and energetic singing battles. This version includes new songs and more content compared to the previous release. Sonic is now fully playable. A lot of effort was put into the new artwork, including updated sprites and visual improvements to give the mod a more polished and expressive style. The mod is still relatively short and remains a beta, but it represents a big step forward from earlier versions. Your feedback is always appreciated and helps shape future updates. I hope you have fun playing it, and thanks for checking it out!This is a small update. It's been difficult to get people to help with the mod, and I haven't figured out how to fix the crashes yet. For now, there are a few minor changes. I hope you still support the mod.It was made with a lot of effort.https://www.youtube.com/watch?v=gdEQaOksAWk",
-          "author": "EmmAMT",
-          "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
-          "likes": 62,
-          "downloads": 2006,
-          "views": 11655,
-          "publishedAt": 1729982633,
-          "updatedAt": 1786817147,
-          "url": "https://gamebanana.com/mods/551355",
+          "id": 702283,
+          "title": "Undertale: Funk Mode - Usurpation",
+          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
+          "author": "Statzz",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
+          "likes": 61,
+          "downloads": 2608,
+          "views": 4114,
+          "publishedAt": 1786305164,
+          "updatedAt": 1786471784,
+          "url": "https://gamebanana.com/mods/702283",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -453,17 +453,17 @@
           }
         },
         {
-          "id": 702283,
-          "title": "Undertale: Funk Mode - Usurpation",
-          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
-          "author": "Statzz",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
-          "likes": 61,
-          "downloads": 2601,
-          "views": 4104,
-          "publishedAt": 1786305164,
-          "updatedAt": 1786471784,
-          "url": "https://gamebanana.com/mods/702283",
+          "id": 615291,
+          "title": "[FAH MIX] The Average OC Mod 2.5",
+          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.BF is transported to a mystical brightly lit space with a woman he's never met, and things only get deeper from there. This mod includes:>Four full (?) original songs, featuring vastly different ideas and characters.>A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.>A loosely driven, solely shown in pause menu story spanning every song.>Custom menus, featuring brand new music work and hand-drawn visuals.>30+ Achievements and unlockables>OCs, duh.",
+          "author": "cravethyrave",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
+          "likes": 55,
+          "downloads": 1207,
+          "views": 11383,
+          "publishedAt": 1755844445,
+          "updatedAt": 1786239491,
+          "url": "https://gamebanana.com/mods/615291",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -487,8 +487,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
-          "downloads": 6392,
-          "views": 18205,
+          "downloads": 6394,
+          "views": 18211,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -500,28 +500,6 @@
           "category": {
             "id": 43798,
             "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 615291,
-          "title": "[FAH MIX] The Average OC Mod 2.5",
-          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.BF is transported to a mystical brightly lit space with a woman he's never met, and things only get deeper from there. This mod includes:>Four full (?) original songs, featuring vastly different ideas and characters.>A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.>A loosely driven, solely shown in pause menu story spanning every song.>Custom menus, featuring brand new music work and hand-drawn visuals.>30+ Achievements and unlockables>OCs, duh.",
-          "author": "cravethyrave",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
-          "likes": 55,
-          "downloads": 1207,
-          "views": 11383,
-          "publishedAt": 1755844445,
-          "updatedAt": 1786239491,
-          "url": "https://gamebanana.com/mods/615291",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         },
         {
@@ -575,8 +553,8 @@
           "author": "blae",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69dba55f47a.jpg",
           "likes": 52,
-          "downloads": 3306,
-          "views": 3358,
+          "downloads": 3308,
+          "views": 3360,
           "publishedAt": 1785323078,
           "updatedAt": 1785323130,
           "url": "https://gamebanana.com/mods/698531",
@@ -589,13 +567,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 698379,
           "title": "FNF: GUNLICK (DEMO)",
@@ -617,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 541027,
           "title": "Chaos Collection: Update 4",
@@ -626,7 +604,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 45,
           "downloads": 2448,
-          "views": 9000,
+          "views": 9001,
           "publishedAt": 1725825645,
           "updatedAt": 1786376086,
           "url": "https://gamebanana.com/mods/541027",
@@ -648,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/692649592b215.jpg",
           "likes": 43,
           "downloads": 3798,
-          "views": 21649,
+          "views": 21655,
           "publishedAt": 1750799529,
           "updatedAt": 1785248564,
           "url": "https://gamebanana.com/mods/602743",
@@ -691,8 +669,8 @@
           "author": "burgerballs9",
           "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
           "likes": 41,
-          "downloads": 933,
-          "views": 5399,
+          "downloads": 945,
+          "views": 5412,
           "publishedAt": 1720647605,
           "updatedAt": 1786852302,
           "url": "https://gamebanana.com/mods/527066",
@@ -704,6 +682,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 588294,
+          "title": "OBITUARY CD (Herox's Take)",
+          "description": "I got bored so I decided to make this playable!Sonic CD (Windows 95, 1995), the infamous port for none other than Sonic CD. You decided to take a quick look on Sonic CD (Windows 95 Port) and you left off in Metallic Madness which you haven't beaten the final Dr. Robotnik boss in a while.But strangely, that one Hologram is shown as Sonic instead... but why is that? He wanted me to follow me? That never happened in that 1995 port of Sonic CD. But eh, why not?REQUIRES PSYCH ENGINE 0.7.1h (untested), 0.7.3 TO 1.0.1 OR OVER.",
+          "author": "Herox_",
+          "image": "https://images.gamebanana.com/img/ss/mods/67fd17313b289.jpg",
+          "likes": 40,
+          "downloads": 1537,
+          "views": 7210,
+          "publishedAt": 1744754720,
+          "updatedAt": 1786244767,
+          "url": "https://gamebanana.com/mods/588294",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3181,
-          "downloads": 4563239,
-          "views": 9489886,
+          "downloads": 4563259,
+          "views": 9489899,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2613,
-          "downloads": 1970008,
-          "views": 4421309,
+          "downloads": 1970024,
+          "views": 4421316,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
