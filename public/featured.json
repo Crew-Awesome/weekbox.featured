@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-16T17:32:50.819Z",
-  "revision": "3092a3e64d7927ac",
+  "generatedAt": "2026-08-16T17:55:34.757Z",
+  "revision": "94d8ed0a143c84d0",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -22,7 +22,7 @@
           "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
-          "likes": 329,
+          "likes": 333,
           "downloads": 28450,
           "views": 94113,
           "publishedAt": 1734636638,
@@ -67,8 +67,8 @@
           "author": "peepeemann69",
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 86,
-          "downloads": 4364,
-          "views": 52977,
+          "downloads": 4376,
+          "views": 53000,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -89,8 +89,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 65,
-          "downloads": 13719,
-          "views": 33307,
+          "downloads": 13734,
+          "views": 33345,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -111,8 +111,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 63,
-          "downloads": 9035,
-          "views": 36468,
+          "downloads": 9043,
+          "views": 36471,
           "publishedAt": 1737928649,
           "updatedAt": 1786892823,
           "url": "https://gamebanana.com/mods/571604",
@@ -139,8 +139,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 286,
-          "downloads": 29243,
-          "views": 106295,
+          "downloads": 29256,
+          "views": 106304,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -155,36 +155,14 @@
           }
         },
         {
-          "id": 613322,
-          "title": "Friday Night Dustin'",
-          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
-          "author": "Nex_isDumb",
-          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
-          "likes": 273,
-          "downloads": 33543,
-          "views": 84613,
-          "publishedAt": 1757793620,
-          "updatedAt": 1786297689,
-          "url": "https://gamebanana.com/mods/613322",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 702396,
           "title": "SCP: Project Funkin'",
           "description": "You are Boyfriend, and you wake up inside the SCP Foundation itself...A guard gives you a few instructions to help you survive—will you make it?WARNING: This version is free of updates, as we have encountered numerous issues.",
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 68,
-          "downloads": 1874,
-          "views": 2596,
+          "downloads": 1888,
+          "views": 2612,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -205,8 +183,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 67,
-          "downloads": 18276,
-          "views": 4853,
+          "downloads": 18390,
+          "views": 4872,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -241,6 +219,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 702283,
+          "title": "Undertale: Funk Mode - Usurpation",
+          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
+          "author": "Statzz",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
+          "likes": 64,
+          "downloads": 2654,
+          "views": 4181,
+          "publishedAt": 1786305164,
+          "updatedAt": 1786471784,
+          "url": "https://gamebanana.com/mods/702283",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
         }
       ]
     },
@@ -255,8 +255,8 @@
           "author": "BeefStarchJello",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
           "likes": 426,
-          "downloads": 155189,
-          "views": 38163,
+          "downloads": 155354,
+          "views": 38209,
           "publishedAt": 1785363501,
           "updatedAt": 1785363501,
           "url": "https://gamebanana.com/mods/696957",
@@ -271,14 +271,36 @@
           }
         },
         {
+          "id": 613322,
+          "title": "Friday Night Dustin'",
+          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
+          "author": "Nex_isDumb",
+          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
+          "likes": 273,
+          "downloads": 33549,
+          "views": 84628,
+          "publishedAt": 1757793620,
+          "updatedAt": 1786297689,
+          "url": "https://gamebanana.com/mods/613322",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
           "id": 694404,
           "title": "Nermal Nermal Nermallin'",
           "description": "A mod that reboots the 2022 Vs Nermal mod, apart of Team Bloopy.Jon needs someone to look after the house for him during the day while he’s out, so he hires Girlfriend, daughter of the dearest family, and she brings Boyfriend. Garfield doesn't like the news of a new visitor, so he hides as much as he possibly can. Meanwhile, Nermal (Garfield’s hated enemy) is staying at the house and greets them with a friendly rap battle (He wants to show Girlfriend how cute he is).",
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 156,
-          "downloads": 9801,
-          "views": 10330,
+          "downloads": 9802,
+          "views": 10335,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -300,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
           "downloads": 3203,
-          "views": 19795,
+          "views": 19796,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
           "url": "https://gamebanana.com/mods/430425",
@@ -335,6 +357,34 @@
             "id": 43798,
             "name": "P-Slice Mod Folders"
           }
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
+        {
+          "id": 665295,
+          "title": "Friday Night Funkin': [RESCRIPT]",
+          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
+          "author": "PickleNuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
+          "likes": 256,
+          "downloads": 89250,
+          "views": 32263,
+          "publishedAt": 1779474976,
+          "updatedAt": 1784228187,
+          "url": "https://gamebanana.com/mods/665295",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
         },
         {
           "id": 592129,
@@ -357,34 +407,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "three-months",
-      "label": "Best of 3 Months",
-      "mods": [
-        {
-          "id": 665295,
-          "title": "Friday Night Funkin': [RESCRIPT]",
-          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
-          "author": "PickleNuts",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
-          "likes": 256,
-          "downloads": 89244,
-          "views": 32261,
-          "publishedAt": 1779474976,
-          "updatedAt": 1784228187,
-          "url": "https://gamebanana.com/mods/665295",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
         },
         {
           "id": 697876,
@@ -393,8 +415,8 @@
           "author": "haywireghost",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6bfe6109174.jpg",
           "likes": 79,
-          "downloads": 6113,
-          "views": 6213,
+          "downloads": 6120,
+          "views": 6226,
           "publishedAt": 1785524316,
           "updatedAt": 1785783066,
           "url": "https://gamebanana.com/mods/697876",
@@ -431,36 +453,14 @@
           }
         },
         {
-          "id": 702283,
-          "title": "Undertale: Funk Mode - Usurpation",
-          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
-          "author": "Statzz",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
-          "likes": 64,
-          "downloads": 2654,
-          "views": 4181,
-          "publishedAt": 1786305164,
-          "updatedAt": 1786471784,
-          "url": "https://gamebanana.com/mods/702283",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 551355,
           "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
           "description": "Thanks for installing! In this mod, you mainly play as Tails, facing Cream in fun and energetic singing battles. This version includes new songs and more content compared to the previous release. Sonic is now fully playable. A lot of effort was put into the new artwork, including updated sprites and visual improvements to give the mod a more polished and expressive style. The mod is still relatively short and remains a beta, but it represents a big step forward from earlier versions. Your feedback is always appreciated and helps shape future updates. I hope you have fun playing it, and thanks for checking it out!This is a small update. It's been difficult to get people to help with the mod, and I haven't figured out how to fix the crashes yet. For now, there are a few minor changes. I hope you still support the mod.It was made with a lot of effort.https://www.youtube.com/watch?v=gdEQaOksAWk",
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
           "likes": 62,
-          "downloads": 2067,
-          "views": 11731,
+          "downloads": 2070,
+          "views": 11734,
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
@@ -487,8 +487,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
-          "downloads": 6404,
-          "views": 18224,
+          "downloads": 6406,
+          "views": 18229,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -553,8 +553,8 @@
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 53,
-          "downloads": 2393,
-          "views": 5972,
+          "downloads": 2396,
+          "views": 5975,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -625,8 +625,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
           "likes": 47,
-          "downloads": 7467,
-          "views": 24276,
+          "downloads": 7482,
+          "views": 24300,
           "publishedAt": 1721139893,
           "updatedAt": 1786885977,
           "url": "https://gamebanana.com/mods/528413",
@@ -647,8 +647,8 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 45,
-          "downloads": 2483,
-          "views": 9019,
+          "downloads": 2490,
+          "views": 9026,
           "publishedAt": 1725825645,
           "updatedAt": 1786376086,
           "url": "https://gamebanana.com/mods/541027",
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3181,
-          "downloads": 4563515,
-          "views": 9489988,
+          "downloads": 4563546,
+          "views": 9489994,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2613,
-          "downloads": 1970293,
-          "views": 4421407,
+          "downloads": 1970313,
+          "views": 4421408,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3705949,
-          "views": 8858037,
+          "downloads": 3705973,
+          "views": 8858044,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2078,
-          "downloads": 833373,
-          "views": 2918535,
+          "downloads": 833379,
+          "views": 2918542,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
