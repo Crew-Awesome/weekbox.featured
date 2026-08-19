@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-19T18:52:45.935Z",
-  "revision": "e20e19f93a90fb0e",
+  "generatedAt": "2026-08-19T19:38:39.258Z",
+  "revision": "1bf059f3a1875b5f",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "bennation",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7dded3d0b6e.jpg",
           "likes": 9,
-          "downloads": 126,
-          "views": 3552,
+          "downloads": 132,
+          "views": 3556,
           "publishedAt": 1656272500,
           "updatedAt": 1787093860,
           "url": "https://gamebanana.com/mods/385844",
@@ -45,11 +45,33 @@
           "author": "StrPointless",
           "image": "https://images.gamebanana.com/img/ss/mods/6a84befb2be5a.jpg",
           "likes": 6,
-          "downloads": 374,
-          "views": 451,
+          "downloads": 378,
+          "views": 458,
           "publishedAt": 1787085687,
-          "updatedAt": 1787113230,
+          "updatedAt": 1787167575,
           "url": "https://gamebanana.com/mods/706247",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 616150,
+          "title": "D-Sides Psych Engine Project",
+          "description": "Friday Night Funkin' D-Sides songs (mainly EXE), ported over to Psych Engine 1.0.4 with SScript hscript.Please play the original D-Sides. This is not meant to upgrade or replace that mod; it's just a fun project!Sorry for the big zip file size!Downloads moves to MediaFire.",
+          "author": "Pumpsuki",
+          "image": "https://images.gamebanana.com/img/ss/mods/68accf353e2e3.jpg",
+          "likes": 4,
+          "downloads": 733,
+          "views": 4329,
+          "publishedAt": 1756155148,
+          "updatedAt": 1787165812,
+          "url": "https://gamebanana.com/mods/616150",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -89,8 +111,8 @@
           "author": "Sammyyy",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8506254eeff.jpg",
           "likes": 3,
-          "downloads": 101,
-          "views": 202,
+          "downloads": 113,
+          "views": 222,
           "publishedAt": 1787104488,
           "updatedAt": 1787104488,
           "url": "https://gamebanana.com/mods/706398",
@@ -102,28 +124,6 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 705301,
-          "title": "TALKATIVE FUNKIN",
-          "description": "Talkative Funkin is a mod based on a russian youtube series made by KHAREVSKY called \"Talkative Orange\" (Болтливый Апельсин) which is a parody of another popular youtube series \"Annoying Orange\" created by Dane Boe. This is my first mod made on Codename Engine so sorry if its not that good. V2 Version will be made later!YOU NEED CODENAME ENGINE 1.0.2 EXPERIMENTAL BUILD TO PLAY THIS!!!YOU NEED CODENAME ENGINE 1.0.2 EXPERIMENTAL BUILD TO PLAY THIS!!!YOU NEED CODENAME ENGINE 1.0.2 EXPERIMENTAL BUILD TO PLAY THIS!!!YOU NEED CODENAME ENGINE 1.0.2 EXPERIMENTAL BUILD TO PLAY THIS!!!",
-          "author": "Sanychousus310",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a821adcaebf6.jpg",
-          "likes": 2,
-          "downloads": 104,
-          "views": 225,
-          "publishedAt": 1786911795,
-          "updatedAt": 1787081304,
-          "url": "https://gamebanana.com/mods/705301",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
           "likes": 364,
-          "downloads": 43002,
-          "views": 100161,
+          "downloads": 43124,
+          "views": 100200,
           "publishedAt": 1734636638,
           "updatedAt": 1786852263,
           "url": "https://gamebanana.com/mods/563168",
@@ -161,8 +161,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 100,
-          "downloads": 6348,
-          "views": 24076,
+          "downloads": 6357,
+          "views": 24083,
           "publishedAt": 1742496031,
           "updatedAt": 1786928333,
           "url": "https://gamebanana.com/mods/582726",
@@ -184,7 +184,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 87,
           "downloads": 4478,
-          "views": 53789,
+          "views": 53802,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -205,8 +205,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 2503,
-          "views": 3159,
+          "downloads": 2514,
+          "views": 3163,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -249,28 +249,6 @@
       "label": "Best of This Month",
       "mods": [
         {
-          "id": 696957,
-          "title": "HYPNO'S LULLABY REBOOT [Demo]",
-          "description": "Boyfriend is missing late at night, and you, Girlfriend, are out looking for him. Mind laiden with panic, head swimming with thought\"Oh where could he be? perhaps our favourite spot?\"And as sun met horizon, the night fast encroaching...A sound from the distance, and slowly approaching.A call from the fog, a beckoning voice...Why don't you come closer, you don't have a choice.\"To hell with it\" you speak aloud, and advance.You put one foot forward, and enter my dance...So into the darkness, and into the black.Not knowing, or caring, if you'll ever come back.- - Available for Mac, Windows, and Linux!A demo for the official reboot of the Poképasta mod Hypno's Lullaby V2, FNF Lullaby was passed down to newer leadership, featuring legacy developers still in play. Its been a long time coming to ensure the game is brought back alive, birthed in a new light. I can't help but be proud of each and every single member that contributed and came along with us through the full journey. Enter the grand shop that is the Cabinet of Novelties, and aid the ever illustrious Collector in his journey to, well, collect magical artifacts. Your paycheck? Endless entertainment in the form of bootleg cartridges imbued with suffering essence. Become a Collectoree! For more information, visit cabinetofnovelties.com.For those who are struggling with the fangame's mechanics; the Collector offers his services localized in the shop's Console settings under Misc, titled \"Baby Mode.\"This fangame was made using Rubicon Engine, a Godot FNF Engine.- - For immediate advanced settings:Windows/LinuxCTRL + ALT + SMacCMD + Option + S",
-          "author": "BeefStarchJello",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a6a737351419.jpg",
-          "likes": 435,
-          "downloads": 163618,
-          "views": 39960,
-          "publishedAt": 1785363501,
-          "updatedAt": 1785363501,
-          "url": "https://gamebanana.com/mods/696957",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 527369,
           "title": "Vs Holy Quintet: DEBUT",
           "description": "Vs. Holy Quintet is a new take on the world of Puella Magi Madoka Magica, this time through the eyes of a new star-struck protagonist, Girlfriend!A Friday Night Funkin’ mod set in a world of magic and miracles, join GF as she experiences the joys (and horrors) of this new world, all with the power of song! Featuring an original OST with 9 playable songs, a leaderboard system, cutscenes, and more!Sing against the magical girls of Mitakihara city: Sayaka Miki, Mami Tomoe, Madoka Kaname, Kyoko Sakura, and Homura Akemi, and wow the world with your magical tunes! How will Girlfriend fare in a world of hope and despair, where even kindness could spiral into the greatest of tragedies? All you have to do is make a wish to find out.",
@@ -299,8 +277,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 273,
-          "downloads": 33780,
-          "views": 85403,
+          "downloads": 33783,
+          "views": 85416,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -344,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69b777023bd.jpg",
           "likes": 104,
           "downloads": 3300,
-          "views": 19819,
+          "views": 19820,
           "publishedAt": 1677960557,
           "updatedAt": 1785510160,
           "url": "https://gamebanana.com/mods/430425",
@@ -356,6 +334,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 611878,
+          "title": "The Ankha Beat Crossing - [Lolly Update]",
+          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
+          "author": "Antonyny",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
+          "likes": 102,
+          "downloads": 4795,
+          "views": 12978,
+          "publishedAt": 1754528161,
+          "updatedAt": 1786227386,
+          "url": "https://gamebanana.com/mods/611878",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
           }
         }
       ]
@@ -371,33 +371,11 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 259,
-          "downloads": 90675,
-          "views": 32894,
+          "downloads": 90701,
+          "views": 32904,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 611878,
-          "title": "The Ankha Beat Crossing - [Lolly Update]",
-          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)Likes Goal!!As a bonus, I'll be preparing a small gifts for reaching a certain number of likes. 60 Likes: Gift 180 Likes: Gift 2100 Likes: Gift 3There is no time limit, soo enjoy the mod. me meow!!!",
-          "author": "Antonyny",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
-          "likes": 102,
-          "downloads": 4795,
-          "views": 12977,
-          "publishedAt": 1754528161,
-          "updatedAt": 1786227386,
-          "url": "https://gamebanana.com/mods/611878",
           "engine": {
             "id": "pslice",
             "name": "P-Slice",
@@ -415,8 +393,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5177,
-          "views": 18928,
+          "downloads": 5181,
+          "views": 18934,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -460,7 +438,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9377,
-          "views": 50314,
+          "views": 50315,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -473,13 +451,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 702352,
           "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
@@ -487,8 +459,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 71,
-          "downloads": 21735,
-          "views": 5798,
+          "downloads": 21764,
+          "views": 5819,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -501,7 +473,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 636619,
           "title": "SONIC IS ALONE.",
@@ -509,7 +487,7 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 67,
-          "downloads": 4951,
+          "downloads": 4953,
           "views": 11679,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
@@ -554,7 +532,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 64,
           "downloads": 9268,
-          "views": 36768,
+          "views": 36769,
           "publishedAt": 1737928649,
           "updatedAt": 1786977830,
           "url": "https://gamebanana.com/mods/571604",
@@ -575,8 +553,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 63,
-          "downloads": 6511,
-          "views": 18344,
+          "downloads": 6516,
+          "views": 18346,
           "publishedAt": 1753769299,
           "updatedAt": 1773852729,
           "url": "https://gamebanana.com/mods/610131",
@@ -589,13 +567,7 @@
             "id": 43798,
             "name": "P-Slice Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 551355,
           "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
@@ -603,8 +575,8 @@
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
           "likes": 62,
-          "downloads": 2179,
-          "views": 11896,
+          "downloads": 2180,
+          "views": 11897,
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
@@ -617,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 615291,
           "title": "[FAH MIX] The Average OC Mod 2.5",
@@ -625,8 +603,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
           "likes": 55,
-          "downloads": 1237,
-          "views": 11435,
+          "downloads": 1238,
+          "views": 11438,
           "publishedAt": 1755844445,
           "updatedAt": 1786239491,
           "url": "https://gamebanana.com/mods/615291",
@@ -647,8 +625,8 @@
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 55,
-          "downloads": 2493,
-          "views": 6064,
+          "downloads": 2494,
+          "views": 6065,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -669,8 +647,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 55,
-          "downloads": 3741,
-          "views": 3187,
+          "downloads": 3757,
+          "views": 3211,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -705,6 +683,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 698379,
+          "title": "FNF: GUNLICK (DEMO)",
+          "description": "Fashionably late, but here it is. GUNLICK!!! Demo. YesPlay as Beef.G as you face 3 different opponents in the City of ST.GROOVES!You’ll need Codename Engine 1.0.1 to play this mod pack.",
+          "author": "skat3rpup537",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
+          "likes": 51,
+          "downloads": 1620,
+          "views": 3882,
+          "publishedAt": 1785274201,
+          "updatedAt": 1785274283,
+          "url": "https://gamebanana.com/mods/698379",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
         }
       ]
     },
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3183,
-          "downloads": 4566075,
-          "views": 9490818,
+          "downloads": 4566098,
+          "views": 9490832,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2613,
-          "downloads": 1972098,
-          "views": 4422126,
+          "downloads": 1972117,
+          "views": 4422134,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2340,
-          "downloads": 1805096,
-          "views": 3337325,
+          "downloads": 1805141,
+          "views": 3337333,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3707483,
-          "views": 8858633,
+          "downloads": 3707503,
+          "views": 8858641,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2078,
-          "downloads": 833844,
-          "views": 2919190,
+          "downloads": 833852,
+          "views": 2919201,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
