@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-20T21:43:24.406Z",
-  "revision": "d2ad435848b7ab71",
+  "generatedAt": "2026-08-20T22:01:56.976Z",
+  "revision": "a07d5d6fbba83d99",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -67,8 +67,8 @@
           "author": "FlorianDX",
           "image": "https://images.gamebanana.com/img/ss/mods/6a44f89e95fee.jpg",
           "likes": 23,
-          "downloads": 1739,
-          "views": 3650,
+          "downloads": 1757,
+          "views": 3664,
           "publishedAt": 1782927954,
           "updatedAt": 1787228923,
           "url": "https://gamebanana.com/mods/690726",
@@ -183,8 +183,8 @@
           "author": "peepeemann69",
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 87,
-          "downloads": 4499,
-          "views": 54054,
+          "downloads": 4500,
+          "views": 54059,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -206,7 +206,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
           "downloads": 14126,
-          "views": 33800,
+          "views": 33803,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -299,8 +299,8 @@
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 156,
-          "downloads": 10051,
-          "views": 10726,
+          "downloads": 10053,
+          "views": 10730,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -416,7 +416,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9385,
-          "views": 50368,
+          "views": 50370,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -525,6 +525,28 @@
           }
         },
         {
+          "id": 551355,
+          "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
+          "description": "Thanks for installing! In this mod, you mainly play as Tails, facing Cream in fun and energetic singing battles. This version includes new songs and more content compared to the previous release. Sonic is now fully playable. A lot of effort was put into the new artwork, including updated sprites and visual improvements to give the mod a more polished and expressive style. The mod is still relatively short and remains a beta, but it represents a big step forward from earlier versions. Your feedback is always appreciated and helps shape future updates. I hope you have fun playing it, and thanks for checking it out!This is a small update. It's been difficult to get people to help with the mod, and I haven't figured out how to fix the crashes yet. For now, there are a few minor changes. I hope you still support the mod.It was made with a lot of effort.https://www.youtube.com/watch?v=gdEQaOksAWk",
+          "author": "EmmAMT",
+          "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
+          "likes": 62,
+          "downloads": 2207,
+          "views": 11921,
+          "publishedAt": 1729982633,
+          "updatedAt": 1786817147,
+          "url": "https://gamebanana.com/mods/551355",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 704136,
           "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
           "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
@@ -553,8 +575,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d220f9472f.jpg",
           "likes": 55,
-          "downloads": 1247,
-          "views": 11466,
+          "downloads": 1248,
+          "views": 11467,
           "publishedAt": 1755844445,
           "updatedAt": 1786239491,
           "url": "https://gamebanana.com/mods/615291",
@@ -567,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 691582,
           "title": "VS TORD RETORDED",
@@ -575,7 +603,7 @@
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 55,
-          "downloads": 2519,
+          "downloads": 2522,
           "views": 6085,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
@@ -589,13 +617,7 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 626528,
           "title": "FNF: WHERE THE EVIL LIVES IN",
@@ -683,28 +705,6 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        },
-        {
-          "id": 541027,
-          "title": "Chaos Collection: Update 4",
-          "description": "Welcome to Chaos Collection: Oneshot Gauntlet!Battle a whole SLEW of familiar characters including!Zardy: Originally from Zardys MazeNeco Arc: Originally from Type MoonSlenderman from Butchykid: Originates from butchykidThe Player from Terraria: From well, obviously Terraria (PLAY 1.4.5 WHEN IT DROPS)Toan: Originally from Dark Cloud (only on PS4/PS2)Disco Zombie: Originally from Plants Vs. ZombiesMr. Peterson: hello neighbor ?Henry Stickmin: From well, Henry StickminShygal: a internet LEGEND, shes my custom design.ENA: A indie show MASCOT, this is the design from her game! DREAM BBQPac-Man: I dont need to explain this one.Crystallis: A new take on SONIC.EXE Tricky: The madness combat legendary clown.SOU Frisk: Fucking hell lmao. evil childOgorki: pickle sonicNene: Picos SchoolDead Mario: from FNAWAustin: Wii Deleted you Corrupted DataNikku: Hotline 024 (Saruky)Curly Brace: Cave Story+Jon: EddswordMario and Slenderman: Butchykid VideosDoraemon: from DoraemonEthan Winters: From Resident Evil 7 Plus 8Magolor: From Kirbys Return To DreamlandCaine and Pomni: From the amazing digital circusJonesy: From Fortnite lmaoSolider Heartless: From Kingdom heartsGreen: From DeltaruneThe Lamb: From Cult of the lambThe Knights: From Castle CrashersHomer D. Poe: ......CHROMATICS AND ART FILES WILL COME LATER!IT IS RECOMMENDED YOU PLAY AT 90FPS OR HIGHER!SHADERS ON IF YOUR PC CAN HANDLE IT! Legacy Edition is available, but all the content from that version is mostly scrapped due to creative difficulties.This mod is meant to just be a bunch of random stuff put together for the sake of making a fun FNF project, theres no real story. Its also meant to invoke some classic vibes of fnf, along with some new ones and some modern tropes to be made fun of.WOW GUYS! WE ARE NOW ON UPDATE 4!!!WITH LOTS MORE TO COME IF I FEEL LIKE IT!ENJOY THE SUPER MEGA COLLECTION OF CHAOS",
-          "author": "Comical Chaos",
-          "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
-          "likes": 45,
-          "downloads": 2680,
-          "views": 9181,
-          "publishedAt": 1725825645,
-          "updatedAt": 1786376086,
-          "url": "https://gamebanana.com/mods/541027",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2613,
-          "downloads": 1972701,
-          "views": 4422400,
+          "downloads": 1972731,
+          "views": 4422413,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2340,
-          "downloads": 1806175,
-          "views": 3337635,
+          "downloads": 1806233,
+          "views": 3337647,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3708034,
-          "views": 8858858,
+          "downloads": 3708038,
+          "views": 8858861,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
