@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-22T16:59:41.511Z",
-  "revision": "85aed2b0bd8f8859",
+  "generatedAt": "2026-08-22T17:35:17.906Z",
+  "revision": "ab4fb38e530ee82e",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -45,8 +45,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 48,
-          "downloads": 1864,
-          "views": 2061,
+          "downloads": 1954,
+          "views": 2127,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
@@ -67,8 +67,8 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 43,
-          "downloads": 1435,
-          "views": 2197,
+          "downloads": 1458,
+          "views": 2245,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
@@ -89,8 +89,8 @@
           "author": "zaidboon",
           "image": "https://images.gamebanana.com/img/ss/mods/6a181c46888ac.jpg",
           "likes": 18,
-          "downloads": 589,
-          "views": 1836,
+          "downloads": 596,
+          "views": 1838,
           "publishedAt": 1779965096,
           "updatedAt": 1787360200,
           "url": "https://gamebanana.com/mods/681072",
@@ -183,8 +183,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 105,
-          "downloads": 5115,
-          "views": 13472,
+          "downloads": 5117,
+          "views": 13476,
           "publishedAt": 1754528161,
           "updatedAt": 1787191265,
           "url": "https://gamebanana.com/mods/611878",
@@ -206,7 +206,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 100,
           "downloads": 6614,
-          "views": 24260,
+          "views": 24264,
           "publishedAt": 1742496031,
           "updatedAt": 1786928333,
           "url": "https://gamebanana.com/mods/582726",
@@ -255,8 +255,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 287,
-          "downloads": 30433,
-          "views": 107700,
+          "downloads": 30440,
+          "views": 107710,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -277,8 +277,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 273,
-          "downloads": 33975,
-          "views": 86193,
+          "downloads": 33981,
+          "views": 86202,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -299,8 +299,8 @@
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 157,
-          "downloads": 10165,
-          "views": 10961,
+          "downloads": 10168,
+          "views": 10970,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -321,8 +321,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5356,
-          "views": 19126,
+          "downloads": 5361,
+          "views": 19133,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 260,
-          "downloads": 92008,
-          "views": 33437,
+          "downloads": 92031,
+          "views": 33446,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -393,8 +393,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 74,
-          "downloads": 24202,
-          "views": 6608,
+          "downloads": 24248,
+          "views": 6617,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -437,8 +437,8 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 67,
-          "downloads": 5115,
-          "views": 11728,
+          "downloads": 5117,
+          "views": 11729,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
           "url": "https://gamebanana.com/mods/636619",
@@ -452,6 +452,34 @@
             "name": "Executable Mod Folders"
           }
         },
+        {
+          "id": 704136,
+          "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
+          "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
+          "author": "PeGo_BoY",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
+          "likes": 67,
+          "downloads": 4631,
+          "views": 4061,
+          "publishedAt": 1786715671,
+          "updatedAt": 1786776788,
+          "url": "https://gamebanana.com/mods/704136",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 546457,
           "title": "Erect Mode Psych Port",
@@ -473,13 +501,7 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 702283,
           "title": "Undertale: Funk Mode - Usurpation",
@@ -487,8 +509,8 @@
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 65,
-          "downloads": 3084,
-          "views": 4958,
+          "downloads": 3087,
+          "views": 4960,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -531,8 +553,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 64,
-          "downloads": 7208,
-          "views": 19044,
+          "downloads": 7213,
+          "views": 19048,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -567,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 615291,
           "title": "[BATCH 4] The Average OC Mod 2.5",
@@ -575,7 +603,7 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a87e349dac7b.jpg",
           "likes": 57,
-          "downloads": 1320,
+          "downloads": 1321,
           "views": 11678,
           "publishedAt": 1755844445,
           "updatedAt": 1787290867,
@@ -589,13 +617,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 691582,
           "title": "VS TORD RETORDED",
@@ -647,8 +669,8 @@
           "author": "skat3rpup537",
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
-          "downloads": 1656,
-          "views": 4165,
+          "downloads": 1657,
+          "views": 4167,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -682,28 +704,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 528413,
-          "title": "(Almost) Accurate WeekEnd 1 Psych Port + BF Mixes",
-          "description": "Here I present to you a very accurate port of WeekEnd 1 from FNF. That took me a while, but I'm happy to now share it with you all.This modpack includes:Custom Achievement for beating the week on Hard with no misses.Custom Options. (Click on the gear in Mods Menu)Cutscenes working just like in the OG game.BF Mixes in FreePlay after beating WeekEnd 1 on any difficulty.Credits for me and other people who made things I used. (Go check Credits Menu)Some added details or fixes.WARNING!!!You'll need to use the 0.7.3 version of Psych Engine if you want this to work. And for Mobile users, use this port of Psych Engine and follow these guides to install the mod.There's now also a download available for 1.0.x versions to fix and update WeekEnd 1, and also add the BF Mixes. Also, no, I won't port this to older versions of Psych. Deal with it.",
-          "author": "Ledonic",
-          "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
-          "likes": 47,
-          "downloads": 7627,
-          "views": 24688,
-          "publishedAt": 1721139893,
-          "updatedAt": 1786885977,
-          "url": "https://gamebanana.com/mods/528413",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2340,
-          "downloads": 1808066,
-          "views": 3338094,
+          "downloads": 1808138,
+          "views": 3338112,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834265,
-          "views": 2919880,
+          "downloads": 834274,
+          "views": 2919886,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
