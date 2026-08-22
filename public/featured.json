@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-22T13:44:14.887Z",
-  "revision": "6c4e0e3d69c1cb42",
+  "generatedAt": "2026-08-22T13:59:08.084Z",
+  "revision": "9f8c106594365b64",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -45,8 +45,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 44,
-          "downloads": 1673,
-          "views": 1885,
+          "downloads": 1729,
+          "views": 1935,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
@@ -139,8 +139,8 @@
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
           "likes": 376,
-          "downloads": 51076,
-          "views": 102455,
+          "downloads": 51182,
+          "views": 102472,
           "publishedAt": 1734636638,
           "updatedAt": 1786852263,
           "url": "https://gamebanana.com/mods/563168",
@@ -344,7 +344,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9394,
-          "views": 50451,
+          "views": 50453,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -415,8 +415,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 2879,
-          "views": 3394,
+          "downloads": 2896,
+          "views": 3399,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -453,34 +453,6 @@
           }
         },
         {
-          "id": 704136,
-          "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
-          "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
-          "author": "PeGo_BoY",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
-          "likes": 66,
-          "downloads": 4595,
-          "views": 4026,
-          "publishedAt": 1786715671,
-          "updatedAt": 1786776788,
-          "url": "https://gamebanana.com/mods/704136",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
-        {
           "id": 702283,
           "title": "Undertale: Funk Mode - Usurpation",
           "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT ANY PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
@@ -501,7 +473,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 571604,
           "title": "FNF:REDONE",
@@ -589,13 +567,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 691582,
           "title": "VS TORD RETORDED",
@@ -604,7 +576,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 55,
           "downloads": 2556,
-          "views": 6128,
+          "views": 6130,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -617,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 626528,
           "title": "FNF: WHERE THE EVIL LIVES IN",
@@ -625,8 +603,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 4482,
-          "views": 16953,
+          "downloads": 4484,
+          "views": 16954,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -648,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
           "downloads": 1654,
-          "views": 4154,
+          "views": 4156,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -691,8 +669,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
           "likes": 47,
-          "downloads": 7621,
-          "views": 24683,
+          "downloads": 7623,
+          "views": 24684,
           "publishedAt": 1721139893,
           "updatedAt": 1786885977,
           "url": "https://gamebanana.com/mods/528413",
@@ -704,6 +682,28 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
+          "id": 541027,
+          "title": "Chaos Collection: Update 4",
+          "description": "Welcome to Chaos Collection: Oneshot Gauntlet!Battle a whole SLEW of familiar characters including!Zardy: Originally from Zardys MazeNeco Arc: Originally from Type MoonSlenderman from Butchykid: Originates from butchykidThe Player from Terraria: From well, obviously Terraria (PLAY 1.4.5 WHEN IT DROPS)Toan: Originally from Dark Cloud (only on PS4/PS2)Disco Zombie: Originally from Plants Vs. ZombiesMr. Peterson: hello neighbor ?Henry Stickmin: From well, Henry StickminShygal: a internet LEGEND, shes my custom design.ENA: A indie show MASCOT, this is the design from her game! DREAM BBQPac-Man: I dont need to explain this one.Crystallis: A new take on SONIC.EXE Tricky: The madness combat legendary clown.SOU Frisk: Fucking hell lmao. evil childOgorki: pickle sonicNene: Picos SchoolDead Mario: from FNAWAustin: Wii Deleted you Corrupted DataNikku: Hotline 024 (Saruky)Curly Brace: Cave Story+Jon: EddswordMario and Slenderman: Butchykid VideosDoraemon: from DoraemonEthan Winters: From Resident Evil 7 Plus 8Magolor: From Kirbys Return To DreamlandCaine and Pomni: From the amazing digital circusJonesy: From Fortnite lmaoSolider Heartless: From Kingdom heartsGreen: From DeltaruneThe Lamb: From Cult of the lambThe Knights: From Castle CrashersHomer D. Poe: ......CHROMATICS AND ART FILES WILL COME LATER!IT IS RECOMMENDED YOU PLAY AT 90FPS OR HIGHER!SHADERS ON IF YOUR PC CAN HANDLE IT! Legacy Edition is available, but all the content from that version is mostly scrapped due to creative difficulties.This mod is meant to just be a bunch of random stuff put together for the sake of making a fun FNF project, theres no real story. Its also meant to invoke some classic vibes of fnf, along with some new ones and some modern tropes to be made fun of.WOW GUYS! WE ARE NOW ON UPDATE 4!!!WITH LOTS MORE TO COME IF I FEEL LIKE IT!ENJOY THE SUPER MEGA COLLECTION OF CHAOS",
+          "author": "Comical Chaos",
+          "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
+          "likes": 45,
+          "downloads": 2808,
+          "views": 9300,
+          "publishedAt": 1725825645,
+          "updatedAt": 1786376086,
+          "url": "https://gamebanana.com/mods/541027",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3183,
-          "downloads": 4568197,
-          "views": 9491588,
+          "downloads": 4568214,
+          "views": 9491593,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2615,
-          "downloads": 1973839,
-          "views": 4422882,
+          "downloads": 1973861,
+          "views": 4422894,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
