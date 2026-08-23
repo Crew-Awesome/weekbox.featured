@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-23T15:00:04.064Z",
-  "revision": "68954246e8af97c9",
+  "generatedAt": "2026-08-23T15:35:44.924Z",
+  "revision": "2914eb80f1cf767c",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -16,28 +16,6 @@
       "id": "day",
       "label": "Best of Today",
       "mods": [
-        {
-          "id": 397970,
-          "title": "FNF ONLINE VS. Hank Challenge - Psych Engine Port",
-          "description": "This is a Psych Engine port of the first challenge in FNF ONLINE VS, the Hank Challenge (with the song's name being \"Accelerant\").This port is intended to be used with the ONLINE VS. Result Screen Port.A lot of people have already tried to port this challenge to psych, but most of these ports are rushed, inaccurate, and just stupidly lazy (written before TheConcealedCow made his port, which is very good as well and is definitly worth your time). In this port, however, I tried to put as much effort as I can and I wanted this port to be one of the best psych engine ports to date. I hope you'll enjoy this port as much as I enjoyed making it!Accelerant REDUXThe offical remix (by philiplol) for Accelerant, \"Accelerant REDUX\", is playable in this port as an unlockable song. It includes the new song with one difficulty (\"madness\"), and a few minor visual effects added. This was originally supposed to only be a preview for a full Accelerant REDUX mod, which would have had completely new visuals, animations and cutscenes, a \"normal\" difficulty and a few new mechanics, but I completely canceled it.Read the README.md file from this mod's folder if you're looking for more information about this port and the plans I have for its future",
-          "author": "Applehair",
-          "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
-          "likes": 120,
-          "downloads": 27714,
-          "views": 82971,
-          "publishedAt": 1661343542,
-          "updatedAt": 1787411336,
-          "url": "https://gamebanana.com/mods/397970",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
         {
           "id": 582726,
           "title": "Another FNF Engine Made In Godot v1.6.4",
@@ -67,8 +45,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 64,
-          "downloads": 9412,
-          "views": 36972,
+          "downloads": 9419,
+          "views": 36977,
           "publishedAt": 1737928649,
           "updatedAt": 1787437125,
           "url": "https://gamebanana.com/mods/571604",
@@ -89,8 +67,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a87e349dac7b.jpg",
           "likes": 60,
-          "downloads": 1356,
-          "views": 11825,
+          "downloads": 1358,
+          "views": 11838,
           "publishedAt": 1755844445,
           "updatedAt": 1787453001,
           "url": "https://gamebanana.com/mods/615291",
@@ -125,6 +103,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 707840,
+          "title": "FNF VS Mario 64",
+          "description": "this mod includes multiple covers of original mario 64 songs, and one totally original song!face mario, luigi, and bowser in custom friday game funk. thing.",
+          "author": "Cubed Chicken",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a88d57869601.jpg",
+          "likes": 13,
+          "downloads": 397,
+          "views": 392,
+          "publishedAt": 1787352944,
+          "updatedAt": 1787431000,
+          "url": "https://gamebanana.com/mods/707840",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
+          }
         }
       ]
     },
@@ -139,8 +139,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
           "likes": 156,
-          "downloads": 35976,
-          "views": 116958,
+          "downloads": 35977,
+          "views": 116963,
           "publishedAt": 1717301118,
           "updatedAt": 1787325645,
           "url": "https://gamebanana.com/mods/517623",
@@ -152,6 +152,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 397970,
+          "title": "FNF ONLINE VS. Hank Challenge - Psych Engine Port",
+          "description": "This is a Psych Engine port of the first challenge in FNF ONLINE VS, the Hank Challenge (with the song's name being \"Accelerant\").This port is intended to be used with the ONLINE VS. Result Screen Port.A lot of people have already tried to port this challenge to psych, but most of these ports are rushed, inaccurate, and just stupidly lazy (written before TheConcealedCow made his port, which is very good as well and is definitly worth your time). In this port, however, I tried to put as much effort as I can and I wanted this port to be one of the best psych engine ports to date. I hope you'll enjoy this port as much as I enjoyed making it!Accelerant REDUXThe offical remix (by philiplol) for Accelerant, \"Accelerant REDUX\", is playable in this port as an unlockable song. It includes the new song with one difficulty (\"madness\"), and a few minor visual effects added. This was originally supposed to only be a preview for a full Accelerant REDUX mod, which would have had completely new visuals, animations and cutscenes, a \"normal\" difficulty and a few new mechanics, but I completely canceled it.Read the README.md file from this mod's folder if you're looking for more information about this port and the plans I have for its future",
+          "author": "Applehair",
+          "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
+          "likes": 120,
+          "downloads": 27773,
+          "views": 82984,
+          "publishedAt": 1661343542,
+          "updatedAt": 1787411336,
+          "url": "https://gamebanana.com/mods/397970",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         },
         {
@@ -183,8 +205,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 64,
-          "downloads": 7345,
-          "views": 19160,
+          "downloads": 7353,
+          "views": 19165,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -205,33 +227,11 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 50,
-          "downloads": 2650,
-          "views": 2757,
+          "downloads": 2654,
+          "views": 2759,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 527066,
-          "title": "Bub's Fruit Salad",
-          "description": "Hello! It's me, Bub! Do you want to play my mod?What's A Bub?Bub's Fruit Salad is a kaizo FNF mod, made to challenge you in various ways! You play as Bub, and their many friends, and sing with many colorful friends and foe-friends!This current version has taken us a whole 2 years to make, and I hope you enjoy what we have done! - Bub's Fruit Salad teamDISCLAIMERBub is a difficult mod! There is no intent to make it any easier besides some minor nerfs! If you don't like that then please look elsewhere!",
-          "author": "burgerballs9",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
-          "likes": 48,
-          "downloads": 1266,
-          "views": 6591,
-          "publishedAt": 1720647605,
-          "updatedAt": 1787174458,
-          "url": "https://gamebanana.com/mods/527066",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -277,8 +277,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30609,
-          "views": 107908,
+          "downloads": 30613,
+          "views": 107918,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -299,8 +299,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 275,
-          "downloads": 34062,
-          "views": 86434,
+          "downloads": 34065,
+          "views": 86442,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -394,7 +394,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 90,
           "downloads": 4573,
-          "views": 54632,
+          "views": 54636,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -416,7 +416,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
           "downloads": 9401,
-          "views": 50490,
+          "views": 50493,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -459,8 +459,8 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 3015,
-          "views": 3465,
+          "downloads": 3022,
+          "views": 3470,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -487,8 +487,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 68,
-          "downloads": 4794,
-          "views": 4209,
+          "downloads": 4798,
+          "views": 4216,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -531,8 +531,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14279,
-          "views": 33934,
+          "downloads": 14281,
+          "views": 33938,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -553,8 +553,8 @@
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 65,
-          "downloads": 3129,
-          "views": 5022,
+          "downloads": 3130,
+          "views": 5023,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -575,8 +575,8 @@
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
           "likes": 62,
-          "downloads": 2259,
-          "views": 11975,
+          "downloads": 2260,
+          "views": 11977,
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
@@ -626,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
           "downloads": 4527,
-          "views": 17046,
+          "views": 17048,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -648,7 +648,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
           "downloads": 1671,
-          "views": 4242,
+          "views": 4245,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -663,6 +663,28 @@
           }
         },
         {
+          "id": 527066,
+          "title": "Bub's Fruit Salad",
+          "description": "Hello! It's me, Bub! Do you want to play my mod?What's A Bub?Bub's Fruit Salad is a kaizo FNF mod, made to challenge you in various ways! You play as Bub, and their many friends, and sing with many colorful friends and foe-friends!This current version has taken us a whole 2 years to make, and I hope you enjoy what we have done! - Bub's Fruit Salad teamDISCLAIMERBub is a difficult mod! There is no intent to make it any easier besides some minor nerfs! If you don't like that then please look elsewhere!",
+          "author": "burgerballs9",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
+          "likes": 48,
+          "downloads": 1266,
+          "views": 6591,
+          "publishedAt": 1720647605,
+          "updatedAt": 1787174458,
+          "url": "https://gamebanana.com/mods/527066",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 528413,
           "title": "(Almost) Accurate WeekEnd 1 Psych Port + BF Mixes",
           "description": "Here I present to you a very accurate port of WeekEnd 1 from FNF. That took me a while, but I'm happy to now share it with you all.This modpack includes:Custom Achievement for beating the week on Hard with no misses.Custom Options. (Click on the gear in Mods Menu)Cutscenes working just like in the OG game.BF Mixes in FreePlay after beating WeekEnd 1 on any difficulty.Credits for me and other people who made things I used. (Go check Credits Menu)Some added details or fixes.WARNING!!!You'll need to use the 0.7.3 version of Psych Engine if you want this to work. And for Mobile users, use this port of Psych Engine and follow these guides to install the mod.There's now also a download available for 1.0.x versions to fix and update WeekEnd 1, and also add the BF Mixes. Also, no, I won't port this to older versions of Psych. Deal with it.",
@@ -670,7 +692,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
           "likes": 47,
           "downloads": 7636,
-          "views": 24719,
+          "views": 24724,
           "publishedAt": 1721139893,
           "updatedAt": 1786885977,
           "url": "https://gamebanana.com/mods/528413",
@@ -682,28 +704,6 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 707298,
-          "title": "Matt's Redemption",
-          "description": "After the events of WiiK 2, BF and GF return for a rematch against Matt. This one will be his Redemption.Includes: 4 Weeks, Remixes and Extras",
-          "author": "invalid_bruh",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
-          "likes": 47,
-          "downloads": 1786,
-          "views": 2783,
-          "publishedAt": 1787270738,
-          "updatedAt": 1787382363,
-          "url": "https://gamebanana.com/mods/707298",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3183,
-          "downloads": 4569204,
-          "views": 9491889,
+          "downloads": 4569228,
+          "views": 9491890,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3709556,
-          "views": 8859399,
+          "downloads": 3709568,
+          "views": 8859404,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834418,
-          "views": 2920070,
+          "downloads": 834426,
+          "views": 2920082,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
