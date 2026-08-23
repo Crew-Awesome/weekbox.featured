@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-23T21:57:08.330Z",
-  "revision": "b87111f4eac9d4fb",
+  "generatedAt": "2026-08-23T22:37:10.487Z",
+  "revision": "8d1d1759458a5711",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -67,8 +67,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a87e349dac7b.jpg",
           "likes": 60,
-          "downloads": 1371,
-          "views": 11875,
+          "downloads": 1374,
+          "views": 11882,
           "publishedAt": 1755844445,
           "updatedAt": 1787453001,
           "url": "https://gamebanana.com/mods/615291",
@@ -111,8 +111,8 @@
           "author": "OmniFries",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8af904ab97f.jpg",
           "likes": 17,
-          "downloads": 249,
-          "views": 377,
+          "downloads": 274,
+          "views": 420,
           "publishedAt": 1787494319,
           "updatedAt": 1787494319,
           "url": "https://gamebanana.com/mods/708619",
@@ -183,8 +183,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 105,
-          "downloads": 5189,
-          "views": 13538,
+          "downloads": 5190,
+          "views": 13540,
           "publishedAt": 1754528161,
           "updatedAt": 1787191265,
           "url": "https://gamebanana.com/mods/611878",
@@ -205,8 +205,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 64,
-          "downloads": 7416,
-          "views": 19203,
+          "downloads": 7421,
+          "views": 19209,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -227,8 +227,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 50,
-          "downloads": 2831,
-          "views": 2931,
+          "downloads": 2837,
+          "views": 2937,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
@@ -277,8 +277,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30664,
-          "views": 107967,
+          "downloads": 30672,
+          "views": 107983,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -299,8 +299,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 275,
-          "downloads": 34107,
-          "views": 86516,
+          "downloads": 34111,
+          "views": 86534,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -321,8 +321,8 @@
           "author": "overlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 157,
-          "downloads": 10251,
-          "views": 11132,
+          "downloads": 10255,
+          "views": 11138,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 261,
-          "downloads": 92509,
-          "views": 33632,
+          "downloads": 92516,
+          "views": 33633,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -409,36 +409,14 @@
           }
         },
         {
-          "id": 505473,
-          "title": "NovaFlare Engine",
-          "description": "This Engine is based on PsychEngine (0.73)This project has been discontinued. Thank you for your use.About the difference between function and psych:1. more state rebuild2. play opponent support3. sound split fix4. guitarHeroSustains logic update5. note judgement check update（like malody）6. win icon support7. result screen at end songs8. More stable frame count and stability(lots of things&nbsp;I forget）…[more description atgithub ]）NovaFlare credit： * Beihu：main programer and head leaderSpecial thanks： * Careful_Scarf_487：Main artists* mengqi：artists* als：Open screen animation support* ddd：sound support&nbsp;Psych Engine thanks：*&nbsp;*&nbsp;Shadow Mario&nbsp;- Programmer*&nbsp;RiverOaken&nbsp;- Artist*&nbsp;bbpanzu&nbsp;- Ex-Programmer*&nbsp;Yoshubs&nbsp;- Second Ex-Programmer*&nbsp;SqirraRNG&nbsp;- Crash Handler and Base code for Chart Editor's Waveform*&nbsp;EliteMasterEric&nbsp;- Runtime Shaders support*&nbsp;KadeDev&nbsp;- Fixed some cool stuff on Chart Editor and other PRs*&nbsp;iFlicky&nbsp;- Composer of Psync and Tea Time, also made the Dialogue Sounds*&nbsp;PolybiusProxy&nbsp;- .MP4 Video Loader Library (hxCodec)*&nbsp;Keoiki&nbsp;- Note Splash Animations*&nbsp;Smokey&nbsp;- Sprite Atlas Support*&nbsp;superpowers04&nbsp;- LUA JIT Fork",
-          "author": "beihu235",
-          "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
-          "likes": 77,
-          "downloads": 9401,
-          "views": 50503,
-          "publishedAt": 1712401264,
-          "updatedAt": 1785866828,
-          "url": "https://gamebanana.com/mods/505473",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 702352,
           "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
           "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 75,
-          "downloads": 25189,
-          "views": 6892,
+          "downloads": 25232,
+          "views": 6906,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -459,11 +437,33 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 3053,
+          "downloads": 3060,
           "views": 3485,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 704136,
+          "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
+          "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
+          "author": "PeGo_BoY",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
+          "likes": 68,
+          "downloads": 4860,
+          "views": 4268,
+          "publishedAt": 1786715671,
+          "updatedAt": 1786776788,
+          "url": "https://gamebanana.com/mods/704136",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -481,35 +481,13 @@
       "label": "Best of 6 Months",
       "mods": [
         {
-          "id": 704136,
-          "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
-          "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
-          "author": "PeGo_BoY",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
-          "likes": 68,
-          "downloads": 4857,
-          "views": 4264,
-          "publishedAt": 1786715671,
-          "updatedAt": 1786776788,
-          "url": "https://gamebanana.com/mods/704136",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 636619,
           "title": "SONIC IS ALONE.",
           "description": "(OLD TITLE: Sꬽnic 1 in Psych Engine)Okay this has been long enough, people are already assuming that it's Sonic.exe when it's not, people don't know how to make it less obvious. When I've (Herox) heard that Selbi hates Sonic.exe in his explanation why he made \"Sonic is alone.\", I was like \"fuck it\". And then I did it as a \"Sonic is alone.\" bait and switch. So, for a while, I've been meaning for myself (Herox) to make a \"Sonic is alone.\" FNF mod, even Selbi didn't mind about their work being made into a FNF song. So then I've decided for myself to make a reality.IF YOU SEE \"PRESS YOUR KEYBINDS TO NOT DIE\", MAKE SURE TO PRESS \"Z\"!SUPPORT SELBI'S WORK HERE:YouTube ChannelSONIC IS ALONE.TAILS IS ALONE.SONIC ERAZOR WEBSITEInspirations behind this mod:SONIC PARTY HARD (Inspiration)Spin Dαsh in Sonic 2 SMS (Main Inspiration before reveal)--OLD DESCRIPTION:This is Sonic 1 made in Psych Engine, I've wanted to do it myself to see how Sonic Engine works for a FNF engine. Basically, anyone else has tried for themselves to see how capable you can do with LUA back then. But with the power of today's standards, we can do it now! So basically this is a demonstration so expect any bugs coming!So with that, enjoy for what we have at the moment! This will be consistently worked on when it progresses! This only have Green Hill and Final Zone in this.You move Sonic with arrow keys and Z as a jump button btw, I forgot to say that.Made in Psych Engine v0.7.3 and works best! v1.0.4 also works well.",
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 67,
-          "downloads": 5176,
+          "downloads": 5178,
           "views": 11741,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
@@ -531,8 +509,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14291,
-          "views": 33957,
+          "downloads": 14295,
+          "views": 33959,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -553,8 +531,8 @@
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 65,
-          "downloads": 3136,
-          "views": 5042,
+          "downloads": 3137,
+          "views": 5044,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -589,13 +567,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 691582,
           "title": "VS TORD RETORDED",
@@ -617,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 626528,
           "title": "FNF: WHERE THE EVIL LIVES IN",
@@ -625,8 +603,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 4541,
-          "views": 17068,
+          "downloads": 4542,
+          "views": 17071,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -648,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
           "likes": 51,
           "downloads": 1675,
-          "views": 4267,
+          "views": 4269,
           "publishedAt": 1785274201,
           "updatedAt": 1785274283,
           "url": "https://gamebanana.com/mods/698379",
@@ -669,8 +647,8 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 49,
-          "downloads": 1881,
-          "views": 2964,
+          "downloads": 1894,
+          "views": 2976,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
@@ -705,6 +683,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 528413,
+          "title": "(Almost) Accurate WeekEnd 1 Psych Port + BF Mixes",
+          "description": "Here I present to you a very accurate port of WeekEnd 1 from FNF. That took me a while, but I'm happy to now share it with you all.This modpack includes:Custom Achievement for beating the week on Hard with no misses.Custom Options. (Click on the gear in Mods Menu)Cutscenes working just like in the OG game.BF Mixes in FreePlay after beating WeekEnd 1 on any difficulty.Credits for me and other people who made things I used. (Go check Credits Menu)Some added details or fixes.WARNING!!!You'll need to use the 0.7.3 version of Psych Engine if you want this to work. And for Mobile users, use this port of Psych Engine and follow these guides to install the mod.There's now also a download available for 1.0.x versions to fix and update WeekEnd 1, and also add the BF Mixes. Also, no, I won't port this to older versions of Psych. Deal with it.",
+          "author": "Ledonic",
+          "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
+          "likes": 47,
+          "downloads": 7640,
+          "views": 24741,
+          "publishedAt": 1721139893,
+          "updatedAt": 1786885977,
+          "url": "https://gamebanana.com/mods/528413",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
+          }
         }
       ]
     },
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3184,
-          "downloads": 4569493,
-          "views": 9491955,
+          "downloads": 4569535,
+          "views": 9491971,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -740,9 +740,9 @@
           "description": "Boyfriend and Girlfriend notice a strange glow coming from an alley way...Smoke 'Em Out Struggle is an original full week mod. Face off against a man named GARCELLO, as he tries to peer pressure Boyfriend into smoking a strange cigarette.Features 3 original songs:HEADACHENERVESRELEASE...complete with dialogue and cutscenes!LISTEN TO THE MUSIC HERE!*This mod is best experienced on HARD mode. EASY/NORMAL mode charts are identical.Thank you for all of the support~!",
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
-          "likes": 2616,
-          "downloads": 1974784,
-          "views": 4423269,
+          "likes": 2617,
+          "downloads": 1974800,
+          "views": 4423278,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834484,
-          "views": 2920139,
+          "downloads": 834491,
+          "views": 2920149,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
