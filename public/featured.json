@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-23T03:14:44.496Z",
-  "revision": "8e86618c7ea13e3f",
+  "generatedAt": "2026-08-23T04:02:19.326Z",
+  "revision": "e48633b75d4d6cfa",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 120,
-          "downloads": 27381,
-          "views": 82830,
+          "downloads": 27420,
+          "views": 82851,
           "publishedAt": 1661343542,
           "updatedAt": 1787411336,
           "url": "https://gamebanana.com/mods/397970",
@@ -45,8 +45,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 101,
-          "downloads": 6685,
-          "views": 24376,
+          "downloads": 6717,
+          "views": 24426,
           "publishedAt": 1742496031,
           "updatedAt": 1787444551,
           "url": "https://gamebanana.com/mods/582726",
@@ -67,8 +67,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 64,
-          "downloads": 9367,
-          "views": 36922,
+          "downloads": 9368,
+          "views": 36927,
           "publishedAt": 1737928649,
           "updatedAt": 1787437125,
           "url": "https://gamebanana.com/mods/571604",
@@ -89,8 +89,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a87e349dac7b.jpg",
           "likes": 57,
-          "downloads": 1324,
-          "views": 11719,
+          "downloads": 1330,
+          "views": 11748,
           "publishedAt": 1755844445,
           "updatedAt": 1787453001,
           "url": "https://gamebanana.com/mods/615291",
@@ -111,8 +111,8 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 45,
-          "downloads": 1649,
-          "views": 2522,
+          "downloads": 1666,
+          "views": 2546,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
@@ -132,28 +132,6 @@
       "id": "week",
       "label": "Best of This Week",
       "mods": [
-        {
-          "id": 563168,
-          "title": "ANIMANIA!",
-          "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
-          "author": "AnimaniaCrew",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
-          "likes": 378,
-          "downloads": 52955,
-          "views": 102816,
-          "publishedAt": 1734636638,
-          "updatedAt": 1786852263,
-          "url": "https://gamebanana.com/mods/563168",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
         {
           "id": 517623,
           "title": "Friday Night Funkin: Rhythmic Revolution V1.5 +DLC",
@@ -183,8 +161,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 105,
-          "downloads": 5150,
-          "views": 13494,
+          "downloads": 5152,
+          "views": 13497,
           "publishedAt": 1754528161,
           "updatedAt": 1787191265,
           "url": "https://gamebanana.com/mods/611878",
@@ -205,8 +183,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14266,
-          "views": 33917,
+          "downloads": 14267,
+          "views": 33919,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -241,6 +219,28 @@
             "id": 43798,
             "name": "P-Slice Mod Folders"
           }
+        },
+        {
+          "id": 704928,
+          "title": "The Cyclops [EPISODE ONE]",
+          "description": "It's been far too long now... and Cyclops has returned yet again to give you one last message as we ride this new dawn. Will you accept this hand in darkness... or will you let it cease to be?This mod is the OFFICIAL sequel to the \"Speed.GIF [Vs. Cyclops]\" Demo V2 update continuing off the content created in that publish. There is also a new piece of media known as \"The Cyclops: Revenant\" which is a written piece of literature that will have events correlated and directly impacted from this mod.DISCLAIMER: This mod has mild gore and flashing lights! If that affects you then you probably should not be playing!DISCLAIMER 2: Low end machines will struggle as of now, we will do a patch later to fix that. For now we recommend you have at least 6 gigabytes usable on your machine. \"The Cyclops\" Official Community Discord Serverpowpow's (Creator, Main Director, Main Artist) Twitter Account",
+          "author": "powpow",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
+          "likes": 49,
+          "downloads": 2454,
+          "views": 2555,
+          "publishedAt": 1787340901,
+          "updatedAt": 1787361905,
+          "url": "https://gamebanana.com/mods/704928",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
         }
       ]
     },
@@ -249,14 +249,36 @@
       "label": "Best of This Month",
       "mods": [
         {
+          "id": 563168,
+          "title": "ANIMANIA!",
+          "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
+          "author": "AnimaniaCrew",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
+          "likes": 378,
+          "downloads": 53083,
+          "views": 102845,
+          "publishedAt": 1734636638,
+          "updatedAt": 1786852263,
+          "url": "https://gamebanana.com/mods/563168",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 527369,
           "title": "Vs Holy Quintet: DEBUT",
           "description": "Vs. Holy Quintet is a new take on the world of Puella Magi Madoka Magica, this time through the eyes of a new star-struck protagonist, Girlfriend!A Friday Night Funkin’ mod set in a world of magic and miracles, join GF as she experiences the joys (and horrors) of this new world, all with the power of song! Featuring an original OST with 9 playable songs, a leaderboard system, cutscenes, and more!Sing against the magical girls of Mitakihara city: Sayaka Miki, Mami Tomoe, Madoka Kaname, Kyoko Sakura, and Homura Akemi, and wow the world with your magical tunes! How will Girlfriend fare in a world of hope and despair, where even kindness could spiral into the greatest of tragedies? All you have to do is make a wish to find out.",
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30532,
-          "views": 107805,
+          "downloads": 30540,
+          "views": 107815,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -277,8 +299,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 274,
-          "downloads": 34024,
-          "views": 86310,
+          "downloads": 34028,
+          "views": 86320,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -300,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
           "likes": 157,
           "downloads": 10203,
-          "views": 11030,
+          "views": 11036,
           "publishedAt": 1784318563,
           "updatedAt": 1785975607,
           "url": "https://gamebanana.com/mods/694404",
@@ -335,28 +357,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
-        {
-          "id": 506138,
-          "title": "High-Effort Titled Bendy Mod - V6",
-          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
-          "author": "peepeemann69",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
-          "likes": 89,
-          "downloads": 4564,
-          "views": 54539,
-          "publishedAt": 1712631322,
-          "updatedAt": 1786823831,
-          "url": "https://gamebanana.com/mods/506138",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 261,
-          "downloads": 92239,
-          "views": 33511,
+          "downloads": 92269,
+          "views": 33519,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -387,14 +387,36 @@
           }
         },
         {
+          "id": 506138,
+          "title": "High-Effort Titled Bendy Mod - V6",
+          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
+          "author": "peepeemann69",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
+          "likes": 89,
+          "downloads": 4565,
+          "views": 54546,
+          "publishedAt": 1712631322,
+          "updatedAt": 1786823831,
+          "url": "https://gamebanana.com/mods/506138",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 505473,
           "title": "NovaFlare Engine",
           "description": "This Engine is based on PsychEngine (0.73)This project has been discontinued. Thank you for your use.About the difference between function and psych:1. more state rebuild2. play opponent support3. sound split fix4. guitarHeroSustains logic update5. note judgement check update（like malody）6. win icon support7. result screen at end songs8. More stable frame count and stability(lots of things&nbsp;I forget）…[more description atgithub ]）NovaFlare credit： * Beihu：main programer and head leaderSpecial thanks： * Careful_Scarf_487：Main artists* mengqi：artists* als：Open screen animation support* ddd：sound support&nbsp;Psych Engine thanks：*&nbsp;*&nbsp;Shadow Mario&nbsp;- Programmer*&nbsp;RiverOaken&nbsp;- Artist*&nbsp;bbpanzu&nbsp;- Ex-Programmer*&nbsp;Yoshubs&nbsp;- Second Ex-Programmer*&nbsp;SqirraRNG&nbsp;- Crash Handler and Base code for Chart Editor's Waveform*&nbsp;EliteMasterEric&nbsp;- Runtime Shaders support*&nbsp;KadeDev&nbsp;- Fixed some cool stuff on Chart Editor and other PRs*&nbsp;iFlicky&nbsp;- Composer of Psync and Tea Time, also made the Dialogue Sounds*&nbsp;PolybiusProxy&nbsp;- .MP4 Video Loader Library (hxCodec)*&nbsp;Keoiki&nbsp;- Note Splash Animations*&nbsp;Smokey&nbsp;- Sprite Atlas Support*&nbsp;superpowers04&nbsp;- LUA JIT Fork",
           "author": "beihu235",
           "image": "https://images.gamebanana.com/img/ss/mods/6640e4a992098.jpg",
           "likes": 77,
-          "downloads": 9395,
-          "views": 50473,
+          "downloads": 9396,
+          "views": 50477,
           "publishedAt": 1712401264,
           "updatedAt": 1785866828,
           "url": "https://gamebanana.com/mods/505473",
@@ -415,8 +437,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 74,
-          "downloads": 24680,
-          "views": 6724,
+          "downloads": 24723,
+          "views": 6733,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -451,7 +473,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 636619,
           "title": "SONIC IS ALONE.",
@@ -459,7 +487,7 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 67,
-          "downloads": 5145,
+          "downloads": 5147,
           "views": 11730,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
@@ -473,13 +501,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 704136,
           "title": "SATURDAY MORNING ALIVE (SNS EVIL EDITION)",
@@ -509,8 +531,8 @@
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 65,
-          "downloads": 3109,
-          "views": 4980,
+          "downloads": 3110,
+          "views": 4986,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -567,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 626528,
           "title": "FNF: WHERE THE EVIL LIVES IN",
@@ -576,7 +604,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
           "downloads": 4510,
-          "views": 17014,
+          "views": 17017,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -589,13 +617,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 698379,
           "title": "FNF: GUNLICK (DEMO)",
@@ -619,28 +641,6 @@
           }
         },
         {
-          "id": 704928,
-          "title": "The Cyclops [EPISODE ONE]",
-          "description": "It's been far too long now... and Cyclops has returned yet again to give you one last message as we ride this new dawn. Will you accept this hand in darkness... or will you let it cease to be?This mod is the OFFICIAL sequel to the \"Speed.GIF [Vs. Cyclops]\" Demo V2 update continuing off the content created in that publish. There is also a new piece of media known as \"The Cyclops: Revenant\" which is a written piece of literature that will have events correlated and directly impacted from this mod.DISCLAIMER: This mod has mild gore and flashing lights! If that affects you then you probably should not be playing!DISCLAIMER 2: Low end machines will struggle as of now, we will do a patch later to fix that. For now we recommend you have at least 6 gigabytes usable on your machine. \"The Cyclops\" Official Community Discord Serverpowpow's (Creator, Main Director, Main Artist) Twitter Account",
-          "author": "powpow",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
-          "likes": 49,
-          "downloads": 2424,
-          "views": 2529,
-          "publishedAt": 1787340901,
-          "updatedAt": 1787361905,
-          "url": "https://gamebanana.com/mods/704928",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 527066,
           "title": "Bub's Fruit Salad",
           "description": "Hello! It's me, Bub! Do you want to play my mod?What's A Bub?Bub's Fruit Salad is a kaizo FNF mod, made to challenge you in various ways! You play as Bub, and their many friends, and sing with many colorful friends and foe-friends!This current version has taken us a whole 2 years to make, and I hope you enjoy what we have done! - Bub's Fruit Salad teamDISCLAIMERBub is a difficult mod! There is no intent to make it any easier besides some minor nerfs! If you don't like that then please look elsewhere!",
@@ -648,7 +648,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
           "likes": 48,
           "downloads": 1260,
-          "views": 6564,
+          "views": 6570,
           "publishedAt": 1720647605,
           "updatedAt": 1787174458,
           "url": "https://gamebanana.com/mods/527066",
@@ -670,7 +670,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/66afcc3955c20.jpg",
           "likes": 47,
           "downloads": 7630,
-          "views": 24706,
+          "views": 24707,
           "publishedAt": 1721139893,
           "updatedAt": 1786885977,
           "url": "https://gamebanana.com/mods/528413",
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3183,
-          "downloads": 4568842,
-          "views": 9491738,
+          "downloads": 4568877,
+          "views": 9491748,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2340,
-          "downloads": 1808790,
-          "views": 3338257,
+          "downloads": 1808843,
+          "views": 3338270,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3709314,
-          "views": 8859313,
+          "downloads": 3709338,
+          "views": 8859317,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
