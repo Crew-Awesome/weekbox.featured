@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-24T22:43:39.277Z",
-  "revision": "e067530f53d4a8c7",
+  "generatedAt": "2026-08-24T23:02:19.542Z",
+  "revision": "6c47619202737309",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -16,6 +16,28 @@
       "id": "day",
       "label": "Best of Today",
       "mods": [
+        {
+          "id": 630592,
+          "title": "Vs. Sonic.EXE: RERUN (FAN-BUILD)",
+          "description": "A high effort 'Vs. Sonic.EXE: RERUN' fan-build. We plan to make this as close to what RERUN would have been if it was finished.This mod is a High Effort Fan-Build of Vs. Sonic.EXE: RERUN, made in Codename Engine! We will be pushing updates out in batches and will be including every song in the main roster for RERUN. We may also include some extras if we feel like it.",
+          "author": "_Fusion_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6904ee1f09924.jpg",
+          "likes": 50,
+          "downloads": 4446,
+          "views": 24135,
+          "publishedAt": 1761932586,
+          "updatedAt": 1787612396,
+          "url": "https://gamebanana.com/mods/630592",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
         {
           "id": 528300,
           "title": "Farfadox Nether Rap (Help Wanted)",
@@ -36,6 +58,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 708737,
+          "title": "Shoshinkai Panikku ! DEMO",
+          "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
+          "author": "na0micakes",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
+          "likes": 38,
+          "downloads": 480,
+          "views": 990,
+          "publishedAt": 1787511652,
+          "updatedAt": 1787611921,
+          "url": "https://gamebanana.com/mods/708737",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         },
         {
@@ -80,50 +124,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 682949,
-          "title": "Unlikely Rivals (Sonic Mix) [Playable]",
-          "description": "A small friendly competition between two Hedgehogs! ---Who will be the victor of this unlikely and yet, speedy rivalry?---An Unlikely Rivals remix if its not obvious lol.Anyways enjoy the song!Song Date: December 22, 2023---------------Works on all devices by default that use P-Slice I'm assuming.---But is confirmed to work for android by finding the hidden folder \".PSliceEngine\" and creating a \"Mods\" folder within it. Then Speedy Rivals is placed into it and is fully compatible.",
-          "author": "SirMania123",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a2668bfcb1a3.jpg",
-          "likes": 11,
-          "downloads": 521,
-          "views": 2026,
-          "publishedAt": 1780516388,
-          "updatedAt": 1787606463,
-          "url": "https://gamebanana.com/mods/682949",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 708382,
-          "title": "Stars of Saturday - Mars Edition",
-          "description": "upcoming content yes lord x games and granny games",
-          "author": "rockssaws",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a8a3de131fef.jpg",
-          "likes": 8,
-          "downloads": 170,
-          "views": 625,
-          "publishedAt": 1787446385,
-          "updatedAt": 1787563907,
-          "url": "https://gamebanana.com/mods/708382",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -228,7 +228,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 65,
           "downloads": 9629,
-          "views": 37169,
+          "views": 37171,
           "publishedAt": 1737928649,
           "updatedAt": 1787511632,
           "url": "https://gamebanana.com/mods/571604",
@@ -255,8 +255,8 @@
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
           "likes": 380,
-          "downloads": 56436,
-          "views": 103762,
+          "downloads": 56567,
+          "views": 103779,
           "publishedAt": 1734636638,
           "updatedAt": 1786852263,
           "url": "https://gamebanana.com/mods/563168",
@@ -277,8 +277,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30833,
-          "views": 108176,
+          "downloads": 30839,
+          "views": 108188,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -299,8 +299,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 275,
-          "downloads": 34193,
-          "views": 86798,
+          "downloads": 34198,
+          "views": 86811,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -343,8 +343,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5480,
-          "views": 19228,
+          "downloads": 5485,
+          "views": 19232,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 261,
-          "downloads": 92776,
-          "views": 33786,
+          "downloads": 92792,
+          "views": 33795,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -415,8 +415,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 77,
-          "downloads": 25841,
-          "views": 7199,
+          "downloads": 25874,
+          "views": 7207,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -458,7 +458,7 @@
           "description": "Sunday Night Suicide E-E-E-Evil Edition!!!! SCARY!!!!!!Jokes aside this is just a fun thing my friend and I wanted to make, this is just pretty much like the original SNS 2021 but mediocre (We're planning to update this mod eventually so stay tuned for that I guess,,,,)",
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
-          "likes": 68,
+          "likes": 69,
           "downloads": 5013,
           "views": 4413,
           "publishedAt": 1786715671,
@@ -626,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 55,
           "downloads": 2626,
-          "views": 6197,
+          "views": 6198,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
           "url": "https://gamebanana.com/mods/691582",
@@ -669,8 +669,8 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 54,
-          "downloads": 2157,
-          "views": 3446,
+          "downloads": 2174,
+          "views": 3471,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
@@ -691,8 +691,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 54,
-          "downloads": 3194,
-          "views": 3326,
+          "downloads": 3204,
+          "views": 3338,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
