@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-25T22:44:16.612Z",
-  "revision": "efbbab3cd690f803",
+  "generatedAt": "2026-08-25T23:03:44.911Z",
+  "revision": "a8aeba44d8e2950a",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,8 +23,8 @@
           "author": "TheWarpy",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a8e0a8d6f171.jpg",
           "likes": 7,
-          "downloads": 9,
-          "views": 20,
+          "downloads": 17,
+          "views": 49,
           "publishedAt": 1787693863,
           "updatedAt": 1787693863,
           "url": "https://gamebanana.com/mods/709727",
@@ -61,58 +61,14 @@
           }
         },
         {
-          "id": 630592,
-          "title": "Vs. Sonic.EXE: RERUN (FAN-BUILD)",
-          "description": "A high effort 'Vs. Sonic.EXE: RERUN' fan-build. We plan to make this as close to what RERUN would have been if it was finished.This mod is a High Effort Fan-Build of Vs. Sonic.EXE: RERUN, made in Codename Engine! We will be pushing updates out in batches and will be including every song in the main roster for RERUN. We may also include some extras if we feel like it.",
-          "author": "_Fusion_",
-          "image": "https://images.gamebanana.com/img/ss/mods/6904ee1f09924.jpg",
-          "likes": 52,
-          "downloads": 4541,
-          "views": 24368,
-          "publishedAt": 1761932586,
-          "updatedAt": 1787612396,
-          "url": "https://gamebanana.com/mods/630592",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 708737,
-          "title": "Shoshinkai Panikku ! DEMO",
-          "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
-          "author": "na0micakes",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
-          "likes": 48,
-          "downloads": 765,
-          "views": 1415,
-          "publishedAt": 1787511652,
-          "updatedAt": 1787611921,
-          "url": "https://gamebanana.com/mods/708737",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 666603,
           "title": "Doki Takeover - Bad Ending Plus !",
           "description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in future updates.Content Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\".&nbsp;- E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus,&nbsp;The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a061144dba84.jpg",
           "likes": 34,
-          "downloads": 21600,
-          "views": 18259,
+          "downloads": 21612,
+          "views": 18271,
           "publishedAt": 1775338865,
           "updatedAt": 1787682404,
           "url": "https://gamebanana.com/mods/666603",
@@ -124,6 +80,50 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 670835,
+          "title": "FNF': VS KURAPOV",
+          "description": "Вы сразитесь с Иваном Кураповым из реального мира. Мы что идём есть бургеры?ЕСЛИ ВЫ СОБИРАЕТЕСЬ ИГРАТЬ НА СЛОЖНОСТИ \"Kurapov\", ТО ВКЛЮЧАЙТЕ Practice Mode, ПОЖАЛУЙСТА!!!!Об сложностях:Hard - проходимая версия чартаKurapov - канон версия чарта",
+          "author": "GameCat956",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a81a30ca0edf.jpg",
+          "likes": 15,
+          "downloads": 1544,
+          "views": 4720,
+          "publishedAt": 1776606871,
+          "updatedAt": 1787694193,
+          "url": "https://gamebanana.com/mods/670835",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 515627,
+          "title": "Bopple's Medley | Most Things I've Ever Composed",
+          "description": "ONLY WORKS WITH PSYCH ENGINE 1.0+This is a compilation of every single song/remix I've charted (except for the ones intended for other mods such as Demigod Deathmatch and the ones that don't have visuals prepared but don't worry about it) put in chronological order of creation. Updates are released periodically whenever I make new songs (subscribe to my YouTube channel to be notified of that, I upload right after I update the mod).Song List &amp; CreditsOverthink (Bopple) - Original by LiterallyWize, uses assets from Vs. Bambi: Strident Crisis.Worship (Bopple) - Original by Mike Geno, uses assets from Mid-Fight Masses (unfortunately trashed) and DestroSZ's Sarvente Reskin.Tsukareta (Bopple) - Original by Maevings, uses assets from Vs. Bambi: Strident Crisis.Familiar Visit - Uses assets from Vs. Funk (unfortunately trashed).Jitter (Bopple) - Original by Begwhi02, uses assets from Martian Mixtape.Malevolent - Instrumental by LivelyCatto, uses assets from Exospheric Corruption, Dave &amp; Bambi Quartz Edition (unfortunately trashed), and unused sprites from Dave &amp; Bambi Golden Apple.Undaunted Demise (Bopple) - Original by ReeVrze and Nully34r, uses assets from Dave and Bambi Nullified and Vs. Impostor.God Eater (Bopple) - Original by srPerez, uses assets from Vs. Shaggy and a recolored sprite from Adding the Thunder to Thunderstorm.Stomachache (Bopple) - Original by ArtCarrot, uses assets from Vs. Pompom.Arch (Bopple) - Original by bbpanzu, uses assets from The Panzu Collection.Greystep - Uses assets from Dave &amp; Bambi Golden Apple.Zanta (Bopple) - Original by bbpanzu, uses assets from Holiday Mod and SereBeat's reanimated sprites.Inharmony (Bopple) - Original by Seberster, uses assets from Retaken Sanity.Zavodila (Bopple) - Original by&nbsp;Mike Geno, uses assets from Mid-Fight Masses (unfortunately trashed),&nbsp;DestroSZ's Sarvente Reskin, and SugarRatio's Ruvyzvat Reskin.Alabastard - Uses assets from Vs. Elite Octoling and FNF Online VS.Wild (Bopple) - Original by RisePlus, uses assets from Vs. Kiya.Talladega (Bopple) - Original by&nbsp;srPerez, uses assets from&nbsp;Vs. Shaggy, Vs. Shaggy: Mystery Inc Remixes,&nbsp;and Friday Night Crunchin'.&nbsp;Super Saiyan (Bopple) - Original by&nbsp;srPerez, uses assets from&nbsp;Vs. Shaggy&nbsp;and Editor's Cut.Lit - Uses assets from an unnamed fanchart.Godhunters - Uses assets from FNF Weekly.Sleeping Tragedies (Bopple &amp; Bruuuhhh) - Instrumental by&nbsp;Bruuuhhh, original by&nbsp;Anonex, uses assets from&nbsp;Friday Night Trepidation.Devastation (Remix) - Original by Hortas, uses assets from Astronomical Outlaws and Hortas Edition.Evaporate (Remix) - Original by Rhodes_W, uses assets from The Basement Show.Green Screen (Remix) - Original by KrystalPhantasm, uses assets from Super Mario Bros. Funk Mix DX.Man or Mouse - Uses assets from Mario's Madness and Vs. Mouse Rookies Edition&nbsp;(Legacy).Atrocity (Remix) - Original by Saster, uses assets from Another Atrocity Fan Mod.Ballistic (Remix) - Original by sock.clip, uses assets from Vs Whitty: Definitive Edition.Sunshine (Remix) - Original by MarStarBro&nbsp;and&nbsp;Squeak, uses assets from Vs. Sonic.exe.Out with the Old - Uses assets from&nbsp;FNF Online VS, Vs. Mope Mope,&nbsp;and&nbsp;Friday Night Crunchin'.RECOVERED-PROJECT (Remix) - Original by SkyFactorial, uses assets from Dave &amp; Bambi Golden Apple Edition.Challeng-EDD (Remix) - Original by philiplol, uses assets from&nbsp;FNF Online VS.Challeng-END (Remix) -&nbsp;Original by&nbsp;philiplol, uses assets from&nbsp;FNF Online VS.Non-Euclidean (Remix) - Original by Wookywok, uses assets from Phantastical Boundaries.This Sucks Ass (Remix) - Original by Lenny_face, uses assets from Vs. Angry Luigi.Flandreization - Uses assets from Scarlet Melopoeia&nbsp;and&nbsp;Apple 3.0.Coda (Remix) - Original by Mike Geno, uses assets from Starlight Mayhem&nbsp;and Doki Doki Takeover.Collision (Remix) - Original by BeastlyChip, uses assets from Vs. Yung Lixo and Vs. Yung Lixo Rework.Mesh (Remix) - Original by doggydentures, uses assets from Vs. Untextured Default Blender Monkey Head.Comatose Retake - Original by vladosikos&nbsp;(and sandi but ew), uses assets from Dead Air.Round-a-Bout (Remix) - Original by SimplyCrispy, uses assets from Vs. Sonic.exe.No Breathing (Remix) - Original by Stashclub and Ironik, uses assets from YTP Invasion.Void Aflame - Uses assets from Friday Night Crunchin'.Personal Assistant (Remix) - Original by Furscorns, uses assets from Friday Night Funkin' Destruction.Catfight (Remix) - Original by Matt$, uses assets from Doki Doki Takeover.Monochrome (Remix) - Original by SimplyCrispy&nbsp;(and madame mchummus i guess), uses assets from Hypno's Lullaby.Tartarus (Remix) - Original by Memi. uses assets from A Very Serious Touhou Mod.Shark Hunt (Remix) - Original by WireWolf, uses assets from Bubbly Bikini Boatin'.Ommetaphobia (Remix) - Original by ThatPizzaTowerFan and AadstaPinwheel, uses assets from Vs. Bambi: Strident Crisis&nbsp;(not the reboot) and Friday Night Crunchin'.Yellow Bozos - Uses assets from Vs. Sonic.exe and Holofunk.Wish Come True (Remix) - Original by ImpyBoo, uses assets from Pibby Corrupted.Crappy Deal - Uses entirely original assets.Rotten to the Core - Uses assets from FNF: Spirits of Hell&nbsp;and Spooky Mix.Served (Remix) - Original by Vruzzen (and sandi also ig), uses assets from Mistful Crimson Morning.Markov (Remix) - Original by Matt$, uses assets from Doki Doki Takeover Bad Ending.Other FeaturesSkill Stars, a mechanic lifted straight from Rhythm Heaven Megamix - a single note that appears during a pivotal moment in the song, giving you extra health if hit and a cool visual indicator of awesomeness if you land a Sick and have already been doing well (just so you know though, the mod doesn't track you collecting them after the song is over).Want to just sit back and watch the gameplay and cool awesome cool visuals? All you have to do now is press B while in a song and Botplay will activate right away. This can be toggled on and off to your heart's content.The strumline will fade to low opacity when you don't have notes incoming and come back at full opacity when the notes start coming. If you ever need breathers for your fingers, this'll be nice to alert you when the gameplay's coming back.Do you have the random, incredibly specific desire to replace Girlfriend with some random FNF composer's white boy sona? Fear not, for if you press Q in a song where Girlfriend is the default sprite (not Zavodila or Devastation though it doesn't work there), you can replace Girlfriend with some random FNF composer's white boy sona and swap between the two at will! Not sure who owns that sona... I'm sure he's very awesome and sexy, though.",
+          "author": "Bopple McNuggets",
+          "image": "https://images.gamebanana.com/img/ss/mods/6819070a08426.jpg",
+          "likes": 13,
+          "downloads": 988,
+          "views": 9853,
+          "publishedAt": 1716603134,
+          "updatedAt": 1787680783,
+          "url": "https://gamebanana.com/mods/515627",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -140,7 +140,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
           "likes": 156,
           "downloads": 36057,
-          "views": 117283,
+          "views": 117290,
           "publishedAt": 1717301118,
           "updatedAt": 1787325645,
           "url": "https://gamebanana.com/mods/517623",
@@ -161,8 +161,8 @@
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 120,
-          "downloads": 28366,
-          "views": 83288,
+          "downloads": 28370,
+          "views": 83293,
           "publishedAt": 1661343542,
           "updatedAt": 1787411336,
           "url": "https://gamebanana.com/mods/397970",
@@ -277,8 +277,8 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30976,
-          "views": 108362,
+          "downloads": 30980,
+          "views": 108370,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -322,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 92,
           "downloads": 4608,
-          "views": 55036,
+          "views": 55043,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 261,
-          "downloads": 93069,
-          "views": 33939,
+          "downloads": 93081,
+          "views": 33946,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -415,8 +415,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 69,
-          "downloads": 5180,
-          "views": 4589,
+          "downloads": 5194,
+          "views": 4601,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -459,8 +459,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14352,
-          "views": 34045,
+          "downloads": 14357,
+          "views": 34047,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -603,8 +603,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 56,
-          "downloads": 3528,
-          "views": 3769,
+          "downloads": 3531,
+          "views": 3773,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
@@ -630,6 +630,28 @@
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 630592,
+          "title": "Vs. Sonic.EXE: RERUN (FAN-BUILD)",
+          "description": "A high effort 'Vs. Sonic.EXE: RERUN' fan-build. We plan to make this as close to what RERUN would have been if it was finished.This mod is a High Effort Fan-Build of Vs. Sonic.EXE: RERUN, made in Codename Engine! We will be pushing updates out in batches and will be including every song in the main roster for RERUN. We may also include some extras if we feel like it.",
+          "author": "_Fusion_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6904ee1f09924.jpg",
+          "likes": 52,
+          "downloads": 4541,
+          "views": 24368,
+          "publishedAt": 1761932586,
+          "updatedAt": 1787612396,
+          "url": "https://gamebanana.com/mods/630592",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -683,28 +705,6 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
-        {
-          "id": 527066,
-          "title": "Bub's Fruit Salad",
-          "description": "Hello! It's me, Bub! Do you want to play my mod?What's A Bub?Bub's Fruit Salad is a kaizo FNF mod, made to challenge you in various ways! You play as Bub, and their many friends, and sing with many colorful friends and foe-friends!This current version has taken us a whole 2 years to make, and I hope you enjoy what we have done! - Bub's Fruit Salad teamDISCLAIMERBub is a difficult mod! There is no intent to make it any easier besides some minor nerfs! If you don't like that then please look elsewhere!",
-          "author": "burgerballs9",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
-          "likes": 48,
-          "downloads": 1283,
-          "views": 6696,
-          "publishedAt": 1720647605,
-          "updatedAt": 1787174458,
-          "url": "https://gamebanana.com/mods/527066",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2617,
-          "downloads": 1975922,
-          "views": 4423767,
+          "downloads": 1975942,
+          "views": 4423779,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834755,
-          "views": 2920533,
+          "downloads": 834759,
+          "views": 2920542,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
