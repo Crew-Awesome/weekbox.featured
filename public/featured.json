@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-25T12:02:47.237Z",
-  "revision": "f870c6c3806c9754",
+  "generatedAt": "2026-08-25T13:11:06.511Z",
+  "revision": "1d5ea39bf4aa4e81",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -22,9 +22,9 @@
           "description": "A high effort 'Vs. Sonic.EXE: RERUN' fan-build. We plan to make this as close to what RERUN would have been if it was finished.This mod is a High Effort Fan-Build of Vs. Sonic.EXE: RERUN, made in Codename Engine! We will be pushing updates out in batches and will be including every song in the main roster for RERUN. We may also include some extras if we feel like it.",
           "author": "_Fusion_",
           "image": "https://images.gamebanana.com/img/ss/mods/6904ee1f09924.jpg",
-          "likes": 50,
-          "downloads": 4497,
-          "views": 24280,
+          "likes": 51,
+          "downloads": 4499,
+          "views": 24291,
           "publishedAt": 1761932586,
           "updatedAt": 1787612396,
           "url": "https://gamebanana.com/mods/630592",
@@ -44,9 +44,9 @@
           "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
-          "likes": 42,
-          "downloads": 643,
-          "views": 1232,
+          "likes": 44,
+          "downloads": 660,
+          "views": 1252,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -67,8 +67,8 @@
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a061144dba84.jpg",
           "likes": 34,
-          "downloads": 21193,
-          "views": 18059,
+          "downloads": 21209,
+          "views": 18067,
           "publishedAt": 1775338865,
           "updatedAt": 1787614482,
           "url": "https://gamebanana.com/mods/666603",
@@ -111,8 +111,8 @@
           "author": "bodoji",
           "image": "https://images.gamebanana.com/img/ss/mods/69af30b77fb28.jpg",
           "likes": 7,
-          "downloads": 1768,
-          "views": 4499,
+          "downloads": 1775,
+          "views": 4506,
           "publishedAt": 1772686010,
           "updatedAt": 1787590607,
           "url": "https://gamebanana.com/mods/657735",
@@ -139,8 +139,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
           "likes": 156,
-          "downloads": 36049,
-          "views": 117219,
+          "downloads": 36051,
+          "views": 117223,
           "publishedAt": 1717301118,
           "updatedAt": 1787325645,
           "url": "https://gamebanana.com/mods/517623",
@@ -161,8 +161,8 @@
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 120,
-          "downloads": 28252,
-          "views": 83237,
+          "downloads": 28254,
+          "views": 83241,
           "publishedAt": 1661343542,
           "updatedAt": 1787411336,
           "url": "https://gamebanana.com/mods/397970",
@@ -183,8 +183,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 105,
-          "downloads": 5240,
-          "views": 13645,
+          "downloads": 5242,
+          "views": 13652,
           "publishedAt": 1754528161,
           "updatedAt": 1787191265,
           "url": "https://gamebanana.com/mods/611878",
@@ -205,8 +205,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 102,
-          "downloads": 7069,
-          "views": 24956,
+          "downloads": 7078,
+          "views": 24962,
           "publishedAt": 1742496031,
           "updatedAt": 1787444551,
           "url": "https://gamebanana.com/mods/582726",
@@ -228,7 +228,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 65,
           "downloads": 9630,
-          "views": 37194,
+          "views": 37196,
           "publishedAt": 1737928649,
           "updatedAt": 1787511632,
           "url": "https://gamebanana.com/mods/571604",
@@ -249,14 +249,36 @@
       "label": "Best of This Month",
       "mods": [
         {
+          "id": 563168,
+          "title": "ANIMANIA!",
+          "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
+          "author": "AnimaniaCrew",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
+          "likes": 382,
+          "downloads": 57621,
+          "views": 104015,
+          "publishedAt": 1734636638,
+          "updatedAt": 1786852263,
+          "url": "https://gamebanana.com/mods/563168",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 527369,
           "title": "Vs Holy Quintet: DEBUT",
           "description": "Vs. Holy Quintet is a new take on the world of Puella Magi Madoka Magica, this time through the eyes of a new star-struck protagonist, Girlfriend!A Friday Night Funkin’ mod set in a world of magic and miracles, join GF as she experiences the joys (and horrors) of this new world, all with the power of song! Featuring an original OST with 9 playable songs, a leaderboard system, cutscenes, and more!Sing against the magical girls of Mitakihara city: Sayaka Miki, Mami Tomoe, Madoka Kaname, Kyoko Sakura, and Homura Akemi, and wow the world with your magical tunes! How will Girlfriend fare in a world of hope and despair, where even kindness could spiral into the greatest of tragedies? All you have to do is make a wish to find out.",
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30901,
-          "views": 108289,
+          "downloads": 30904,
+          "views": 108297,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -277,8 +299,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 275,
-          "downloads": 34225,
-          "views": 87008,
+          "downloads": 34227,
+          "views": 87024,
           "publishedAt": 1757793620,
           "updatedAt": 1786297689,
           "url": "https://gamebanana.com/mods/613322",
@@ -299,8 +321,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5500,
-          "views": 19251,
+          "downloads": 5502,
+          "views": 19252,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -322,7 +344,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 91,
           "downloads": 4600,
-          "views": 54942,
+          "views": 54946,
           "publishedAt": 1712631322,
           "updatedAt": 1786823831,
           "url": "https://gamebanana.com/mods/506138",
@@ -334,28 +356,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 702352,
-          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
-          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
-          "author": "Floofum",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
-          "likes": 77,
-          "downloads": 26147,
-          "views": 7324,
-          "publishedAt": 1786316742,
-          "updatedAt": 1786320080,
-          "url": "https://gamebanana.com/mods/702352",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 261,
-          "downloads": 92935,
-          "views": 33874,
+          "downloads": 92944,
+          "views": 33879,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -387,14 +387,36 @@
           }
         },
         {
+          "id": 702352,
+          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
+          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
+          "author": "Floofum",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
+          "likes": 77,
+          "downloads": 26156,
+          "views": 7337,
+          "publishedAt": 1786316742,
+          "updatedAt": 1786320080,
+          "url": "https://gamebanana.com/mods/702352",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
           "id": 702396,
           "title": "SCP: Project Funkin'",
           "description": "You are Boyfriend, and you wake up inside the SCP Foundation itself...A guard gives you a few instructions to help you survive—will you make it?WARNING: This version is free of updates, as we have encountered numerous issues.",
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 3189,
-          "views": 3520,
+          "downloads": 3193,
+          "views": 3522,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
@@ -415,8 +437,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 69,
-          "downloads": 5068,
-          "views": 4500,
+          "downloads": 5074,
+          "views": 4506,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -451,7 +473,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 546457,
           "title": "Erect Mode Psych Port",
@@ -459,8 +487,8 @@
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14338,
-          "views": 34020,
+          "downloads": 14341,
+          "views": 34023,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -473,13 +501,7 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 702283,
           "title": "Undertale: Funk Mode - Usurpation",
@@ -487,8 +509,8 @@
           "author": "Statzz",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
           "likes": 65,
-          "downloads": 3170,
-          "views": 5120,
+          "downloads": 3171,
+          "views": 5121,
           "publishedAt": 1786305164,
           "updatedAt": 1786471784,
           "url": "https://gamebanana.com/mods/702283",
@@ -509,8 +531,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 64,
-          "downloads": 7586,
-          "views": 19387,
+          "downloads": 7588,
+          "views": 19392,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -567,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 707298,
           "title": "Matt's Redemption",
@@ -575,8 +603,8 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 56,
-          "downloads": 2315,
-          "views": 3708,
+          "downloads": 2326,
+          "views": 3718,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
@@ -589,13 +617,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 704928,
           "title": "The Cyclops [EPISODE ONE]",
@@ -603,8 +625,8 @@
           "author": "powpow",
           "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
           "likes": 56,
-          "downloads": 3364,
-          "views": 3548,
+          "downloads": 3378,
+          "views": 3578,
           "publishedAt": 1787340901,
           "updatedAt": 1787361905,
           "url": "https://gamebanana.com/mods/704928",
@@ -625,7 +647,7 @@
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6a49555ad06ae.jpg",
           "likes": 55,
-          "downloads": 2639,
+          "downloads": 2640,
           "views": 6211,
           "publishedAt": 1783191342,
           "updatedAt": 1783684925,
@@ -647,8 +669,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 4585,
-          "views": 17213,
+          "downloads": 4587,
+          "views": 17221,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -683,28 +705,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
-        {
-          "id": 528300,
-          "title": "Farfadox Nether Rap (Help Wanted)",
-          "description": "#Mod InfoOfficial Twitter Account (OUTDATED ACCOUNT, NO LONGER SUPPORTED)VERY IMPORTANT: Playing Fight Club at more than 60 fps might crash the gameIMPORTANTE: Jugar a Fight Club con más de 60 fps puede crashear el juegoENGBattle against the netherite knight!&nbsp;This is a mod based on a youtuber called Farfadox but with an original different loreThe demo includes 2 playable songs:- Knight (Story Mode)- Fight Club (Freeplay)Consider giving your like in this mod :&gt;ESPEnfrentate contra el caballero de netherite!&nbsp;Este es un mod basado en el youtuber Farfadox pero con un diferente lore originalLa demo incluye 2 canciones jugables:- Knight (Story Mode)- Fight Club (Freeplay)Considera dar tu like a este mod y apoyar el proyecto :&gt;#Help WantedENG¿WANNA JOIN THE TEAM? We need:ComposersArtists&nbsp;(Sprites/Hud/BGs)AnimatorsSend requests via:&nbsp;Discord: logicalduck o foxler5000 ----&nbsp; Twitter: https://x.com/Patugo2 (or) https://x.com/AnderesHug75165ESP¿QUIERES UNIRTE AL EQUIPO? Necesitamos:CompositoresArtistas (Sprites/Hud/BGs)AnimadoresMandar solicitud por: Discord: logicalduck o foxler5000 ----&nbsp; Twitter: https://x.com/Patugo2 (o) https://x.com/AnderesHug75165",
-          "author": "TheLogicalDuck",
-          "image": "https://images.gamebanana.com/img/ss/mods/6695cd634e878.jpg",
-          "likes": 48,
-          "downloads": 1713,
-          "views": 8953,
-          "publishedAt": 1721094035,
-          "updatedAt": 1787556842,
-          "url": "https://gamebanana.com/mods/528300",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         }
       ]
     },
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3184,
-          "downloads": 4570551,
-          "views": 9492356,
+          "downloads": 4570605,
+          "views": 9492388,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2617,
-          "downloads": 1975639,
-          "views": 4423662,
+          "downloads": 1975660,
+          "views": 4423671,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2340,
-          "downloads": 1810901,
-          "views": 3338865,
+          "downloads": 1810933,
+          "views": 3338876,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3710434,
-          "views": 8859748,
+          "downloads": 3710467,
+          "views": 8859757,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834700,
-          "views": 2920451,
+          "downloads": 834706,
+          "views": 2920457,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
