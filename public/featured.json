@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-25T11:42:47.543Z",
-  "revision": "e04fdd7772e7e7c8",
+  "generatedAt": "2026-08-25T12:02:47.237Z",
+  "revision": "f870c6c3806c9754",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -45,8 +45,8 @@
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
           "likes": 42,
-          "downloads": 639,
-          "views": 1228,
+          "downloads": 643,
+          "views": 1232,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -140,7 +140,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
           "likes": 156,
           "downloads": 36049,
-          "views": 117214,
+          "views": 117219,
           "publishedAt": 1717301118,
           "updatedAt": 1787325645,
           "url": "https://gamebanana.com/mods/517623",
@@ -161,8 +161,8 @@
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 120,
-          "downloads": 28245,
-          "views": 83232,
+          "downloads": 28252,
+          "views": 83237,
           "publishedAt": 1661343542,
           "updatedAt": 1787411336,
           "url": "https://gamebanana.com/mods/397970",
@@ -228,7 +228,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 65,
           "downloads": 9630,
-          "views": 37193,
+          "views": 37194,
           "publishedAt": 1737928649,
           "updatedAt": 1787511632,
           "url": "https://gamebanana.com/mods/571604",
@@ -249,36 +249,14 @@
       "label": "Best of This Month",
       "mods": [
         {
-          "id": 563168,
-          "title": "ANIMANIA!",
-          "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
-          "author": "AnimaniaCrew",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
-          "likes": 382,
-          "downloads": 57493,
-          "views": 103983,
-          "publishedAt": 1734636638,
-          "updatedAt": 1786852263,
-          "url": "https://gamebanana.com/mods/563168",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 527369,
           "title": "Vs Holy Quintet: DEBUT",
           "description": "Vs. Holy Quintet is a new take on the world of Puella Magi Madoka Magica, this time through the eyes of a new star-struck protagonist, Girlfriend!A Friday Night Funkin’ mod set in a world of magic and miracles, join GF as she experiences the joys (and horrors) of this new world, all with the power of song! Featuring an original OST with 9 playable songs, a leaderboard system, cutscenes, and more!Sing against the magical girls of Mitakihara city: Sayaka Miki, Mami Tomoe, Madoka Kaname, Kyoko Sakura, and Homura Akemi, and wow the world with your magical tunes! How will Girlfriend fare in a world of hope and despair, where even kindness could spiral into the greatest of tragedies? All you have to do is make a wish to find out.",
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 30897,
-          "views": 108283,
+          "downloads": 30901,
+          "views": 108289,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
@@ -315,36 +293,14 @@
           }
         },
         {
-          "id": 694404,
-          "title": "Nermal Nermal Nermallin'",
-          "description": "A mod that reboots the 2022 Vs Nermal mod, apart of Team Bloopy.Jon needs someone to look after the house for him during the day while he’s out, so he hires Girlfriend, daughter of the dearest family, and she brings Boyfriend. Garfield doesn't like the news of a new visitor, so he hides as much as he possibly can. Meanwhile, Nermal (Garfield’s hated enemy) is staying at the house and greets them with a friendly rap battle (He wants to show Girlfriend how cute he is).",
-          "author": "overlay",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a56f28ea6df2.jpg",
-          "likes": 157,
-          "downloads": 10321,
-          "views": 11277,
-          "publishedAt": 1784318563,
-          "updatedAt": 1785975607,
-          "url": "https://gamebanana.com/mods/694404",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 592129,
           "title": "awesome mod V2.1",
           "description": "awesome mod about a awesome dude made by awesome friendscheck now",
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5496,
-          "views": 19247,
+          "downloads": 5500,
+          "views": 19251,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -356,34 +312,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "three-months",
-      "label": "Best of 3 Months",
-      "mods": [
-        {
-          "id": 665295,
-          "title": "Friday Night Funkin': [RESCRIPT]",
-          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
-          "author": "PickleNuts",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
-          "likes": 261,
-          "downloads": 92935,
-          "views": 33874,
-          "publishedAt": 1779474976,
-          "updatedAt": 1784228187,
-          "url": "https://gamebanana.com/mods/665295",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
           }
         },
         {
@@ -429,6 +357,34 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
+        {
+          "id": 665295,
+          "title": "Friday Night Funkin': [RESCRIPT]",
+          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
+          "author": "PickleNuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
+          "likes": 261,
+          "downloads": 92935,
+          "views": 33874,
+          "publishedAt": 1779474976,
+          "updatedAt": 1784228187,
+          "url": "https://gamebanana.com/mods/665295",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
         },
         {
           "id": 702396,
@@ -459,8 +415,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 69,
-          "downloads": 5064,
-          "views": 4496,
+          "downloads": 5068,
+          "views": 4500,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -473,13 +429,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 636619,
           "title": "SONIC IS ALONE.",
@@ -487,8 +437,8 @@
           "author": "Herox_",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
           "likes": 67,
-          "downloads": 5237,
-          "views": 11754,
+          "downloads": 5239,
+          "views": 11755,
           "publishedAt": 1764450918,
           "updatedAt": 1786402626,
           "url": "https://gamebanana.com/mods/636619",
@@ -523,7 +473,13 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 702283,
           "title": "Undertale: Funk Mode - Usurpation",
@@ -589,13 +545,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 615291,
           "title": "[BATCH 4] The Average OC Mod 2.5",
@@ -639,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 704928,
           "title": "The Cyclops [EPISODE ONE]",
@@ -696,6 +652,50 @@
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 698379,
+          "title": "FNF: GUNLICK (DEMO)",
+          "description": "Fashionably late, but here it is. GUNLICK!!! Demo. YesPlay as Beef.G as you face 3 different opponents in the City of ST.GROOVES!You’ll need Codename Engine 1.0.1 to play this mod pack.",
+          "author": "skat3rpup537",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
+          "likes": 51,
+          "downloads": 1690,
+          "views": 4325,
+          "publishedAt": 1785274201,
+          "updatedAt": 1785274283,
+          "url": "https://gamebanana.com/mods/698379",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 528300,
+          "title": "Farfadox Nether Rap (Help Wanted)",
+          "description": "#Mod InfoOfficial Twitter Account (OUTDATED ACCOUNT, NO LONGER SUPPORTED)VERY IMPORTANT: Playing Fight Club at more than 60 fps might crash the gameIMPORTANTE: Jugar a Fight Club con más de 60 fps puede crashear el juegoENGBattle against the netherite knight!&nbsp;This is a mod based on a youtuber called Farfadox but with an original different loreThe demo includes 2 playable songs:- Knight (Story Mode)- Fight Club (Freeplay)Consider giving your like in this mod :&gt;ESPEnfrentate contra el caballero de netherite!&nbsp;Este es un mod basado en el youtuber Farfadox pero con un diferente lore originalLa demo incluye 2 canciones jugables:- Knight (Story Mode)- Fight Club (Freeplay)Considera dar tu like a este mod y apoyar el proyecto :&gt;#Help WantedENG¿WANNA JOIN THE TEAM? We need:ComposersArtists&nbsp;(Sprites/Hud/BGs)AnimatorsSend requests via:&nbsp;Discord: logicalduck o foxler5000 ----&nbsp; Twitter: https://x.com/Patugo2 (or) https://x.com/AnderesHug75165ESP¿QUIERES UNIRTE AL EQUIPO? Necesitamos:CompositoresArtistas (Sprites/Hud/BGs)AnimadoresMandar solicitud por: Discord: logicalduck o foxler5000 ----&nbsp; Twitter: https://x.com/Patugo2 (o) https://x.com/AnderesHug75165",
+          "author": "TheLogicalDuck",
+          "image": "https://images.gamebanana.com/img/ss/mods/6695cd634e878.jpg",
+          "likes": 48,
+          "downloads": 1713,
+          "views": 8953,
+          "publishedAt": 1721094035,
+          "updatedAt": 1787556842,
+          "url": "https://gamebanana.com/mods/528300",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3710413,
-          "views": 8859737,
+          "downloads": 3710434,
+          "views": 8859748,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 834696,
-          "views": 2920442,
+          "downloads": 834700,
+          "views": 2920451,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
