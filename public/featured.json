@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-28T11:22:31.299Z",
-  "revision": "cc415a50585a713e",
+  "generatedAt": "2026-08-28T21:31:31.089Z",
+  "revision": "221a52808d784744",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,16 +17,60 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 710854,
+          "title": "LittleBigPlanet Groove",
+          "description": "Welcome, sackthings & craftlings to LittleBigPlanet Groove! This mod is a small tribute to the LBP series and it's poster character: Sackboy! Despite the smaller size of this project, we all hope you enjoy a trip down memory lane and feel that same creative spirit once more!Well? What are you waiting for, a pat on the back?! Off you go!",
+          "author": "fl0pd00dle",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a90f7d16f80a.jpg",
+          "likes": 23,
+          "downloads": 298,
+          "views": 291,
+          "publishedAt": 1787938323,
+          "updatedAt": 1787938365,
+          "url": "https://gamebanana.com/mods/710854",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 571604,
+          "title": "FNF:REDONE",
+          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
+          "author": "Key97",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
+          "likes": 66,
+          "downloads": 9844,
+          "views": 37443,
+          "publishedAt": 1737928649,
+          "updatedAt": 1787931164,
+          "url": "https://gamebanana.com/mods/571604",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
           "id": 666603,
           "title": "Doki Takeover - Bad Ending Plus !",
           "description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\".&nbsp;- E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus,&nbsp;The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a061144dba84.jpg",
           "likes": 35,
-          "downloads": 23083,
-          "views": 18946,
+          "downloads": 23591,
+          "views": 19114,
           "publishedAt": 1775338865,
-          "updatedAt": 1787878040,
+          "updatedAt": 1787932974,
           "url": "https://gamebanana.com/mods/666603",
           "engine": {
             "id": "executable",
@@ -39,17 +83,17 @@
           }
         },
         {
-          "id": 710472,
-          "title": "Shaggy Erect God Revenge",
-          "description": "MOD sobre Shaggy y canciones ERECT el cual fue hecho en tan solo 2 semanitas :DEs un ejecutable por lo que solo descarguenlo y ya estaría.//////////////////////////////////A MOD about Shaggy and ERECT songs, which was made in just 2 weeks :DIt's an executable file, so just download it and you're all set.",
-          "author": "EndercraftPro",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a90857d8859c.jpg",
-          "likes": 15,
-          "downloads": 649,
-          "views": 545,
-          "publishedAt": 1787856742,
-          "updatedAt": 1787859754,
-          "url": "https://gamebanana.com/mods/710472",
+          "id": 708619,
+          "title": "VS THEM",
+          "description": "Imagine A VS Him fanmod... Now imagine that taking 3 years because we're lazy + losing the plot.That's VS ThemAfter 3 years of insanely inconsistent development, we are not proud to share the product of our not so hard work!This mod includes: 1 Full Weeks3 Freeplay song 2 Legacy versions of old levelsTo play the modpack, add it to Psych Engine's mod folder (0.7.3) Alternatively, you may download the modpack bundled with the correct Psych Engine version below.",
+          "author": "OmniFries",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a8af904ab97f.jpg",
+          "likes": 25,
+          "downloads": 883,
+          "views": 1278,
+          "publishedAt": 1787494319,
+          "updatedAt": 1787916815,
+          "url": "https://gamebanana.com/mods/708619",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -61,39 +105,17 @@
           }
         },
         {
-          "id": 549742,
-          "title": "FNF:Incident-Ashes",
-          "description": "Somewhere in NEVADA The Icon of SIN... A Battered body Is denied Death... In Order to Grant it En Masse...---Welcome and thx for playing FNF: Incident Ashes!(Bad Grammar incoming)This mod of FNF is an FANMOD of another mod in development called ¨Incident:012F\"This mod is NOT directly connected to the original mod so please, play the first demo of it. (mod in Gamejolt)------^ ^------If any dev from these mods want this FanMod down, please DM me.---More stuff comming soon so if you liked this Fanmod, Ill apreciated it.Thanks For Playing and see ya ^^Madness Combat by KrinkelsWarning, this game contains Flashing lights, so be aware please.(For better experience, keep them on if you aren´t epileptic or sensitive)",
-          "author": "Santiago325hack",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a90d4423f2fe.jpg",
-          "likes": 12,
-          "downloads": 875,
-          "views": 3777,
-          "publishedAt": 1729375543,
-          "updatedAt": 1787859207,
-          "url": "https://gamebanana.com/mods/549742",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 498042,
-          "title": "Vs Geen Guy: Anniversary Mod (UPDATE!)",
-          "description": "geen guy is.... 3 and a half? what the fuck! he can speak full words now! anyways, happy LATE b (as per usual, thank you all for your patience and support! the main mod is next!)",
-          "author": "PyriteTheDumb",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9091ae22b2c.jpg",
-          "likes": 10,
-          "downloads": 208,
-          "views": 2082,
-          "publishedAt": 1709005515,
-          "updatedAt": 1787858800,
-          "url": "https://gamebanana.com/mods/498042",
+          "id": 710535,
+          "title": "VS. DOCUMIC.TXT REDOCUMENTED [DEMO]",
+          "description": "Answers await where the world falls away.It's finally here! Vs. Documic.txt Redocumented is finally available to the public as a demo! We're all so excited that we can finally release this mod and we hope that everyone enjoys the experience! It's been a long while in the making and has been through slight development hell this past year, but we managed to get through it!To better explain what Redocumented is, the mod is a retake on the Documic characters and their universe(s), expanding on story, designs, and lore. We have a lot more planned after the demo, and also plan to keep the community updated via Twitter and our Discord! Both are linked below if you want to keep tabs on the mod.Includes 6 songs; 1 from the main Documic Week, 1 from the Soink Week, the rest are from Freeplay.Documic.txt Redocumented Official TwitterDocumic.txt Redocumented Community DiscordDISCLAIMER: This mod contains lots of flashing lights! Turn them off in the options menu if you struggle with that sorta thing!With all that aside, we hope you enjoy Documic.txt Redocumented!",
+          "author": "Hazblaze",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a909e658e244.jpg",
+          "likes": 18,
+          "downloads": 242,
+          "views": 370,
+          "publishedAt": 1787936403,
+          "updatedAt": 1787936888,
+          "url": "https://gamebanana.com/mods/710535",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -102,28 +124,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 450986,
-          "title": "FNF VS EYEGONE PLUS (DEMO LEGACY)",
-          "description": "This mod is a gacha life story about a woman named Iza who has had no eyes since being kidnapped by an unknown serial killer and having both of her eyes removed, but she has a friend who wants to live it out; his name is Jason, so Iza lives in Jason's house for a while and has many adventures until we find out who the serial killer is.Warning: Some scene has a blood in it, and has a based even story in a plus versionThis Is A Modpack, So Recomended Use Psych Engine 1.0.4There A 2 Version, English And IndonesianPlus version will be available 3 languagesEnglish, Spanish And Indonesian",
-          "author": "Takuruky64",
-          "image": "https://images.gamebanana.com/img/ss/mods/66a7ac3167407.jpg",
-          "likes": 6,
-          "downloads": 351,
-          "views": 3787,
-          "publishedAt": 1687180745,
-          "updatedAt": 1787913317,
-          "url": "https://gamebanana.com/mods/450986",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a8b3cfc6f733.jpg",
           "likes": 51,
-          "downloads": 1092,
-          "views": 2072,
+          "downloads": 1168,
+          "views": 2210,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -161,8 +161,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 277,
-          "downloads": 34504,
-          "views": 87917,
+          "downloads": 34537,
+          "views": 88030,
           "publishedAt": 1757793620,
           "updatedAt": 1787676160,
           "url": "https://gamebanana.com/mods/613322",
@@ -177,36 +177,14 @@
           }
         },
         {
-          "id": 517623,
-          "title": "Friday Night Funkin: Rhythmic Revolution V1.5 +DLC",
-          "description": "Sussus Among us[Official FLA download link]https://drive.google.com/file/d/1IrPOn-CsTCsZnTqbORssYBQotyfsPQTy/view?usp=sharingWelcome back to official return of VS Impostor but Human Mod!With a really long break, we decided to come back to finish something we hadn't finished yet.",
-          "author": "BlueBirds",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
-          "likes": 156,
-          "downloads": 36134,
-          "views": 117610,
-          "publishedAt": 1717301118,
-          "updatedAt": 1787325645,
-          "url": "https://gamebanana.com/mods/517623",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 397970,
           "title": "FNF ONLINE VS. Hank Challenge - Psych Engine Port",
           "description": "This is a Psych Engine port of the first challenge in FNF ONLINE VS, the Hank Challenge (with the song's name being \"Accelerant\").This port is intended to be used with the ONLINE VS. Result Screen Port.A lot of people have already tried to port this challenge to psych, but most of these ports are rushed, inaccurate, and just stupidly lazy (written before TheConcealedCow made his port, which is very good as well and is definitly worth your time). In this port, however, I tried to put as much effort as I can and I wanted this port to be one of the best psych engine ports to date. I hope you'll enjoy this port as much as I enjoyed making it!Accelerant REDUXThe offical remix (by philiplol) for Accelerant, \"Accelerant REDUX\", is playable in this port as an unlockable song. It includes the new song with one difficulty (\"madness\"), and a few minor visual effects added. This was originally supposed to only be a preview for a full Accelerant REDUX mod, which would have had completely new visuals, animations and cutscenes, a \"normal\" difficulty and a few new mechanics, but I completely canceled it.Read the README.md file from this mod's folder if you're looking for more information about this port and the plans I have for its future",
           "author": "Applehair",
           "image": "https://images.gamebanana.com/img/ss/mods/633171897a194.jpg",
           "likes": 120,
-          "downloads": 28721,
-          "views": 83535,
+          "downloads": 28771,
+          "views": 83590,
           "publishedAt": 1661343542,
           "updatedAt": 1787411336,
           "url": "https://gamebanana.com/mods/397970",
@@ -227,11 +205,33 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 102,
-          "downloads": 7293,
-          "views": 25122,
+          "downloads": 7327,
+          "views": 25143,
           "publishedAt": 1742496031,
           "updatedAt": 1787444551,
           "url": "https://gamebanana.com/mods/582726",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 702283,
+          "title": "Undertale: Funk Mode - Usurpation",
+          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT AND PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
+          "author": "Statzz",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
+          "likes": 65,
+          "downloads": 3332,
+          "views": 5290,
+          "publishedAt": 1786305164,
+          "updatedAt": 1787770956,
+          "url": "https://gamebanana.com/mods/702283",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -255,8 +255,8 @@
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
           "likes": 387,
-          "downloads": 61744,
-          "views": 105236,
+          "downloads": 62222,
+          "views": 105358,
           "publishedAt": 1734636638,
           "updatedAt": 1786852263,
           "url": "https://gamebanana.com/mods/563168",
@@ -277,11 +277,33 @@
           "author": "Sector03",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6d405e73dbb.jpg",
           "likes": 288,
-          "downloads": 31308,
-          "views": 108837,
+          "downloads": 31369,
+          "views": 108913,
           "publishedAt": 1720810950,
           "updatedAt": 1786371057,
           "url": "https://gamebanana.com/mods/527369",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 517623,
+          "title": "Friday Night Funkin: Rhythmic Revolution V1.5 +DLC",
+          "description": "Sussus Among us[Official FLA download link]https://drive.google.com/file/d/1IrPOn-CsTCsZnTqbORssYBQotyfsPQTy/view?usp=sharingWelcome back to official return of VS Impostor but Human Mod!With a really long break, we decided to come back to finish something we hadn't finished yet.",
+          "author": "BlueBirds",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a886c159995e.jpg",
+          "likes": 156,
+          "downloads": 36140,
+          "views": 117677,
+          "publishedAt": 1717301118,
+          "updatedAt": 1787325645,
+          "url": "https://gamebanana.com/mods/517623",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -299,8 +321,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76934ebbb50.jpg",
           "likes": 105,
-          "downloads": 5350,
-          "views": 13869,
+          "downloads": 5365,
+          "views": 13879,
           "publishedAt": 1754528161,
           "updatedAt": 1787191265,
           "url": "https://gamebanana.com/mods/611878",
@@ -321,8 +343,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 99,
-          "downloads": 5645,
-          "views": 19361,
+          "downloads": 5658,
+          "views": 19380,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -334,28 +356,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 506138,
-          "title": "High-Effort Titled Bendy Mod - V6",
-          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
-          "author": "peepeemann69",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
-          "likes": 92,
-          "downloads": 4638,
-          "views": 55401,
-          "publishedAt": 1712631322,
-          "updatedAt": 1786823831,
-          "url": "https://gamebanana.com/mods/506138",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 263,
-          "downloads": 93772,
-          "views": 34304,
+          "downloads": 93872,
+          "views": 34357,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -387,14 +387,36 @@
           }
         },
         {
+          "id": 506138,
+          "title": "High-Effort Titled Bendy Mod - V6",
+          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
+          "author": "peepeemann69",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
+          "likes": 93,
+          "downloads": 4644,
+          "views": 55458,
+          "publishedAt": 1712631322,
+          "updatedAt": 1786823831,
+          "url": "https://gamebanana.com/mods/506138",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 702352,
           "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
           "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 77,
-          "downloads": 27575,
-          "views": 7967,
+          "downloads": 27769,
+          "views": 8049,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -415,8 +437,8 @@
           "author": "PeGo_BoY",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7f07a5bdc60.jpg",
           "likes": 72,
-          "downloads": 5856,
-          "views": 5136,
+          "downloads": 5981,
+          "views": 5219,
           "publishedAt": 1786715671,
           "updatedAt": 1786776788,
           "url": "https://gamebanana.com/mods/704136",
@@ -437,33 +459,11 @@
           "author": "N1CEDEV",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7a73a4de172.jpg",
           "likes": 71,
-          "downloads": 3285,
-          "views": 3613,
+          "downloads": 3292,
+          "views": 3659,
           "publishedAt": 1786386490,
           "updatedAt": 1786597426,
           "url": "https://gamebanana.com/mods/702396",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 636619,
-          "title": "SONIC IS ALONE.",
-          "description": "(OLD TITLE: Sꬽnic 1 in Psych Engine)Okay this has been long enough, people are already assuming that it's Sonic.exe when it's not, people don't know how to make it less obvious. When I've (Herox) heard that Selbi hates Sonic.exe in his explanation why he made \"Sonic is alone.\", I was like \"fuck it\". And then I did it as a \"Sonic is alone.\" bait and switch. So, for a while, I've been meaning for myself (Herox) to make a \"Sonic is alone.\" FNF mod, even Selbi didn't mind about their work being made into a FNF song. So then I've decided for myself to make a reality.IF YOU SEE \"PRESS YOUR KEYBINDS TO NOT DIE\", MAKE SURE TO PRESS \"Z\"!SUPPORT SELBI'S WORK HERE:YouTube ChannelSONIC IS ALONE.TAILS IS ALONE.SONIC ERAZOR WEBSITEInspirations behind this mod:SONIC PARTY HARD (Inspiration)Spin Dαsh in Sonic 2 SMS (Main Inspiration before reveal)--OLD DESCRIPTION:This is Sonic 1 made in Psych Engine, I've wanted to do it myself to see how Sonic Engine works for a FNF engine. Basically, anyone else has tried for themselves to see how capable you can do with LUA back then. But with the power of today's standards, we can do it now! So basically this is a demonstration so expect any bugs coming!So with that, enjoy for what we have at the moment! This will be consistently worked on when it progresses! This only have Green Hill and Final Zone in this.You move Sonic with arrow keys and Z as a jump button btw, I forgot to say that.Made in Psych Engine v0.7.3 and works best! v1.0.4 also works well.",
-          "author": "Herox_",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
-          "likes": 67,
-          "downloads": 5362,
-          "views": 11821,
-          "publishedAt": 1764450918,
-          "updatedAt": 1786402626,
-          "url": "https://gamebanana.com/mods/636619",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -481,14 +481,36 @@
       "label": "Best of 6 Months",
       "mods": [
         {
+          "id": 636619,
+          "title": "SONIC IS ALONE.",
+          "description": "(OLD TITLE: Sꬽnic 1 in Psych Engine)Okay this has been long enough, people are already assuming that it's Sonic.exe when it's not, people don't know how to make it less obvious. When I've (Herox) heard that Selbi hates Sonic.exe in his explanation why he made \"Sonic is alone.\", I was like \"fuck it\". And then I did it as a \"Sonic is alone.\" bait and switch. So, for a while, I've been meaning for myself (Herox) to make a \"Sonic is alone.\" FNF mod, even Selbi didn't mind about their work being made into a FNF song. So then I've decided for myself to make a reality.IF YOU SEE \"PRESS YOUR KEYBINDS TO NOT DIE\", MAKE SURE TO PRESS \"Z\"!SUPPORT SELBI'S WORK HERE:YouTube ChannelSONIC IS ALONE.TAILS IS ALONE.SONIC ERAZOR WEBSITEInspirations behind this mod:SONIC PARTY HARD (Inspiration)Spin Dαsh in Sonic 2 SMS (Main Inspiration before reveal)--OLD DESCRIPTION:This is Sonic 1 made in Psych Engine, I've wanted to do it myself to see how Sonic Engine works for a FNF engine. Basically, anyone else has tried for themselves to see how capable you can do with LUA back then. But with the power of today's standards, we can do it now! So basically this is a demonstration so expect any bugs coming!So with that, enjoy for what we have at the moment! This will be consistently worked on when it progresses! This only have Green Hill and Final Zone in this.You move Sonic with arrow keys and Z as a jump button btw, I forgot to say that.Made in Psych Engine v0.7.3 and works best! v1.0.4 also works well.",
+          "author": "Herox_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a7a5509128ea.jpg",
+          "likes": 67,
+          "downloads": 5384,
+          "views": 11823,
+          "publishedAt": 1764450918,
+          "updatedAt": 1786402626,
+          "url": "https://gamebanana.com/mods/636619",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 546457,
           "title": "Erect Mode Psych Port",
           "description": "Well, seems like it was inevitable that after I ported WeekEnd 1, I would also port the Erect Remixes into Psych Engine. I didn't plan on doing it at first, but, I got motivated somehow and did it anyway. So, enjoy!This modpack includes:Fixed Charting (because they had some hics when ported from Base Game to Psych)All the Erect Remixes available in the latest Funkin' update (0.8.6)Erect Stages fully ported and adapted to Psych EngineAccurate camera movements and events from Base GameAdapted Events from Psych Engine (including hardcoded ones)NOTICE:This modpack can be used in the 0.7.3 and 1.0.x version of Psych Engine. Also, I'm engaging myself to port all the Erect Remixes from Week 1 to WeekEnd 1, so don't expect any week higher like Week 8.",
           "author": "Ledonic",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81d73760ef3.jpg",
           "likes": 66,
-          "downloads": 14452,
-          "views": 34157,
+          "downloads": 14473,
+          "views": 34173,
           "publishedAt": 1728064873,
           "updatedAt": 1786888686,
           "url": "https://gamebanana.com/mods/546457",
@@ -503,58 +525,14 @@
           }
         },
         {
-          "id": 571604,
-          "title": "FNF:REDONE",
-          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
-          "author": "Key97",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
-          "likes": 65,
-          "downloads": 9815,
-          "views": 37406,
-          "publishedAt": 1737928649,
-          "updatedAt": 1787777034,
-          "url": "https://gamebanana.com/mods/571604",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 702283,
-          "title": "Undertale: Funk Mode - Usurpation",
-          "description": "*THIS MOD DOES NOT REQUIRE ANY ENGINE. SIMPLY EXTRACT IT AND PLAY*Undertale: Funk Mode is an Undetale fangame about two little humans who fell down Mt. Ebbot in the year 2020.Follow Bfriend and Gfriend as they explore the Underground, meet and befriend monsters, and climb back up to the surface to free monster-kind!Are you up to the task? Unfortunately, Undertale: Funk Mode has been canceled due to an excessive amount of leaks, which have demotivated the team. We are posting the cancelled build exclusively so people don't download the mod from random people and unknown sources. As much as we hate to share our unfinished work, we don't want people getting hacked and potentially scammed to play the mod....or has it...?",
-          "author": "Statzz",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a78d0bc4105c.jpg",
-          "likes": 65,
-          "downloads": 3314,
-          "views": 5267,
-          "publishedAt": 1786305164,
-          "updatedAt": 1787770956,
-          "url": "https://gamebanana.com/mods/702283",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 610131,
           "title": "Eevee Funkin' [V-Slice Port UPDATE]",
           "description": "Oh NO!!! A Wild Eevee Appeared AND IT WANTS TO..... rap battle? This Mod Includes: -Tutorial (Eevee-Mix)-Eevee (Vee Mix Original) [IN V1]-Eevee (Pico Mix) -VeeMixes",
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 64,
-          "downloads": 7908,
-          "views": 19716,
+          "downloads": 7951,
+          "views": 19759,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -575,11 +553,33 @@
           "author": "invalid_bruh",
           "image": "https://images.gamebanana.com/img/ss/mods/6a878e772b013.jpg",
           "likes": 63,
-          "downloads": 2962,
-          "views": 4754,
+          "downloads": 2997,
+          "views": 4869,
           "publishedAt": 1787270738,
           "updatedAt": 1787382363,
           "url": "https://gamebanana.com/mods/707298",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 704928,
+          "title": "The Cyclops [EPISODE ONE]",
+          "description": "It's been far too long now... and Cyclops has returned yet again to give you one last message as we ride this new dawn. Will you accept this hand in darkness... or will you let it cease to be?This mod is the OFFICIAL sequel to the \"Speed.GIF [Vs. Cyclops]\" Demo V2 update continuing off the content created in that publish. There is also a new piece of media known as \"The Cyclops: Revenant\" which is a written piece of literature that will have events correlated and directly impacted from this mod.DISCLAIMER: This mod has mild gore and flashing lights! If that affects you then you probably should not be playing!DISCLAIMER 2: Low end machines will struggle as of now, we will do a patch later to fix that. For now we recommend you have at least 6 gigabytes usable on your machine. \"The Cyclops\" Official Community Discord Serverpowpow's (Creator, Main Director, Main Artist) Twitter Account",
+          "author": "powpow",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
+          "likes": 63,
+          "downloads": 4296,
+          "views": 4780,
+          "publishedAt": 1787340901,
+          "updatedAt": 1787361905,
+          "url": "https://gamebanana.com/mods/704928",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -603,33 +603,11 @@
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/697a992c6be76.jpg",
           "likes": 62,
-          "downloads": 2395,
-          "views": 12084,
+          "downloads": 2476,
+          "views": 12106,
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 704928,
-          "title": "The Cyclops [EPISODE ONE]",
-          "description": "It's been far too long now... and Cyclops has returned yet again to give you one last message as we ride this new dawn. Will you accept this hand in darkness... or will you let it cease to be?This mod is the OFFICIAL sequel to the \"Speed.GIF [Vs. Cyclops]\" Demo V2 update continuing off the content created in that publish. There is also a new piece of media known as \"The Cyclops: Revenant\" which is a written piece of literature that will have events correlated and directly impacted from this mod.DISCLAIMER: This mod has mild gore and flashing lights! If that affects you then you probably should not be playing!DISCLAIMER 2: Low end machines will struggle as of now, we will do a patch later to fix that. For now we recommend you have at least 6 gigabytes usable on your machine. \"The Cyclops\" Official Community Discord Serverpowpow's (Creator, Main Director, Main Artist) Twitter Account",
-          "author": "powpow",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a811ffe614cd.jpg",
-          "likes": 61,
-          "downloads": 4188,
-          "views": 4632,
-          "publishedAt": 1787340901,
-          "updatedAt": 1787361905,
-          "url": "https://gamebanana.com/mods/704928",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -647,8 +625,8 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6a87e349dac7b.jpg",
           "likes": 60,
-          "downloads": 1502,
-          "views": 12272,
+          "downloads": 1509,
+          "views": 12292,
           "publishedAt": 1755844445,
           "updatedAt": 1787783326,
           "url": "https://gamebanana.com/mods/615291",
@@ -669,8 +647,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 54,
-          "downloads": 4678,
-          "views": 17490,
+          "downloads": 4701,
+          "views": 17509,
           "publishedAt": 1760283991,
           "updatedAt": 1786758225,
           "url": "https://gamebanana.com/mods/626528",
@@ -691,8 +669,8 @@
           "author": "_Fusion_",
           "image": "https://images.gamebanana.com/img/ss/mods/6904ee1f09924.jpg",
           "likes": 52,
-          "downloads": 4588,
-          "views": 24563,
+          "downloads": 4591,
+          "views": 24584,
           "publishedAt": 1761932586,
           "updatedAt": 1787612396,
           "url": "https://gamebanana.com/mods/630592",
@@ -704,6 +682,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 698379,
+          "title": "FNF: GUNLICK (DEMO)",
+          "description": "Fashionably late, but here it is. GUNLICK!!! Demo. YesPlay as Beef.G as you face 3 different opponents in the City of ST.GROOVES!You’ll need Codename Engine 1.0.1 to play this mod pack.",
+          "author": "skat3rpup537",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a69189e6370e.jpg",
+          "likes": 51,
+          "downloads": 1727,
+          "views": 4371,
+          "publishedAt": 1785274201,
+          "updatedAt": 1785274283,
+          "url": "https://gamebanana.com/mods/698379",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3186,
-          "downloads": 4572713,
-          "views": 9493215,
+          "downloads": 4573149,
+          "views": 9493353,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2617,
-          "downloads": 1977220,
-          "views": 4424373,
+          "downloads": 1977539,
+          "views": 4424486,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2341,
-          "downloads": 1813575,
-          "views": 3339642,
+          "downloads": 1814030,
+          "views": 3339793,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2183,
-          "downloads": 3711905,
-          "views": 8860326,
+          "downloads": 3712143,
+          "views": 8860416,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2079,
-          "downloads": 835111,
-          "views": 2921018,
+          "downloads": 835186,
+          "views": 2921099,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
