@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-04T05:07:07.954Z",
-  "revision": "6228727a4e99942c",
+  "generatedAt": "2026-09-04T09:38:22.949Z",
+  "revision": "898edebc7f4ff4fa",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -39,6 +39,28 @@
           }
         },
         {
+          "id": 713252,
+          "title": "Dave and Bambi:DreamcoreEdition",
+          "description": "Welcome to DrowsingWorld!!!Dave and Bambi:DreamcoreEdition is a fanmade mod of Vs. Dave and Bambi base on Internet aesthetics such as Dreamcore and Liminal Spaces.Check this X account!!Official X account",
+          "author": "bindumechan",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a99896f4e652.jpg",
+          "likes": 9,
+          "downloads": 38,
+          "views": 122,
+          "publishedAt": 1788448622,
+          "updatedAt": 1788499122,
+          "url": "https://gamebanana.com/mods/713252",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 712799,
           "title": "Friday Night Funkin' Corruption Locked Destiny",
           "description": "This Corruption Mod is unofficial and has nothing to do with the main story.I really appreciate all the support this project has received :DBtw the creator of the song \"Raices\" prefers that it remain exclusive to this mod, so please do not use it in other mods.Each Demo will feature 2 new songs.I'm not sure if this mod is fully optimized, lmao.The story of this mod is still in development. Only Raices is part of the canon of this story; Neuroses is simply an Extra/Bonus.",
@@ -61,38 +83,16 @@
           }
         },
         {
-          "id": 713252,
-          "title": "Dave and Bambi:DreamcoreEdition",
-          "description": "Welcome to DrowsingWorld!!!Dave and Bambi:DreamcoreEdition is a fanmade mod of Vs. Dave and Bambi base on Internet aesthetics such as Dreamcore and Liminal Spaces.Check this X account!!Official X account",
-          "author": "bindumechan",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a99896f4e652.jpg",
-          "likes": 6,
-          "downloads": 38,
-          "views": 122,
-          "publishedAt": 1788448622,
-          "updatedAt": 1788490753,
-          "url": "https://gamebanana.com/mods/713252",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 713223,
           "title": "FNF - MONOCHROME - COVER - SONIC.EXE",
-          "description": "MONOCHROME COVER SONIC.EXE VS MAJIN",
+          "description": "MONOCHROME COVER SONIC.EXE VS MAJINAccording to the story, the \"exe\" spirit possesses Sonic and consumes his body. It begins destroying Sonic's world and his friends. Sonic witnesses this but is powerless to stop it, and eventually, the entity consumes his soul as well. Sonic's soul guardian (Majin) decides to eliminate the evil spirit but sees no other option than to kill Sonic himself. He severs Sonic's limbs to prevent the entity from moving, though the song reveals that this did not stop it. Majin realizes that finishing Sonic off would mean killing Sonic, the spirit, and himself — yet he proceeds to the final confrontation with the entity.",
           "author": "XenoFNF-Studio",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9976d06433d.jpg",
           "likes": 4,
           "downloads": 123,
           "views": 168,
           "publishedAt": 1788443156,
-          "updatedAt": 1788443156,
+          "updatedAt": 1788512577,
           "url": "https://gamebanana.com/mods/713223",
           "engine": {
             "id": "executable",
@@ -254,7 +254,7 @@
           "description": "WE'RE BACK!With some more stuff this time and we DEFINETELY did NOT remade some parts of WEEK 5 Also, you should download game from GoogleDrive, again",
           "author": "AnimaniaCrew",
           "image": "https://images.gamebanana.com/img/ss/mods/6a78e0722a60a.jpg",
-          "likes": 397,
+          "likes": 398,
           "downloads": 68313,
           "views": 107674,
           "publishedAt": 1734636638,
@@ -547,6 +547,28 @@
           }
         },
         {
+          "id": 712667,
+          "title": "PLASM FUNKIN'",
+          "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
+          "author": "lumiscostta",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
+          "likes": 53,
+          "downloads": 1202,
+          "views": 1900,
+          "publishedAt": 1788294608,
+          "updatedAt": 1788300076,
+          "url": "https://gamebanana.com/mods/712667",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 630592,
           "title": "Vs. Sonic.EXE: RERUN (FAN-BUILD)",
           "description": "A high effort 'Vs. Sonic.EXE: RERUN' fan-build. We plan to make this as close to what RERUN would have been if it was finished.This mod is a High Effort Fan-Build of Vs. Sonic.EXE: RERUN, made in Codename Engine! We will be pushing updates out in batches and will be including every song in the main roster for RERUN. We may also include some extras if we feel like it.",
@@ -567,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 527066,
           "title": "Bub's Fruit Salad",
@@ -589,13 +617,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 698379,
           "title": "FNF: GUNLICK (DEMO)",
@@ -616,28 +638,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 712667,
-          "title": "PLASM FUNKIN'",
-          "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
-          "author": "lumiscostta",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
-          "likes": 51,
-          "downloads": 1202,
-          "views": 1900,
-          "publishedAt": 1788294608,
-          "updatedAt": 1788300076,
-          "url": "https://gamebanana.com/mods/712667",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         },
         {
