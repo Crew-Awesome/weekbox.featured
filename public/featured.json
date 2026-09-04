@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-04T17:08:42.642Z",
-  "revision": "9528c57baf002f16",
+  "generatedAt": "2026-09-04T19:35:09.976Z",
+  "revision": "0d1766de0657c225",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -16,6 +16,28 @@
       "id": "day",
       "label": "Best of Today",
       "mods": [
+        {
+          "id": 504178,
+          "title": "FNF': Rings Of Hell - Chains Of Deceit",
+          "description": "Welcome To Friday Night Funkin': Rings Of Hell!__________________________________________________After running a suspicious Sonic ROM hack, Boyfriend and Girlfriend are hit with a fatal error — suddenly finding themselves sucked directly into the game.Wandering through a distorted Green Hill Zone, they come face-to-face with Sonic... or at least, something that looks like him. They’ll have to sing for their lives to uncover the truth... before it's too late.__________________________________________________​\"Hmmm... A new form of life? I haven't seen anything like you before. Well... this will be... very... interesting.\"\"You're in my world now, Boyfriend!\"",
+          "author": "MaysLastPlay",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a66094c44d5a.jpg",
+          "likes": 21,
+          "downloads": 854,
+          "views": 4036,
+          "publishedAt": 1711912379,
+          "updatedAt": 1788525083,
+          "url": "https://gamebanana.com/mods/504178",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
         {
           "id": 713252,
           "title": "Dave and Bambi:DreamcoreEdition",
@@ -44,7 +66,7 @@
           "description": "This Corruption Mod is unofficial and has nothing to do with the main story.I really appreciate all the support this project has received :DBtw the creator of the song \"Raices\" prefers that it remain exclusive to this mod, so please do not use it in other mods.Each Demo will feature 2 new songs.I'm not sure if this mod is fully optimized, lmao.The story of this mod is still in development. Only Raices is part of the canon of this story; Neuroses is simply an Extra/Bonus.",
           "author": "Melo50012",
           "image": "https://images.gamebanana.com/img/ss/mods/6a979347c2d15.jpg",
-          "likes": 8,
+          "likes": 9,
           "downloads": 608,
           "views": 642,
           "publishedAt": 1788320744,
@@ -103,28 +125,6 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
-        {
-          "id": 689638,
-          "title": "Xarlosgammer0FNF Multiplayer",
-          "description": "Hey everyone! The Xarlos Multiplayer mod is still in BETA, so I’d really appreciate a hand to get it fully polished. If you like the project and want to support it, any help is more than welcome.​If you run into any bugs, let me know in the comments by explaining what happened, which song or difficulty it occurred on, and what version of Psych Engine you're using (if you can attach the Log.txt, even better). For those who know their way around Lua coding, I could really use your help fixing bugs, optimizing performance, tweaking the HUD, or adding mobile control support; all I ask is that if you modify the code, please keep the original credits for Super_Hugo and myself.​If you don't know how to code, no worries! Leaving your suggestions, ideas, or just letting me know how the game feels helps out a ton too. For any questions or contributions, feel free to reach out through my YouTube channel (@Xarlosgammer0) or right here in the GameBanana comments. Thanks a lot for the support and for helping make this mod better!",
-          "author": "Xarlosgammer0FNF",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a404c60c6b8c.jpg",
-          "likes": 2,
-          "downloads": 659,
-          "views": 867,
-          "publishedAt": 1782598758,
-          "updatedAt": 1788531569,
-          "url": "https://gamebanana.com/mods/689638",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
         }
       ]
     },
@@ -132,28 +132,6 @@
       "id": "week",
       "label": "Best of This Week",
       "mods": [
-        {
-          "id": 710854,
-          "title": "LittleBigPlanet Groove",
-          "description": "Welcome, sackthings & craftlings to LittleBigPlanet Groove! This mod is a small tribute to the LBP series and it's poster character: Sackboy! Despite the smaller size of this project, we all hope you enjoy a trip down memory lane and feel that same creative spirit once more!Well? What are you waiting for, a pat on the back?! Off you go!",
-          "author": "fl0pd00dle",
-          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a90f7d16f80a.jpg",
-          "likes": 102,
-          "downloads": 4487,
-          "views": 4021,
-          "publishedAt": 1787938323,
-          "updatedAt": 1787938365,
-          "url": "https://gamebanana.com/mods/710854",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
         {
           "id": 613322,
           "title": "Friday Night Dustin'",
@@ -241,6 +219,28 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
+        },
+        {
+          "id": 712667,
+          "title": "PLASM FUNKIN'",
+          "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
+          "author": "lumiscostta",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
+          "likes": 56,
+          "downloads": 1202,
+          "views": 1900,
+          "publishedAt": 1788294608,
+          "updatedAt": 1788300076,
+          "url": "https://gamebanana.com/mods/712667",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
         }
       ]
     },
@@ -248,6 +248,28 @@
       "id": "month",
       "label": "Best of This Month",
       "mods": [
+        {
+          "id": 710854,
+          "title": "LittleBigPlanet Groove",
+          "description": "Welcome, sackthings & craftlings to LittleBigPlanet Groove! This mod is a small tribute to the LBP series and it's poster character: Sackboy! Despite the smaller size of this project, we all hope you enjoy a trip down memory lane and feel that same creative spirit once more!Well? What are you waiting for, a pat on the back?! Off you go!",
+          "author": "fl0pd00dle",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a90f7d16f80a.jpg",
+          "likes": 102,
+          "downloads": 4487,
+          "views": 4021,
+          "publishedAt": 1787938323,
+          "updatedAt": 1787938365,
+          "url": "https://gamebanana.com/mods/710854",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
         {
           "id": 563168,
           "title": "ANIMANIA!",
@@ -335,28 +357,6 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
-        {
-          "id": 702352,
-          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
-          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
-          "author": "Floofum",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
-          "likes": 81,
-          "downloads": 30296,
-          "views": 9516,
-          "publishedAt": 1786316742,
-          "updatedAt": 1786320080,
-          "url": "https://gamebanana.com/mods/702352",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
         }
       ]
     },
@@ -398,6 +398,28 @@
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 702352,
+          "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
+          "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
+          "author": "Floofum",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
+          "likes": 81,
+          "downloads": 30296,
+          "views": 9516,
+          "publishedAt": 1786316742,
+          "updatedAt": 1786320080,
+          "url": "https://gamebanana.com/mods/702352",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -451,7 +473,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 707298,
           "title": "Matt's Redemption",
@@ -473,13 +501,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 551355,
           "title": "VS Cream the Rabbit V2.7 HELP WANTED)",
@@ -492,28 +514,6 @@
           "publishedAt": 1729982633,
           "updatedAt": 1786817147,
           "url": "https://gamebanana.com/mods/551355",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 712667,
-          "title": "PLASM FUNKIN'",
-          "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
-          "author": "lumiscostta",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
-          "likes": 55,
-          "downloads": 1202,
-          "views": 1900,
-          "publishedAt": 1788294608,
-          "updatedAt": 1788300076,
-          "url": "https://gamebanana.com/mods/712667",
           "engine": {
             "id": "executable",
             "name": "Executable",
