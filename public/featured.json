@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-05T04:26:42.245Z",
-  "revision": "d811b6615466b741",
+  "generatedAt": "2026-09-05T08:36:03.212Z",
+  "revision": "d875bed6b37dc291",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -28,28 +28,6 @@
           "publishedAt": 1711912379,
           "updatedAt": 1788525083,
           "url": "https://gamebanana.com/mods/504178",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 713252,
-          "title": "Dave and Bambi:DreamcoreEdition",
-          "description": "Welcome to DrowsingWorld!!!Dave and Bambi:DreamcoreEdition is a fanmade mod of Vs. Dave and Bambi base on Internet aesthetics such as Dreamcore and Liminal Spaces.Check this X account!!Official X account",
-          "author": "bindumechan",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a99896f4e652.jpg",
-          "likes": 12,
-          "downloads": 38,
-          "views": 122,
-          "publishedAt": 1788448622,
-          "updatedAt": 1788499122,
-          "url": "https://gamebanana.com/mods/713252",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -124,6 +102,28 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 713223,
+          "title": "FNF - MONOCHROME - COVER - SONIC.EXE",
+          "description": "MONOCHROME COVER SONIC.EXE VS MAJINAccording to the story, the \"exe\" spirit possesses Sonic and consumes his body. It begins destroying Sonic's world and his friends. Sonic witnesses this but is powerless to stop it, and eventually, the entity consumes his soul as well. Sonic's soul guardian (Majin) decides to eliminate the evil spirit but sees no other option than to kill Sonic himself. He severs Sonic's limbs to prevent the entity from moving, though the song reveals that this did not stop it. Majin realizes that finishing Sonic off would mean killing Sonic, the spirit, and himself — yet he proceeds to the final confrontation with the entity.",
+          "author": "XenoFNF-Studio",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9976d06433d.jpg",
+          "likes": 6,
+          "downloads": 123,
+          "views": 168,
+          "publishedAt": 1788443156,
+          "updatedAt": 1788512577,
+          "url": "https://gamebanana.com/mods/713223",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -204,7 +204,7 @@
           "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
           "author": "lumiscostta",
           "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
-          "likes": 58,
+          "likes": 60,
           "downloads": 1202,
           "views": 1900,
           "publishedAt": 1788294608,
