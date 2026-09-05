@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-04T21:50:20.722Z",
-  "revision": "dec0aa4019ee2362",
+  "generatedAt": "2026-09-05T00:04:47.722Z",
+  "revision": "0deb552a1da88e97",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -22,7 +22,7 @@
           "description": "Welcome To Friday Night Funkin': Rings Of Hell!__________________________________________________After running a suspicious Sonic ROM hack, Boyfriend and Girlfriend are hit with a fatal error — suddenly finding themselves sucked directly into the game.Wandering through a distorted Green Hill Zone, they come face-to-face with Sonic... or at least, something that looks like him. They’ll have to sing for their lives to uncover the truth... before it's too late.__________________________________________________​\"Hmmm... A new form of life? I haven't seen anything like you before. Well... this will be... very... interesting.\"\"You're in my world now, Boyfriend!\"",
           "author": "MaysLastPlay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a66094c44d5a.jpg",
-          "likes": 24,
+          "likes": 25,
           "downloads": 854,
           "views": 4036,
           "publishedAt": 1711912379,
@@ -70,7 +70,7 @@
           "downloads": 608,
           "views": 642,
           "publishedAt": 1788320744,
-          "updatedAt": 1788491963,
+          "updatedAt": 1788562284,
           "url": "https://gamebanana.com/mods/712799",
           "engine": {
             "id": "psych",
@@ -105,45 +105,17 @@
           }
         },
         {
-          "id": 713223,
-          "title": "FNF - MONOCHROME - COVER - SONIC.EXE",
-          "description": "MONOCHROME COVER SONIC.EXE VS MAJINAccording to the story, the \"exe\" spirit possesses Sonic and consumes his body. It begins destroying Sonic's world and his friends. Sonic witnesses this but is powerless to stop it, and eventually, the entity consumes his soul as well. Sonic's soul guardian (Majin) decides to eliminate the evil spirit but sees no other option than to kill Sonic himself. He severs Sonic's limbs to prevent the entity from moving, though the song reveals that this did not stop it. Majin realizes that finishing Sonic off would mean killing Sonic, the spirit, and himself — yet he proceeds to the final confrontation with the entity.",
-          "author": "XenoFNF-Studio",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9976d06433d.jpg",
-          "likes": 6,
-          "downloads": 123,
-          "views": 168,
-          "publishedAt": 1788443156,
-          "updatedAt": 1788512577,
-          "url": "https://gamebanana.com/mods/713223",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "week",
-      "label": "Best of This Week",
-      "mods": [
-        {
-          "id": 613322,
-          "title": "Friday Night Dustin'",
-          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
-          "author": "Nex_isDumb",
-          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
-          "likes": 280,
-          "downloads": 34974,
-          "views": 89576,
-          "publishedAt": 1757793620,
-          "updatedAt": 1787960315,
-          "url": "https://gamebanana.com/mods/613322",
+          "id": 713652,
+          "title": "S прошедшим DR VARI!!!",
+          "description": "круто",
+          "author": "wers_theanimator",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9b14144e35d.jpg",
+          "likes": 7,
+          "downloads": 0,
+          "views": 0,
+          "publishedAt": 1788548948,
+          "updatedAt": 1788550241,
+          "url": "https://gamebanana.com/mods/713652",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -153,7 +125,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "label": "Best of This Week",
+      "mods": [
         {
           "id": 582726,
           "title": "Another FNF Engine Made In Godot v1.6.5",
@@ -226,12 +204,34 @@
           "description": "\"A world where the supernatural is real, but you're scared of ghosts\" Ever miss the days of sweet story-driven OC mods?Inspired by timeless classics like HOTLINE 024, Cassette Girl, Grafitti Groovin' (and many more...) PLASM FUNKIN' is the next upcoming Friday Night Funkin' mod that promises the same care as those classics.This mod features original characters in a full detached story from the original game, presenting alternate versions of Boyfriend and Girlfriend.- The full release promises to you:4 Playable Weeks;A Bunch of Extra Content;Engaging Modes for Replayability;ERECT Remixes,and Pico Mixes!!- But, in this update there will be...VS \"Ghost\" Week REVAMP;NEW VS \"Toska\" Week!!and Three Extra Songs!maybe, even a little more...?⚠️IF YOU ARE CRASHING ON WEEK 2, GO INTO YOUR SETTINGS AND DISABLE SHADERS, IF YOU ARE ON A LAPTOP OR A DEVICE WITH INTEGRATED GRAPHICS IT MAY CRASH YOU. ⚠️",
           "author": "lumiscostta",
           "image": "https://images.gamebanana.com/img/ss/mods/6a97405647528.jpg",
-          "likes": 56,
+          "likes": 57,
           "downloads": 1202,
           "views": 1900,
           "publishedAt": 1788294608,
           "updatedAt": 1788300076,
           "url": "https://gamebanana.com/mods/712667",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 666603,
+          "title": "Doki Takeover - Bad Ending Plus !",
+          "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
+          "author": "Nexus Team",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
+          "likes": 39,
+          "downloads": 24820,
+          "views": 20184,
+          "publishedAt": 1775338865,
+          "updatedAt": 1788372606,
+          "url": "https://gamebanana.com/mods/666603",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -293,6 +293,28 @@
           }
         },
         {
+          "id": 613322,
+          "title": "Friday Night Dustin'",
+          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
+          "author": "Nex_isDumb",
+          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
+          "likes": 280,
+          "downloads": 34974,
+          "views": 89576,
+          "publishedAt": 1757793620,
+          "updatedAt": 1787960315,
+          "url": "https://gamebanana.com/mods/613322",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
           "id": 517623,
           "title": "Friday Night Funkin: Rhythmic Revolution V1.5 +DLC",
           "description": "Sussus Among us[Official FLA download link]https://drive.google.com/file/d/1IrPOn-CsTCsZnTqbORssYBQotyfsPQTy/view?usp=sharingWelcome back to official return of VS Impostor but Human Mod!With a really long break, we decided to come back to finish something we hadn't finished yet.",
@@ -334,28 +356,6 @@
           "category": {
             "id": 43798,
             "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 506138,
-          "title": "High-Effort Titled Bendy Mod - V6",
-          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
-          "author": "peepeemann69",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
-          "likes": 93,
-          "downloads": 4726,
-          "views": 56293,
-          "publishedAt": 1712631322,
-          "updatedAt": 1786823831,
-          "url": "https://gamebanana.com/mods/506138",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -409,6 +409,28 @@
           }
         },
         {
+          "id": 506138,
+          "title": "High-Effort Titled Bendy Mod - V6",
+          "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod & Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
+          "author": "peepeemann69",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
+          "likes": 93,
+          "downloads": 4726,
+          "views": 56293,
+          "publishedAt": 1712631322,
+          "updatedAt": 1786823831,
+          "url": "https://gamebanana.com/mods/506138",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 702352,
           "title": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
           "description": "It's finally done!! I absolutely worked my ass off on this so I hope it was worth the wait, and thank you for all the support!",
@@ -451,7 +473,13 @@
             "id": 43798,
             "name": "P-Slice Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 704928,
           "title": "The Cyclops [EPISODE ONE]",
@@ -473,13 +501,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
+        },
         {
           "id": 707298,
           "title": "Matt's Redemption",
@@ -567,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 630592,
           "title": "Vs. Sonic.EXE: RERUN (FAN-BUILD)",
@@ -589,13 +617,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 527066,
           "title": "Bub's Fruit Salad",
@@ -682,28 +704,6 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 666603,
-          "title": "Doki Takeover - Bad Ending Plus !",
-          "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
-          "author": "Nexus Team",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
-          "likes": 39,
-          "downloads": 24820,
-          "views": 20184,
-          "publishedAt": 1775338865,
-          "updatedAt": 1788372606,
-          "url": "https://gamebanana.com/mods/666603",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
