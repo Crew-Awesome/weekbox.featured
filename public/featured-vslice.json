@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-16T22:47:09.121Z",
-  "revision": "0b292529726c464d",
+  "generatedAt": "2026-09-16T22:48:32.706Z",
+  "revision": "8fac9cb0e54f00ef",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -598,8 +598,8 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 570,
-          "downloads": 180390,
-          "views": 77541,
+          "downloads": 180434,
+          "views": 77555,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
