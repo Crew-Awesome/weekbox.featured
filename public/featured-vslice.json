@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-17T15:19:24.622Z",
-  "revision": "f8650d1e0e126de3",
+  "generatedAt": "2026-09-17T19:16:54.303Z",
+  "revision": "b45a5494c613ef7d",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -18,11 +18,33 @@
           "author": "Alien 86",
           "image": "https://images.gamebanana.com/img/ss/mods/6a417ae7f2a55.jpg",
           "likes": 87,
-          "downloads": 10132,
-          "views": 17750,
+          "downloads": 10170,
+          "views": 17816,
           "publishedAt": 1760716897,
           "updatedAt": 1789586445,
           "url": "https://gamebanana.com/mods/627609",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 623965,
+          "title": "botplay [v-slice]",
+          "description": "bot that playssimple enough",
+          "author": "snezhok174",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dcba203b213.jpg",
+          "likes": 73,
+          "downloads": 106835,
+          "views": 53894,
+          "publishedAt": 1759296676,
+          "updatedAt": 1789662569,
+          "url": "https://gamebanana.com/mods/623965",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -39,9 +61,9 @@
           "description": "Friday Night Funkin' Base OptimizadoUna versión optimizada de la base de Friday Night Funkin', enfocada en mejorar el rendimiento y reducir el consumo de recursos, especialmente en dispositivos Android de bajos recursos. Características Mejor rendimientoOptimizado para AndroidMejor estabilidad y FPSMenor consumo de recursosDiferentes optimizaciones de rendimientoRecursos optimizadosCréditosJuego original: Friday Night Funkin'Optimización: Funky_FacuProgramador:Juxz Portada:LeonardDXUTrailer:PatriCuckMuchas gracias a mis amigos por ayudarme con la optimización y las pruebas de este proyecto.Este proyecto está hecho y optimizado exclusivamente para Android.",
           "author": "FunkyFacu",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9611fa20a09.jpg",
-          "likes": 21,
-          "downloads": 10851,
-          "views": 6598,
+          "likes": 23,
+          "downloads": 11074,
+          "views": 6720,
           "publishedAt": 1787497443,
           "updatedAt": 1789654477,
           "url": "https://gamebanana.com/mods/702439",
@@ -61,9 +83,9 @@
           "description": "Are you working on a port, or are you so used to other platforms that you're tired of having to jump through hoops just to integrate your chart?No problem here's a tool for you. This converter supports any type of Psych Engine chart and imports it just like any other chart. This is a useful tool if you're tired of using the other engine's outdated converter, since here you can generate the metadata directly",
           "author": "Mikassette",
           "image": "https://images.gamebanana.com/img/ss/mods/6aab39cb710d3.jpg",
-          "likes": 13,
-          "downloads": 132,
-          "views": 325,
+          "likes": 15,
+          "downloads": 176,
+          "views": 380,
           "publishedAt": 1789605865,
           "updatedAt": 1789606352,
           "url": "https://gamebanana.com/mods/717957",
@@ -83,34 +105,12 @@
           "description": "Have YOU ever wanted to play as Bro? The big light-purple monster with green spikes who loves his MAWM and SISTERS and DEAREST? As well as SMASH BUILDINGS of Philly Foreground City? Well, here you freaking go. This mod replaces every playable character in every song with EASTER EGG who SMASHES INTO building. ENJOY IT!also this mod is kinda loud. be careful playing erect songs.",
           "author": "plippy8",
           "image": "https://images.gamebanana.com/img/ss/mods/6aaafbd2e4165.jpg",
-          "likes": 11,
-          "downloads": 72,
-          "views": 375,
+          "likes": 12,
+          "downloads": 88,
+          "views": 422,
           "publishedAt": 1789592456,
           "updatedAt": 1789592456,
           "url": "https://gamebanana.com/mods/717897",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 660300,
-          "title": "Guns KeyMixed Charted",
-          "description": "The charting is not that perfect but hope to enjoy it I might update this in some pointIf you play the mod make sure to credit the mod and also the original song composer and also the original song video.",
-          "author": "DemonFF",
-          "image": "https://images.gamebanana.com/img/ss/mods/69b67c03c4cc5.jpg",
-          "likes": 10,
-          "downloads": 446,
-          "views": 1641,
-          "publishedAt": 1773566943,
-          "updatedAt": 1789656953,
-          "url": "https://gamebanana.com/mods/660300",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -134,8 +134,8 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6a750c914654b.jpg",
           "likes": 68,
-          "downloads": 73353,
-          "views": 46372,
+          "downloads": 73387,
+          "views": 46397,
           "publishedAt": 1765153657,
           "updatedAt": 1789516287,
           "url": "https://gamebanana.com/mods/638237",
@@ -156,8 +156,8 @@
           "author": "Megasa7l",
           "image": "https://images.gamebanana.com/img/ss/mods/69bf1769c82fe.jpg",
           "likes": 46,
-          "downloads": 42548,
-          "views": 25644,
+          "downloads": 42641,
+          "views": 25690,
           "publishedAt": 1774121987,
           "updatedAt": 1789496059,
           "url": "https://gamebanana.com/mods/662340",
@@ -178,8 +178,8 @@
           "author": "Yamato-Orochi",
           "image": "https://images.gamebanana.com/img/ss/mods/6891eb674cec3.jpg",
           "likes": 42,
-          "downloads": 9392,
-          "views": 17532,
+          "downloads": 9394,
+          "views": 17538,
           "publishedAt": 1754393889,
           "updatedAt": 1789247138,
           "url": "https://gamebanana.com/mods/611697",
@@ -200,8 +200,8 @@
           "author": "szisha",
           "image": "https://images.gamebanana.com/img/ss/mods/6aa690f5608a3.jpg",
           "likes": 36,
-          "downloads": 1078,
-          "views": 1338,
+          "downloads": 1112,
+          "views": 1370,
           "publishedAt": 1789300893,
           "updatedAt": 1789303328,
           "url": "https://gamebanana.com/mods/716834",
@@ -222,8 +222,8 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6a778835394ed.jpg",
           "likes": 34,
-          "downloads": 8137,
-          "views": 5447,
+          "downloads": 8179,
+          "views": 5476,
           "publishedAt": 1786218482,
           "updatedAt": 1789272322,
           "url": "https://gamebanana.com/mods/701850",
@@ -250,33 +250,11 @@
           "author": "-SwayTheDev-",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
           "likes": 192,
-          "downloads": 14183,
-          "views": 8289,
+          "downloads": 14264,
+          "views": 8317,
           "publishedAt": 1788129483,
           "updatedAt": 1789145157,
           "url": "https://gamebanana.com/mods/711896",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 689006,
-          "title": "Nightmare Funkin' (Ft. JohnnyUtah)",
-          "description": "A mod based on 2D platforming brawler video game \"Nightmare Cops\" developed by Tom Fulp and JohnnyUtah.This mod might contain flashing lights so beware!!After a long time cooking in the oven, Nightmare Funkin' is finally here! A tribute to the hard work of Johnny Utah and the Nightmare Cops development team!FEATURES:2 Story Mode Weeks (NIGHTMARE \u0026 MISSION 1)3 Pico Remixes1 Erect MixTankman(Also keep in mind that widescreen and mobile are currently not super supported, work on a dedicated mobile build is underway)DEAR MUSICIANS:You can now find song stems, project files and the Stan chromatic in the Alternate File Sources section of the page! More stems to be added in the future! We look forward to seeing what you make.",
-          "author": "staxcore",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a3d915c0c5d4.jpg",
-          "likes": 186,
-          "downloads": 26440,
-          "views": 20986,
-          "publishedAt": 1782698090,
-          "updatedAt": 1788686414,
-          "url": "https://gamebanana.com/mods/689006",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -310,36 +288,14 @@
           }
         },
         {
-          "id": 709738,
-          "title": "Iron Mario's Playable GF (RESKIN MOD)",
-          "description": "Have you ever wanted Girlfriend to be a playable character? Well, now you can play as her!Introducing Iron Mario's Playable GF (or just Playable GF)! A reskin mod where GF now takes BF's spot.This mod includes:A set of spritesA custom chromatic scaleBase game/V-Slice, Psych Engine, and mobile support(And more!)IMPORTANT NOTE If you want to use Iron Mario's Playable GF for covers/BETADCIUs, please make sure to credit me and send the mod's site link. Do NOT re-upload this mod to any other site, make un-official ports, or add it to a mod you're working on, even if you ask for permission. The FLAs are for viewing only. Do NOT edit the sprites nor re-upload the FLAs anywhere else.",
-          "author": "IronMario15",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a8e02f083805.jpg",
-          "likes": 56,
-          "downloads": 3098,
-          "views": 4998,
-          "publishedAt": 1787695200,
-          "updatedAt": 1788653768,
-          "url": "https://gamebanana.com/mods/709738",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
           "id": 621208,
           "title": "(NEW UPDATE) VS Bob V-Slice [Port/Mobile]",
           "description": "WARNING!!!SOME VISUALS IN THIS MOD CONTAIN FLASHES/JUMPSCARES, PLAYERS WITH EPILEPSY PLEASE BE ADVISED!!!Uh Oh, the man Bob is angry and you made them angry and they are so angry man, what did you do to make them angry? Honestly don’t know I’m just a game descriptionSUPPORT THE ORIGINAL MOD https://gamebanana.com/mods/285296Report any bugs in the comments",
           "author": "realBlue",
           "image": "https://images.gamebanana.com/img/ss/mods/692609e34921d.jpg",
           "likes": 49,
-          "downloads": 122236,
-          "views": 55611,
+          "downloads": 122281,
+          "views": 55632,
           "publishedAt": 1758290656,
           "updatedAt": 1788883261,
           "url": "https://gamebanana.com/mods/621208",
@@ -352,13 +308,7 @@
             "id": 29202,
             "name": "Base Game Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "three-months",
-      "label": "Best of 3 Months",
-      "mods": [
+        },
         {
           "id": 673788,
           "title": "[Discontinued]Fresher Look HUD V-Slice",
@@ -366,8 +316,8 @@
           "author": "CihuyAkz_gokil",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9f63574d952.jpg",
           "likes": 40,
-          "downloads": 11737,
-          "views": 14854,
+          "downloads": 11738,
+          "views": 14866,
           "publishedAt": 1777642437,
           "updatedAt": 1788791433,
           "url": "https://gamebanana.com/mods/673788",
@@ -388,8 +338,8 @@
           "author": "heromax2498",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9e169dd2210.jpg",
           "likes": 32,
-          "downloads": 1327,
-          "views": 2286,
+          "downloads": 1328,
+          "views": 2292,
           "publishedAt": 1788745519,
           "updatedAt": 1788779907,
           "url": "https://gamebanana.com/mods/714611",
@@ -402,7 +352,13 @@
             "id": 29202,
             "name": "Base Game Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
         {
           "id": 709817,
           "title": "Amtake Emo GF + BF [Reskin]",
@@ -410,8 +366,8 @@
           "author": "Repile2",
           "image": "https://images.gamebanana.com/img/ss/mods/6a910e9bbef71.jpg",
           "likes": 30,
-          "downloads": 5326,
-          "views": 5097,
+          "downloads": 5347,
+          "views": 5116,
           "publishedAt": 1787709493,
           "updatedAt": 1788763065,
           "url": "https://gamebanana.com/mods/709817",
@@ -432,8 +388,8 @@
           "author": "laik7u7",
           "image": "https://images.gamebanana.com/img/ss/mods/6aa5d05c7a807.jpg",
           "likes": 29,
-          "downloads": 609,
-          "views": 1531,
+          "downloads": 614,
+          "views": 1558,
           "publishedAt": 1789251811,
           "updatedAt": 1789308086,
           "url": "https://gamebanana.com/mods/716629",
@@ -454,11 +410,55 @@
           "author": "Laurajjj",
           "image": "https://images.gamebanana.com/img/ss/mods/6a73bdae53d09.jpg",
           "likes": 26,
-          "downloads": 1714,
-          "views": 4519,
+          "downloads": 1721,
+          "views": 4532,
           "publishedAt": 1785970730,
           "updatedAt": 1789451332,
           "url": "https://gamebanana.com/mods/700887",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 675499,
+          "title": "Change Character Event 2026",
+          "description": "This version is similar to psych where the character is preloaded, added to stage and then hidden.There might be random lag spikes during the event which is caused by the changing of health icon.",
+          "author": "KT_Gameplay",
+          "image": "https://images.gamebanana.com/img/ss/mods/69fd69791dc46.jpg",
+          "likes": 24,
+          "downloads": 1293,
+          "views": 4452,
+          "publishedAt": 1778215352,
+          "updatedAt": 1789215291,
+          "url": "https://gamebanana.com/mods/675499",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 716902,
+          "title": "Death Screen No Black BG!",
+          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
+          "author": "Fan De FNF (V Slice Porter)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
+          "likes": 23,
+          "downloads": 660,
+          "views": 1096,
+          "publishedAt": 1789314910,
+          "updatedAt": 1789445301,
+          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -482,8 +482,8 @@
           "author": "SiIvaGunner",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 312,
-          "downloads": 16973,
-          "views": 29788,
+          "downloads": 16981,
+          "views": 29827,
           "publishedAt": 1780711398,
           "updatedAt": 1781909527,
           "url": "https://gamebanana.com/mods/683489",
@@ -504,55 +504,11 @@
           "author": "DigitLuck",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fbd0353953a.jpg",
           "likes": 287,
-          "downloads": 227518,
-          "views": 51921,
+          "downloads": 227722,
+          "views": 51959,
           "publishedAt": 1777824002,
           "updatedAt": 1787970504,
           "url": "https://gamebanana.com/mods/674401",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 675499,
-          "title": "Change Character Event 2026",
-          "description": "This version is similar to psych where the character is preloaded, added to stage and then hidden.There might be random lag spikes during the event which is caused by the changing of health icon.",
-          "author": "KT_Gameplay",
-          "image": "https://images.gamebanana.com/img/ss/mods/69fd69791dc46.jpg",
-          "likes": 24,
-          "downloads": 1293,
-          "views": 4447,
-          "publishedAt": 1778215352,
-          "updatedAt": 1789215291,
-          "url": "https://gamebanana.com/mods/675499",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 716902,
-          "title": "Death Screen No Black BG!",
-          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
-          "likes": 23,
-          "downloads": 649,
-          "views": 1082,
-          "publishedAt": 1789314910,
-          "updatedAt": 1789445301,
-          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -570,11 +526,55 @@
           "author": "RAY0ZMAY0",
           "image": "https://images.gamebanana.com/img/ss/mods/649b00c700ca0.jpg",
           "likes": 22,
-          "downloads": 1496,
-          "views": 5968,
+          "downloads": 1500,
+          "views": 5978,
           "publishedAt": 1687880106,
           "updatedAt": 1789448415,
           "url": "https://gamebanana.com/mods/452619",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 567907,
+          "title": "2HOT (BF MIX) [Herox's Take]",
+          "description": "...Welp. I have to make my own mix now.(It's gonna be fine, right?)Old subtitle: Out of these playable versions, this one is a perfect charted.Way back in 7 months ago, I've uploaded a video on my second channel \"Villainy\" named \"2hot but BF sings it (But it's a real mod)\" way before RixFX's 2hot (BF Mix). So after the mix was released everyone went and chart one for out of these playable mods with over 300 charts already.However, this one is perfectly charted (at least to me) with no charting issues while other playable mods like these were off. Plus I didn't care enough for this to be playable nor was I interested to make a chart just now then, but now it is finally here folks!A Herox's mod that will never disappoint you!One thing I should mention:When he revives, he will never die so you'll continue with the rest of the song no matter how many misses you get.Made in almost 3 days!",
+          "author": "Herox_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9b24961a55a.jpg",
+          "likes": 19,
+          "downloads": 3508,
+          "views": 11511,
+          "publishedAt": 1736435284,
+          "updatedAt": 1788811599,
+          "url": "https://gamebanana.com/mods/567907",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 716094,
+          "title": "GF Hoodie AMTake",
+          "description": "A Mod Modified skin from Animania. This mod will change the default GF into the GF used by Animania wearing a red Hoodie outfit. This mod works on V-Slice/Base, Psych Engine, \u0026 P-Slice. Enjoy the skin!DISCLAIMERThis mod is simply a modification of the GF Christmas from the Animania mod. I credit the original skin animation to AnimaniaCrew.",
+          "author": "DzakkiPro",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa3f1fddad90.jpg",
+          "likes": 19,
+          "downloads": 1652,
+          "views": 1799,
+          "publishedAt": 1789129769,
+          "updatedAt": 1789139856,
+          "url": "https://gamebanana.com/mods/716094",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -598,8 +598,8 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 571,
-          "downloads": 180746,
-          "views": 77695,
+          "downloads": 180831,
+          "views": 77732,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
@@ -620,55 +620,11 @@
           "author": "Dra9on5",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
           "likes": 571,
-          "downloads": 437677,
-          "views": 116324,
+          "downloads": 437877,
+          "views": 116364,
           "publishedAt": 1763770731,
           "updatedAt": 1785891137,
           "url": "https://gamebanana.com/mods/632935",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 567907,
-          "title": "2HOT (BF MIX) [Herox's Take]",
-          "description": "...Welp. I have to make my own mix now.(It's gonna be fine, right?)Old subtitle: Out of these playable versions, this one is a perfect charted.Way back in 7 months ago, I've uploaded a video on my second channel \"Villainy\" named \"2hot but BF sings it (But it's a real mod)\" way before RixFX's 2hot (BF Mix). So after the mix was released everyone went and chart one for out of these playable mods with over 300 charts already.However, this one is perfectly charted (at least to me) with no charting issues while other playable mods like these were off. Plus I didn't care enough for this to be playable nor was I interested to make a chart just now then, but now it is finally here folks!A Herox's mod that will never disappoint you!One thing I should mention:When he revives, he will never die so you'll continue with the rest of the song no matter how many misses you get.Made in almost 3 days!",
-          "author": "Herox_",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9b24961a55a.jpg",
-          "likes": 19,
-          "downloads": 3505,
-          "views": 11504,
-          "publishedAt": 1736435284,
-          "updatedAt": 1788811599,
-          "url": "https://gamebanana.com/mods/567907",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 716094,
-          "title": "GF Hoodie AMTake",
-          "description": "A Mod Modified skin from Animania. This mod will change the default GF into the GF used by Animania wearing a red Hoodie outfit. This mod works on V-Slice/Base, Psych Engine, \u0026 P-Slice. Enjoy the skin!DISCLAIMERThis mod is simply a modification of the GF Christmas from the Animania mod. I credit the original skin animation to AnimaniaCrew.",
-          "author": "DzakkiPro",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aa3f1fddad90.jpg",
-          "likes": 19,
-          "downloads": 1643,
-          "views": 1789,
-          "publishedAt": 1789129769,
-          "updatedAt": 1789139856,
-          "url": "https://gamebanana.com/mods/716094",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -686,11 +642,55 @@
           "author": "racubleh",
           "image": "https://images.gamebanana.com/img/ss/mods/6aaa07a37e297.jpg",
           "likes": 18,
-          "downloads": 1009,
-          "views": 1901,
+          "downloads": 1016,
+          "views": 1914,
           "publishedAt": 1784515152,
           "updatedAt": 1789528640,
           "url": "https://gamebanana.com/mods/695798",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 717135,
+          "title": "Pixel Gf Full Moveset",
+          "description": "Just added the cheer and sad animation to gf for combos along with all singing animations for her from this mod by https://gamebanana.com/mods/542285thats all cya",
+          "author": "FNFAddict910",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa75df2bb1e6.jpg",
+          "likes": 17,
+          "downloads": 393,
+          "views": 879,
+          "publishedAt": 1789353566,
+          "updatedAt": 1789353566,
+          "url": "https://gamebanana.com/mods/717135",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 705366,
+          "title": "BIKINI HORRORS V3 REMAKE BASE GAME PORT V-SLICE",
+          "description": "This mod was made with a lot of effort, so enjoy it and show your support.-Includes 3 songs-Includes eventsI'll update it soon and add more songs.",
+          "author": "LIXfunku",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9f7f13f3757.jpg",
+          "likes": 15,
+          "downloads": 7258,
+          "views": 5775,
+          "publishedAt": 1786922955,
+          "updatedAt": 1788837938,
+          "url": "https://gamebanana.com/mods/705366",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -714,8 +714,8 @@
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 1022,
-          "downloads": 1590522,
-          "views": 276362,
+          "downloads": 1591342,
+          "views": 276431,
           "publishedAt": 1738810121,
           "updatedAt": 1784765171,
           "url": "https://gamebanana.com/mods/566597",
@@ -736,8 +736,8 @@
           "author": "Denoohay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e827a0e607.jpg",
           "likes": 735,
-          "downloads": 1158042,
-          "views": 250743,
+          "downloads": 1158284,
+          "views": 250778,
           "publishedAt": 1730328189,
           "updatedAt": 1786678298,
           "url": "https://gamebanana.com/mods/551727",
@@ -758,8 +758,8 @@
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 602,
-          "downloads": 1522488,
-          "views": 220667,
+          "downloads": 1522911,
+          "views": 220720,
           "publishedAt": 1750701603,
           "updatedAt": 1774746521,
           "url": "https://gamebanana.com/mods/602414",
@@ -780,8 +780,8 @@
           "author": "elikapika",
           "image": "https://images.gamebanana.com/img/ss/mods/69aca7df1a0dc.jpg",
           "likes": 553,
-          "downloads": 292841,
-          "views": 781356,
+          "downloads": 292849,
+          "views": 781375,
           "publishedAt": 1612918137,
           "updatedAt": 1776224000,
           "url": "https://gamebanana.com/mods/44227",
@@ -802,8 +802,8 @@
           "author": "NonsenseNH",
           "image": "https://images.gamebanana.com/img/ss/mods/686fd9ffae1a1.jpg",
           "likes": 502,
-          "downloads": 919951,
-          "views": 163059,
+          "downloads": 920053,
+          "views": 163094,
           "publishedAt": 1752150630,
           "updatedAt": 1786371590,
           "url": "https://gamebanana.com/mods/606077",
