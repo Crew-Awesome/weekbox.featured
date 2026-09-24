@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-24T01:24:06.240Z",
-  "revision": "1137c9f1c319149c",
+  "generatedAt": "2026-09-24T06:46:20.545Z",
+  "revision": "1c4578088c6c2761",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -12,80 +12,14 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 719950,
-          "title": "One Note Funkin' (Fixed) [V-SLICE]",
-          "description": "ONE NOTE FUNKIN'\u0026nbsp;(FIXED)One Note Funkin' is a mod which lets you play using only a single note.You can choose to enable or disable the mod in the \"Preferences\" in the options menu in-game.You can also select which note you want to use for the single arrowThis mod took me a long time to make since I'm very bad at coding unfortunately so it would be kinda cool if you liked, subscribed and maybe commented something positive :)CIRCLE ARROWS MOD INCLUDED\u0026nbsp;!!!\u0026nbsp;(JK XD)Original Mod by ‘jaspillion’ (https://gamebanana.com/members/4651084)Original Mod:(https://gamebanana.com/mods/608956)Fixed by me\u0026nbsp;",
-          "author": "Irllywantraccoonpls",
-          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ab35ac24db43.jpg",
-          "likes": 3,
-          "downloads": 110,
-          "views": 203,
-          "publishedAt": 1790139171,
-          "updatedAt": 1790143267,
-          "url": "https://gamebanana.com/mods/719950",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 546091,
-          "title": "DOYLIAH Modpack",
-          "description": "This mod contains Flashing Lights in certain levels, songs and sequences.Face off against Hank J. Wimbleton, the protagonist of the Madness Combat series in 2(?) original songs by Yoshi Dam and mapleladle. Some sources claim The Auditor may have had some involvement in Boyfriend and Girlfriend's trip to Nevada.Nene the knife-obsessed assassin is seeking revenge on Boyfriend and Girlfriend after the events of Due Debts. Face off against Nene in 3 original songs by Asher, NeLeeO \u0026 krimzonred.DOYLIAH Modpack is compatible with Friday Night Funkin' Mobile for Android and iOS.",
-          "author": "krimzon",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cbbe5fa2c21.jpg",
-          "likes": 176,
-          "downloads": 44922,
-          "views": 61695,
-          "publishedAt": 1728074041,
-          "updatedAt": 1790144121,
-          "url": "https://gamebanana.com/mods/546091",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 700887,
-          "title": "Supa HUD!",
-          "description": "A very simple yet customizable HUD!Features:A miss counterColored health bar Song timerRank and accuracy displayBreak barExclusive mobile changes (can be toggled off on options)(almost) everything said here can be customized or turned off!This mod is GAMMOD compatible! Health bar and time bar were made by JugieNoob!Recommended to play with:Middlescroll: https://gamebanana.com/mods/516762Mobile like PC: https://gamebanana.com/mods/609272",
-          "author": "Laurajjj",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a73bdae53d09.jpg",
-          "likes": 28,
-          "downloads": 2148,
-          "views": 5472,
-          "publishedAt": 1785970730,
-          "updatedAt": 1790136378,
-          "url": "https://gamebanana.com/mods/700887",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
           "id": 627512,
           "title": "Marios madness 0.8.3 PORT",
           "description": "ITS A ME MARIO! (starman slaughter port for mobile this is optimized and shit it's fully functional and yoshiexe idle is bugged so don't go telling meThis has all of week mAll starsOverdueNo hopeUnbeatable and alone",
           "author": "Rentarou Aijo",
           "image": "https://images.gamebanana.com/img/ss/mods/68f19e8fd37ef.jpg",
           "likes": 17,
-          "downloads": 45821,
-          "views": 34029,
+          "downloads": 45874,
+          "views": 34092,
           "publishedAt": 1760665393,
           "updatedAt": 1790175705,
           "url": "https://gamebanana.com/mods/627512",
@@ -106,11 +40,77 @@
           "author": "chenzz09",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab0dffe25845.jpg",
           "likes": 9,
-          "downloads": 668,
-          "views": 1058,
+          "downloads": 708,
+          "views": 1125,
           "publishedAt": 1789976905,
           "updatedAt": 1790150931,
           "url": "https://gamebanana.com/mods/719380",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 720095,
+          "title": "Customizable Results Screen",
+          "description": "Welcome All, To My First Contribution To V-Slice Moddingg;D!! Yee I'm Growing Up Now. Have You Ever Stared At The Results Screen And Wondered? -\u0026nbsp;Hmm, I Wish The Results Screen Colour Was Dynamic With The Rank Badges..Welp Now It Is, With Customizable Results Screen!This Mod Assigns Colours To The Results Screen Based On The Rank Badge You Get In The Song.For Example, If You Get A Purple Perfect Or A Gold Perfect; The Results Screen Will Change Into Those Exact Colours',]And This Applies To All The Ranks Ofc! (they're also editable through the script itself, i couldn't figure out how to get them editable through the preferences:\u0026lt;)That's Pretty Much It, Enjoy The Mod \u0026amp; Lemme Know If There's Any Bugs N Such\u0026lt;3Also Credits To Castanova_ For The -white.png Assets That Were Used To Tint Certain Images;Go Check Out--\u0026gt; Their Mod, While Your At It!",
+          "author": "Jadiel:]",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab4276a14776.jpg",
+          "likes": 5,
+          "downloads": 136,
+          "views": 307,
+          "publishedAt": 1790191716,
+          "updatedAt": 1790191908,
+          "url": "https://gamebanana.com/mods/720095",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 717044,
+          "title": "Vs Impostor Legacy V-Slice Port(Enhanced v4)",
+          "description": "Vs Impostor Legacy V-Slice Port, This is the Vs Impostor v4 port made toLook and feel like Vs Impostor Legacy, Enjoy?Put the scroll sound file in the sounds folder but delete first the other sound with the same name as the file inside that other download (I am not wasting another 20 minutes updating that so yeah)",
+          "author": "DynamicLift",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa71ade1501e.jpg",
+          "likes": 3,
+          "downloads": 11621,
+          "views": 2505,
+          "publishedAt": 1789338049,
+          "updatedAt": 1790219216,
+          "url": "https://gamebanana.com/mods/717044",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 682833,
+          "title": "the baldi mix collection weekend 1 addon demo",
+          "description": "the baldi mix collection weekend 1 addon demo 1 is here, so now you are able to play against darnell in 2hot as baldi. theres also a bonus song in here and that is monster baldi mix (no new lyrics just new voices for baldi and baldi has his own version of the inst) blazin baldi mix is still being worked on(this is not official for the baldi mixes addon)",
+          "author": "bigounceGD",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a20116b435e0.jpg",
+          "likes": 3,
+          "downloads": 464,
+          "views": 1535,
+          "publishedAt": 1780561926,
+          "updatedAt": 1790198081,
+          "url": "https://gamebanana.com/mods/682833",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -133,9 +133,9 @@
           "description": "Tricky Mod is back and swinging hard!! Enjoy this visually recreated from the ground up take on Vs. Tricky. The mod includes full recreations of all 4 phases including some goodies for those who poke around the freeplay!INFO: This mod is made years later and going for entirely different things! please go in with a fresh mindset for the best enjoyment.THIS IS A BASE GAME (V-SLICE MOD) FOLDER WORKING ON VERSION 0.8.6!! PLEASE MAKE SURE YOU HAVE THE CORRECT VERSION OF THE GAME.\u0026nbsp;the original mod page will be left up and accessible for anyone who wishes to play the original mod: hereLast thing to mention, the CLOWN cut scene after Madness is a placeholder and will be replaced when the proper cuts scene gets finished. Animation takes time!!",
           "author": "Marc Cea",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9c598136c9d.jpg",
-          "likes": 247,
-          "downloads": 31265,
-          "views": 12937,
+          "likes": 257,
+          "downloads": 34467,
+          "views": 13730,
           "publishedAt": 1790064071,
           "updatedAt": 1790066010,
           "url": "https://gamebanana.com/mods/714051",
@@ -155,12 +155,34 @@
           "description": "A short, simple 2-shot retake of Sayori's week from Doki Doki Takeover, from the original developers of DDTO+, \u0026 new faces that joined us at Team TBD over the years! Released in time for DDLC's 9th Anniversary.This was made for fun to see how far we've come since the DDTO got it's name.This mod is made for V-Slice and features a Regular and Mobile-Ready version.",
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ab2a09b3fd19.jpg",
-          "likes": 96,
-          "downloads": 3440,
-          "views": 2694,
+          "likes": 98,
+          "downloads": 3799,
+          "views": 2887,
           "publishedAt": 1790107293,
           "updatedAt": 1790109385,
           "url": "https://gamebanana.com/mods/719815",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 546091,
+          "title": "DOYLIAH Modpack",
+          "description": "This mod contains Flashing Lights in certain levels, songs and sequences.Face off against Hank J. Wimbleton, the protagonist of the Madness Combat series in 2(?) original songs by Yoshi Dam and mapleladle. Some sources claim The Auditor may have had some involvement in Boyfriend and Girlfriend's trip to Nevada.Nene the knife-obsessed assassin is seeking revenge on Boyfriend and Girlfriend after the events of Due Debts. Face off against Nene in 3 original songs by Asher, NeLeeO \u0026 krimzonred.DOYLIAH Modpack is compatible with Friday Night Funkin' Mobile for Android and iOS.",
+          "author": "krimzon",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cbbe5fa2c21.jpg",
+          "likes": 177,
+          "downloads": 45015,
+          "views": 61797,
+          "publishedAt": 1728074041,
+          "updatedAt": 1790144121,
+          "url": "https://gamebanana.com/mods/546091",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -177,9 +199,9 @@
           "description": "\"Whilst Embarking on your newest mission you suddenly get caught off guard by a familiar face... IT'S THAT DAMN CLOWN!\"Be ready to show Tricky and whoever else wants to stand between you and taking another life who's boss in Incident 1 This mod contains Flashing Lights and can be toggled on/off via the options menu. This mod also contains copious amount of Blood and GoreTHIS MOD IS DESIGNED TO BE PLAYED WITHOUT ANY OTHER MODS INSTALLED**does not apply to mods that officially collab with us*all non Nevada team made assets are used with proper permissions from its creators. This mod has no official association with Madness Combat or Gibbing Tree. The 1.0 Update is a reboot of sorts for this mod, certain assets, songs, and other pieces of media are withheld to be properly updated, in the mean time please enjoy what's in store!This mod contains an exclusive take on playable Hank Mixes in the same vein as already existing playable characters like Pico. As of current there are 9 playable Hank Mixes in the game for you to play! (with more to come) along side Boyfriend and Pico mixes of the original mods content Q: Will Vs Tricky content be coming back? A: Most likely notQ: How much Content is planned for Incident 1? A: about 5 Levels and some Hank mixes Sprinkled aroundQ: Will you release the Flash Files for Nevada 1? A: Yes! in the alternative downloads section of the mod you will find our github page where Flas will be released along side the updates themselvesQ: Is tricky sigma? A: Heh... Oh yeah!Q: Are you baby? A: I'm Baby!",
           "author": "Mykarm",
           "image": "https://images.gamebanana.com/img/ss/mods/6aaf22654de1e.jpg",
-          "likes": 159,
-          "downloads": 73144,
-          "views": 51116,
+          "likes": 161,
+          "downloads": 73335,
+          "views": 51258,
           "publishedAt": 1758574589,
           "updatedAt": 1790114406,
           "url": "https://gamebanana.com/mods/615056",
@@ -200,33 +222,11 @@
           "author": "Mikassette",
           "image": "https://images.gamebanana.com/img/ss/mods/6aadbd86f1abd.jpg",
           "likes": 81,
-          "downloads": 35155,
-          "views": 33299,
+          "downloads": 35296,
+          "views": 33339,
           "publishedAt": 1772483249,
           "updatedAt": 1789772195,
           "url": "https://gamebanana.com/mods/657203",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 623965,
-          "title": "botplay [v-slice]",
-          "description": "bot that playssimple enough",
-          "author": "snezhok174",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dcba203b213.jpg",
-          "likes": 74,
-          "downloads": 108647,
-          "views": 55008,
-          "publishedAt": 1759296676,
-          "updatedAt": 1789662569,
-          "url": "https://gamebanana.com/mods/623965",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -250,8 +250,8 @@
           "author": "-SwayTheDev-",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
           "likes": 202,
-          "downloads": 16819,
-          "views": 9834,
+          "downloads": 16919,
+          "views": 9891,
           "publishedAt": 1788129483,
           "updatedAt": 1789145157,
           "url": "https://gamebanana.com/mods/711896",
@@ -272,11 +272,33 @@
           "author": "Alien 86",
           "image": "https://images.gamebanana.com/img/ss/mods/6a417ae7f2a55.jpg",
           "likes": 87,
-          "downloads": 10778,
-          "views": 18621,
+          "downloads": 10796,
+          "views": 18647,
           "publishedAt": 1760716897,
           "updatedAt": 1789586445,
           "url": "https://gamebanana.com/mods/627609",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 623965,
+          "title": "botplay [v-slice]",
+          "description": "bot that playssimple enough",
+          "author": "snezhok174",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dcba203b213.jpg",
+          "likes": 74,
+          "downloads": 108681,
+          "views": 55031,
+          "publishedAt": 1759296676,
+          "updatedAt": 1789662569,
+          "url": "https://gamebanana.com/mods/623965",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -294,8 +316,8 @@
           "author": "Franklin_Clinton",
           "image": "https://images.gamebanana.com/img/ss/mods/68ee0c821ef4e.jpg",
           "likes": 73,
-          "downloads": 172989,
-          "views": 64250,
+          "downloads": 173183,
+          "views": 64277,
           "publishedAt": 1760431317,
           "updatedAt": 1789814585,
           "url": "https://gamebanana.com/mods/626911",
@@ -316,33 +338,11 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6a750c914654b.jpg",
           "likes": 69,
-          "downloads": 74305,
-          "views": 47278,
+          "downloads": 74322,
+          "views": 47304,
           "publishedAt": 1765153657,
           "updatedAt": 1789516287,
           "url": "https://gamebanana.com/mods/638237",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 684161,
-          "title": "COMPANIONS!!! (V-Slice) (MOBILE!!!!)",
-          "description": "Ever felt so bored of just one player? Well here is a solution! Meet companions! It adds a selector in the freeplay menu to select your COMPAION!!!\u0026nbsp;Whenever your in the freeplay menu or storymode press R to cycle right and SHIFT+R to cycle left and pick your companion!HEY HEY HEY MESSAGE GO TO THE GITHUB!!!!!!!HERE ARE ALL THE NEW UPDATESS!!!!!!!!!!\u0026nbsp;https://github.com/CamLikesKirby/COMPANIONS-/releases/tag/3.3.6WARNING!!!I do not claim to own or own any of the mods shown in the images or videos!None of the mods in the images or videos are included in the mod! You need to download them sepratly.I am using no assets from their mods they are simply compatible with my mod!Compatible Modshttps://gamebanana.com/mods/614615 - Philly Mixhttps://gamebanana.com/mods/545138 - Playable Tankman DEMOhttps://gamebanana.com/mods/551727 - FNF:SPOOKY MIXhttps://gamebanana.com/mods/664062 - NENEMIXEShttps://gamebanana.com/mods/649062 - The Stick-Mix Collectionhttps://gamebanana.com/mods/615056 - Nevada 1 (Playable Hank)https://gamebanana.com/mods/650004 - FNF:SONIC JAMhttps://gamebanana.com/mods/602414 - Sky:REBORNhttps://gamebanana.com/mods/566597 - QT:Rewiredhttps://gamebanana.com/mods/649419 - Playable Reimu: Funkin’ Incidenthttps://gamebanana.com/mods/564105 - Gooey Mixhttps://gamebanana.com/mods/613958 - Crash Funksanity: N-SANE MIXES!!https://gamebanana.com/mods/633868 - FNF:Kesha Mixhttps://gamebanana.com/mods/599057 - FNF Project VOF: Fred Mixeshttps://gamebanana.com/mods/639725 - D-STRIDER + Strider Mixeshttps://gamebanana.com/mods/684135 -\u0026nbsp; FNF:Steven Mixhttps://gamebanana.com/mods/682529 - VS SPEAKERGIRLhttps://gamebanana.com/mods/643431 - [FNF2 MIX] BF2 Playable Characterhttps://gamebanana.com/mods/560777 - PTR X FNF - I SCREAM! ft. PJ \u0026amp; PaRappaNew Mods!!!https://gamebanana.com/mods/682129 - The Baldi-Mix Collection (By SimoonDoesToons)\u0026nbsp;\u0026nbsp;https://gamebanana.com/wips/96543 - Bambi Mixes - The FULL \"Corny\" Mod\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/620262 - Girlfriend Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/653229 - Friday Night Funkin': Remnants\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/669012 - Friday Night Funkin': Beebo Mixes\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/632633 - Dani Playable [PRELAUNCH] 1.10\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/684324 - [V-SLICE] FNF: WITCH ATSUKO KAGARI MIX\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/621910 - FNF: Huggy Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/606077 - Friday Night Funkin: Vs Nonsense (v1.5)\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/685231 - Average Mixes\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/668043 - FNF: Gren Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/671995\u0026nbsp;- Playable Pelmen (Week 7 remixes) - TECH DEMO\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/596021 - Friday Night Funkin': Bren Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/596880 - [V-SLICE] FNF: BEETLEJUICE MIXEven Newer mods!!!https://gamebanana.com/wips/101379 - [Official Ver.] Expunged Mixes (DEMO 1)https://gamebanana.com/mods/688974 - Playable Is That A Gubbyhttps://gamebanana.com/mods/689503 - FNF ~ ARTUXX MIX\u0026nbsp;https://gamebanana.com/mods/687864 - FNF: Kikillus N' CO\u0026nbsp;https://gamebanana.com/mods/627609 - Playable House (V-SLICE UPDATE)\u0026nbsp;https://gamebanana.com/mods/662131 - ᕈᖾɩꙆꙆყᖇᥱ-ᖴɾᥱ⳽ᖾᥱᑯMake sure to support the mod creators!",
-          "author": "The_Ghost_FNF",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a402780aa510.jpg",
-          "likes": 67,
-          "downloads": 13399,
-          "views": 18495,
-          "publishedAt": 1780872903,
-          "updatedAt": 1789762581,
-          "url": "https://gamebanana.com/mods/684161",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -360,14 +360,36 @@
       "label": "Best of 3 Months",
       "mods": [
         {
+          "id": 684161,
+          "title": "COMPANIONS!!! (V-Slice) (MOBILE!!!!)",
+          "description": "Ever felt so bored of just one player? Well here is a solution! Meet companions! It adds a selector in the freeplay menu to select your COMPAION!!!\u0026nbsp;Whenever your in the freeplay menu or storymode press R to cycle right and SHIFT+R to cycle left and pick your companion!HEY HEY HEY MESSAGE GO TO THE GITHUB!!!!!!!HERE ARE ALL THE NEW UPDATESS!!!!!!!!!!\u0026nbsp;https://github.com/CamLikesKirby/COMPANIONS-/releases/tag/3.3.6WARNING!!!I do not claim to own or own any of the mods shown in the images or videos!None of the mods in the images or videos are included in the mod! You need to download them sepratly.I am using no assets from their mods they are simply compatible with my mod!Compatible Modshttps://gamebanana.com/mods/614615 - Philly Mixhttps://gamebanana.com/mods/545138 - Playable Tankman DEMOhttps://gamebanana.com/mods/551727 - FNF:SPOOKY MIXhttps://gamebanana.com/mods/664062 - NENEMIXEShttps://gamebanana.com/mods/649062 - The Stick-Mix Collectionhttps://gamebanana.com/mods/615056 - Nevada 1 (Playable Hank)https://gamebanana.com/mods/650004 - FNF:SONIC JAMhttps://gamebanana.com/mods/602414 - Sky:REBORNhttps://gamebanana.com/mods/566597 - QT:Rewiredhttps://gamebanana.com/mods/649419 - Playable Reimu: Funkin’ Incidenthttps://gamebanana.com/mods/564105 - Gooey Mixhttps://gamebanana.com/mods/613958 - Crash Funksanity: N-SANE MIXES!!https://gamebanana.com/mods/633868 - FNF:Kesha Mixhttps://gamebanana.com/mods/599057 - FNF Project VOF: Fred Mixeshttps://gamebanana.com/mods/639725 - D-STRIDER + Strider Mixeshttps://gamebanana.com/mods/684135 -\u0026nbsp; FNF:Steven Mixhttps://gamebanana.com/mods/682529 - VS SPEAKERGIRLhttps://gamebanana.com/mods/643431 - [FNF2 MIX] BF2 Playable Characterhttps://gamebanana.com/mods/560777 - PTR X FNF - I SCREAM! ft. PJ \u0026amp; PaRappaNew Mods!!!https://gamebanana.com/mods/682129 - The Baldi-Mix Collection (By SimoonDoesToons)\u0026nbsp;\u0026nbsp;https://gamebanana.com/wips/96543 - Bambi Mixes - The FULL \"Corny\" Mod\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/620262 - Girlfriend Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/653229 - Friday Night Funkin': Remnants\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/669012 - Friday Night Funkin': Beebo Mixes\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/632633 - Dani Playable [PRELAUNCH] 1.10\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/684324 - [V-SLICE] FNF: WITCH ATSUKO KAGARI MIX\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/621910 - FNF: Huggy Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/606077 - Friday Night Funkin: Vs Nonsense (v1.5)\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/685231 - Average Mixes\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/668043 - FNF: Gren Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/671995\u0026nbsp;- Playable Pelmen (Week 7 remixes) - TECH DEMO\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/596021 - Friday Night Funkin': Bren Mix\u0026nbsp;\u0026nbsp;https://gamebanana.com/mods/596880 - [V-SLICE] FNF: BEETLEJUICE MIXEven Newer mods!!!https://gamebanana.com/wips/101379 - [Official Ver.] Expunged Mixes (DEMO 1)https://gamebanana.com/mods/688974 - Playable Is That A Gubbyhttps://gamebanana.com/mods/689503 - FNF ~ ARTUXX MIX\u0026nbsp;https://gamebanana.com/mods/687864 - FNF: Kikillus N' CO\u0026nbsp;https://gamebanana.com/mods/627609 - Playable House (V-SLICE UPDATE)\u0026nbsp;https://gamebanana.com/mods/662131 - ᕈᖾɩꙆꙆყᖇᥱ-ᖴɾᥱ⳽ᖾᥱᑯMake sure to support the mod creators!",
+          "author": "The_Ghost_FNF",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a402780aa510.jpg",
+          "likes": 67,
+          "downloads": 13411,
+          "views": 18527,
+          "publishedAt": 1780872903,
+          "updatedAt": 1789762581,
+          "url": "https://gamebanana.com/mods/684161",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
           "id": 662340,
           "title": "QT:REWIRED REMIXED",
           "description": "QT REWIRED REMIXED Mod creado por un fan para todos; el creador original recibe el crédito. Este mod está hecho para funcionar con las versiones nuevas y antiguas. Este mod no está destinado a generar ingresos ni donaciones; crédito nuevamente al creador original. Este mod tiene luces intermitentes y configuraciones personalizadas.ReChart por megasa7l. Termination chart por megasa7l . Gracias por visitar el mod :DMod original https://gamebanana.com/mods/566597- Compatibilidad con P-slice Android, V slice y PC- Mecánicas de sierra adaptadas de V-slice a P-slice -Ahora compatible con las mecánicas de V slice y configuraciones personalizadas añadidas en V slice- Gracias por esperar- PD: La versión de P-slice no recibirá más actualizaciones este mayo y hasta el 27 de junio. Nuevas canciones próximamente. Hola QT",
           "author": "Megasa7l",
           "image": "https://images.gamebanana.com/img/ss/mods/69bf1769c82fe.jpg",
           "likes": 48,
-          "downloads": 44932,
-          "views": 26821,
+          "downloads": 44963,
+          "views": 26854,
           "publishedAt": 1774121987,
           "updatedAt": 1789805133,
           "url": "https://gamebanana.com/mods/662340",
@@ -388,8 +410,8 @@
           "author": "ImSnax",
           "image": "https://images.gamebanana.com/img/ss/mods/690a241d4278b.jpg",
           "likes": 47,
-          "downloads": 27985,
-          "views": 35875,
+          "downloads": 27993,
+          "views": 35889,
           "publishedAt": 1685585468,
           "updatedAt": 1789861337,
           "url": "https://gamebanana.com/mods/447217",
@@ -410,8 +432,8 @@
           "author": "SuperEric",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6f4d491e84e.jpg",
           "likes": 40,
-          "downloads": 10184,
-          "views": 14415,
+          "downloads": 10221,
+          "views": 14439,
           "publishedAt": 1785693737,
           "updatedAt": 1789875199,
           "url": "https://gamebanana.com/mods/653579",
@@ -432,33 +454,11 @@
           "author": "DanNav545",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab033deaffc6.jpg",
           "likes": 39,
-          "downloads": 2836,
-          "views": 1734,
+          "downloads": 2893,
+          "views": 1769,
           "publishedAt": 1789933379,
           "updatedAt": 1790076341,
           "url": "https://gamebanana.com/mods/719200",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 634960,
-          "title": "Friday Night Funkin’ Corruption V-Slice Port",
-          "description": "This port have all (almost) songs of the original FNF Corruption!Credits file on mod folder.Mobile SupportedThe Builds are on alternative source, in google drive.The mod comes from the master PhantomFear",
-          "author": "GhostLight465",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab015956aa5a.jpg",
-          "likes": 38,
-          "downloads": 51435,
-          "views": 45066,
-          "publishedAt": 1763737768,
-          "updatedAt": 1790090782,
-          "url": "https://gamebanana.com/mods/634960",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -482,8 +482,8 @@
           "author": "SiIvaGunner",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 312,
-          "downloads": 17343,
-          "views": 30865,
+          "downloads": 17355,
+          "views": 30904,
           "publishedAt": 1780711398,
           "updatedAt": 1781909527,
           "url": "https://gamebanana.com/mods/683489",
@@ -504,11 +504,33 @@
           "author": "DigitLuck",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fbd0353953a.jpg",
           "likes": 292,
-          "downloads": 235925,
-          "views": 53556,
+          "downloads": 236127,
+          "views": 53600,
           "publishedAt": 1777824002,
           "updatedAt": 1787970504,
           "url": "https://gamebanana.com/mods/674401",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 634960,
+          "title": "Friday Night Funkin’ Corruption V-Slice Port",
+          "description": "This port have all (almost) songs of the original FNF Corruption!Credits file on mod folder.Mobile SupportedThe Builds are on alternative source, in google drive.The mod comes from the master PhantomFear",
+          "author": "GhostLight465",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab015956aa5a.jpg",
+          "likes": 38,
+          "downloads": 51471,
+          "views": 45123,
+          "publishedAt": 1763737768,
+          "updatedAt": 1790090782,
+          "url": "https://gamebanana.com/mods/634960",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -526,8 +548,8 @@
           "author": "szisha",
           "image": "https://images.gamebanana.com/img/ss/mods/6aa690f5608a3.jpg",
           "likes": 38,
-          "downloads": 1389,
-          "views": 1978,
+          "downloads": 1391,
+          "views": 1981,
           "publishedAt": 1789300893,
           "updatedAt": 1789303328,
           "url": "https://gamebanana.com/mods/716834",
@@ -548,33 +570,11 @@
           "author": "Mikassette",
           "image": "https://images.gamebanana.com/img/ss/mods/6a1dd31249b95.jpg",
           "likes": 28,
-          "downloads": 6028,
-          "views": 7886,
+          "downloads": 6061,
+          "views": 7917,
           "publishedAt": 1780341938,
           "updatedAt": 1790008622,
           "url": "https://gamebanana.com/mods/682373",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 716902,
-          "title": "Death Screen No Black BG!",
-          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
-          "likes": 28,
-          "downloads": 869,
-          "views": 1646,
-          "publishedAt": 1789314910,
-          "updatedAt": 1789445301,
-          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -598,8 +598,8 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 572,
-          "downloads": 184555,
-          "views": 79042,
+          "downloads": 184725,
+          "views": 79086,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
@@ -620,11 +620,55 @@
           "author": "Dra9on5",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
           "likes": 574,
-          "downloads": 446161,
-          "views": 117868,
+          "downloads": 446505,
+          "views": 117931,
           "publishedAt": 1763770731,
           "updatedAt": 1785891137,
           "url": "https://gamebanana.com/mods/632935",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 700887,
+          "title": "Supa HUD!",
+          "description": "A very simple yet customizable HUD!Features:A miss counterColored health bar Song timerRank and accuracy displayBreak barExclusive mobile changes (can be toggled off on options)(almost) everything said here can be customized or turned off!This mod is GAMMOD compatible! Health bar and time bar were made by JugieNoob!Recommended to play with:Middlescroll: https://gamebanana.com/mods/516762Mobile like PC: https://gamebanana.com/mods/609272",
+          "author": "Laurajjj",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a73bdae53d09.jpg",
+          "likes": 28,
+          "downloads": 2168,
+          "views": 5510,
+          "publishedAt": 1785970730,
+          "updatedAt": 1790136378,
+          "url": "https://gamebanana.com/mods/700887",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 716902,
+          "title": "Death Screen No Black BG!",
+          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
+          "author": "Fan De FNF (V Slice Porter)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
+          "likes": 28,
+          "downloads": 872,
+          "views": 1652,
+          "publishedAt": 1789314910,
+          "updatedAt": 1789445301,
+          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -642,55 +686,11 @@
           "author": "Mikassette",
           "image": "https://images.gamebanana.com/img/ss/mods/6aab39cb710d3.jpg",
           "likes": 28,
-          "downloads": 700,
-          "views": 1480,
+          "downloads": 704,
+          "views": 1505,
           "publishedAt": 1789605865,
           "updatedAt": 1789606352,
           "url": "https://gamebanana.com/mods/717957",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 702439,
-          "title": "Friday Night Funkin 0.8.8 Optimizado",
-          "description": "Friday Night Funkin' Base OptimizadoUna versión optimizada de la base de Friday Night Funkin', enfocada en mejorar el rendimiento y reducir el consumo de recursos, especialmente en dispositivos Android de bajos recursos. Características Mejor rendimientoOptimizado para AndroidMejor estabilidad y FPSMenor consumo de recursosDiferentes optimizaciones de rendimientoRecursos optimizadosCréditosJuego original: Friday Night Funkin'Optimización: Funky_FacuProgramador:Juxz Portada:LeonardDXUTrailer:PatriCuckMuchas gracias a mis amigos por ayudarme con la optimización y las pruebas de este proyecto.Este proyecto está hecho y optimizado exclusivamente para Android.",
-          "author": "FunkyFacu",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9611fa20a09.jpg",
-          "likes": 27,
-          "downloads": 14762,
-          "views": 8054,
-          "publishedAt": 1787497443,
-          "updatedAt": 1789654477,
-          "url": "https://gamebanana.com/mods/702439",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 640638,
-          "title": "Configurable Sing Animations (Includes Idle)",
-          "description": "Upon reaching Custom combos, boyfriend will start doing an idle alt and his alt animations.",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab3080427919.jpg",
-          "likes": 25,
-          "downloads": 7720,
-          "views": 14500,
-          "publishedAt": 1766243684,
-          "updatedAt": 1790118317,
-          "url": "https://gamebanana.com/mods/640638",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -714,8 +714,8 @@
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 1026,
-          "downloads": 1617226,
-          "views": 278694,
+          "downloads": 1618311,
+          "views": 278765,
           "publishedAt": 1738810121,
           "updatedAt": 1784765171,
           "url": "https://gamebanana.com/mods/566597",
@@ -736,8 +736,8 @@
           "author": "Denoohay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e827a0e607.jpg",
           "likes": 735,
-          "downloads": 1167816,
-          "views": 252201,
+          "downloads": 1168129,
+          "views": 252248,
           "publishedAt": 1730328189,
           "updatedAt": 1786678298,
           "url": "https://gamebanana.com/mods/551727",
@@ -758,8 +758,8 @@
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 604,
-          "downloads": 1538077,
-          "views": 222499,
+          "downloads": 1538504,
+          "views": 222554,
           "publishedAt": 1750701603,
           "updatedAt": 1774746521,
           "url": "https://gamebanana.com/mods/602414",
@@ -780,8 +780,8 @@
           "author": "elikapika",
           "image": "https://images.gamebanana.com/img/ss/mods/69aca7df1a0dc.jpg",
           "likes": 553,
-          "downloads": 293236,
-          "views": 781935,
+          "downloads": 293253,
+          "views": 781946,
           "publishedAt": 1612918137,
           "updatedAt": 1776224000,
           "url": "https://gamebanana.com/mods/44227",
@@ -802,8 +802,8 @@
           "author": "NonsenseNH",
           "image": "https://images.gamebanana.com/img/ss/mods/686fd9ffae1a1.jpg",
           "likes": 503,
-          "downloads": 923291,
-          "views": 164368,
+          "downloads": 923382,
+          "views": 164415,
           "publishedAt": 1752150630,
           "updatedAt": 1786371590,
           "url": "https://gamebanana.com/mods/606077",
