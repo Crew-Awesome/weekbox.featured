@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-26T23:37:54.851Z",
-  "revision": "2663a7e8c9c2e128",
+  "generatedAt": "2026-09-27T01:49:32.173Z",
+  "revision": "9da4215e58caa6dd",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,14 +17,80 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 615291,
+          "title": "[STRESS] The Average OC Mod 2.5",
+          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003eOCs, duh.",
+          "author": "cravethyrave",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab856f9d4727.jpg",
+          "likes": 63,
+          "downloads": 2125,
+          "views": 13993,
+          "publishedAt": 1755844445,
+          "updatedAt": 1790465890,
+          "url": "https://gamebanana.com/mods/615291",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 666603,
+          "title": "Doki Takeover - Bad Ending Plus !",
+          "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
+          "author": "Nexus Team",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
+          "likes": 41,
+          "downloads": 26187,
+          "views": 22140,
+          "publishedAt": 1775338865,
+          "updatedAt": 1790472113,
+          "url": "https://gamebanana.com/mods/666603",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 544976,
+          "title": "indiscretions: vol. 1 - sendoff update",
+          "description": "don't you think its all just a bad dream?welcome to the world of indiscretions, an experimental fnf mod that will tell a story as time goes on. you play as a character named, \"precursor\", a character who lost all memory, all she can find was a notebook that contained her thoughts and feelings in them, and a vhs player with a tape that will hopefully give her answers of who she once was.BEFORE YOU INSTALL THIS MODPACK, MAKE SURE YOU INSTALLED v1.0.1 OF CODENAME ENGINE THROUGH THE GITHUB RELEASES!! OTHER ONES WON'T WORK!!Download Codename Engine v1.0.1 here!WindowsMacLinuxRemember to extract the zip file in the mods folder, enjoy the mod!!",
+          "author": "Vibreee",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
+          "likes": 35,
+          "downloads": 867,
+          "views": 11669,
+          "publishedAt": 1727491502,
+          "updatedAt": 1790473372,
+          "url": "https://gamebanana.com/mods/544976",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
           "id": 653837,
           "title": "Holofunk: P-Slice Edition",
           "description": "You like Hololive? Me too.Welcome to Holofunk P-Slice and this is the main Page.Just like @TattleameliaMLG's Psych Port of Holofunk Psych Engine this attempts to port Holofunk 6.0.0 songs. Why choose this version?This version contain ALL of the Psych Engine Demo's in one AND NEW content.And you know what else?Actual swappable vocals for (Most) songs (Including Aloe and Fubuki)MORE BONUS CONTENT USTS! This includes 1 New Botan Mix.(Hopefully) Copyright free instrumental options for (Some) songsAlternate Instrumentals, MORE EX Mixes (Including MAKYUNI's Scrapped Mix WITH approval)Playable Bf in Week 6 (Half Demo again)P-Slice Engine 1.0 ONLYThis will NOT include 7.0.0 content unless I get approval (If at all it comes out)Notice: This does not include some weeks as I do NOT have permission to port some songs and do not want to take away from Tattleamelia's Psych Port making this the definitive version.You should DEFINITELY support it.All this was made with permission from Tattleamelia, so don't go begging me for more content.IM NOT DOING THAT.May I request YOU MAY NEVER PORT THIS TO V-SLICE OR ANY ENGINE under my word.I do NOT want to see a port of ANY KIND of this project. Personal use or NOT.NOTICE: THIS IS A P-SLICE 1.0 MODPACK, NOT PSYCH ENGINE! IT WILL CRASH OTHERWISE.",
           "author": "KingRGames",
           "image": "https://images.gamebanana.com/img/ss/mods/699386be146ea.jpg",
           "likes": 20,
-          "downloads": 724,
-          "views": 5919,
+          "downloads": 734,
+          "views": 5956,
           "publishedAt": 1771277029,
           "updatedAt": 1790446390,
           "url": "https://gamebanana.com/mods/653837",
@@ -39,36 +105,14 @@
           }
         },
         {
-          "id": 609365,
-          "title": "Holy Quintet Skins Psych Online",
-          "description": "Holy Quintet Skins",
-          "author": "LuisDavidFNF",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a7296d63e71b.jpg",
-          "likes": 13,
-          "downloads": 4301,
-          "views": 4708,
-          "publishedAt": 1753486651,
-          "updatedAt": 1790380692,
-          "url": "https://gamebanana.com/mods/609365",
-          "engine": {
-            "id": "psychonline",
-            "name": "Psych Online",
-            "icon": "psychonline.png"
-          },
-          "category": {
-            "id": 43788,
-            "name": "Psych Online Mod Folders"
-          }
-        },
-        {
           "id": 629962,
           "title": "Zarallo \u0026 Leftis' Fanchart Collection",
           "description": "This is a V1 of Zarallo \u0026 Leftis' Fanchart Collection :D",
           "author": "Zarallo_",
           "image": "https://images.gamebanana.com/img/ss/mods/6900e463586bb.jpg",
           "likes": 7,
-          "downloads": 564,
-          "views": 2462,
+          "downloads": 568,
+          "views": 2471,
           "publishedAt": 1761666316,
           "updatedAt": 1790425969,
           "url": "https://gamebanana.com/mods/629962",
@@ -80,50 +124,6 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 654095,
-          "title": "BROKEN REALITY V1 (SCRAPPED BUILD)",
-          "description": "Os créditos estão na seção de créditos do jogo.",
-          "author": "Vexus (JPCAUADINE)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a079a4acaf34.jpg",
-          "likes": 4,
-          "downloads": 315,
-          "views": 2629,
-          "publishedAt": 1771368128,
-          "updatedAt": 1790457106,
-          "url": "https://gamebanana.com/mods/654095",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 621818,
-          "title": "TRIFLETHUMB DEFINITIVE FANMADE",
-          "description": "Jimmy has gone CRAZY! You are Tyler, a nugget and Jimmy's best friend, he has kidnapped a bully, named Duncan. Will you save Duncan? Will Jimmy snap out of it?...Okay enough of this corny description! Me and my brother made this mod, we hope you enjoy it!Once in the song press the debug key, or 7 key for me at least, and click song and then load events. This fixes it somehow.",
-          "author": "JimmyToonsLover",
-          "image": "https://images.gamebanana.com/img/ss/mods/68d070e89f3c5.jpg",
-          "likes": 3,
-          "downloads": 517,
-          "views": 2393,
-          "publishedAt": 1758493067,
-          "updatedAt": 1790444027,
-          "url": "https://gamebanana.com/mods/621818",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -138,9 +138,9 @@
           "description": "The Varied Magic of FNF \u0026amp; VV Continues!A brand new Variety Vault release has hit the scene! Now including more content than ever before! Revisit the magic and fun of 12 beautiful games, now on your Personal Computer! All of these wonderful games have been powered up with a refreshing rhythm-based twist on their standard gameplay; made possible only through the hit Newgrounds game, Friday Night Funkin'! All neatly wrapped together into one wondrously bountiful package titled;Friday Night Funkin': Variety Vault Plus!Includes:12 great games \u0026amp; 17(?) songs to play/discover in the Game Select Menu.Majorly revamped/remade songs \u0026amp; visuals for many of the V1 songs.An abundance of unlockable \u0026amp; customizable content.Various difficult, yet engaging mechanics.A gallery menu that offers dev insight, a peek behind the scenes, and bonus songs!A multitude of custom HUDs, Pause Menus, \u0026amp; UI Themes.And many, MANY more secrets to discover.Join the community server!!! If you encounter bugs, lag or crashes, try turning off shaders/turning on low quality mode and report them in the server\u0026nbsp;!!",
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
-          "likes": 144,
-          "downloads": 7756,
-          "views": 6509,
+          "likes": 145,
+          "downloads": 7874,
+          "views": 6603,
           "publishedAt": 1790182759,
           "updatedAt": 1790356678,
           "url": "https://gamebanana.com/mods/719888",
@@ -161,8 +161,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 106,
-          "downloads": 10572,
-          "views": 28007,
+          "downloads": 10606,
+          "views": 28015,
           "publishedAt": 1742496031,
           "updatedAt": 1789871649,
           "url": "https://gamebanana.com/mods/582726",
@@ -183,8 +183,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 105,
-          "downloads": 6389,
-          "views": 14642,
+          "downloads": 6396,
+          "views": 14646,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -205,7 +205,7 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 67,
-          "downloads": 11539,
+          "downloads": 11549,
           "views": 38522,
           "publishedAt": 1737928649,
           "updatedAt": 1789934217,
@@ -227,8 +227,8 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 39,
-          "downloads": 10432,
-          "views": 20798,
+          "downloads": 10439,
+          "views": 20813,
           "publishedAt": 1730671567,
           "updatedAt": 1790282882,
           "url": "https://gamebanana.com/mods/553388",
@@ -255,8 +255,8 @@
           "author": "fl0pd00dle",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a90f7d16f80a.jpg",
           "likes": 120,
-          "downloads": 9049,
-          "views": 8596,
+          "downloads": 9062,
+          "views": 8613,
           "publishedAt": 1787938323,
           "updatedAt": 1787938365,
           "url": "https://gamebanana.com/mods/710854",
@@ -277,8 +277,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 282,
-          "downloads": 36195,
-          "views": 94058,
+          "downloads": 36197,
+          "views": 94075,
           "publishedAt": 1757793620,
           "updatedAt": 1787960315,
           "url": "https://gamebanana.com/mods/613322",
@@ -299,8 +299,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae25a37cd32.jpg",
           "likes": 163,
-          "downloads": 36779,
-          "views": 120967,
+          "downloads": 36780,
+          "views": 120977,
           "publishedAt": 1717301118,
           "updatedAt": 1789797930,
           "url": "https://gamebanana.com/mods/517623",
@@ -321,8 +321,8 @@
           "author": "M4ff",
           "image": "https://images.gamebanana.com/img/ss/mods/644e0a0d2d44f.jpg",
           "likes": 131,
-          "downloads": 13315,
-          "views": 52262,
+          "downloads": 13318,
+          "views": 52265,
           "publishedAt": 1682842120,
           "updatedAt": 1789051054,
           "url": "https://gamebanana.com/mods/440809",
@@ -344,7 +344,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 95,
           "downloads": 5223,
-          "views": 59588,
+          "views": 59601,
           "publishedAt": 1712631322,
           "updatedAt": 1788886290,
           "url": "https://gamebanana.com/mods/506138",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 265,
-          "downloads": 101322,
-          "views": 38502,
+          "downloads": 101355,
+          "views": 38516,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -393,8 +393,8 @@
           "author": "hypsk8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6a705e90c7abf.jpg",
           "likes": 101,
-          "downloads": 6710,
-          "views": 20388,
+          "downloads": 6715,
+          "views": 20389,
           "publishedAt": 1746284275,
           "updatedAt": 1785749709,
           "url": "https://gamebanana.com/mods/592129",
@@ -415,8 +415,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 87,
-          "downloads": 34846,
-          "views": 13731,
+          "downloads": 34877,
+          "views": 13747,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -437,8 +437,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/69aee605b0c98.jpg",
           "likes": 65,
-          "downloads": 9953,
-          "views": 21994,
+          "downloads": 9956,
+          "views": 22004,
           "publishedAt": 1753769299,
           "updatedAt": 1787203405,
           "url": "https://gamebanana.com/mods/610131",
@@ -453,42 +453,14 @@
           }
         },
         {
-          "id": 615291,
-          "title": "[STRESS] The Average OC Mod 2.5",
-          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003eOCs, duh.",
-          "author": "cravethyrave",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab856f9d4727.jpg",
-          "likes": 63,
-          "downloads": 2115,
-          "views": 13955,
-          "publishedAt": 1755844445,
-          "updatedAt": 1789252830,
-          "url": "https://gamebanana.com/mods/615291",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
-        {
           "id": 708737,
           "title": "Shoshinkai Panikku ! DEMO",
           "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
           "likes": 63,
-          "downloads": 2584,
-          "views": 5114,
+          "downloads": 2586,
+          "views": 5119,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -501,7 +473,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 422300,
           "title": "Saturday's Fatality (WI Dside)",
@@ -509,8 +487,8 @@
           "author": "ShadowGame00",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
           "likes": 53,
-          "downloads": 25444,
-          "views": 70034,
+          "downloads": 25453,
+          "views": 70042,
           "publishedAt": 1673734340,
           "updatedAt": 1789832970,
           "url": "https://gamebanana.com/mods/422300",
@@ -553,8 +531,8 @@
           "author": "RILEYTRONIC",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
           "likes": 43,
-          "downloads": 1816,
-          "views": 3816,
+          "downloads": 1823,
+          "views": 3828,
           "publishedAt": 1787958224,
           "updatedAt": 1788038653,
           "url": "https://gamebanana.com/mods/705101",
@@ -569,34 +547,6 @@
           }
         },
         {
-          "id": 666603,
-          "title": "Doki Takeover - Bad Ending Plus !",
-          "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
-          "author": "Nexus Team",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
-          "likes": 41,
-          "downloads": 26184,
-          "views": 22130,
-          "publishedAt": 1775338865,
-          "updatedAt": 1788872807,
-          "url": "https://gamebanana.com/mods/666603",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
-        {
           "id": 415164,
           "title": "Bold Or Brash Deluxe | HOTFIX UPDATE",
           "description": "HELP WANTED!ARTISTS ARE NEEDED! (OTHER DEVELOPERS BESIDES CHARTERS ACCEPTED AS WELL)APPLY IN THE DISCORDWatch The Video Below For More Info:Check out the video for info on how to apply! Artists, Musicians, \u0026 Coders needed!NOTE: OFFICIAL PERMISSION HAS BEEN GRANTED FOR THIS MODStonesteve has given permission for this mod to stay up, as long as proper credit for the character is made.On a cold, dark night in Bikini Bottom, Mr. Krabs was awoken by the sound of chaos. Several citizens are being attacked, kidnapped, and terrorized. Mr. Krabs notices all the commotion leading to the Chum Bucket, and he gears up to confront Plankton. Upon arriving, he is met with Plankton's new robot and appearance, which Mr. Krabs is quick to take down. Once Plankton runs off into the back room, Mr. Krabs follows to be met with a devastating sight. His beloved fry cook, SpongeBob SquarePants, had been killed. Mr. Krabs is ready to take out Plankton once and for all, when he's met, with none other than the sight of his Employee, Squidward Tentacles.WARNING: LOW END PC'S MAY RECIEVE SLIGHT LAG, PLEASE LEAVE A NOTE IF IT CASUES A GAME CRASH, WE HAVE OPTIMIZIED IT AS BEST AS POSSIBLE.PLEASE LEAVE FEEDBACK IF YOU NOTICE ANY BUGS, OR HAVE ANY OVERALL OPINIONS OF THE MOD!! Hope you enjoy!Be Sure To Check Out The Discord For Exclusive Content!",
@@ -604,7 +554,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a95175df0aeb.jpg",
           "likes": 38,
           "downloads": 4948,
-          "views": 23899,
+          "views": 23901,
           "publishedAt": 1670094738,
           "updatedAt": 1789251833,
           "url": "https://gamebanana.com/mods/415164",
@@ -625,8 +575,8 @@
           "author": "alilsmarterthaniam_6453",
           "image": "https://images.gamebanana.com/img/ss/mods/6a723e765a78d.jpg",
           "likes": 38,
-          "downloads": 4968,
-          "views": 10535,
+          "downloads": 4972,
+          "views": 10542,
           "publishedAt": 1785789729,
           "updatedAt": 1785872439,
           "url": "https://gamebanana.com/mods/699429",
@@ -639,7 +589,13 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 703563,
           "title": "Funk Forgotten Night[Demo 1 OUT NOW!]",
@@ -647,8 +603,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 38,
-          "downloads": 4179,
-          "views": 5631,
+          "downloads": 4183,
+          "views": 5636,
           "publishedAt": 1786600885,
           "updatedAt": 1787535728,
           "url": "https://gamebanana.com/mods/703563",
@@ -670,7 +626,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68a50e07a1cb0.jpg",
           "likes": 37,
           "downloads": 10509,
-          "views": 19558,
+          "views": 19560,
           "publishedAt": 1755647908,
           "updatedAt": 1785780716,
           "url": "https://gamebanana.com/mods/614853",
@@ -691,8 +647,8 @@
           "author": "cj_crew",
           "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
           "likes": 37,
-          "downloads": 2100,
-          "views": 8281,
+          "downloads": 2103,
+          "views": 8284,
           "publishedAt": 1736231105,
           "updatedAt": 1790221482,
           "url": "https://gamebanana.com/mods/567478",
@@ -704,6 +660,50 @@
           "category": {
             "id": 43798,
             "name": "P-Slice Mod Folders"
+          }
+        },
+        {
+          "id": 622952,
+          "title": "FNF: Skyverse Plus",
+          "description": "Attention, fans of Sky and the Skyverse!We are pleased to present an Unofficial (Fan-made) mod, created with a lot of love. This is not just a simple tribute; it's set in a completely new Alternate Universe.This mod introduces Heve, the new \"ModSky\" of our manifestation, and tells a unique story! Throughout your game, you'll be able to find and face both familiar faces from the original Skyverse and entirely new ones!What Does this VERSION Include?2 Week with Story: Enjoy a new week with two main songs that will introduce you to Heve's story.9 Extra Songs: After completing Story Mode, you will be able to access a new secret menu in FreePlay: Breakup!3 New Playable Characters: The fun doesn't stop there! Freeplay mode will also allow you to take control of three new characters.Various Hidden Secrets! We've hidden details, easter eggs, and surprises within the mod. Explore every corner, keep your eyes peeled, and see if you can find them all!This is just the beginning of our new story ;3WARNING! The mod contains content such as flashing lights.",
+          "author": "ReridotMusic",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a00dc8e67dc7.jpg",
+          "likes": 36,
+          "downloads": 186,
+          "views": 7638,
+          "publishedAt": 1758927330,
+          "updatedAt": 1778443101,
+          "url": "https://gamebanana.com/mods/622952",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
+        },
+        {
+          "id": 563212,
+          "title": "FNF: Rayman Tales of Darkness DEMO",
+          "description": "Rayman Tales Of Darkness is a FNF mod created by Ozaruu_Sailor.The mod is intended to create a Rayman mod containing creepypasta characters, official horror media, content creators and scrapped characters.The main opponent is based on a creepypasta of Rayman titled: “Thank You For Playing Rayman” made by THEdrangonofraibows, but it also has many other horror and non-horror oriented characters from the Rayman franchise.",
+          "author": "CancerPinguin2.0",
+          "image": "https://images.gamebanana.com/img/ss/mods/6764971da6e1e.jpg",
+          "likes": 35,
+          "downloads": 912,
+          "views": 8302,
+          "publishedAt": 1734645693,
+          "updatedAt": 1785842212,
+          "url": "https://gamebanana.com/mods/563212",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -718,9 +718,9 @@
           "description": "PC Requirements:Any 2016+ Integrated/Dedicated GPUAny recent cpu from the last 5 years.12gb+ (this is a must need)Recommended to play on an SSD (preferably a fast one)We are happy to release the FULL Tricky Mod after a long time!After months of harsh development, we're finally ready to release it!Some sticks and stones may have been in our way for it to take this long, but better late than never.Thank you for your patience!Here's a link to the musicThank you so much to the people that worked on this with me, it has been fun and it most definitely still will be fun until Version 2 comes out.RozebudKadedevCvalJADSMorØYingYangSpecial Thanks to Tom Fulp for lending us certain SFX that have been used for Tricky in Version 2Also a BIG thanks to Krinkels for looking over the project here and there, being the guy who created Madness Combat and all!I hope everyone has a good time playing and we'll enjoy seeing people doing exactly that!btw, you may wanna take a look into freeplay AFTER BEATING THE ENTIRE CLOWN MODE ON HARD[Alterations of this mod for your project or remixes are allowed aslong as we have been asked and credited]",
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
-          "likes": 3195,
-          "downloads": 4604935,
-          "views": 9503113,
+          "likes": 3196,
+          "downloads": 4605139,
+          "views": 9503153,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -740,9 +740,9 @@
           "description": "Boyfriend and Girlfriend notice a strange glow coming from an alley way...Smoke 'Em Out Struggle is an original full week mod. Face off against a man named GARCELLO, as he tries to peer pressure Boyfriend into smoking a strange cigarette.Features 3 original songs:HEADACHENERVESRELEASE...complete with dialogue and cutscenes!LISTEN TO THE MUSIC HERE!*This mod is best experienced on HARD mode. EASY/NORMAL mode charts are identical.Thank you for all of the support~!",
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
-          "likes": 2627,
-          "downloads": 1993452,
-          "views": 4431394,
+          "likes": 2628,
+          "downloads": 1993524,
+          "views": 4431417,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -762,9 +762,9 @@
           "description": "VS IMPOSTOR IS BACK!A from-the-ground-up remaster of the 2023 mod, VS IMPOSTOR V4! VS IMPOSTOR: LEGACY intends to be faithful to the original experience, while introducing new tweaks and features to make it the definitive version of the mod you know and love!VS IMPOSTOR is a total-conversion mod for Friday Night Funkin', in which you face off against colorful Among Us characters. With over 10 weeks and 57 songs! this mod has plenty of content for you to explore, especially with brand-new awards and cosmetics for you to find and collect! And who knows? maybe there are more secrets to discover...OPTIMIZATIONTHE MOD IS ACTUALLY OPTIMIZED NOW... here's a little comparison of Danger alone... although in the real v4 nothing ever unloaded from your memory so by the time you'd get to danger on a fresh playthrough it'd probably be more like 4gigsLANGUAGEThis time around, the mod's not only in English! We've brought members of the community together and have translated the mod into 28 languages!EXPANDED COSMICUBE!Legacy's Cosmicube has been heavily expanded compared to the original from 2023. With tons of new skins and pets to find, you'll have a lot more to find and discover!AWARDSThere are 28 new awards for you to unlock! Will you get them all?BRAND-NEW DLC!With 5 new songs, and an entirely new Cosmicube, the SECURITY DLC will be made available when Legacy launches on April 25th!To install, just drag and drop the \"securitydlc\" folder into the content folderStill need help? Follow our video guide!MODDINGWanna make your own cosmicube? Add your own week or songs! Check out the official modding doc!",
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
-          "likes": 2351,
-          "downloads": 1843389,
-          "views": 3347671,
+          "likes": 2352,
+          "downloads": 1843452,
+          "views": 3347679,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -784,9 +784,9 @@
           "description": "While strolling with your Girlfriend though an alleyway, you happen to notice an ominous glow coming from around the corner. Out steps Whitmore (Whitty), a hot-headed rock star who happens to have some beef with your Girlfriends parents. Think you've got what it takes to get him outta there?Base game changes:VS Whitty adds a new input system, which is based off other rhythm games like etterna/quaver.VS Whitty also changes the default WASD keybinds to DFJK.Please go and support the artist and composer of the music here: https://www.instagram.com/sock.clip/Support Kade, who coded all the hard stuff here: https://www.youtube.com/watch?v=fzy2mi1CxKwListen to the soundtrack here: https://soundcloud.com/sock-wav/sets/back-alley-blitz-vs-whitty-fnf-mod-pack",
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
-          "likes": 2192,
-          "downloads": 3727438,
-          "views": 8866089,
+          "likes": 2193,
+          "downloads": 3727502,
+          "views": 8866108,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2085,
-          "downloads": 838978,
-          "views": 2926669,
+          "downloads": 838993,
+          "views": 2926688,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
