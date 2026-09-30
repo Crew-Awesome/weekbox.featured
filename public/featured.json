@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-30T00:46:24.403Z",
-  "revision": "6bcb30069b97ae76",
+  "generatedAt": "2026-09-30T06:01:15.712Z",
+  "revision": "c150f1bf60fcfef5",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -23,10 +23,10 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
           "likes": 69,
-          "downloads": 10375,
-          "views": 22762,
+          "downloads": 10473,
+          "views": 22967,
           "publishedAt": 1753769299,
-          "updatedAt": 1790726062,
+          "updatedAt": 1790743366,
           "url": "https://gamebanana.com/mods/610131",
           "engine": {
             "id": "executable",
@@ -39,36 +39,14 @@
           }
         },
         {
-          "id": 652950,
-          "title": "V-Slice Results Screen for Psych Engine 1.0+",
-          "description": "Just a port of the base game's results screens. With Pico now added, I hope to get some special guests to be added in the next update.MADE FOR PSYCH ENGINE 1.0+THIS MOD HAS CUSTOMIZABLE OPTIONSNaughtyness - Censors the perfect screen, making BF clothed and removing the hearts, adding a \"TICKLE FIGHT!!\" message insteadV-Slice Accuracy Style - Changes the accuracy and combo system to align with the base game.Total Excludes Misses - The total notes tally will not include notes you missed when turned on.Results Character - Decides what character will appear in the results screen.Theme Color - Changes the color of the results screen.Theme Red/Green/Blue - sets the RGB values for the results screen.Mobile Exit - Allows mobile players to exit the results screen without issue.",
-          "author": "Castanova_",
-          "image": "https://images.gamebanana.com/img/ss/mods/698f655d8d2b0.jpg",
-          "likes": 40,
-          "downloads": 2121,
-          "views": 6312,
-          "publishedAt": 1771005171,
-          "updatedAt": 1790652882,
-          "url": "https://gamebanana.com/mods/652950",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
           "id": 501378,
           "title": "Funk Pak Demo: CHERNO UPDATE",
           "description": "USE PSYCH ENGINE 0.7.3!FUNK PAK DEMOWEEK 1 + WEEK 2ROCKETTE and CHERNO-------------------BF decided to spend his day away from GF at the beach, when he runs into an energetic fan! Face Rockette and Cherno in the updated Funk Pak Demo!This mod is a work in progress! Three weeks are planned in total!",
           "author": "The Pale One",
           "image": "https://images.gamebanana.com/img/ss/mods/6607716f2d3ce.jpg",
           "likes": 35,
-          "downloads": 886,
-          "views": 8171,
+          "downloads": 913,
+          "views": 8212,
           "publishedAt": 1710636498,
           "updatedAt": 1790697470,
           "url": "https://gamebanana.com/mods/501378",
@@ -88,9 +66,9 @@
           "description": "!!FLASHING LIGHTS WARNING!!cool fnaf 4 mod with nightmare fredbearwe made it in just 3 days but the result is pretty damn good i'd sayits a pretty dificult mod so be ready to spend some time to pass the songalso pay attention to instructions at the beginning of the song, they are super usefulUSE CODE 0027 IN MAIN MENU TO DISABLE MECHANICS",
           "author": "M4ff",
           "image": "https://images.gamebanana.com/img/ss/mods/64d11902a3703.jpg",
-          "likes": 31,
-          "downloads": 1264,
-          "views": 8525,
+          "likes": 34,
+          "downloads": 1399,
+          "views": 8563,
           "publishedAt": 1691432841,
           "updatedAt": 1790693486,
           "url": "https://gamebanana.com/mods/461131",
@@ -110,9 +88,9 @@
           "description": "A Culmination of 3+ Years of Work !\u0026nbsp;Apologies if it is rough around the edges . I mainly just wanted to be done with some of my older fnf related stuff !It's a collection of roughly 4+ songs that are original ( +3\u0026nbsp;if you count covers / songs that don't belong to me )Have fun looking at some oooold stuff from this gal ! (friend)",
           "author": "NoLime",
           "image": "https://images.gamebanana.com/img/ss/mods/6abbd5c82c367.jpg",
-          "likes": 22,
-          "downloads": 194,
-          "views": 429,
+          "likes": 27,
+          "downloads": 330,
+          "views": 633,
           "publishedAt": 1790697124,
           "updatedAt": 1790714093,
           "url": "https://gamebanana.com/mods/722223",
@@ -124,6 +102,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 593519,
+          "title": "FRIDAY NIGHT FUNKIN' CORRUPTION PICO MIX DEMO",
+          "description": "[ FLASHING LIGHTS WARNING! ]\u0026nbsp;Based on Phantom's fear Corruption mod.\u0026nbsp;This is kinda of a funny idea of taking the Corruption mod songs and making playable Pico remixes of the songs based on Friday Night Funkin' official Pico Update, including all of the charm of the remixes and Pico's fun personality.Hope you enjoy this build, i redid a lot of the code with the help of the Pico mixes port for Psych anyways, i hope you enjoy this, as this will be the last public release of my corruption pico mixes.Currently this mod includes:Pico Week (3 songs)Spooky Week (3 songs)Senpai Week( 3 Songs)Matricidal Boyfriend Cover",
+          "author": "PurplyToons",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa9fe12787ae.jpg",
+          "likes": 9,
+          "downloads": 1816,
+          "views": 8790,
+          "publishedAt": 1746839727,
+          "updatedAt": 1790732521,
+          "url": "https://gamebanana.com/mods/593519",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
           "likes": 156,
-          "downloads": 10509,
-          "views": 8776,
+          "downloads": 10707,
+          "views": 8887,
           "publishedAt": 1790182759,
           "updatedAt": 1790356678,
           "url": "https://gamebanana.com/mods/719888",
@@ -161,8 +161,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 107,
-          "downloads": 11284,
-          "views": 28550,
+          "downloads": 11306,
+          "views": 28570,
           "publishedAt": 1742496031,
           "updatedAt": 1790585786,
           "url": "https://gamebanana.com/mods/582726",
@@ -177,28 +177,6 @@
           }
         },
         {
-          "id": 611878,
-          "title": "The Ankha Beat Crossing",
-          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)THANK YOU!!!WE REACH THE FINAL GOAL YAYYEven though this wasn't an FNF base mod, it still managed to reach over +100 likes, not bad for just some random hobby artist who nobody knows.As a bonus for the curious people, you can follow me on social medias to see mod behind-the-scenes/unsee content and random art which i will be sharing occasionally. Sooo enjoy the mod. me meow!!!",
-          "author": "Antonyny",
-          "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
-          "likes": 105,
-          "downloads": 6607,
-          "views": 14709,
-          "publishedAt": 1754528161,
-          "updatedAt": 1790127593,
-          "url": "https://gamebanana.com/mods/611878",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
-        },
-        {
           "id": 615291,
           "title": "[STRESS] The Average OC Mod 2.5",
           "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003eOCs, duh.",
@@ -206,7 +184,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6ab856f9d4727.jpg",
           "likes": 62,
           "downloads": 2283,
-          "views": 14407,
+          "views": 14408,
           "publishedAt": 1755844445,
           "updatedAt": 1790541730,
           "url": "https://gamebanana.com/mods/615291",
@@ -227,8 +205,8 @@
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 43,
-          "downloads": 26777,
-          "views": 22650,
+          "downloads": 26792,
+          "views": 22657,
           "publishedAt": 1775338865,
           "updatedAt": 1790472113,
           "url": "https://gamebanana.com/mods/666603",
@@ -240,6 +218,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 544976,
+          "title": "indiscretions: vol. 1 - sendoff update",
+          "description": "don't you think its all just a bad dream?welcome to the world of indiscretions, an experimental fnf mod that will tell a story as time goes on. you play as a character named, \"precursor\", a character who lost all memory, all she can find was a notebook that contained her thoughts and feelings in them, and a vhs player with a tape that will hopefully give her answers of who she once was.BEFORE YOU INSTALL THIS MODPACK, MAKE SURE YOU INSTALLED v1.0.1 OF CODENAME ENGINE THROUGH THE GITHUB RELEASES!! OTHER ONES WON'T WORK!!Download Codename Engine v1.0.1 here!WindowsMacLinuxRemember to extract the zip file in the mods folder, enjoy the mod!!",
+          "author": "Vibreee",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
+          "likes": 41,
+          "downloads": 1307,
+          "views": 12335,
+          "publishedAt": 1727491502,
+          "updatedAt": 1790537518,
+          "url": "https://gamebanana.com/mods/544976",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -255,8 +255,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae25a37cd32.jpg",
           "likes": 163,
-          "downloads": 36815,
-          "views": 121232,
+          "downloads": 36819,
+          "views": 121250,
           "publishedAt": 1717301118,
           "updatedAt": 1789797930,
           "url": "https://gamebanana.com/mods/517623",
@@ -277,8 +277,8 @@
           "author": "M4ff",
           "image": "https://images.gamebanana.com/img/ss/mods/644e0a0d2d44f.jpg",
           "likes": 131,
-          "downloads": 13507,
-          "views": 52453,
+          "downloads": 13522,
+          "views": 52465,
           "publishedAt": 1682842120,
           "updatedAt": 1789051054,
           "url": "https://gamebanana.com/mods/440809",
@@ -293,6 +293,28 @@
           }
         },
         {
+          "id": 611878,
+          "title": "The Ankha Beat Crossing",
+          "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)THANK YOU!!!WE REACH THE FINAL GOAL YAYYEven though this wasn't an FNF base mod, it still managed to reach over +100 likes, not bad for just some random hobby artist who nobody knows.As a bonus for the curious people, you can follow me on social medias to see mod behind-the-scenes/unsee content and random art which i will be sharing occasionally. Sooo enjoy the mod. me meow!!!",
+          "author": "Antonyny",
+          "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
+          "likes": 105,
+          "downloads": 6621,
+          "views": 14710,
+          "publishedAt": 1754528161,
+          "updatedAt": 1790127593,
+          "url": "https://gamebanana.com/mods/611878",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
+        },
+        {
           "id": 506138,
           "title": "High-Effort Titled Bendy Mod - V6.1",
           "description": "(This mod is owned by all of TEAM SANSKILLER)Bendy in fnf!Happy Birthday Bendy. (x2)Happy Birthday Indie Cross.Happy Birthday Nightmare Run. (x2)Happy Birthday Dark Revival. (x2)Happy Birthday Bendy Mod \u0026 Dark SurvivalHappy Birthday Bendy RoyaleREAD THIS IF YOU PLAN ON USING ANY ASSETS FROM THIS MOD IN A PROJECT OF YOURS:Any of the assets from this mod can be freely used in any other mod or project as long as said project isn't for any monetary gain and properly credits \"High-Effort Titled Bendy Mod\" or \"TEAM SANSKILLER\"If any of your work is in this mod and you are uncredited, or if you have any questions, please contact \"TeamSansKiller\" on Twitter or \"peepeemann69\" on Discord or Twitter.",
@@ -300,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a46282eeb0de.jpg",
           "likes": 95,
           "downloads": 5240,
-          "views": 59847,
+          "views": 59865,
           "publishedAt": 1712631322,
           "updatedAt": 1788886290,
           "url": "https://gamebanana.com/mods/506138",
@@ -322,7 +344,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 67,
           "downloads": 11670,
-          "views": 38548,
+          "views": 38549,
           "publishedAt": 1737928649,
           "updatedAt": 1789934217,
           "url": "https://gamebanana.com/mods/571604",
@@ -334,28 +356,6 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 422300,
-          "title": "Saturday's Fatality (WI Dside)",
-          "description": "After a long time, there's a new update for this modTwitter account of the mod:https://twitter.com/Fatal1SaturdaysHISTORY:It's a nice Saturday afternoon, our protagonist was working on his crops until suddenly he sees a rabbit in the distance, the rabbit looked sad and was holding a banjo, our protagonist approaches him to ask him if something is wrong, the rabbit just stares at him then our protagonist takes out a microphone and proposes a song, the rabbit accepts and they start singing...DISCLAIMER: ENGThis build was leaked, and since we’ll still be taking quite some time to finish V2, we decided to fix up this leaked version and release it to the public as V1.5 THE SCRAPPED UPDATE Since this version consists entirely of content that was SCRAPPED AND DISCARDED FROM THE MOD, none of this content will be part of the finished build or the actual V2ESPEsta build, fue filtrada y debido a que aun nos tomaremos bastante tiempo en terminar V2, decidimos arreglar esta version filtrada y lanzarla como V1.5 al publico THE SCRAPPED UPDATE Ya que consiste de contenido completamente DESCARTADO Y DESHECHADO DEL MOD, nada de esto sera parte de la build ya terminada o de la respectiva V2",
-          "author": "ShadowGame00",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
-          "likes": 54,
-          "downloads": 25696,
-          "views": 70333,
-          "publishedAt": 1673734340,
-          "updatedAt": 1789832970,
-          "url": "https://gamebanana.com/mods/422300",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -371,8 +371,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 282,
-          "downloads": 36343,
-          "views": 94789,
+          "downloads": 36355,
+          "views": 94836,
           "publishedAt": 1757793620,
           "updatedAt": 1787960315,
           "url": "https://gamebanana.com/mods/613322",
@@ -393,8 +393,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 266,
-          "downloads": 102151,
-          "views": 38956,
+          "downloads": 102207,
+          "views": 38986,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -415,8 +415,8 @@
           "author": "fl0pd00dle",
           "image": "https://images.gamebanana.com/img/ss/mods/6a90f7d16f80a.jpg",
           "likes": 120,
-          "downloads": 9438,
-          "views": 8943,
+          "downloads": 9461,
+          "views": 8950,
           "publishedAt": 1787938323,
           "updatedAt": 1787938365,
           "url": "https://gamebanana.com/mods/710854",
@@ -437,8 +437,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 87,
-          "downloads": 35319,
-          "views": 14245,
+          "downloads": 35353,
+          "views": 14275,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -458,9 +458,9 @@
           "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
-          "likes": 64,
-          "downloads": 2671,
-          "views": 5252,
+          "likes": 65,
+          "downloads": 2679,
+          "views": 5266,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -481,14 +481,36 @@
       "label": "Best of 6 Months",
       "mods": [
         {
+          "id": 422300,
+          "title": "Saturday's Fatality (WI Dside)",
+          "description": "After a long time, there's a new update for this modTwitter account of the mod:https://twitter.com/Fatal1SaturdaysHISTORY:It's a nice Saturday afternoon, our protagonist was working on his crops until suddenly he sees a rabbit in the distance, the rabbit looked sad and was holding a banjo, our protagonist approaches him to ask him if something is wrong, the rabbit just stares at him then our protagonist takes out a microphone and proposes a song, the rabbit accepts and they start singing...DISCLAIMER: ENGThis build was leaked, and since we’ll still be taking quite some time to finish V2, we decided to fix up this leaked version and release it to the public as V1.5 THE SCRAPPED UPDATE Since this version consists entirely of content that was SCRAPPED AND DISCARDED FROM THE MOD, none of this content will be part of the finished build or the actual V2ESPEsta build, fue filtrada y debido a que aun nos tomaremos bastante tiempo en terminar V2, decidimos arreglar esta version filtrada y lanzarla como V1.5 al publico THE SCRAPPED UPDATE Ya que consiste de contenido completamente DESCARTADO Y DESHECHADO DEL MOD, nada de esto sera parte de la build ya terminada o de la respectiva V2",
+          "author": "ShadowGame00",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
+          "likes": 54,
+          "downloads": 25702,
+          "views": 70355,
+          "publishedAt": 1673734340,
+          "updatedAt": 1789832970,
+          "url": "https://gamebanana.com/mods/422300",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 701651,
           "title": "spong-real",
           "description": "Make sure to use the latest version of Codename Engine when playing this mod!A new retake of VS Spong! With new changes and twists and gimmicks!!!! Mildly inspired by FNF Free Download...: )if you like this mod then you should play mothermod which is made by almost the same team!",
           "author": "rotound",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76c40537f69.jpg",
           "likes": 44,
-          "downloads": 2662,
-          "views": 4187,
+          "downloads": 2668,
+          "views": 4191,
           "publishedAt": 1786171237,
           "updatedAt": 1786474068,
           "url": "https://gamebanana.com/mods/701651",
@@ -509,8 +531,8 @@
           "author": "RILEYTRONIC",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
           "likes": 43,
-          "downloads": 1953,
-          "views": 3988,
+          "downloads": 1968,
+          "views": 4012,
           "publishedAt": 1787958224,
           "updatedAt": 1788038653,
           "url": "https://gamebanana.com/mods/705101",
@@ -525,25 +547,25 @@
           }
         },
         {
-          "id": 544976,
-          "title": "indiscretions: vol. 1 - sendoff update",
-          "description": "don't you think its all just a bad dream?welcome to the world of indiscretions, an experimental fnf mod that will tell a story as time goes on. you play as a character named, \"precursor\", a character who lost all memory, all she can find was a notebook that contained her thoughts and feelings in them, and a vhs player with a tape that will hopefully give her answers of who she once was.BEFORE YOU INSTALL THIS MODPACK, MAKE SURE YOU INSTALLED v1.0.1 OF CODENAME ENGINE THROUGH THE GITHUB RELEASES!! OTHER ONES WON'T WORK!!Download Codename Engine v1.0.1 here!WindowsMacLinuxRemember to extract the zip file in the mods folder, enjoy the mod!!",
-          "author": "Vibreee",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
-          "likes": 41,
-          "downloads": 1303,
-          "views": 12327,
-          "publishedAt": 1727491502,
-          "updatedAt": 1790537518,
-          "url": "https://gamebanana.com/mods/544976",
+          "id": 652950,
+          "title": "V-Slice Results Screen for Psych Engine 1.0+",
+          "description": "Just a port of the base game's results screens. With Pico now added, I hope to get some special guests to be added in the next update.MADE FOR PSYCH ENGINE 1.0+THIS MOD HAS CUSTOMIZABLE OPTIONSNaughtyness - Censors the perfect screen, making BF clothed and removing the hearts, adding a \"TICKLE FIGHT!!\" message insteadV-Slice Accuracy Style - Changes the accuracy and combo system to align with the base game.Total Excludes Misses - The total notes tally will not include notes you missed when turned on.Results Character - Decides what character will appear in the results screen.Theme Color - Changes the color of the results screen.Theme Red/Green/Blue - sets the RGB values for the results screen.Mobile Exit - Allows mobile players to exit the results screen without issue.",
+          "author": "Castanova_",
+          "image": "https://images.gamebanana.com/img/ss/mods/698f655d8d2b0.jpg",
+          "likes": 40,
+          "downloads": 2137,
+          "views": 6330,
+          "publishedAt": 1771005171,
+          "updatedAt": 1790652882,
+          "url": "https://gamebanana.com/mods/652950",
           "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
           },
           "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         },
         {
@@ -553,8 +575,8 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 39,
-          "downloads": 10648,
-          "views": 20983,
+          "downloads": 10655,
+          "views": 20987,
           "publishedAt": 1730671567,
           "updatedAt": 1790282882,
           "url": "https://gamebanana.com/mods/553388",
@@ -567,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 703563,
           "title": "Funk Forgotten Night[Demo 1 OUT NOW!]",
@@ -575,8 +603,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 39,
-          "downloads": 4266,
-          "views": 5743,
+          "downloads": 4273,
+          "views": 5749,
           "publishedAt": 1786600885,
           "updatedAt": 1787535728,
           "url": "https://gamebanana.com/mods/703563",
@@ -589,13 +617,7 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 415164,
           "title": "Bold Or Brash Deluxe | HOTFIX UPDATE",
@@ -603,8 +625,8 @@
           "author": "Gamer802",
           "image": "https://images.gamebanana.com/img/ss/mods/6a95175df0aeb.jpg",
           "likes": 38,
-          "downloads": 5013,
-          "views": 23930,
+          "downloads": 5016,
+          "views": 23932,
           "publishedAt": 1670094738,
           "updatedAt": 1789251833,
           "url": "https://gamebanana.com/mods/415164",
@@ -625,8 +647,8 @@
           "author": "alilsmarterthaniam_6453",
           "image": "https://images.gamebanana.com/img/ss/mods/6a723e765a78d.jpg",
           "likes": 38,
-          "downloads": 5124,
-          "views": 10842,
+          "downloads": 5134,
+          "views": 10862,
           "publishedAt": 1785789729,
           "updatedAt": 1790539094,
           "url": "https://gamebanana.com/mods/699429",
@@ -647,8 +669,8 @@
           "author": "cj_crew",
           "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
           "likes": 37,
-          "downloads": 2172,
-          "views": 8303,
+          "downloads": 2178,
+          "views": 8304,
           "publishedAt": 1736231105,
           "updatedAt": 1790221482,
           "url": "https://gamebanana.com/mods/567478",
@@ -670,7 +692,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a00dc8e67dc7.jpg",
           "likes": 36,
           "downloads": 186,
-          "views": 7673,
+          "views": 7675,
           "publishedAt": 1758927330,
           "updatedAt": 1778443101,
           "url": "https://gamebanana.com/mods/622952",
@@ -682,28 +704,6 @@
           "category": {
             "id": 43798,
             "name": "P-Slice Mod Folders"
-          }
-        },
-        {
-          "id": 563212,
-          "title": "FNF: Rayman Tales of Darkness DEMO",
-          "description": "Rayman Tales Of Darkness is a FNF mod created by Ozaruu_Sailor.The mod is intended to create a Rayman mod containing creepypasta characters, official horror media, content creators and scrapped characters.The main opponent is based on a creepypasta of Rayman titled: “Thank You For Playing Rayman” made by THEdrangonofraibows, but it also has many other horror and non-horror oriented characters from the Rayman franchise.",
-          "author": "CancerPinguin2.0",
-          "image": "https://images.gamebanana.com/img/ss/mods/6764971da6e1e.jpg",
-          "likes": 35,
-          "downloads": 997,
-          "views": 8318,
-          "publishedAt": 1734645693,
-          "updatedAt": 1785842212,
-          "url": "https://gamebanana.com/mods/563212",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3196,
-          "downloads": 4610605,
-          "views": 9504261,
+          "downloads": 4611025,
+          "views": 9504335,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2628,
-          "downloads": 1995193,
-          "views": 4432122,
+          "downloads": 1995279,
+          "views": 4432163,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2352,
-          "downloads": 1846511,
-          "views": 3348470,
+          "downloads": 1846715,
+          "views": 3348540,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2193,
-          "downloads": 3729104,
-          "views": 8866684,
+          "downloads": 3729205,
+          "views": 8866725,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2085,
-          "downloads": 839375,
-          "views": 2927296,
+          "downloads": 839395,
+          "views": 2927330,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
