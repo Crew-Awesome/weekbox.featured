@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-30T06:01:22.910Z",
-  "revision": "8e38df2f34be38d5",
+  "generatedAt": "2026-09-30T12:33:37.075Z",
+  "revision": "0e4afbd40222f9dd",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -12,14 +12,36 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 637311,
+          "title": "FNF: Shot to the Top! - The Rayman Expansion",
+          "description": "Man of Ray vs the nefarious Dr. BadThis was originally conceived as a Celeste Oneshot from another mod, and is now a more general collection of one off ideas! *Features 4 Songs + 1 Cover! -Solstice (Celeste) - MarcCea -Solstice (Cover) -Shovelrous (Shovel Knight) by Stress -Starlit (Shovel Knight) by Princelolz -Doom \u0026 Gloom (Rayman) by Marc Cea*Unique Art (Doodle + Pixel)*Noteskins!This is once again another short little project for V-Slice /Base Game Modding, with a mix of my own style and pixel art, with the song concept Solstice originally planned for the mod FNF: Chronoflow (which is why there is a cover)!This is a V-Slice Mod Pack for 0.8.6. Extract and put in the mods folder of Base Game!If it does not load, check your polymod file and make sure the mod api reflects your version in the bottom left of the menu screen",
+          "author": "Davemyster",
+          "image": "https://images.gamebanana.com/img/ss/mods/6abcb5b9a0584.jpg",
+          "likes": 63,
+          "downloads": 4112,
+          "views": 10164,
+          "publishedAt": 1766939128,
+          "updatedAt": 1790753996,
+          "url": "https://gamebanana.com/mods/637311",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
           "id": 662340,
           "title": "QT:REWIRED REMIXED",
           "description": "QT REWIRED REMIXED Mod creado por un fan para todos; el creador original recibe el crédito. Este mod está hecho para funcionar con las versiones nuevas y antiguas. Este mod no está destinado a generar ingresos ni donaciones; crédito nuevamente al creador original. Este mod tiene luces intermitentes y configuraciones personalizadas.ReChart por megasa7l. Termination chart por megasa7l . Gracias por visitar el mod :DMod original https://gamebanana.com/mods/566597- Compatibilidad con P-slice Android, V slice y PC- Mecánicas de sierra adaptadas de V-slice a P-slice -Ahora compatible con las mecánicas de V slice y configuraciones personalizadas añadidas en V slice- Gracias por esperar- PD: La versión de P-slice no recibirá más actualizaciones este mayo y hasta el 27 de junio. Nuevas canciones próximamente. Hola QT",
           "author": "Megasa7l",
           "image": "https://images.gamebanana.com/img/ss/mods/69bf1769c82fe.jpg",
           "likes": 51,
-          "downloads": 47515,
-          "views": 27997,
+          "downloads": 47644,
+          "views": 28062,
           "publishedAt": 1774121987,
           "updatedAt": 1790705731,
           "url": "https://gamebanana.com/mods/662340",
@@ -40,8 +62,8 @@
           "author": "FNF Fan (@full.fnf tiktok)",
           "image": "https://images.gamebanana.com/img/ss/mods/695ec7d1a562b.jpg",
           "likes": 34,
-          "downloads": 34949,
-          "views": 32355,
+          "downloads": 35019,
+          "views": 32447,
           "publishedAt": 1761357457,
           "updatedAt": 1790729134,
           "url": "https://gamebanana.com/mods/629175",
@@ -62,8 +84,8 @@
           "author": "Laurajjj",
           "image": "https://images.gamebanana.com/img/ss/mods/6a73bdae53d09.jpg",
           "likes": 30,
-          "downloads": 2641,
-          "views": 6511,
+          "downloads": 2662,
+          "views": 6575,
           "publishedAt": 1785970730,
           "updatedAt": 1790723548,
           "url": "https://gamebanana.com/mods/700887",
@@ -84,33 +106,11 @@
           "author": "FunkyFacu",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9611fa20a09.jpg",
           "likes": 29,
-          "downloads": 19373,
-          "views": 9278,
+          "downloads": 19425,
+          "views": 9316,
           "publishedAt": 1787497443,
           "updatedAt": 1790706667,
           "url": "https://gamebanana.com/mods/702439",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 710639,
-          "title": "Animania Notes!",
-          "description": "Carry the Animania Notes to V Slice! (Warning, it's just a skin for the notes, it doesn't change the judgments or anything like that)",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a923b18997dd.jpg",
-          "likes": 18,
-          "downloads": 1614,
-          "views": 2694,
-          "publishedAt": 1787885245,
-          "updatedAt": 1790722289,
-          "url": "https://gamebanana.com/mods/710639",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -128,36 +128,14 @@
       "label": "Best of This Week",
       "mods": [
         {
-          "id": 546091,
-          "title": "DOYLIAH Modpack",
-          "description": "This mod contains Flashing Lights in certain levels, songs and sequences.Face off against Hank J. Wimbleton, the protagonist of the Madness Combat series in 2(?) original songs by Yoshi Dam and mapleladle. Some sources claim The Auditor may have had some involvement in Boyfriend and Girlfriend's trip to Nevada.Nene the knife-obsessed assassin is seeking revenge on Boyfriend and Girlfriend after the events of Due Debts. Face off against Nene in 3 original songs by Asher, NeLeeO \u0026 krimzonred.DOYLIAH Modpack is compatible with Friday Night Funkin' Mobile for Android and iOS.",
-          "author": "krimzon",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cbbe5fa2c21.jpg",
-          "likes": 178,
-          "downloads": 45993,
-          "views": 62683,
-          "publishedAt": 1728074041,
-          "updatedAt": 1790144121,
-          "url": "https://gamebanana.com/mods/546091",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
           "id": 512420,
           "title": "VS Cassette Girl - Base Game [v-slice] Port",
           "description": "Trying to figure out the newfangled modding stuff for the base game, don't carpet bomb my house please.This port is fairly simple, it includes all songs playable for Easy, Normal, and Hard difficulties. Since there's no time bar in the base game by default there's no rewind effect between Earworm and Machina, so I just added the cassette swap animation at the start of the latter.That's it really.Original Mod Links:GB (Privated)Gamejolt",
           "author": "vincethestick",
           "image": "https://images.gamebanana.com/img/ss/mods/6671a44b08a8e.jpg",
           "likes": 150,
-          "downloads": 89479,
-          "views": 92367,
+          "downloads": 89503,
+          "views": 92387,
           "publishedAt": 1715209034,
           "updatedAt": 1790252287,
           "url": "https://gamebanana.com/mods/512420",
@@ -178,8 +156,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab2a09b3fd19.jpg",
           "likes": 141,
-          "downloads": 11039,
-          "views": 6600,
+          "downloads": 11161,
+          "views": 6675,
           "publishedAt": 1790107293,
           "updatedAt": 1790522089,
           "url": "https://gamebanana.com/mods/719815",
@@ -199,9 +177,9 @@
           "description": "Cool mod about silly cats where you play as Masyunya against Neco-arc!Works on 0.8.4 or higher and mobile too!",
           "author": "TOMSKICH",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab99091e61e2.jpg",
-          "likes": 93,
-          "downloads": 2141,
-          "views": 2213,
+          "likes": 97,
+          "downloads": 2276,
+          "views": 2288,
           "publishedAt": 1790547332,
           "updatedAt": 1790547613,
           "url": "https://gamebanana.com/mods/721633",
@@ -222,11 +200,33 @@
           "author": "Ethan_DOORSnFNFFan",
           "image": "https://images.gamebanana.com/img/ss/mods/6a3a89dfd7339.jpg",
           "likes": 44,
-          "downloads": 6790,
-          "views": 12534,
+          "downloads": 6799,
+          "views": 12548,
           "publishedAt": 1779702739,
           "updatedAt": 1790500203,
           "url": "https://gamebanana.com/mods/680169",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 721109,
+          "title": "VS. Tinky Winky",
+          "description": "Made by the people who brought you the mod Tubby Night Funkin'\"VS. Tinky Winky\" is a Full Week, Friday Night Funkin' mod that is base off the mod \"Tubby Night Funkin'\". This mod is available on V-SLICE/BASE GAME engine with MOBILE SUPPORT along with it. Lore: Boyfriend and Girlfriend head into Teletubbieland for a little picnic date. With the power of Girlfriends demonic powers, She disguises themselves as Teletubbies to fit right in. Since you know, Teletubbies have never seen humans besides within their belly tv screens. This mod was created to be the last Friday NIght Funkin' mod that I will ever be creating. I wanted to show my evolution with the fnf artstyle, as I've come a long way from it since then. There was going to be a little more content in this mod, like extra songs and in-game cutscenes to better flesh out the mod's story a bit. I didn't wanted to spend as much time just to make a small mod (It took 6 months to make this mod)Q: Will there be any more updates to VS. Tinky Winky?A: There will be no other major content added into the mod, there will mainly just be bug fixes and more compatibility in which it will be supported on future updates of the base Friday Night Funkin' game itself.Thank you to the people who have been around for my Friday Night Funkin' content. This my last Friday Night Funkin' Mod, I will never make another mod again. I am off to start on newer projects/ideas and most of all, my future into art and animation as a whole.",
+          "author": "iWantThatChair",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab7e1639a8b1.jpg",
+          "likes": 39,
+          "downloads": 2266,
+          "views": 1930,
+          "publishedAt": 1790449558,
+          "updatedAt": 1790638183,
+          "url": "https://gamebanana.com/mods/721109",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -249,9 +249,9 @@
           "description": "Tricky Mod is back and swinging hard!! Enjoy this visually recreated from the ground up take on Vs. Tricky. The mod includes full recreations of all 4 phases including some goodies for those who poke around the freeplay!INFO: This mod is made years later and going for entirely different things! please go in with a fresh mindset for the best enjoyment.THIS IS A BASE GAME (V-SLICE MOD) FOLDER WORKING ON VERSION 0.8.6!! PLEASE MAKE SURE YOU HAVE THE CORRECT VERSION OF THE GAME.\u0026nbsp;the original mod page will be left up and accessible for anyone who wishes to play the original mod: hereLast thing to mention, the CLOWN cut scene after Madness is a placeholder and will be replaced when the proper cuts scene gets finished. Animation takes time!!",
           "author": "Marc Cea",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9c598136c9d.jpg",
-          "likes": 334,
-          "downloads": 92863,
-          "views": 24336,
+          "likes": 335,
+          "downloads": 93632,
+          "views": 24534,
           "publishedAt": 1790064071,
           "updatedAt": 1790066010,
           "url": "https://gamebanana.com/mods/714051",
@@ -266,17 +266,17 @@
           }
         },
         {
-          "id": 711896,
-          "title": "FNF': 8R MIXES",
-          "description": "Wanna play as an assassin demon with a 8-ball magic toy on his head? Yeah I've got you.FNF': 8R MIXES is a \"Playable character\" mod featuring Eighter (8R for short \u0026 RRRRRRRR for long) and as the main character to beat butts of characters from the base game... but now with style 'cause Eighter is pack of a punch, yeah!This update features...- New playable character!- New backgrounds and remixes for Weeks 1, 3, 5, 7 \u0026 Weekend!- Custom results screen...- ...And more!Unfortunately this is only a slice of the mod (press \"Enter\" on \"WeekOff\" in Story Menu to see more) but Safenot Team hopes that you will like what we have in store for you! See ya later and stay tuned!Wanna learn more about characters? Check out official FunkiPedia page for 8R Mixes! (work still in progress...)",
-          "author": "-SwayTheDev-",
-          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
-          "likes": 207,
-          "downloads": 19325,
-          "views": 11381,
-          "publishedAt": 1788129483,
-          "updatedAt": 1790606209,
-          "url": "https://gamebanana.com/mods/711896",
+          "id": 546091,
+          "title": "DOYLIAH Modpack",
+          "description": "This mod contains Flashing Lights in certain levels, songs and sequences.Face off against Hank J. Wimbleton, the protagonist of the Madness Combat series in 2(?) original songs by Yoshi Dam and mapleladle. Some sources claim The Auditor may have had some involvement in Boyfriend and Girlfriend's trip to Nevada.Nene the knife-obsessed assassin is seeking revenge on Boyfriend and Girlfriend after the events of Due Debts. Face off against Nene in 3 original songs by Asher, NeLeeO \u0026 krimzonred.DOYLIAH Modpack is compatible with Friday Night Funkin' Mobile for Android and iOS.",
+          "author": "krimzon",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cbbe5fa2c21.jpg",
+          "likes": 178,
+          "downloads": 46014,
+          "views": 62702,
+          "publishedAt": 1728074041,
+          "updatedAt": 1790144121,
+          "url": "https://gamebanana.com/mods/546091",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -294,33 +294,11 @@
           "author": "Mykarm",
           "image": "https://images.gamebanana.com/img/ss/mods/6aaf22654de1e.jpg",
           "likes": 169,
-          "downloads": 76050,
-          "views": 52886,
+          "downloads": 76105,
+          "views": 52925,
           "publishedAt": 1758574589,
           "updatedAt": 1790114406,
           "url": "https://gamebanana.com/mods/615056",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 657203,
-          "title": "[\"3.0\"] KASSETTE HUD/QOL V-SLICE",
-          "description": "Tired of installing a bunch of mods just to get what you consider essential? Introducing Kassette HUD, a modular HUD for the base game (V-Slice). Compatible with both PC and Mobile, it's designed so you can modify it to your liking with custom modules. It also brings along other features to improve your overall gameplay experience. NEW: The entire mod was built from scratch! It now supports a brand new system for skins, layouts, and much more. I am really very grateful for the support that this project has had, and to commemorate it, I have brought an update with several suggestions and bugfixes that I had been asked for. What's New \u0026amp; Fixed: Strumline Rewritten: The entire strumline positioning system has been rewritten to support most resolutions and prevent overlap. Mobile Navigation: Many issues with the touch navigation of the options menu have been fixed to make it easier to use on mobile devices. Doppelganger Bugfix: A minor bug has been fixed that caused a player's HealthBar to appear in doppelganger songs (such as Pico Pico Mix). Menu Crash Fix: The menu has been reworked to prevent Character Scripts loads from launching when the options menu is opened, which caused crashes. A UNIQUE DESIGN \u0026nbsp;Kassette HUD stands out by having a layout that doesn't look like any other HUD you know. You can customize it to your liking and add whatever you want, as long as it's for you and your friends. MODULAR, BEYOND LIMITS \u0026nbsp;My HUD is built on modules that depend on a custom API. A brand new \"Skin Folders\" system has been created, which will allow you to easily create your own skins for the mod or customize any skin however you like (it will continue to improve over time). Feel free to create skins or adapt my HUD for your own mod or a third-party mod, you are entirely free to do so (please read the RULES \u0026amp; DISCLAIMERS). AND KASSETTE HUD LITE:\u0026nbsp; A separate and lighter version with the absolute essentials for those looking for something more lightweight. This hud is compatible with GAMMOD. Play with AWESOME GAMEPLAY MODIFIERS WITHOUT DELETING UR CUSTOM HUD FEATURES: Score Bar (Full and Lite): A score bar with more info, such as your accuracy, Rank, FC tier, etc... COLORED HEALTHBAR: Added dynamic coloring support for the healthbar. Health Bar Positions: You can now choose to place the health bar on the right, the left, or in the center. Clean HUD Layout: A new layout has been added to provide a more compact experience without sacrificing features. Custom Discord RPC [PC ONLY]: A modifier has been added so you can customize how your Discord status appears while playing. Ghost Tapping: A custom module so you can play without getting your Score deducted when pressing keys with no notes. Ghost Sing: Dance to the rhythm of the music without worries. MIDDLESCROLL (Full and Lite): A great module to play with a centered strumline. Play however you like and choose how you want to see the opponent's notes, worry-free. SUBTITLES PLUS: Customize your subtitles in the most visual way you prefer. Forget about events; these are the same classic subtitles as always, just with a little disguise to look cooler, with srt format and cutscenes support. JUDGE COUNTER (Full and Lite): Monitor your playstyle, flex that you're a pro and hit only Sicks. ACCURACY ASCENDING: Gain aura with an accuracy counter that is always increasing as you play better. BREAK BAR: Don't worry about forgetting your part of the song, this little bar will tell you how much time you have to stretch and get ready. PAUSE COUNTDOWN: Prepare yourself with a bit more time before jumping back into the action, don't lose your combo! TimeBar (Full and Lite): I don't know why you’d want to know when the song ends, but hey, here it is! :D There are also mini versions available. FONTS, FONTS, AND MORE FONTS: Now you can choose ANY FONT. Yes, ANY FONT YOU WANT. Just install the .ttf or .otf file into the HUD's fonts folder to make your menu feel more personal. You can even use fonts from other mods you own! Song Name Intro: Just a new module that shows the title and artist in the song intro :D OPTIONS MENU: A menu so you can customize your gameplay intuitively. Categories have now been added to improve navigation! Low Detail Mode: Added to the options menu for users who have trouble running the normal menu. NITE MODE: Getting tired of so many colors? Apply a small dark filter to take care of your eyes, schedule the time you want. HITSOUND: Oh yeah... Hear feedback when you press a note and feel like a super pro. Note Fade: A new option has been added to display a fade when notes are just a few seconds away from playing. Hide Opponent Notes: Now you can hide the opponent strumline without middlescroll. HealthBar for Opponentless songs: Just a bar with 1 icon. Icon Positions: Added a new layout option to position the character icons at the far edges of the health bar (Corners) rather than tracking along the middle. OPPONENT STRUMLINE OPACITY: Options for Opponent Opacity adjust lol. [MOBILE ONLY] FALLING NOTES: Now you can view the opponent notes in mobile :D RULES \u0026amp; DISCLAIMERS: Kassette HUD allows you to create custom modules to adapt my HUD to your liking or for a mod that uses its own HUD, as well as making it possible to disable itself automatically for your mods. Kassette HUD must strictly be a dependency if you want to create Skins or custom modules for it. The redistribution of the integrated modules and especially the API (which is exclusive to this mod) is NOT allowed. Taking code or assets used in this HUD for other HUDs or mods is not allowed. Recreating this HUD or its aesthetics for another V-Slice mod or another engine is not allowed. If you find any bugs, please let me know in the comments or through any contact method you find on my profile. ENJOY AND HAVE FUN! EXTRA!! COMPATIBILITY MODULE FOR SKY REDUX \u0026nbsp; To showcase the HUD's capabilities with custom module integration, I have created a module that makes my HUD compatible with the Vs. Sky: REDUX Mod aesthetic. You can find it in the \"sky_redux_ksshud\" zip file. Just add it to the following path: \"/scripts/modules/CustomModules\" Note: Remember you must have Vs. Sky: REDUX Mod installed to use it. Thank you very much for the support of this project, soon I will be communicating new projects that I will be working on!",
-          "author": "Mikassette",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aadbd86f1abd.jpg",
-          "likes": 82,
-          "downloads": 38189,
-          "views": 34371,
-          "publishedAt": 1772483249,
-          "updatedAt": 1789772195,
-          "url": "https://gamebanana.com/mods/657203",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -338,39 +316,11 @@
           "author": "Franklin_Clinton",
           "image": "https://images.gamebanana.com/img/ss/mods/68ee0c821ef4e.jpg",
           "likes": 73,
-          "downloads": 176916,
-          "views": 65181,
+          "downloads": 176966,
+          "views": 65211,
           "publishedAt": 1760431317,
           "updatedAt": 1789814585,
           "url": "https://gamebanana.com/mods/626911",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "three-months",
-      "label": "Best of 3 Months",
-      "mods": [
-        {
-          "id": 700138,
-          "title": "Mod That Closes The Game When You Open It",
-          "description": "oh, lemmie check if I added the fucking mod that closes the game when it opens.",
-          "author": "FNF_Developers",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a70c3897ecfb.jpg",
-          "likes": 169,
-          "downloads": 5392,
-          "views": 10664,
-          "publishedAt": 1785798875,
-          "updatedAt": 1785970892,
-          "url": "https://gamebanana.com/mods/700138",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -389,10 +339,38 @@
           "image": "https://images.gamebanana.com/img/ss/mods/690a241d4278b.jpg",
           "likes": 47,
           "downloads": 28149,
-          "views": 36165,
+          "views": 36167,
           "publishedAt": 1685585468,
           "updatedAt": 1789861337,
           "url": "https://gamebanana.com/mods/447217",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-months",
+      "label": "Best of 3 Months",
+      "mods": [
+        {
+          "id": 711896,
+          "title": "FNF': 8R MIXES",
+          "description": "Wanna play as an assassin demon with a 8-ball magic toy on his head? Yeah I've got you.FNF': 8R MIXES is a \"Playable character\" mod featuring Eighter (8R for short \u0026 RRRRRRRR for long) and as the main character to beat butts of characters from the base game... but now with style 'cause Eighter is pack of a punch, yeah!This update features...- New playable character!- New backgrounds and remixes for Weeks 1, 3, 5, 7 \u0026 Weekend!- Custom results screen...- ...And more!Unfortunately this is only a slice of the mod (press \"Enter\" on \"WeekOff\" in Story Menu to see more) but Safenot Team hopes that you will like what we have in store for you! See ya later and stay tuned!Wanna learn more about characters? Check out official FunkiPedia page for 8R Mixes! (work still in progress...)",
+          "author": "-SwayTheDev-",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
+          "likes": 207,
+          "downloads": 19371,
+          "views": 11420,
+          "publishedAt": 1788129483,
+          "updatedAt": 1790606209,
+          "url": "https://gamebanana.com/mods/711896",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -410,8 +388,8 @@
           "author": "DanNav545",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab033deaffc6.jpg",
           "likes": 45,
-          "downloads": 3669,
-          "views": 2388,
+          "downloads": 3675,
+          "views": 2403,
           "publishedAt": 1789933379,
           "updatedAt": 1790076341,
           "url": "https://gamebanana.com/mods/719200",
@@ -432,8 +410,8 @@
           "author": "SuperEric",
           "image": "https://images.gamebanana.com/img/ss/mods/6a6f4d491e84e.jpg",
           "likes": 41,
-          "downloads": 10916,
-          "views": 15081,
+          "downloads": 10937,
+          "views": 15101,
           "publishedAt": 1785693737,
           "updatedAt": 1789875199,
           "url": "https://gamebanana.com/mods/653579",
@@ -454,11 +432,33 @@
           "author": "GhostLight465",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab015956aa5a.jpg",
           "likes": 39,
-          "downloads": 52131,
-          "views": 46313,
+          "downloads": 52147,
+          "views": 46350,
           "publishedAt": 1763737768,
           "updatedAt": 1790090782,
           "url": "https://gamebanana.com/mods/634960",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 716902,
+          "title": "Death Screen No Black BG!",
+          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
+          "author": "Fan De FNF (V Slice Porter)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
+          "likes": 32,
+          "downloads": 1144,
+          "views": 2283,
+          "publishedAt": 1789314910,
+          "updatedAt": 1790395712,
+          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -482,8 +482,8 @@
           "author": "SiIvaGunner",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 313,
-          "downloads": 17738,
-          "views": 31826,
+          "downloads": 17745,
+          "views": 31846,
           "publishedAt": 1780711398,
           "updatedAt": 1781909527,
           "url": "https://gamebanana.com/mods/683489",
@@ -504,55 +504,11 @@
           "author": "DigitLuck",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69fbd0353953a.jpg",
           "likes": 297,
-          "downloads": 244533,
-          "views": 55125,
+          "downloads": 244716,
+          "views": 55203,
           "publishedAt": 1777824002,
           "updatedAt": 1787970504,
           "url": "https://gamebanana.com/mods/674401",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 721109,
-          "title": "VS. Tinky Winky",
-          "description": "Made by the people who brought you the mod Tubby Night Funkin'\"VS. Tinky Winky\" is a Full Week, Friday Night Funkin' mod that is base off the mod \"Tubby Night Funkin'\". This mod is available on V-SLICE/BASE GAME engine with MOBILE SUPPORT along with it. Lore: Boyfriend and Girlfriend head into Teletubbieland for a little picnic date. With the power of Girlfriends demonic powers, She disguises themselves as Teletubbies to fit right in. Since you know, Teletubbies have never seen humans besides within their belly tv screens. This mod was created to be the last Friday NIght Funkin' mod that I will ever be creating. I wanted to show my evolution with the fnf artstyle, as I've come a long way from it since then. There was going to be a little more content in this mod, like extra songs and in-game cutscenes to better flesh out the mod's story a bit. I didn't wanted to spend as much time just to make a small mod (It took 6 months to make this mod)Q: Will there be any more updates to VS. Tinky Winky?A: There will be no other major content added into the mod, there will mainly just be bug fixes and more compatibility in which it will be supported on future updates of the base Friday Night Funkin' game itself.Thank you to the people who have been around for my Friday Night Funkin' content. This my last Friday Night Funkin' Mod, I will never make another mod again. I am off to start on newer projects/ideas and most of all, my future into art and animation as a whole.",
-          "author": "iWantThatChair",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab7e1639a8b1.jpg",
-          "likes": 38,
-          "downloads": 2217,
-          "views": 1881,
-          "publishedAt": 1790449558,
-          "updatedAt": 1790638183,
-          "url": "https://gamebanana.com/mods/721109",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 716902,
-          "title": "Death Screen No Black BG!",
-          "description": "Tired of the black game over background? Well, say no more! This mod fixes it and improves that death screen! (Warning: this mod might look bad visually with the pico because the game wasn't designed to put the background behind it.)",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aa6c6e9d4a06.jpg",
-          "likes": 32,
-          "downloads": 1141,
-          "views": 2279,
-          "publishedAt": 1789314910,
-          "updatedAt": 1790395712,
-          "url": "https://gamebanana.com/mods/716902",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -570,11 +526,55 @@
           "author": "Mikassette",
           "image": "https://images.gamebanana.com/img/ss/mods/6a1dd31249b95.jpg",
           "likes": 30,
-          "downloads": 6452,
-          "views": 8449,
+          "downloads": 6466,
+          "views": 8469,
           "publishedAt": 1780341938,
           "updatedAt": 1790008622,
           "url": "https://gamebanana.com/mods/682373",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 684032,
+          "title": "FNF:Skatepark Showdown! (V1.5)",
+          "description": "The first mod from our group, Team NoteStreak, this mod features Boyfriend and Girlfriend meeting Scooter, who is using and stealing Boyfriends work for attention, they must rap it out to claim their fame.To play this mod, download FNF 0.8.6",
+          "author": "Hydietri",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a24e4d185241.jpg",
+          "likes": 30,
+          "downloads": 573,
+          "views": 2118,
+          "publishedAt": 1780843469,
+          "updatedAt": 1790614785,
+          "url": "https://gamebanana.com/mods/684032",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 676228,
+          "title": "Stylized Health Bars!",
+          "description": "Tired of the simple health bars in the game? Well, I present to you the little stylized health bars mod! For the moment, there are 2 health bars, but over time I will make more health bars to try! (This was an idea from my custom HUD but I decided to separate it into a different mod!)",
+          "author": "Fan De FNF (V Slice Porter)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab984347fc57.jpg",
+          "likes": 29,
+          "downloads": 4948,
+          "views": 7362,
+          "publishedAt": 1778429519,
+          "updatedAt": 1790560172,
+          "url": "https://gamebanana.com/mods/676228",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -597,9 +597,9 @@
           "description": "After 4 years, the Sky mod is officially back!\u0026nbsp;This mod includes:\u0026nbsp;-Full Week Including 3 Remade Songs\u0026nbsp;-One Pico mix-V-slice Port of the Classic Mod-Fully Animated Cutscenes-Mid Song Events-Custom Menus-Mobile SupportAnd More Content in Future Updates!OST Playlist:Vs. Sky Redux OST Official Playlist",
           "author": "Dra9on5",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
-          "likes": 577,
-          "downloads": 455462,
-          "views": 119362,
+          "likes": 578,
+          "downloads": 455644,
+          "views": 119417,
           "publishedAt": 1763770731,
           "updatedAt": 1785891137,
           "url": "https://gamebanana.com/mods/632935",
@@ -620,55 +620,11 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 574,
-          "downloads": 188537,
-          "views": 80409,
+          "downloads": 188602,
+          "views": 80468,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 676228,
-          "title": "Stylized Health Bars!",
-          "description": "Tired of the simple health bars in the game? Well, I present to you the little stylized health bars mod! For the moment, there are 2 health bars, but over time I will make more health bars to try! (This was an idea from my custom HUD but I decided to separate it into a different mod!)",
-          "author": "Fan De FNF (V Slice Porter)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ab984347fc57.jpg",
-          "likes": 29,
-          "downloads": 4931,
-          "views": 7336,
-          "publishedAt": 1778429519,
-          "updatedAt": 1790560172,
-          "url": "https://gamebanana.com/mods/676228",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 684032,
-          "title": "FNF:Skatepark Showdown! (V1.5)",
-          "description": "The first mod from our group, Team NoteStreak, this mod features Boyfriend and Girlfriend meeting Scooter, who is using and stealing Boyfriends work for attention, they must rap it out to claim their fame.To play this mod, download FNF 0.8.6",
-          "author": "Hydietri",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a24e4d185241.jpg",
-          "likes": 29,
-          "downloads": 566,
-          "views": 2103,
-          "publishedAt": 1780843469,
-          "updatedAt": 1790614785,
-          "url": "https://gamebanana.com/mods/684032",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -686,11 +642,55 @@
           "author": "_JNG_",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab5015347c39.jpg",
           "likes": 27,
-          "downloads": 29528,
-          "views": 23479,
+          "downloads": 29573,
+          "views": 23510,
           "publishedAt": 1768749539,
           "updatedAt": 1790249029,
           "url": "https://gamebanana.com/mods/647013",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 640638,
+          "title": "Configurable Sing Animations (Includes Idle)",
+          "description": "Upon reaching Custom combos, boyfriend will start doing an idle alt and his alt animations.",
+          "author": "Fan De FNF (V Slice Porter)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab3080427919.jpg",
+          "likes": 26,
+          "downloads": 8120,
+          "views": 15071,
+          "publishedAt": 1766243684,
+          "updatedAt": 1790118317,
+          "url": "https://gamebanana.com/mods/640638",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 686217,
+          "title": "Killer Rating [V-SLICE]",
+          "description": "This mod adds a new rating that is above \"Sick!!\", referencing the scrapped \"Killer\" rating found in Funkin's source code. This is purely visual as it doesn't affect the game in any meaningful way (other than to look cool).Any custom assets found in this mod are made by me til stated otherwise.The threshold can be adjusted to your liking, going up to 22.5 (the max value for NightmareVision's \"Epic\" rating, defaults to 12.5).YOU CAN'T USE THIS MOD FOR YOUR OWN MODPACK",
+          "author": "stryk!",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a300ad803c8a.jpg",
+          "likes": 25,
+          "downloads": 789,
+          "views": 2692,
+          "publishedAt": 1781533583,
+          "updatedAt": 1789925089,
+          "url": "https://gamebanana.com/mods/686217",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -714,8 +714,8 @@
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 1032,
-          "downloads": 1644020,
-          "views": 280924,
+          "downloads": 1644718,
+          "views": 281003,
           "publishedAt": 1738810121,
           "updatedAt": 1784765171,
           "url": "https://gamebanana.com/mods/566597",
@@ -736,8 +736,8 @@
           "author": "Denoohay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e827a0e607.jpg",
           "likes": 739,
-          "downloads": 1177919,
-          "views": 253643,
+          "downloads": 1178158,
+          "views": 253702,
           "publishedAt": 1730328189,
           "updatedAt": 1786678298,
           "url": "https://gamebanana.com/mods/551727",
@@ -758,8 +758,8 @@
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 607,
-          "downloads": 1553152,
-          "views": 224185,
+          "downloads": 1553454,
+          "views": 224251,
           "publishedAt": 1750701603,
           "updatedAt": 1774746521,
           "url": "https://gamebanana.com/mods/602414",
@@ -780,8 +780,8 @@
           "author": "elikapika",
           "image": "https://images.gamebanana.com/img/ss/mods/69aca7df1a0dc.jpg",
           "likes": 553,
-          "downloads": 293601,
-          "views": 782358,
+          "downloads": 293607,
+          "views": 782374,
           "publishedAt": 1612918137,
           "updatedAt": 1776224000,
           "url": "https://gamebanana.com/mods/44227",
@@ -802,8 +802,8 @@
           "author": "NonsenseNH",
           "image": "https://images.gamebanana.com/img/ss/mods/686fd9ffae1a1.jpg",
           "likes": 507,
-          "downloads": 926777,
-          "views": 165624,
+          "downloads": 926829,
+          "views": 165663,
           "publishedAt": 1752150630,
           "updatedAt": 1786371590,
           "url": "https://gamebanana.com/mods/606077",
