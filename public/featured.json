@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-10-03T14:55:51.548Z",
-  "revision": "f6b853fa34eab55d",
+  "generatedAt": "2026-10-03T18:41:17.463Z",
+  "revision": "b2e1f6007481c97c",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,14 +17,58 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 723563,
+          "title": "FNF: Lovers Angel Number (oneshot mod)",
+          "description": "PLAY THE SONG FROM FREEPLAY MENUA One-shot Mod featuring 2 angels who loves each other :DSince this mod has bit of intense camera movements.strumline background's also included so you can focus on chart!Characters Profiles:･Elmeena IasShe's a kind and polite high-tier angel who's around 500 years old, a.k.a. \"The Angel of Compassion and Healing.\"She was the one who first saved Tear when she came to Heaven after her death. Elmeena is now Tear's senior and they're also lovers (lesbian).Can control the powers of light and healing, making her one of the powerful high-tier angel on Heaven. She's also intelligent as always ranking first in angelic academic exams. Despite all that, she has sworn to love the rather dumb Tear for the rest of her life.･Miracle TearA girl who passed away at the age of 15. Unable to handle her miserable life of poverty and the constantly getting bullied at school, she took her own life by hanging herself and became an angel.She is a lesbian. After being saved by Elmeena in Heaven, she fell in love with her and confessed her love and the two began dating.Countless wounds and bruises left by the bullying are deeply carved into her body like scars. Even after becoming an angel, or using Elmeena's healing powers, it couldn't be healed and remain on her body as if they were a curse. (They still hurt sometimes)Her name while she was alive was Tiara Kaneko (金子 星愛姫 / かねこ てぃあら).She always dreamed of becoming a princess with a beautiful crown.She's little daydreaming and not pretty smart, and she sometimes struggles to find the right words or express herself clearly. But despite all of that, she is a pure-hearted, caring, and kind girl. She has sworn in her heart to follow Elmeena for the rest of her life.hope u enjoy :3 by. Hijiki_Kumano",
+          "author": "Hijiki_Kumano",
+          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ac11b8e2fca2.jpg",
+          "likes": 7,
+          "downloads": 42,
+          "views": 85,
+          "publishedAt": 1791041200,
+          "updatedAt": 1791041200,
+          "url": "https://gamebanana.com/mods/723563",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
+          }
+        },
+        {
+          "id": 613322,
+          "title": "Friday Night Dustin'",
+          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
+          "author": "Nex_isDumb",
+          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
+          "likes": 283,
+          "downloads": 36558,
+          "views": 95514,
+          "publishedAt": 1757793620,
+          "updatedAt": 1791051178,
+          "url": "https://gamebanana.com/mods/613322",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
           "id": 722786,
           "title": "VSMatcha Rebuild",
           "description": "That Matcha is coming back!!!!Enjoy a relaxing tea time (get it? \"Matcha\" time... *wink*)Happy Birthday, Matcha!!Please place this in the Codename Engine's \"mods\" folder to play.",
           "author": "Kinako_Matcha",
           "image": "https://images.gamebanana.com/img/ss/mods/6abe471d63bec.jpg",
           "likes": 27,
-          "downloads": 1010,
-          "views": 1165,
+          "downloads": 1079,
+          "views": 1239,
           "publishedAt": 1790855188,
           "updatedAt": 1790998276,
           "url": "https://gamebanana.com/mods/722786",
@@ -39,36 +83,14 @@
           }
         },
         {
-          "id": 723160,
-          "title": "Sonic.Exe - The Mod",
-          "description": "Sonic.exe - The Mod is a Friday Night Funkin' mod based on MY5TCrimson's Sonic.EXE - The Game. The mod features a main story which follows the events of the original game, as well as extra songs every update. CURRENT UPDATE: The current build on this page features the first main story song, Little Fox, as well as one extra song, Bodyrolls, based on Sunky by Looneydude. We hope you enjoy the mod, and are excited to bring you future updates!",
-          "author": "A_quaa",
-          "image": "https://images.gamebanana.com/img/ss/mods/6abfda93712ba.jpg",
-          "likes": 24,
-          "downloads": 1660,
-          "views": 1436,
-          "publishedAt": 1790960736,
-          "updatedAt": 1790961142,
-          "url": "https://gamebanana.com/mods/723160",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 663745,
           "title": "FATBOY Mod (Vs. Cartman Fanmade Recreation)",
           "description": "Updated the Fatboy one-shot I made months ago due to me leveling up in animation LMAO (kenny's anim is kinda rushed tho ngl :sob:)Wanted to make it more accurate to the Fatboy teasers we seen from Vs. Cartman, but remember, I DO NOT OWN VS CARTMAN this is just a fanmade mockup of it. Thank you again CommadoDev for letting me do this originally.-New Sprites-New Animations-New Note-Skin-New Events-New BF Game-over-Added \"Fatboy-Catamix\" a remix my friend Cata made go check em out! Link in credits-Left a lil' bonus song in the mod. One of my faves lolSee yall in the next one o7",
           "author": "thepearingpara",
           "image": "https://images.gamebanana.com/img/ss/mods/6ac02040bbf9b.jpg",
           "likes": 12,
-          "downloads": 900,
-          "views": 1911,
+          "downloads": 962,
+          "views": 1947,
           "publishedAt": 1774544389,
           "updatedAt": 1790977349,
           "url": "https://gamebanana.com/mods/663745",
@@ -88,34 +110,12 @@
           "description": "muy friday night funkin mode ft dave and bambi and tristancodename mod so DON'T USE PSYCH",
           "author": "Gavinn",
           "image": "https://images.gamebanana.com/img/ss/mods/6ac0300320391.jpg",
-          "likes": 10,
-          "downloads": 91,
-          "views": 305,
+          "likes": 12,
+          "downloads": 120,
+          "views": 360,
           "publishedAt": 1790980409,
           "updatedAt": 1790981856,
           "url": "https://gamebanana.com/mods/723279",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
-          "id": 722905,
-          "title": "VS SMOKING MAN",
-          "description": "\"best mod.\" 500 correct sfx.CODENAME ENGINE MOD FOLDERShave you ever wanted to smoke with a manwell now you can get funky with the man or something i dont knowvs smoking man awesome mod please play now yippsterrecommended to play this on codename engine 1.0.1, but it's optional so it doesn't mean that you can't play it in the experimental version of cne",
-          "author": "lilchuddon",
-          "image": "https://images.gamebanana.com/img/ss/mods/6abeb3a32dd46.jpg",
-          "likes": 5,
-          "downloads": 90,
-          "views": 223,
-          "publishedAt": 1790883165,
-          "updatedAt": 1791013947,
-          "url": "https://gamebanana.com/mods/722905",
           "engine": {
             "id": "codename",
             "name": "Codename Engine",
@@ -138,9 +138,9 @@
           "description": "The Story: After passing out from a certain clown's wrath, Boyfriend has been captured by the Agency Against Hank Wimbleton under Auditors command and forced to rap against the hulking beast of an agent to see if he is capable to stand his ground. Certainly a better fate than being merely stomped into a blue paste!this mod is a presentation/demonstrational rework of its original 2021 releaseso some stuff are subject to change like the songs,character voices, art etc.More stuff will be added in the next updateCommunity discord server : discord.gg/PMENWgG28JTwitter mod updates : https://x.com/fnmmagnified",
           "author": "TeiCleM",
           "image": "https://images.gamebanana.com/img/ss/mods/6abd40d3e0535.jpg",
-          "likes": 261,
-          "downloads": 91279,
-          "views": 315496,
+          "likes": 263,
+          "downloads": 91346,
+          "views": 315538,
           "publishedAt": 1626814781,
           "updatedAt": 1790874860,
           "url": "https://gamebanana.com/mods/306788",
@@ -160,9 +160,9 @@
           "description": "The Varied Magic of FNF \u0026amp; VV Continues!A brand new Variety Vault release has hit the scene! Now including more content than ever before! Revisit the magic and fun of 12 beautiful games, now on your Personal Computer! All of these wonderful games have been powered up with a refreshing rhythm-based twist on their standard gameplay; made possible only through the hit Newgrounds game, Friday Night Funkin'! All neatly wrapped together into one wondrously bountiful package titled;Friday Night Funkin': Variety Vault Plus!Includes:12 great games \u0026amp; 17(?) songs to play/discover in the Game Select Menu.Majorly revamped/remade songs \u0026amp; visuals for many of the V1 songs.An abundance of unlockable \u0026amp; customizable content.Various difficult, yet engaging mechanics.A gallery menu that offers dev insight, a peek behind the scenes, and bonus songs!A multitude of custom HUDs, Pause Menus, \u0026amp; UI Themes.And many, MANY more secrets to discover.Listen to the full OST!Join the community server!!! If you encounter bugs, lag or crashes, try turning off shaders/turning on low quality mode and report them in the server\u0026nbsp;!!",
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
-          "likes": 168,
-          "downloads": 12913,
-          "views": 10839,
+          "likes": 170,
+          "downloads": 13030,
+          "views": 10926,
           "publishedAt": 1790182759,
           "updatedAt": 1790797566,
           "url": "https://gamebanana.com/mods/719888",
@@ -183,8 +183,8 @@
           "author": "James Doodles",
           "image": "https://images.gamebanana.com/img/ss/mods/694585889a8a6.jpg",
           "likes": 113,
-          "downloads": 8548,
-          "views": 85320,
+          "downloads": 8550,
+          "views": 85347,
           "publishedAt": 1661662309,
           "updatedAt": 1790839156,
           "url": "https://gamebanana.com/mods/398598",
@@ -205,8 +205,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 107,
-          "downloads": 11792,
-          "views": 28782,
+          "downloads": 11825,
+          "views": 28793,
           "publishedAt": 1742496031,
           "updatedAt": 1790585786,
           "url": "https://gamebanana.com/mods/582726",
@@ -227,8 +227,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
           "likes": 71,
-          "downloads": 11021,
-          "views": 23711,
+          "downloads": 11046,
+          "views": 23720,
           "publishedAt": 1753769299,
           "updatedAt": 1790743366,
           "url": "https://gamebanana.com/mods/610131",
@@ -255,33 +255,11 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae25a37cd32.jpg",
           "likes": 164,
-          "downloads": 36883,
-          "views": 121558,
+          "downloads": 36887,
+          "views": 121577,
           "publishedAt": 1717301118,
           "updatedAt": 1789797930,
           "url": "https://gamebanana.com/mods/517623",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 440809,
-          "title": "Secret Funkin Laboratory [CANCELLED RELEASE]",
-          "description": "Deep down in the Site - 02 facility something malicious is brewing.As a Mobile Task Force Unit you are ordered to get down there and secure the containment breach in the facility. Get the job done.But beware, for the SCP subjects lurking within will not go down without a fight. The only way to defeat them is to engage in epic rap battles, using your rhythm skills to outperform them and prove your worth as a Mobile Task Force Agent.So gather your courage and prepare to face the unknown as you enter the depths of Site-02. The fate of the facility and all those within depend on your success. Will you rise to the challenge and secure the containment breach, or will you fall to the might of the SCP subjects?SFL Discord Link: https://discord.gg/nxSPcSstDPUse code 3114 in main menu if you are having trouble with progressing thru story mode and to unlock free play.",
-          "author": "M4ff",
-          "image": "https://images.gamebanana.com/img/ss/mods/644e0a0d2d44f.jpg",
-          "likes": 131,
-          "downloads": 13711,
-          "views": 52643,
-          "publishedAt": 1682842120,
-          "updatedAt": 1789051054,
-          "url": "https://gamebanana.com/mods/440809",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -299,8 +277,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 105,
-          "downloads": 6814,
-          "views": 14765,
+          "downloads": 6839,
+          "views": 14775,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -321,8 +299,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 67,
-          "downloads": 11805,
-          "views": 38582,
+          "downloads": 11810,
+          "views": 38583,
           "publishedAt": 1737928649,
           "updatedAt": 1789934217,
           "url": "https://gamebanana.com/mods/571604",
@@ -343,11 +321,33 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab856f9d4727.jpg",
           "likes": 63,
-          "downloads": 2354,
-          "views": 14657,
+          "downloads": 2357,
+          "views": 14667,
           "publishedAt": 1755844445,
           "updatedAt": 1790823426,
           "url": "https://gamebanana.com/mods/615291",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 422300,
+          "title": "Saturday's Fatality (WI Dside)",
+          "description": "After a long time, there's a new update for this modTwitter account of the mod:https://twitter.com/Fatal1SaturdaysHISTORY:It's a nice Saturday afternoon, our protagonist was working on his crops until suddenly he sees a rabbit in the distance, the rabbit looked sad and was holding a banjo, our protagonist approaches him to ask him if something is wrong, the rabbit just stares at him then our protagonist takes out a microphone and proposes a song, the rabbit accepts and they start singing...DISCLAIMER: ENGThis build was leaked, and since we’ll still be taking quite some time to finish V2, we decided to fix up this leaked version and release it to the public as V1.5 THE SCRAPPED UPDATE Since this version consists entirely of content that was SCRAPPED AND DISCARDED FROM THE MOD, none of this content will be part of the finished build or the actual V2ESPEsta build, fue filtrada y debido a que aun nos tomaremos bastante tiempo en terminar V2, decidimos arreglar esta version filtrada y lanzarla como V1.5 al publico THE SCRAPPED UPDATE Ya que consiste de contenido completamente DESCARTADO Y DESHECHADO DEL MOD, nada de esto sera parte de la build ya terminada o de la respectiva V2",
+          "author": "ShadowGame00",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
+          "likes": 54,
+          "downloads": 25933,
+          "views": 70649,
+          "publishedAt": 1673734340,
+          "updatedAt": 1789832970,
+          "url": "https://gamebanana.com/mods/422300",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -365,36 +365,14 @@
       "label": "Best of 3 Months",
       "mods": [
         {
-          "id": 613322,
-          "title": "Friday Night Dustin'",
-          "description": "T H E V E S S E L S A R E R E A D Y.A F T E R A L L T H E S E Y E A R S.A R E Y O U R E A D Y ?The definitive DUSTTALE FNF mod.",
-          "author": "Nex_isDumb",
-          "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
-          "likes": 283,
-          "downloads": 36552,
-          "views": 95490,
-          "publishedAt": 1757793620,
-          "updatedAt": 1787960315,
-          "url": "https://gamebanana.com/mods/613322",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 665295,
           "title": "Friday Night Funkin': [RESCRIPT]",
           "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 268,
-          "downloads": 103152,
-          "views": 39514,
+          "downloads": 103236,
+          "views": 39553,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -415,8 +393,8 @@
           "author": "fl0pd00dle",
           "image": "https://images.gamebanana.com/img/ss/mods/6a90f7d16f80a.jpg",
           "likes": 120,
-          "downloads": 9752,
-          "views": 9093,
+          "downloads": 9786,
+          "views": 9099,
           "publishedAt": 1787938323,
           "updatedAt": 1787938365,
           "url": "https://gamebanana.com/mods/710854",
@@ -437,8 +415,8 @@
           "author": "Floofum",
           "image": "https://images.gamebanana.com/img/ss/mods/6a790070afe59.jpg",
           "likes": 87,
-          "downloads": 35753,
-          "views": 14886,
+          "downloads": 35786,
+          "views": 14914,
           "publishedAt": 1786316742,
           "updatedAt": 1786320080,
           "url": "https://gamebanana.com/mods/702352",
@@ -459,8 +437,8 @@
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
           "likes": 65,
-          "downloads": 2783,
-          "views": 5383,
+          "downloads": 2791,
+          "views": 5388,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -473,34 +451,6 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
-        {
-          "id": 422300,
-          "title": "Saturday's Fatality (WI Dside)",
-          "description": "After a long time, there's a new update for this modTwitter account of the mod:https://twitter.com/Fatal1SaturdaysHISTORY:It's a nice Saturday afternoon, our protagonist was working on his crops until suddenly he sees a rabbit in the distance, the rabbit looked sad and was holding a banjo, our protagonist approaches him to ask him if something is wrong, the rabbit just stares at him then our protagonist takes out a microphone and proposes a song, the rabbit accepts and they start singing...DISCLAIMER: ENGThis build was leaked, and since we’ll still be taking quite some time to finish V2, we decided to fix up this leaked version and release it to the public as V1.5 THE SCRAPPED UPDATE Since this version consists entirely of content that was SCRAPPED AND DISCARDED FROM THE MOD, none of this content will be part of the finished build or the actual V2ESPEsta build, fue filtrada y debido a que aun nos tomaremos bastante tiempo en terminar V2, decidimos arreglar esta version filtrada y lanzarla como V1.5 al publico THE SCRAPPED UPDATE Ya que consiste de contenido completamente DESCARTADO Y DESHECHADO DEL MOD, nada de esto sera parte de la build ya terminada o de la respectiva V2",
-          "author": "ShadowGame00",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
-          "likes": 54,
-          "downloads": 25921,
-          "views": 70635,
-          "publishedAt": 1673734340,
-          "updatedAt": 1789832970,
-          "url": "https://gamebanana.com/mods/422300",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
         },
         {
           "id": 541027,
@@ -509,8 +459,8 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 45,
-          "downloads": 4494,
-          "views": 11280,
+          "downloads": 4584,
+          "views": 11311,
           "publishedAt": 1725825645,
           "updatedAt": 1790786368,
           "url": "https://gamebanana.com/mods/541027",
@@ -523,7 +473,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
         {
           "id": 701651,
           "title": "spong-real",
@@ -531,8 +487,8 @@
           "author": "rotound",
           "image": "https://images.gamebanana.com/img/ss/mods/6a76c40537f69.jpg",
           "likes": 44,
-          "downloads": 2734,
-          "views": 4279,
+          "downloads": 2740,
+          "views": 4284,
           "publishedAt": 1786171237,
           "updatedAt": 1786474068,
           "url": "https://gamebanana.com/mods/701651",
@@ -553,8 +509,8 @@
           "author": "RILEYTRONIC",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
           "likes": 44,
-          "downloads": 2152,
-          "views": 4163,
+          "downloads": 2165,
+          "views": 4170,
           "publishedAt": 1787958224,
           "updatedAt": 1788038653,
           "url": "https://gamebanana.com/mods/705101",
@@ -575,8 +531,8 @@
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 43,
-          "downloads": 27281,
-          "views": 23121,
+          "downloads": 27304,
+          "views": 23139,
           "publishedAt": 1775338865,
           "updatedAt": 1790900405,
           "url": "https://gamebanana.com/mods/666603",
@@ -589,13 +545,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 544976,
           "title": "indiscretions: vol. 1 - sendoff update",
@@ -603,8 +553,8 @@
           "author": "Vibreee",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
           "likes": 42,
-          "downloads": 1424,
-          "views": 12495,
+          "downloads": 1432,
+          "views": 12514,
           "publishedAt": 1727491502,
           "updatedAt": 1790537518,
           "url": "https://gamebanana.com/mods/544976",
@@ -625,8 +575,8 @@
           "author": "Castanova_",
           "image": "https://images.gamebanana.com/img/ss/mods/698f655d8d2b0.jpg",
           "likes": 40,
-          "downloads": 2226,
-          "views": 6493,
+          "downloads": 2228,
+          "views": 6502,
           "publishedAt": 1771005171,
           "updatedAt": 1790652882,
           "url": "https://gamebanana.com/mods/652950",
@@ -639,7 +589,13 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 553388,
           "title": "Friday Night Funkin': SollVerse Release 1.0 Update",
@@ -647,8 +603,8 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 39,
-          "downloads": 10828,
-          "views": 21101,
+          "downloads": 10837,
+          "views": 21103,
           "publishedAt": 1730671567,
           "updatedAt": 1790282882,
           "url": "https://gamebanana.com/mods/553388",
@@ -669,8 +625,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 39,
-          "downloads": 4361,
-          "views": 5853,
+          "downloads": 4370,
+          "views": 5862,
           "publishedAt": 1786600885,
           "updatedAt": 1787535728,
           "url": "https://gamebanana.com/mods/703563",
@@ -685,17 +641,61 @@
           }
         },
         {
+          "id": 722223,
+          "title": "FUNKY MANSION : CANCELLED BUILD",
+          "description": "A Culmination of 3+ Years of Work !\u0026nbsp;Apologies if it is rough around the edges . I mainly just wanted to be done with some of my older fnf related stuff !It's a collection of roughly 4+ songs that are original ( +3\u0026nbsp;if you count covers / songs that don't belong to me )Have fun looking at some oooold stuff from this gal ! (friend)",
+          "author": "NoLime",
+          "image": "https://images.gamebanana.com/img/ss/mods/6abbd5c82c367.jpg",
+          "likes": 39,
+          "downloads": 950,
+          "views": 1564,
+          "publishedAt": 1790697124,
+          "updatedAt": 1790714093,
+          "url": "https://gamebanana.com/mods/722223",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 415164,
           "title": "Bold Or Brash Deluxe | HOTFIX UPDATE",
           "description": "HELP WANTED!ARTISTS ARE NEEDED! (OTHER DEVELOPERS BESIDES CHARTERS ACCEPTED AS WELL)APPLY IN THE DISCORDWatch The Video Below For More Info:Check out the video for info on how to apply! Artists, Musicians, \u0026 Coders needed!NOTE: OFFICIAL PERMISSION HAS BEEN GRANTED FOR THIS MODStonesteve has given permission for this mod to stay up, as long as proper credit for the character is made.On a cold, dark night in Bikini Bottom, Mr. Krabs was awoken by the sound of chaos. Several citizens are being attacked, kidnapped, and terrorized. Mr. Krabs notices all the commotion leading to the Chum Bucket, and he gears up to confront Plankton. Upon arriving, he is met with Plankton's new robot and appearance, which Mr. Krabs is quick to take down. Once Plankton runs off into the back room, Mr. Krabs follows to be met with a devastating sight. His beloved fry cook, SpongeBob SquarePants, had been killed. Mr. Krabs is ready to take out Plankton once and for all, when he's met, with none other than the sight of his Employee, Squidward Tentacles.WARNING: LOW END PC'S MAY RECIEVE SLIGHT LAG, PLEASE LEAVE A NOTE IF IT CASUES A GAME CRASH, WE HAVE OPTIMIZIED IT AS BEST AS POSSIBLE.PLEASE LEAVE FEEDBACK IF YOU NOTICE ANY BUGS, OR HAVE ANY OVERALL OPINIONS OF THE MOD!! Hope you enjoy!Be Sure To Check Out The Discord For Exclusive Content!",
           "author": "Gamer802",
           "image": "https://images.gamebanana.com/img/ss/mods/6a95175df0aeb.jpg",
           "likes": 38,
-          "downloads": 5086,
-          "views": 23972,
+          "downloads": 5092,
+          "views": 23974,
           "publishedAt": 1670094738,
           "updatedAt": 1789251833,
           "url": "https://gamebanana.com/mods/415164",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 501378,
+          "title": "Funk Pak Demo: CHERNO UPDATE",
+          "description": "USE PSYCH ENGINE 0.7.3!FUNK PAK DEMOWEEK 1 + WEEK 2ROCKETTE and CHERNO-------------------BF decided to spend his day away from GF at the beach, when he runs into an energetic fan! Face Rockette and Cherno in the updated Funk Pak Demo!This mod is a work in progress! Three weeks are planned in total!",
+          "author": "The Pale One",
+          "image": "https://images.gamebanana.com/img/ss/mods/6607716f2d3ce.jpg",
+          "likes": 38,
+          "downloads": 1067,
+          "views": 8403,
+          "publishedAt": 1710636498,
+          "updatedAt": 1790697470,
+          "url": "https://gamebanana.com/mods/501378",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3197,
-          "downloads": 4615862,
-          "views": 9505392,
+          "downloads": 4616212,
+          "views": 9505452,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2630,
-          "downloads": 1997103,
-          "views": 4432961,
+          "downloads": 1997216,
+          "views": 4432991,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2353,
-          "downloads": 1850284,
-          "views": 3349397,
+          "downloads": 1850577,
+          "views": 3349447,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2193,
-          "downloads": 3731071,
-          "views": 8867406,
+          "downloads": 3731216,
+          "views": 8867438,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2085,
-          "downloads": 839756,
-          "views": 2927921,
+          "downloads": 839785,
+          "views": 2927952,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
