@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-10-11T15:39:53.708Z",
-  "revision": "773d3c9fb13f2654",
+  "generatedAt": "2026-10-11T19:43:43.955Z",
+  "revision": "e799c82b154cb436",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,17 +17,39 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 726432,
-          "title": "PK's Combo Heal Psych+",
-          "description": "Originaly Made By The Famous Skibadubab Dog _JNG_ For V-Slice. This Psych Engine V1.0.4 Script Ports An Mechanic/Gimmic In Which You Only Can Heal If You Reach A Determinated Combo Row. However, Taking Advantage Of My Middly-Advanced Knowlendge On FNF Psych Lua Language; I Decide To Reach For A Little More And Add My Own Shit, Settings On The Lua Script Itself For More Customization Outside Of The Reach To Combo-Heal. The Addons Include:IconPlus: Changes The Icon Depending If The Combo-Heal Is On/Off, No In Health.TextPlus: Adds A Text That Counts The Combo-Hits Left To Reach The Heal.SpritePlus: Completely Changes The Player's Animations At Combo-Heal. (Test-Characters Included For Showcase)This Is NOT A ModPack, The Files Within The .Zip Folder Must Be Move To Their Respective In-Engine Folder (Script - Images/Characters - Characters).",
-          "author": "Pairos13",
-          "image": "https://images.gamebanana.com/img/ss/mods/6acafc775eb4e.jpg",
-          "likes": 3,
-          "downloads": 36,
-          "views": 129,
-          "publishedAt": 1791688581,
-          "updatedAt": 1791688634,
-          "url": "https://gamebanana.com/mods/726432",
+          "id": 507813,
+          "title": "FNF: Doki Mixes V4 Version 4 (THE WEEKEND UPDATE)",
+          "description": "DOKI MIXES V4 IS OUT!!!Including- 39 NEW SONGS- 18 NEW SPRITES- 8 WEEKS- ENTIRELY OVERHAULED MENUS (DDTO STYLED)- DDTO STYLED PAUSE MENU- AND MORE!!!",
+          "author": "RPG Visual/YouTube",
+          "image": "https://images.gamebanana.com/img/ss/mods/69996da487309.jpg",
+          "likes": 89,
+          "downloads": 5183,
+          "views": 46000,
+          "publishedAt": 1713327845,
+          "updatedAt": 1791739918,
+          "url": "https://gamebanana.com/mods/507813",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 571604,
+          "title": "FNF:REDONE",
+          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
+          "author": "Key97",
+          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
+          "likes": 68,
+          "downloads": 12747,
+          "views": 38897,
+          "publishedAt": 1737928649,
+          "updatedAt": 1791739213,
+          "url": "https://gamebanana.com/mods/571604",
           "engine": {
             "id": "psych",
             "name": "Psych Engine",
@@ -45,11 +67,33 @@
           "author": "cravethyrave",
           "image": "https://images.gamebanana.com/img/ss/mods/6acab952594a1.jpg",
           "likes": 65,
-          "downloads": 2687,
-          "views": 15472,
+          "downloads": 2730,
+          "views": 15536,
           "publishedAt": 1755844445,
           "updatedAt": 1791670883,
           "url": "https://gamebanana.com/mods/615291",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 723160,
+          "title": "Sonic.EXE - The Mod",
+          "description": "Sonic.exe - The Mod is a Friday Night Funkin' mod based on MY5TCrimson's Sonic.EXE - The Game. The mod features a main story which follows the events of the original game, as well as extra songs every update. CURRENT UPDATE: The current build on this page features the first main story song, Little Fox, as well as one extra song, Bodyrolls, based on Sunky by Looneydude. We hope you enjoy the mod, and are excited to bring you future updates!",
+          "author": "A_quaa",
+          "image": "https://images.gamebanana.com/img/ss/mods/6abfda93712ba.jpg",
+          "likes": 45,
+          "downloads": 5106,
+          "views": 4640,
+          "publishedAt": 1790960736,
+          "updatedAt": 1791741747,
+          "url": "https://gamebanana.com/mods/723160",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -67,8 +111,8 @@
           "author": "AntonyFunk",
           "image": "https://images.gamebanana.com/img/ss/mods/694ed3cd9ac3e.jpg",
           "likes": 17,
-          "downloads": 17415,
-          "views": 29695,
+          "downloads": 17492,
+          "views": 29712,
           "publishedAt": 1740716136,
           "updatedAt": 1791666130,
           "url": "https://gamebanana.com/mods/577856",
@@ -80,50 +124,6 @@
           "category": {
             "id": 28367,
             "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
-          "id": 637279,
-          "title": "Funkin' With aNICKmations",
-          "description": "Welcome to Funkin' With aNICKmations!This is a mod about a silly world and silly universe with a wide variety of characters, goofy menus, and much MUCH more!This is a collection of various mods/projects we have worked on over the past two years, freshly remastered and put into one complete package for your enjoyment!AND PHEW BOY THIS HAS BEEN A LONG TIME COMING20 New Unique Songs!and whole lot of SPOAR!",
-          "author": "aNICKmations",
-          "image": "https://images.gamebanana.com/img/ss/mods/692fe0d465144.jpg",
-          "likes": 7,
-          "downloads": 54,
-          "views": 2319,
-          "publishedAt": 1764743901,
-          "updatedAt": 1791732956,
-          "url": "https://gamebanana.com/mods/637279",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 609447,
-          "title": "FNF - Dual Dimensions",
-          "description": "FNF - Dual Dimensions, it's a mod.47 Normal songs (I think)9 Erect remixesAround 2.5 hours of playtimeYou can change the song speed with comma and period (hold shift to go faster) (reset with slash)READ THIS!!Try to ignore the mid/bad art - It's from as old as 2021 I'll change it eventually I swearLook at controls - there are new controls to bind6 key is optional",
-          "author": "Mooshie",
-          "image": "https://images.gamebanana.com/img/ss/mods/688492fb66196.jpg",
-          "likes": 6,
-          "downloads": 386,
-          "views": 3738,
-          "publishedAt": 1753569005,
-          "updatedAt": 1791671972,
-          "url": "https://gamebanana.com/mods/609447",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
           "likes": 184,
-          "downloads": 16104,
-          "views": 14498,
+          "downloads": 16164,
+          "views": 14533,
           "publishedAt": 1790182759,
           "updatedAt": 1791165780,
           "url": "https://gamebanana.com/mods/719888",
@@ -161,8 +161,8 @@
           "author": "kanpei",
           "image": "https://images.gamebanana.com/img/ss/mods/6ac87103dd02e.jpg",
           "likes": 91,
-          "downloads": 14733,
-          "views": 59530,
+          "downloads": 14784,
+          "views": 59547,
           "publishedAt": 1633762538,
           "updatedAt": 1791539731,
           "url": "https://gamebanana.com/mods/326933",
@@ -177,36 +177,14 @@
           }
         },
         {
-          "id": 571604,
-          "title": "FNF:REDONE",
-          "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
-          "author": "Key97",
-          "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
-          "likes": 68,
-          "downloads": 12727,
-          "views": 38871,
-          "publishedAt": 1737928649,
-          "updatedAt": 1791190436,
-          "url": "https://gamebanana.com/mods/571604",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
-          }
-        },
-        {
           "id": 666603,
           "title": "Doki Takeover - Bad Ending Plus !",
           "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 43,
-          "downloads": 28792,
-          "views": 24562,
+          "downloads": 28800,
+          "views": 24569,
           "publishedAt": 1775338865,
           "updatedAt": 1791409401,
           "url": "https://gamebanana.com/mods/666603",
@@ -227,8 +205,8 @@
           "author": "laik7u7",
           "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
           "likes": 37,
-          "downloads": 16146,
-          "views": 17657,
+          "downloads": 16170,
+          "views": 17687,
           "publishedAt": 1783906665,
           "updatedAt": 1791469201,
           "url": "https://gamebanana.com/mods/693828",
@@ -240,6 +218,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 532768,
+          "title": "ONLINE VS. Result Screen for Psych Engine",
+          "description": "This is a psych engine re-creation of the result screen from ONLINE VS.You can use it as a mod for psych engine to add the result screen to the game, use the mod's settings to determine when it will appear and use its signals with the triggerEvent function to add a custom unlock screen to your mod and make it more compatible with this result screen. If you want, you can also hold the space key, the left mouse button or any of the note keys to speed up the result screen's animations.More instructions can be found here or in the README included in the mod's folder.",
+          "author": "Applehair",
+          "image": "https://images.gamebanana.com/img/ss/mods/66ae18ae38f98.jpg",
+          "likes": 25,
+          "downloads": 4054,
+          "views": 8480,
+          "publishedAt": 1722686300,
+          "updatedAt": 1791364483,
+          "url": "https://gamebanana.com/mods/532768",
+          "engine": {
+            "id": "psych",
+            "name": "Psych Engine",
+            "icon": "psych.png"
+          },
+          "category": {
+            "id": 28367,
+            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -255,8 +255,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 285,
-          "downloads": 37130,
-          "views": 97182,
+          "downloads": 37147,
+          "views": 97213,
           "publishedAt": 1757793620,
           "updatedAt": 1791051178,
           "url": "https://gamebanana.com/mods/613322",
@@ -277,8 +277,8 @@
           "author": "TeiCleM",
           "image": "https://images.gamebanana.com/img/ss/mods/6abd40d3e0535.jpg",
           "likes": 268,
-          "downloads": 92587,
-          "views": 316476,
+          "downloads": 92633,
+          "views": 316501,
           "publishedAt": 1626814781,
           "updatedAt": 1790874860,
           "url": "https://gamebanana.com/mods/306788",
@@ -299,8 +299,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae25a37cd32.jpg",
           "likes": 164,
-          "downloads": 37048,
-          "views": 122224,
+          "downloads": 37049,
+          "views": 122238,
           "publishedAt": 1717301118,
           "updatedAt": 1789797930,
           "url": "https://gamebanana.com/mods/517623",
@@ -322,7 +322,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/694585889a8a6.jpg",
           "likes": 114,
           "downloads": 8597,
-          "views": 85939,
+          "views": 85960,
           "publishedAt": 1661662309,
           "updatedAt": 1790839156,
           "url": "https://gamebanana.com/mods/398598",
@@ -343,8 +343,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 107,
-          "downloads": 12819,
-          "views": 29132,
+          "downloads": 12848,
+          "views": 29136,
           "publishedAt": 1742496031,
           "updatedAt": 1790585786,
           "url": "https://gamebanana.com/mods/582726",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 272,
-          "downloads": 105719,
-          "views": 40945,
+          "downloads": 105825,
+          "views": 40988,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -393,8 +393,8 @@
           "author": "fl0pd00dle",
           "image": "https://images.gamebanana.com/img/ss/mods/6a90f7d16f80a.jpg",
           "likes": 121,
-          "downloads": 10639,
-          "views": 9756,
+          "downloads": 10687,
+          "views": 9770,
           "publishedAt": 1787938323,
           "updatedAt": 1787938365,
           "url": "https://gamebanana.com/mods/710854",
@@ -415,8 +415,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 105,
-          "downloads": 7274,
-          "views": 14893,
+          "downloads": 7286,
+          "views": 14899,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -437,8 +437,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
           "likes": 71,
-          "downloads": 11422,
-          "views": 24058,
+          "downloads": 11427,
+          "views": 24067,
           "publishedAt": 1753769299,
           "updatedAt": 1790743366,
           "url": "https://gamebanana.com/mods/610131",
@@ -459,8 +459,8 @@
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
           "likes": 65,
-          "downloads": 3040,
-          "views": 5620,
+          "downloads": 3048,
+          "views": 5628,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -487,8 +487,8 @@
           "author": "ShadowGame00",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
           "likes": 54,
-          "downloads": 26422,
-          "views": 71165,
+          "downloads": 26433,
+          "views": 71183,
           "publishedAt": 1673734340,
           "updatedAt": 1789832970,
           "url": "https://gamebanana.com/mods/422300",
@@ -509,33 +509,11 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 48,
-          "downloads": 6498,
-          "views": 12439,
+          "downloads": 6528,
+          "views": 12472,
           "publishedAt": 1725825645,
           "updatedAt": 1790786368,
           "url": "https://gamebanana.com/mods/541027",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 723160,
-          "title": "Sonic.EXE - The Mod",
-          "description": "Sonic.exe - The Mod is a Friday Night Funkin' mod based on MY5TCrimson's Sonic.EXE - The Game. The mod features a main story which follows the events of the original game, as well as extra songs every update. CURRENT UPDATE: The current build on this page features the first main story song, Little Fox, as well as one extra song, Bodyrolls, based on Sunky by Looneydude. We hope you enjoy the mod, and are excited to bring you future updates!",
-          "author": "A_quaa",
-          "image": "https://images.gamebanana.com/img/ss/mods/6abfda93712ba.jpg",
-          "likes": 45,
-          "downloads": 5082,
-          "views": 4605,
-          "publishedAt": 1790960736,
-          "updatedAt": 1791121048,
-          "url": "https://gamebanana.com/mods/723160",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -553,8 +531,8 @@
           "author": "RILEYTRONIC",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
           "likes": 44,
-          "downloads": 2521,
-          "views": 4490,
+          "downloads": 2544,
+          "views": 4497,
           "publishedAt": 1787958224,
           "updatedAt": 1788038653,
           "url": "https://gamebanana.com/mods/705101",
@@ -575,8 +553,8 @@
           "author": "Vibreee",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
           "likes": 43,
-          "downloads": 1626,
-          "views": 12929,
+          "downloads": 1629,
+          "views": 12937,
           "publishedAt": 1727491502,
           "updatedAt": 1790537518,
           "url": "https://gamebanana.com/mods/544976",
@@ -589,13 +567,7 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 722223,
           "title": "FUNKY MANSION : CANCELLED BUILD",
@@ -603,8 +575,8 @@
           "author": "NoLime",
           "image": "https://images.gamebanana.com/img/ss/mods/6abbd5c82c367.jpg",
           "likes": 43,
-          "downloads": 1619,
-          "views": 2851,
+          "downloads": 1623,
+          "views": 2856,
           "publishedAt": 1790697124,
           "updatedAt": 1790714093,
           "url": "https://gamebanana.com/mods/722223",
@@ -617,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 652950,
           "title": "V-Slice Results Screen for Psych Engine 1.0+",
@@ -625,8 +603,8 @@
           "author": "Castanova_",
           "image": "https://images.gamebanana.com/img/ss/mods/698f655d8d2b0.jpg",
           "likes": 40,
-          "downloads": 2374,
-          "views": 6807,
+          "downloads": 2378,
+          "views": 6814,
           "publishedAt": 1771005171,
           "updatedAt": 1790652882,
           "url": "https://gamebanana.com/mods/652950",
@@ -647,8 +625,8 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 39,
-          "downloads": 11206,
-          "views": 21334,
+          "downloads": 11218,
+          "views": 21359,
           "publishedAt": 1730671567,
           "updatedAt": 1790282882,
           "url": "https://gamebanana.com/mods/553388",
@@ -669,8 +647,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 39,
-          "downloads": 4664,
-          "views": 6205,
+          "downloads": 4675,
+          "views": 6210,
           "publishedAt": 1786600885,
           "updatedAt": 1787535728,
           "url": "https://gamebanana.com/mods/703563",
@@ -691,8 +669,8 @@
           "author": "The Pale One",
           "image": "https://images.gamebanana.com/img/ss/mods/6607716f2d3ce.jpg",
           "likes": 38,
-          "downloads": 1285,
-          "views": 8501,
+          "downloads": 1291,
+          "views": 8502,
           "publishedAt": 1710636498,
           "updatedAt": 1790697470,
           "url": "https://gamebanana.com/mods/501378",
@@ -704,6 +682,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 567478,
+          "title": "OBSCURA RE-TAKE [V2 CANCELED BUILD]",
+          "description": "go suck a fat one this mod is dookie",
+          "author": "cj_crew",
+          "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
+          "likes": 37,
+          "downloads": 2408,
+          "views": 8365,
+          "publishedAt": 1736231105,
+          "updatedAt": 1790221482,
+          "url": "https://gamebanana.com/mods/567478",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3198,
-          "downloads": 4627037,
-          "views": 9507888,
+          "downloads": 4627404,
+          "views": 9507969,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2631,
-          "downloads": 2002070,
-          "views": 4434826,
+          "downloads": 2002240,
+          "views": 4434867,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2355,
-          "downloads": 1859652,
-          "views": 3351593,
+          "downloads": 1859933,
+          "views": 3351628,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2194,
-          "downloads": 3736148,
-          "views": 8869058,
+          "downloads": 3736339,
+          "views": 8869111,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -806,9 +806,9 @@
           "description": "After a year's worth of work, the final update to Friday Night Funkin' Doki Doki Takeover is here! Presenting, Doki Doki Takeover Plus!The FNF and DDLC worlds have entangled, causing unusual things to occur when Monika finds herself in the Hating Sim and when Boyfriend and Girlfriend wind up in the Literature Club. How shall things fare for these three and the rest of the club?This mod includes:\u003e30+ Songs featuring all your favorite Literature Club members!\u003eA full fledged story spanning across several weeks!\u003e40+ Costumes for each character!\u003eLots of secret content to discover!",
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
-          "likes": 2086,
-          "downloads": 840735,
-          "views": 2929449,
+          "likes": 2087,
+          "downloads": 840754,
+          "views": 2929481,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
