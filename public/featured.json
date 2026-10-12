@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-10-12T09:46:26.560Z",
-  "revision": "44bbd3c54d07f922",
+  "generatedAt": "2026-10-12T19:22:49.694Z",
+  "revision": "f4f3f6b721079b48",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,14 +17,130 @@
       "label": "Best of Today",
       "mods": [
         {
+          "id": 326933,
+          "title": "Friday Night Funkin' Lily in Grave V3.0 UPDATE!",
+          "description": "\"Lily a zombie who has lost her memory of life, has been eating people and sleeping in the ground.One night, I heard an unfamiliar BEEP sound coming from above ground.Lily went above ground to see the owner of the voice.\"[This mod contents]Original Week5 WeeksOriginal Character\"Lily-Engrave\"Original Songs16 songs in total.Some cutscenesYou can also download individual cutscenes.[Files Description]lily_in_graveMODILLUSTRATIONSCutscenes and other illustrations are included. Please use them as you like.",
+          "author": "kanpei",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ac87103dd02e.jpg",
+          "likes": 96,
+          "downloads": 15044,
+          "views": 59695,
+          "publishedAt": 1633762538,
+          "updatedAt": 1791816643,
+          "url": "https://gamebanana.com/mods/326933",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 626528,
+          "title": "FNF: WHERE THE EVIL LIVES IN [SPOTLIGHT UPDATE]",
+          "description": "WHERE THE EVIL LIVES IN\"This mod might have some spoilers regarding some works so make sure to check them out!\"WHERE THE EVIL LIVES IN is a FNF mod created by KillLa蓮 \u0026 Frosttim3r it consists of a compilation of one-shot songs featuring characters from any horror media such as: movies, series, games and stories.Lore (ignore if u want lol):\"Years have passed after the events of FNF and BF and GF have finally stayed together, But nothing lasts forever. On a mysterious night, the sky turned red, innocent screams rang out, eyes turned away, and knees buckled as a chaotic, bloodthirsty figure descended from the heavens—the one who proclaimed himself the God of this world. The earth split in two, buildings crumbled, taking the lives of many. BF could do nothing but flee, but that entity had different plans for everyone there. In the blink of an eye, GF had her guts brutally ripped out, BF's eyes widened, his heart stopped instantly as the corpse of his beloved fell at his feet while blood poured from the sky and flooded the city. At that moment, no one was safe, And then, everything went dark, and nothing remained but the rotting carcasses of innocent corpses. BF therefore awakens in a parallel world, where there is nothing, only a dark and lifeless void, alone, trapped and confused. A disconcerting and demonic voice sounds in his ears, words like: \"FEEL,\" \"SEE,\" and \"PRAY.\" It seemed like a dream. BF wanted to believe it was a dream, to see his beloved brutally murdered before his eyes. It didn't seem real. BF kneels, tears streaming down his face, his neutral expression turning to mourning. \"NO! WHAT THE FUCK IS THIS?!\" BF exclaims, \"THERE IS NOTHING TO FEAR.\" The same voice echoes in his head. \"THIS IS SALVATION. YOUR LIVES AND BROKEN BODIES, SO SMALL, ARE NO LONGER IMPORTANT. NO ONE IS MORE IMPORTANT.\" The voice speaks, \"I DON'T CARE, I'M GOING TO KILL YOU, YOU SON OF A BITCH! WHOEVER YOU ARE!\" BF shouts, \"THEN WE'LL SEE, DO WHAT YOU DO BEST, AND I'LL MIGHT HAVE OTHER PLANS FOR YOU, SO DON'T DIE!\" the voice exclaims back. BF stands up, wipes away his tears, maintains a firm and strong posture.\"TAKE IT!\" the voice calls back as a microphone emerges from the floor. BF picks it up and looks at it with a mocking and confident expression, \"HA! You must have shit in your mind, I'm going to rip your dick off and make you swallow it back!\" The voice doesn't respond back, \"HMPH! Asshole...\" BF whispers as he walks towards what looks like a bright light, and as he approaches he encounters his first opponent. From then on, BF will finally discover that there is no goodness there, and that EVIL WILL LIVE WITH HIM NO MATTER WHERE HE IS\"Mod includes:- 6 Songs (for now)- Revamped Title Screen- Death Voice lines for each character- Cool visuals- Unlockable Trophies- Banger songs- Custom death screen- Blessed by ZalgoThere are many creepy opponents to come! Can you guess who the next opponent will be in the mod? see you on the flip side! and always remember:ZALGO LOVES YOU!We now use the engine titled \"NightmareVision,\" it is listed below if neededDISCLAIMER: MOD MADE ENTIRELY ON MY CRAPPY ASS PHONE SO IF U SEE ANY ODDITIES PLZ LET ME KNOW! IF YOU'RE FEELING THAT THE SONGS ARE NOT IN SYNC, PAUSE AND UNPAUSE OR RESTART THE SONG I DO EVERYTHING IN THIS DAMN THING SO PLEASE FORGIVE ME IF ITS POORLY OPTIMIZED :((",
+          "author": "KillLaLotus",
+          "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
+          "likes": 56,
+          "downloads": 5203,
+          "views": 19187,
+          "publishedAt": 1760283991,
+          "updatedAt": 1791781434,
+          "url": "https://gamebanana.com/mods/626528",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 553388,
+          "title": "SollVerse [Release 1.0 Update!] [OUT OF BETA!]",
+          "description": "One day, Boyfriend and Girlfriend woke up in a place they shouldn’t have been. The air was quiet, and the world felt strangely unfamiliar. In the distance, a tall figure stepped forward, staring straight at Boyfriend....SollVerse is a fun project that has been inspired by Mid-Fight Masses and Muzix Medley (apart from what happened....).RELEASE 1.0!\u0026nbsp;This Version features 5 songs.Uncertain By Roller Lhite!Atomizer By Kyotoxer!Sapphire By SollaxxScape \u0026amp; Kyotoxer!\u0026nbsp;Epistrophy By TheMFM!Amethyst By TheMFM!and one more extra song ;)Main Menu Theme by SollaxxScapeSollaxx Engine v2.1! An engine built for this mod with extra features and gameplay!It is compatible with Psych Engine 1.0 not older.Source code: Coming soon ;)all engine ports are allowed. And I mean ALL.\u0026nbsp;More soon!Disclaimer: The mod has just left the BETA STAGE, but still will have tons of updates in the future.updates will be available over time of mod's development.Stay Tuned!-SollaxxScape",
+          "author": "SollaxxScape",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
+          "likes": 42,
+          "downloads": 11911,
+          "views": 21636,
+          "publishedAt": 1730671567,
+          "updatedAt": 1791748266,
+          "url": "https://gamebanana.com/mods/553388",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 634202,
+          "title": "Friday Night Funkin': Last Rap",
+          "description": "links to the creator's socials is in the mod creditshi guys welcome to my mod its very cool mod red guy its my fnf but ay too many phases series on my channel watch the devlogs if you want idk enjoy the mod thing full mod the mod thinglore:oh no!!! boyfriend and girlfriend killed blu guy which was red guys broter and now he is very angry at you and is very not powerless, do you have whwat it takes? good luck................................................ wait what did i add so many dots forif you think this mod sucks do no t worry i had people reeiew the mod:\"this took 1 year? bro this looks like the equivalent of throwing a paint bucket at a canvas\" - ignoh...OG Mod Backgrounds (all bgs were found on google images but still):https://gamebanana.com/mods/408214https://gamebanana.com/mods/44225https://gamebanana.com/mods/196642https://gamebanana.com/mods/606077mid fight masseshttps://gamebanana.com/mods/44214EPILEPSY WARNINGalso the performance is hilariously bad in a few songs and there isn't much i can do about it, if you aren't playing for visuals and you're just trying to beat the songs, you can enable low quality in the options",
+          "author": "B0YFR1END",
+          "image": "https://images.gamebanana.com/img/ss/mods/691ae06e79cc1.jpg",
+          "likes": 16,
+          "downloads": 504,
+          "views": 5847,
+          "publishedAt": 1763417556,
+          "updatedAt": 1791766133,
+          "url": "https://gamebanana.com/mods/634202",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 608285,
+          "title": "THE BLEEDING HOUR",
+          "description": "\"chatgpt describe THE BLEEDING HOUR\"THE BLEEDING HOUR is a Vs. Mouse fanmod created by JudiiDoodle, Treewater and AshtonMG5 which has been self-described as \"the ramblings of an insane person\"This mod covers every corner of the Vs. Mouse mythos, from official content to popular fan media, with our own spin on it. we also do other things once in a blue moon on friday the 13th",
+          "author": "JudiiDoodle",
+          "image": "https://images.gamebanana.com/img/ss/mods/6acce38131d8d.jpg",
+          "likes": 11,
+          "downloads": 702,
+          "views": 2971,
+          "publishedAt": 1753052431,
+          "updatedAt": 1791812946,
+          "url": "https://gamebanana.com/mods/608285",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "label": "Best of This Week",
+      "mods": [
+        {
           "id": 507813,
           "title": "FNF: Doki Mixes V4 Version 4 (THE WEEKEND UPDATE)",
           "description": "DOKI MIXES V4 IS OUT!!!Including- 39 NEW SONGS- 18 NEW SPRITES- 8 WEEKS- ENTIRELY OVERHAULED MENUS (DDTO STYLED)- DDTO STYLED PAUSE MENU- AND MORE!!!",
           "author": "RPG Visual/YouTube",
           "image": "https://images.gamebanana.com/img/ss/mods/69996da487309.jpg",
           "likes": 90,
-          "downloads": 5531,
-          "views": 46279,
+          "downloads": 5730,
+          "views": 46422,
           "publishedAt": 1713327845,
           "updatedAt": 1791739918,
           "url": "https://gamebanana.com/mods/507813",
@@ -45,8 +161,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 68,
-          "downloads": 12883,
-          "views": 38946,
+          "downloads": 12989,
+          "views": 38976,
           "publishedAt": 1737928649,
           "updatedAt": 1791739213,
           "url": "https://gamebanana.com/mods/571604",
@@ -61,17 +177,17 @@
           }
         },
         {
-          "id": 626528,
-          "title": "FNF: WHERE THE EVIL LIVES IN [SPOTLIGHT UPDATE]",
-          "description": "WHERE THE EVIL LIVES IN\"This mod might have some spoilers regarding some works so make sure to check them out!\"WHERE THE EVIL LIVES IN is a FNF mod created by KillLa蓮 \u0026 Frosttim3r it consists of a compilation of one-shot songs featuring characters from any horror media such as: movies, series, games and stories.Lore (ignore if u want lol):\"Years have passed after the events of FNF and BF and GF have finally stayed together, But nothing lasts forever. On a mysterious night, the sky turned red, innocent screams rang out, eyes turned away, and knees buckled as a chaotic, bloodthirsty figure descended from the heavens—the one who proclaimed himself the God of this world. The earth split in two, buildings crumbled, taking the lives of many. BF could do nothing but flee, but that entity had different plans for everyone there. In the blink of an eye, GF had her guts brutally ripped out, BF's eyes widened, his heart stopped instantly as the corpse of his beloved fell at his feet while blood poured from the sky and flooded the city. At that moment, no one was safe, And then, everything went dark, and nothing remained but the rotting carcasses of innocent corpses. BF therefore awakens in a parallel world, where there is nothing, only a dark and lifeless void, alone, trapped and confused. A disconcerting and demonic voice sounds in his ears, words like: \"FEEL,\" \"SEE,\" and \"PRAY.\" It seemed like a dream. BF wanted to believe it was a dream, to see his beloved brutally murdered before his eyes. It didn't seem real. BF kneels, tears streaming down his face, his neutral expression turning to mourning. \"NO! WHAT THE FUCK IS THIS?!\" BF exclaims, \"THERE IS NOTHING TO FEAR.\" The same voice echoes in his head. \"THIS IS SALVATION. YOUR LIVES AND BROKEN BODIES, SO SMALL, ARE NO LONGER IMPORTANT. NO ONE IS MORE IMPORTANT.\" The voice speaks, \"I DON'T CARE, I'M GOING TO KILL YOU, YOU SON OF A BITCH! WHOEVER YOU ARE!\" BF shouts, \"THEN WE'LL SEE, DO WHAT YOU DO BEST, AND I'LL MIGHT HAVE OTHER PLANS FOR YOU, SO DON'T DIE!\" the voice exclaims back. BF stands up, wipes away his tears, maintains a firm and strong posture.\"TAKE IT!\" the voice calls back as a microphone emerges from the floor. BF picks it up and looks at it with a mocking and confident expression, \"HA! You must have shit in your mind, I'm going to rip your dick off and make you swallow it back!\" The voice doesn't respond back, \"HMPH! Asshole...\" BF whispers as he walks towards what looks like a bright light, and as he approaches he encounters his first opponent. From then on, BF will finally discover that there is no goodness there, and that EVIL WILL LIVE WITH HIM NO MATTER WHERE HE IS\"Mod includes:- 5 Songs (for now)- Revamped Title Screen- Death Voice lines for each character- Cool visuals- Unlockable Trophies- Banger songs- Custom death screen- Blessed by ZalgoThere are many creepy opponents to come! Can you guess who the next opponent will be in the mod? see you on the flip side! and always remember:ZALGO LOVES YOU!This is a MOD PACK so use regular Psych Engine though is compatible with P-Slice Engine which you can get it HEREDISCLAIMER: MOD MADE ENTIRELY ON MY CRAPPY ASS PHONE SO IF U SEE ANY ODDITIES PLZ LET ME KNOW! IF YOU'RE FEELING THAT THE SONGS ARE NOT IN SYNC, PAUSE AND UNPAUSE OR RESTART THE SONG I DO EVERYTHING IN THIS DAMN THING SO PLEASE FORGIVE ME IF ITS POORLY OPTIMIZED :((",
-          "author": "KillLaLotus",
-          "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
-          "likes": 56,
-          "downloads": 5094,
-          "views": 19015,
-          "publishedAt": 1760283991,
-          "updatedAt": 1791781434,
-          "url": "https://gamebanana.com/mods/626528",
+          "id": 615291,
+          "title": "[SHOP] The Average OC Mod 2.5",
+          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely)\u0026nbsp;a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u0026gt;Five full (?) original songs, featuring vastly different ideas and characters.\u0026gt;A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u0026gt;A loosely driven, solely shown in pause menu story spanning every song.\u0026gt;Custom menus, featuring brand new music work and hand-drawn visuals.\u0026gt;40+ Achievements and unlockables\u0026gt; A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u0026gt;OCs, duh.",
+          "author": "cravethyrave",
+          "image": "https://images.gamebanana.com/img/ss/mods/6acab952594a1.jpg",
+          "likes": 65,
+          "downloads": 2795,
+          "views": 15623,
+          "publishedAt": 1755844445,
+          "updatedAt": 1791670883,
+          "url": "https://gamebanana.com/mods/615291",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -89,83 +205,11 @@
           "author": "A_quaa",
           "image": "https://images.gamebanana.com/img/ss/mods/6abfda93712ba.jpg",
           "likes": 45,
-          "downloads": 5250,
-          "views": 4730,
+          "downloads": 5323,
+          "views": 4769,
           "publishedAt": 1790960736,
           "updatedAt": 1791741747,
           "url": "https://gamebanana.com/mods/723160",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 553388,
-          "title": "SollVerse [Release 1.0 Update!] [OUT OF BETA!]",
-          "description": "One day, Boyfriend and Girlfriend woke up in a place they shouldn’t have been. The air was quiet, and the world felt strangely unfamiliar. In the distance, a tall figure stepped forward, staring straight at Boyfriend....SollVerse is a fun project that has been inspired by Mid-Fight Masses and Muzix Medley (apart from what happened....).RELEASE 1.0!\u0026nbsp;This Version features 5 songs.Uncertain By Roller Lhite!Atomizer By Kyotoxer!Sapphire By SollaxxScape \u0026amp; Kyotoxer!\u0026nbsp;Epistrophy By TheMFM!Amethyst By TheMFM!and one more extra song ;)Main Menu Theme by SollaxxScapeSollaxx Engine v2.1! An engine built for this mod with extra features and gameplay!It is compatible with Psych Engine 1.0 not older.Source code: Coming soon ;)all engine ports are allowed. And I mean ALL.\u0026nbsp;More soon!Disclaimer: The mod has just left the BETA STAGE, but still will have tons of updates in the future.updates will be available over time of mod's development.Stay Tuned!-SollaxxScape",
-          "author": "SollaxxScape",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
-          "likes": 39,
-          "downloads": 11647,
-          "views": 21537,
-          "publishedAt": 1730671567,
-          "updatedAt": 1791748266,
-          "url": "https://gamebanana.com/mods/553388",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        }
-      ]
-    },
-    {
-      "id": "week",
-      "label": "Best of This Week",
-      "mods": [
-        {
-          "id": 326933,
-          "title": "Friday Night Funkin' Lily in Grave V3.0 UPDATE!",
-          "description": "\"Lily a zombie who has lost her memory of life, has been eating people and sleeping in the ground.One night, I heard an unfamiliar BEEP sound coming from above ground.Lily went above ground to see the owner of the voice.\"[This mod contents]Original Week5 WeeksOriginal Character\"Lily-Engrave\"Original Songs16 songs in total.Some cutscenesYou can also download individual cutscenes.[Files Description]lily_in_graveMODILLUSTRATIONSCutscenes and other illustrations are included. Please use them as you like.",
-          "author": "kanpei",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ac87103dd02e.jpg",
-          "likes": 91,
-          "downloads": 14887,
-          "views": 59574,
-          "publishedAt": 1633762538,
-          "updatedAt": 1791539731,
-          "url": "https://gamebanana.com/mods/326933",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 615291,
-          "title": "[SHOP] The Average OC Mod 2.5",
-          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely)\u0026nbsp;a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u0026gt;Five full (?) original songs, featuring vastly different ideas and characters.\u0026gt;A constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u0026gt;A loosely driven, solely shown in pause menu story spanning every song.\u0026gt;Custom menus, featuring brand new music work and hand-drawn visuals.\u0026gt;40+ Achievements and unlockables\u0026gt; A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u0026gt;OCs, duh.",
-          "author": "cravethyrave",
-          "image": "https://images.gamebanana.com/img/ss/mods/6acab952594a1.jpg",
-          "likes": 65,
-          "downloads": 2776,
-          "views": 15593,
-          "publishedAt": 1755844445,
-          "updatedAt": 1791670883,
-          "url": "https://gamebanana.com/mods/615291",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -183,8 +227,8 @@
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 43,
-          "downloads": 28827,
-          "views": 24586,
+          "downloads": 28846,
+          "views": 24613,
           "publishedAt": 1775338865,
           "updatedAt": 1791409401,
           "url": "https://gamebanana.com/mods/666603",
@@ -196,50 +240,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 693828,
-          "title": "[0.8.8] V SLICE MULTIPLAYER ONLINE[Beta]PC/Android",
-          "description": "Update:Global Slice 1.2 Beta Preview10 is an experimental multiplayer online fork/mod of FNF V-SliceIt adds online match rooms, Arena Mode, spectator mode, Global Active Rooms, global chat, avatars/skins, and PC/Android supportOh I just came across this video, a totally normal multiplayer gameplay, you can take it as a showcase, watching it says more than a thousand words lolThis is still a beta. Some UI elements, offsets, Android behavior and online features may still changeHow to play online with a friend:1. Open The Multiplayer menu - PC: Press b in the main menu - Android / mouse : press multiplayer panel2. One player creates a room -Give it a recognizable name so your friend can find it3. The other player joins the room from the list4. Pick a song, difficulty and variation5. Both players press Ready to Start Spectator Mode:You can spectate a match and its progress; you are just a spectator, To play, you have to join through join. While playing, you might see an eye with a counter showing the spectatorsArena Mode:Arena Mode is enabled by default and is the recommended way to play onlineIt loads matches in a safer online environment Loading the original song directly can be unstable with some heavy or heavily modified mods, especially on AndroidOnly turn off Arena Mode if you know what you are doingMods:To play online with mods, both players need the same song/chart availableIf one player is missing the required mod or chart, the match may fail or the song may not load correctly, This preview keeps some legacy compatibility features from Global Slice 1.1 to help players use compatible mods for online matches (I’ll talk more about this in detail soon, but it’s playable with mods right now)But what if I want to play with a friend using a manual mod? : The game will look in your mods folder to see if the same song and variant exist as your opponent. To play manually placed mods, you should turn off the 'verify both charts' button since that one checks that both of you have exactly the same thing; otherwise, it might cause problems.Global Active Rooms:Global Active Rooms are not 1v1 matchesThey are always-open song rooms where you may see other players in near real-time if they are playing the same song/variation, For real 1v1 gameplay, use Match Rooms and Arena ModeJust to clarify, it's still a beta and any suggestions are welcome",
-          "author": "laik7u7",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
-          "likes": 38,
-          "downloads": 16242,
-          "views": 17796,
-          "publishedAt": 1783906665,
-          "updatedAt": 1791469201,
-          "url": "https://gamebanana.com/mods/693828",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 532768,
-          "title": "ONLINE VS. Result Screen for Psych Engine",
-          "description": "This is a psych engine re-creation of the result screen from ONLINE VS.You can use it as a mod for psych engine to add the result screen to the game, use the mod's settings to determine when it will appear and use its signals with the triggerEvent function to add a custom unlock screen to your mod and make it more compatible with this result screen. If you want, you can also hold the space key, the left mouse button or any of the note keys to speed up the result screen's animations.More instructions can be found here or in the README included in the mod's folder.",
-          "author": "Applehair",
-          "image": "https://images.gamebanana.com/img/ss/mods/66ae18ae38f98.jpg",
-          "likes": 25,
-          "downloads": 4074,
-          "views": 8501,
-          "publishedAt": 1722686300,
-          "updatedAt": 1791364483,
-          "url": "https://gamebanana.com/mods/532768",
-          "engine": {
-            "id": "psych",
-            "name": "Psych Engine",
-            "icon": "psych.png"
-          },
-          "category": {
-            "id": 28367,
-            "name": "Psych Engine Mod Folders"
           }
         }
       ]
@@ -255,8 +255,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 285,
-          "downloads": 37193,
-          "views": 97325,
+          "downloads": 37217,
+          "views": 97405,
           "publishedAt": 1757793620,
           "updatedAt": 1791051178,
           "url": "https://gamebanana.com/mods/613322",
@@ -277,8 +277,8 @@
           "author": "TeiCleM",
           "image": "https://images.gamebanana.com/img/ss/mods/6abd40d3e0535.jpg",
           "likes": 268,
-          "downloads": 92696,
-          "views": 316551,
+          "downloads": 92744,
+          "views": 316576,
           "publishedAt": 1626814781,
           "updatedAt": 1790874860,
           "url": "https://gamebanana.com/mods/306788",
@@ -298,9 +298,9 @@
           "description": "The Varied Magic of FNF \u0026 VV Continues!A brand new Variety Vault release has hit the scene! Now including more content than ever before! Revisit the magic and fun of 12 beautiful games, now on your Personal Computer! All of these wonderful games have been powered up with a refreshing rhythm-based twist on their standard gameplay; made possible only through the hit Newgrounds game, Friday Night Funkin'! All neatly wrapped together into one wondrously bountiful package titled;Friday Night Funkin': Variety Vault Plus!Includes:12 great games \u0026 17(?) songs to play/discover in the Game Select Menu.Majorly revamped/remade songs \u0026 visuals for many of the V1 songs.An abundance of unlockable \u0026 customizable content.Various difficult, yet engaging mechanics.A gallery menu that offers dev insight, a peek behind the scenes, and bonus songs!A multitude of custom HUDs, Pause Menus, \u0026 UI Themes.And many, MANY more secrets to discover.Listen to the full OST!Join the community server!!! If you encounter bugs, lag or crashes, try turning off shaders/turning on low quality mode and report them in the server !!",
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
-          "likes": 184,
-          "downloads": 16367,
-          "views": 14692,
+          "likes": 185,
+          "downloads": 16433,
+          "views": 14767,
           "publishedAt": 1790182759,
           "updatedAt": 1791165780,
           "url": "https://gamebanana.com/mods/719888",
@@ -321,8 +321,8 @@
           "author": "BlueBirds",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae25a37cd32.jpg",
           "likes": 164,
-          "downloads": 37055,
-          "views": 122273,
+          "downloads": 37063,
+          "views": 122306,
           "publishedAt": 1717301118,
           "updatedAt": 1789797930,
           "url": "https://gamebanana.com/mods/517623",
@@ -343,8 +343,8 @@
           "author": "James Doodles",
           "image": "https://images.gamebanana.com/img/ss/mods/694585889a8a6.jpg",
           "likes": 114,
-          "downloads": 8598,
-          "views": 86026,
+          "downloads": 8601,
+          "views": 86071,
           "publishedAt": 1661662309,
           "updatedAt": 1790839156,
           "url": "https://gamebanana.com/mods/398598",
@@ -371,8 +371,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 272,
-          "downloads": 106059,
-          "views": 41084,
+          "downloads": 106200,
+          "views": 41151,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -393,8 +393,8 @@
           "author": "fl0pd00dle",
           "image": "https://images.gamebanana.com/img/ss/mods/6a90f7d16f80a.jpg",
           "likes": 121,
-          "downloads": 10773,
-          "views": 9798,
+          "downloads": 10817,
+          "views": 9803,
           "publishedAt": 1787938323,
           "updatedAt": 1787938365,
           "url": "https://gamebanana.com/mods/710854",
@@ -415,8 +415,8 @@
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 107,
-          "downloads": 12945,
-          "views": 29158,
+          "downloads": 13015,
+          "views": 29176,
           "publishedAt": 1742496031,
           "updatedAt": 1790585786,
           "url": "https://gamebanana.com/mods/582726",
@@ -437,8 +437,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 105,
-          "downloads": 7311,
-          "views": 14904,
+          "downloads": 7338,
+          "views": 14909,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -459,8 +459,8 @@
           "author": "DoritosDude76",
           "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
           "likes": 71,
-          "downloads": 11457,
-          "views": 24094,
+          "downloads": 11475,
+          "views": 24103,
           "publishedAt": 1753769299,
           "updatedAt": 1790743366,
           "url": "https://gamebanana.com/mods/610131",
@@ -483,12 +483,12 @@
         {
           "id": 708737,
           "title": "Shoshinkai Panikku ! DEMO",
-          "description": "Welcome to MY wonderland !Shoshinkai Panikku ! is a mod about Super Mario 64's Shoshinkai demo,This demo features 1 song against Mario in the Castle Grounds.(Make sure to use latest Codename Engine release !)",
+          "description": "",
           "author": "na0micakes",
           "image": "https://images.gamebanana.com/img/ss/mods/6a8b3cfc6f733.jpg",
           "likes": 65,
-          "downloads": 3076,
-          "views": 5641,
+          "downloads": 0,
+          "views": 5645,
           "publishedAt": 1787511652,
           "updatedAt": 1787611921,
           "url": "https://gamebanana.com/mods/708737",
@@ -505,12 +505,12 @@
         {
           "id": 422300,
           "title": "Saturday's Fatality (WI Dside)",
-          "description": "After a long time, there's a new update for this modTwitter account of the mod:https://twitter.com/Fatal1SaturdaysHISTORY:It's a nice Saturday afternoon, our protagonist was working on his crops until suddenly he sees a rabbit in the distance, the rabbit looked sad and was holding a banjo, our protagonist approaches him to ask him if something is wrong, the rabbit just stares at him then our protagonist takes out a microphone and proposes a song, the rabbit accepts and they start singing...DISCLAIMER: ENGThis build was leaked, and since we’ll still be taking quite some time to finish V2, we decided to fix up this leaked version and release it to the public as V1.5 THE SCRAPPED UPDATE Since this version consists entirely of content that was SCRAPPED AND DISCARDED FROM THE MOD, none of this content will be part of the finished build or the actual V2ESPEsta build, fue filtrada y debido a que aun nos tomaremos bastante tiempo en terminar V2, decidimos arreglar esta version filtrada y lanzarla como V1.5 al publico THE SCRAPPED UPDATE Ya que consiste de contenido completamente DESCARTADO Y DESHECHADO DEL MOD, nada de esto sera parte de la build ya terminada o de la respectiva V2",
+          "description": "",
           "author": "ShadowGame00",
           "image": "https://images.gamebanana.com/img/ss/mods/6aae0532d710a.jpg",
           "likes": 54,
-          "downloads": 26467,
-          "views": 71209,
+          "downloads": 0,
+          "views": 71220,
           "publishedAt": 1673734340,
           "updatedAt": 1789832970,
           "url": "https://gamebanana.com/mods/422300",
@@ -527,12 +527,12 @@
         {
           "id": 541027,
           "title": "Chaos Collection: Update 4 - FINAL MIX",
-          "description": "Welcome to Chaos Collection: Oneshot Gauntlet!Battle a whole SLEW of familiar characters including!Zardy: Originally from Zardys MazeNeco Arc: Originally from Type MoonSlenderman from Butchykid: Originates from butchykidThe Player from Terraria: From well, obviously Terraria (PLAY 1.4.5 WHEN IT DROPS)Toan: Originally from Dark Cloud (only on PS4/PS2)Disco Zombie: Originally from Plants Vs. ZombiesMr. Peterson: hello neighbor ?Henry Stickmin: From well, Henry StickminShygal: a internet LEGEND, shes my custom design.ENA: A indie show MASCOT, this is the design from her game! DREAM BBQPac-Man: I dont need to explain this one.Crystallis: A new take on SONIC.EXE Tricky: The madness combat legendary clown.SOU Frisk: Fucking hell lmao. evil childOgorki: pickle sonicNene: Picos SchoolDead Mario: from FNAWAustin: Wii Deleted you Corrupted DataNikku: Hotline 024 (Saruky)Curly Brace: Cave Story+Jon: EddswordMario and Slenderman: Butchykid VideosDoraemon: from DoraemonEthan Winters: From Resident Evil 7 Plus 8Magolor: From Kirbys Return To DreamlandCaine and Pomni: From the amazing digital circusJonesy: From Fortnite lmaoSolider Heartless: From Kingdom heartsGreen: From DeltaruneThe Lamb: From Cult of the lambThe Knights: From Castle CrashersHomer D. Poe: ......CHROMATICS AND ART FILES WILL COME LATER!IT IS RECOMMENDED YOU PLAY AT 90FPS OR HIGHER!SHADERS ON IF YOUR PC CAN HANDLE IT! Legacy Edition is available, but all the content from that version is mostly scrapped due to creative difficulties.This mod is meant to just be a bunch of random stuff put together for the sake of making a fun FNF project, theres no real story. Its also meant to invoke some classic vibes of fnf, along with some new ones and some modern tropes to be made fun of.WOW GUYS! WE ARE NOW ON UPDATE 4!!!WITH LOTS MORE TO COME IF I FEEL LIKE IT!ENJOY THE SUPER MEGA COLLECTION OF CHAOS",
+          "description": "",
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/69e04ea49f15c.jpg",
           "likes": 48,
-          "downloads": 6752,
-          "views": 12591,
+          "downloads": 0,
+          "views": 12661,
           "publishedAt": 1725825645,
           "updatedAt": 1790786368,
           "url": "https://gamebanana.com/mods/541027",
@@ -549,12 +549,12 @@
         {
           "id": 705101,
           "title": "OURPLE GUY: PARKER PACK",
-          "description": "DISCLAIMER: This mod is intended for those who have played, or are familiar with, Vs. OURPLE GUY. We highly recommend you give it a shot before playing OURPLE GUY: PARKER PACK.As the story goes, a pair of lovers, Brooke and Grace, began to spend time in an old childhood establishment of the latter. In the process, they end up stumbling onto a plethora of unique and expansive worlds contained inside of arcade machines. A series of strange and unexplainable events follows, leading both of them to reopen many old wounds as they struggle to cope with new ones.Now, what if I told you there was another version of this story? What if there was a much cooler, dangerous, handsome man that came before them? What if this man's one goal was to completely and utterly kick the crap out of anything and everything in his path, putting a complete stop to the horrors our original protagtonists would've been subjected to otherwise?Well, I would be lying, because this story, and this man, does not exist.Anyways, here's what it would look like if Parker was the protagonist of Vs. OURPLE GUY. Probably.",
+          "description": "",
           "author": "RILEYTRONIC",
           "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
           "likes": 44,
-          "downloads": 2584,
-          "views": 4508,
+          "downloads": 0,
+          "views": 4527,
           "publishedAt": 1787958224,
           "updatedAt": 1788038653,
           "url": "https://gamebanana.com/mods/705101",
@@ -571,12 +571,12 @@
         {
           "id": 544976,
           "title": "indiscretions: vol. 1 - sendoff update",
-          "description": "don't you think its all just a bad dream?welcome to the world of indiscretions, an experimental fnf mod that will tell a story as time goes on. you play as a character named, \"precursor\", a character who lost all memory, all she can find was a notebook that contained her thoughts and feelings in them, and a vhs player with a tape that will hopefully give her answers of who she once was.BEFORE YOU INSTALL THIS MODPACK, MAKE SURE YOU INSTALLED v1.0.1 OF CODENAME ENGINE THROUGH THE GITHUB RELEASES!! OTHER ONES WON'T WORK!!Download Codename Engine v1.0.1 here!WindowsMacLinuxRemember to extract the zip file in the mods folder, enjoy the mod!!",
+          "description": "",
           "author": "Vibreee",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
           "likes": 43,
-          "downloads": 1654,
-          "views": 12962,
+          "downloads": 0,
+          "views": 12968,
           "publishedAt": 1727491502,
           "updatedAt": 1790537518,
           "url": "https://gamebanana.com/mods/544976",
@@ -599,12 +599,12 @@
         {
           "id": 722223,
           "title": "FUNKY MANSION : CANCELLED BUILD",
-          "description": "A Culmination of 3+ Years of Work !\u0026nbsp;Apologies if it is rough around the edges . I mainly just wanted to be done with some of my older fnf related stuff !It's a collection of roughly 4+ songs that are original ( +3\u0026nbsp;if you count covers / songs that don't belong to me )Have fun looking at some oooold stuff from this gal ! (friend)",
+          "description": "",
           "author": "NoLime",
           "image": "https://images.gamebanana.com/img/ss/mods/6abbd5c82c367.jpg",
           "likes": 43,
-          "downloads": 1637,
-          "views": 2887,
+          "downloads": 0,
+          "views": 2895,
           "publishedAt": 1790697124,
           "updatedAt": 1790714093,
           "url": "https://gamebanana.com/mods/722223",
@@ -621,12 +621,12 @@
         {
           "id": 652950,
           "title": "V-Slice Results Screen for Psych Engine 1.0+",
-          "description": "Just a port of the base game's results screens. With Pico now added, I hope to get some special guests to be added in the next update.MADE FOR PSYCH ENGINE 1.0+THIS MOD HAS CUSTOMIZABLE OPTIONSNaughtyness - Censors the perfect screen, making BF clothed and removing the hearts, adding a \"TICKLE FIGHT!!\" message insteadV-Slice Accuracy Style - Changes the accuracy and combo system to align with the base game.Total Excludes Misses - The total notes tally will not include notes you missed when turned on.Results Character - Decides what character will appear in the results screen.Theme Color - Changes the color of the results screen.Theme Red/Green/Blue - sets the RGB values for the results screen.Mobile Exit - Allows mobile players to exit the results screen without issue.",
+          "description": "",
           "author": "Castanova_",
           "image": "https://images.gamebanana.com/img/ss/mods/698f655d8d2b0.jpg",
           "likes": 40,
-          "downloads": 2392,
-          "views": 6832,
+          "downloads": 0,
+          "views": 6840,
           "publishedAt": 1771005171,
           "updatedAt": 1790652882,
           "url": "https://gamebanana.com/mods/652950",
@@ -641,14 +641,36 @@
           }
         },
         {
+          "id": 693828,
+          "title": "[0.8.8] V SLICE MULTIPLAYER ONLINE[Beta]PC/Android",
+          "description": "",
+          "author": "laik7u7",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
+          "likes": 39,
+          "downloads": 0,
+          "views": 17866,
+          "publishedAt": 1783906665,
+          "updatedAt": 1791469201,
+          "url": "https://gamebanana.com/mods/693828",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 703563,
           "title": "Funk Forgotten Night[Demo 1 OUT NOW!]",
-          "description": "this is a creepy spongebob modwe have 7 songsneed CODENAME ENGINE new verisonhere：https://nightly.link/CodenameCrew/CodenameEngine/workflows/windows/main/Codename%20Engine.zipCNE Experimental",
+          "description": "",
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7d3fbf299e4.jpg",
           "likes": 39,
-          "downloads": 4706,
-          "views": 6230,
+          "downloads": 0,
+          "views": 6243,
           "publishedAt": 1786600885,
           "updatedAt": 1787535728,
           "url": "https://gamebanana.com/mods/703563",
@@ -669,8 +691,8 @@
           "author": "The Pale One",
           "image": "https://images.gamebanana.com/img/ss/mods/6607716f2d3ce.jpg",
           "likes": 38,
-          "downloads": 1299,
-          "views": 8506,
+          "downloads": 1309,
+          "views": 8508,
           "publishedAt": 1710636498,
           "updatedAt": 1790697470,
           "url": "https://gamebanana.com/mods/501378",
@@ -682,28 +704,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 567478,
-          "title": "OBSCURA RE-TAKE [V2 CANCELED BUILD]",
-          "description": "go suck a fat one this mod is dookie",
-          "author": "cj_crew",
-          "image": "https://images.gamebanana.com/img/ss/mods/68b5175351607.jpg",
-          "likes": 37,
-          "downloads": 2416,
-          "views": 8369,
-          "publishedAt": 1736231105,
-          "updatedAt": 1790221482,
-          "url": "https://gamebanana.com/mods/567478",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3199,
-          "downloads": 4628255,
-          "views": 9508148,
+          "downloads": 4628708,
+          "views": 9508264,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2631,
-          "downloads": 2002661,
-          "views": 4435011,
+          "downloads": 2002937,
+          "views": 4435095,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2356,
-          "downloads": 1860667,
-          "views": 3351766,
+          "downloads": 1861153,
+          "views": 3351845,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -781,12 +781,12 @@
         {
           "id": 44214,
           "title": "V.S. Whitty Full Week (LEGACY)",
-          "description": "While strolling with your Girlfriend though an alleyway, you happen to notice an ominous glow coming from around the corner. Out steps Whitmore (Whitty), a hot-headed rock star who happens to have some beef with your Girlfriends parents. Think you've got what it takes to get him outta there?Base game changes:VS Whitty adds a new input system, which is based off other rhythm games like etterna/quaver.VS Whitty also changes the default WASD keybinds to DFJK.Please go and support the artist and composer of the music here: https://www.instagram.com/sock.clip/Support Kade, who coded all the hard stuff here: https://www.youtube.com/watch?v=fzy2mi1CxKwListen to the soundtrack here: https://soundcloud.com/sock-wav/sets/back-alley-blitz-vs-whitty-fnf-mod-pack",
+          "description": "",
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2194,
-          "downloads": 3736792,
-          "views": 8869217,
+          "downloads": 0,
+          "views": 8869284,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2087,
-          "downloads": 840837,
-          "views": 2929605,
+          "downloads": 840880,
+          "views": 2929684,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
