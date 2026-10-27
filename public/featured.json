@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-10-27T20:05:27.701Z",
-  "revision": "fbdf3bd316eb498a",
+  "generatedAt": "2026-10-27T23:46:11.508Z",
+  "revision": "e25287490da7cec5",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -17,36 +17,14 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 732598,
-          "title": "Coastline [EXE MIX] - Playable",
-          "description": "got perms from paigey to upload this :P",
-          "author": "hypsk8r",
-          "image": "https://images.gamebanana.com/img/ss/mods/800-90_6adfb6321d4f5.jpg",
-          "likes": 18,
-          "downloads": 316,
-          "views": 714,
-          "publishedAt": 1793046430,
-          "updatedAt": 1793090721,
-          "url": "https://gamebanana.com/mods/732598",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 571604,
           "title": "FNF:REDONE",
           "description": "This was just created for fun lol and I thought the name was cool and most of the songs are from the base game of funkin but some characters, images and songs came from other mods so give some credit to them but, almost all scripts or features were edited by me were made by me and i'm the only one making it.",
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 71,
-          "downloads": 14685,
-          "views": 39441,
+          "downloads": 14726,
+          "views": 39468,
           "publishedAt": 1737928649,
           "updatedAt": 1793113180,
           "url": "https://gamebanana.com/mods/571604",
@@ -61,36 +39,14 @@
           }
         },
         {
-          "id": 615291,
-          "title": "[THORNS] The Average OC Mod 2.5",
-          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003e A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u003eOCs, duh.",
-          "author": "cravethyrave",
-          "image": "https://images.gamebanana.com/img/ss/mods/6adfc00e10e7b.jpg",
-          "likes": 68,
-          "downloads": 3563,
-          "views": 17292,
-          "publishedAt": 1755844445,
-          "updatedAt": 1793048491,
-          "url": "https://gamebanana.com/mods/615291",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 729574,
           "title": "Viernes Noche Webiando: Trifunka!",
           "description": "Después de 4 años de desarrollo, finalmente la última gran actualización más grande de Viernes Noche Webiando está aquí!Acompaña a los pololos en su travesía por Chile, enfrentándote a oponentes como Shaggy, Matt, Maritza, Metal Sonic, Hatsune Miku, Juan Carlos Bodoque, Los Pulentos, y MUCHO, MUCHO MÁS! (Mencionariamos más personajes, pero es mejor que lo descubran por su cuenta)Esta tercera nueva edición de Viernes Noche Webiando incluye:Modo Historia (18 Semanas) Más de 40 canciones* *Canciones adicionales desbloqueablesMenú de Extras: Con la galería de arte conceptual más extensa que nunca, y con nuevas funciones como los comentarios de desarrolladores y minijuegos extra.Cuatro dificultades (Fácil, Canon, Pulenta, Brígido), Nuevas cinemáticas animadas, Relación de aspecto 4:3, Modo Streamer, Sistema de logros, y la participación especial de estrellas invitadas, cameos, entre MUCHAS otras cosas.Viernes Noche Webiando está disponible en 3 idiomas distintos:Español (Chile)InglésJaponésEl soundtrack de “Viernes Noche Webiando: Trifunka!” estará disponible para su descarga en formato MP3 en esta sección, el álbum incluye toda la banda sonora, Mixes Alternativos, versiones descartadas, etc.¡Clickea aquí para descargarlo! (Disponible pronto)After 4 years of development, the latest and biggest update to Viernes Noche Webiando is finally here!Join the pololos on their journey through Chile, facing opponents like Shaggy, Matt, Maritza, Metal Sonic, Hatsune Miku, Juan Carlos Bodoque, Los Pulentos, and MUCH, MUCH MORE! (We’d mention more characters, but it’s better if you discover them for yourselves.)This third installment of Viernes Noche Webiando includes:Story Mode (18 Weeks)Over 40 songs**Additional unlockable songsExtras Menu:With the most extensive concept art gallery ever, and new features like developer commentary and extra minigames.Four difficulties (Easy, Canon, Mania, +5 Keys), new animated cutscenes, 4:3 aspect ratio, Streamer Mode, achievements, and special appearances by guest stars, cameos, and MANY other things.Viernes Noche Webiando is available in 3 different languages:Spanish (Chile)EnglishJapaneseThe soundtrack for “Viernes Noche Webiando: Trifunka!” will be available to download in MP3 format in this section. The album includes the full soundtrack, alternate mixes, and scrapped versions.Click here to download it! (Available soon)",
           "author": "MozaicoTheRobot",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad967e8b54b4.jpg",
-          "likes": 59,
-          "downloads": 1806,
-          "views": 4431,
+          "likes": 61,
+          "downloads": 1939,
+          "views": 4539,
           "publishedAt": 1792643287,
           "updatedAt": 1793107041,
           "url": "https://gamebanana.com/mods/729574",
@@ -111,8 +67,8 @@
           "author": "Coopey St. Whistler",
           "image": "https://images.gamebanana.com/img/ss/mods/6add83083acff.jpg",
           "likes": 37,
-          "downloads": 7539,
-          "views": 2216,
+          "downloads": 8103,
+          "views": 2295,
           "publishedAt": 1792901975,
           "updatedAt": 1793063873,
           "url": "https://gamebanana.com/mods/731963",
@@ -125,6 +81,50 @@
             "id": 28367,
             "name": "Psych Engine Mod Folders"
           }
+        },
+        {
+          "id": 584948,
+          "title": "FRIDAY NIGHT COLORIN'",
+          "description": "腕自慢のアナタに、そうでないアナタにも贈る、ちょっとリッチなFNF MOD。A bit rich mod for both super player and casual player.ひょんなことから迷い込んだ不思議な世界で、In a mysterious world you’ve stumbled into by chance,時にお邪魔を、時にお助けをしてくれるさまざまなギミック・特殊ノーツたちとともにsing your way through countless songs alongside a variety of gimmicks and special notes—多くの楽曲を歌いつくせ！！some of which get in your way, while others come to your aid!!イロとりどりの出会いの先に、After a series of colorful encounters,彼らは元の世界へ帰ることができるのか！？will they be able to return to their original world!?このモッドは一部日本語に対応しています。設定メニュー＞LANGUAGEから言語を変更できます",
+          "author": "Pencil_Color",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a804c9636980.jpg",
+          "likes": 31,
+          "downloads": 5042,
+          "views": 8823,
+          "publishedAt": 1743344360,
+          "updatedAt": 1793089573,
+          "url": "https://gamebanana.com/mods/584948",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 616313,
+          "title": "Vs. Nonsense v1 + 1.5 P-Slice Engine Port",
+          "description": "Hello, I'm GlitchNoob and I present: PLEASE USE THIS ENGINE FOR THE MOD (Available for mobile devices) Includes: Vs Nonsense v1 (2021) fully ported to P-Slice Vs Nonsense v1.5 fully ported to P-Slice Achievements Separate Scripts Used: Separate Opponent Scroll Speed Accuracy Based Cutscenes Accuracy Based Animations Event Accuracy Based Idle Animations Accuracy Based Text Kade Engine HUD V-Slice HUD KNOWN ISSUES Using normal Psych Engine causes the Kade Engine / V-Slice HUD to not work correctly Using my other mod: Nooby's Cool Options breaks the shaders in this mod If You Liked This Check out my Other mods Check out scripts I made",
+          "author": "GlitchNoob",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ad664a10e09b.jpg",
+          "likes": 26,
+          "downloads": 51742,
+          "views": 24359,
+          "publishedAt": 1756223623,
+          "updatedAt": 1793136203,
+          "url": "https://gamebanana.com/mods/616313",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
         }
       ]
     },
@@ -133,14 +133,36 @@
       "label": "Best of This Week",
       "mods": [
         {
+          "id": 615291,
+          "title": "[THORNS] The Average OC Mod 2.5",
+          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003e A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u003eOCs, duh.",
+          "author": "cravethyrave",
+          "image": "https://images.gamebanana.com/img/ss/mods/6adfc00e10e7b.jpg",
+          "likes": 68,
+          "downloads": 3568,
+          "views": 17300,
+          "publishedAt": 1755844445,
+          "updatedAt": 1793048491,
+          "url": "https://gamebanana.com/mods/615291",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 691582,
           "title": "VS TORD RETORDED [TORD 2 UPDATE]",
           "description": "hello this is tord retorded u should know tord`s car number yes(retake of vs tord/vs tord exprantennnrt)UPDTA 1here first week and 1 freeplay sonkyeah, I renamed archive that wasn't funny, okay? okUPDTA 2WEEk 2 Of REd FUrry REcoloR",
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6adc93b35a118.jpg",
           "likes": 60,
-          "downloads": 4032,
-          "views": 8513,
+          "downloads": 4073,
+          "views": 8594,
           "publishedAt": 1783191342,
           "updatedAt": 1792841634,
           "url": "https://gamebanana.com/mods/691582",
@@ -161,7 +183,7 @@
           "author": "burgerballs9",
           "image": "https://images.gamebanana.com/img/ss/mods/6a79efc171388.jpg",
           "likes": 58,
-          "downloads": 1721,
+          "downloads": 1724,
           "views": 7810,
           "publishedAt": 1720647605,
           "updatedAt": 1792583948,
@@ -183,8 +205,8 @@
           "author": "sans.data.win",
           "image": "https://images.gamebanana.com/img/ss/mods/6adca75d39166.jpg",
           "likes": 39,
-          "downloads": 5179,
-          "views": 6827,
+          "downloads": 5184,
+          "views": 6830,
           "publishedAt": 1786600885,
           "updatedAt": 1792843674,
           "url": "https://gamebanana.com/mods/703563",
@@ -205,33 +227,11 @@
           "author": "JustAlexus",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad7ef728ca72.jpg",
           "likes": 37,
-          "downloads": 3226,
-          "views": 2453,
+          "downloads": 3316,
+          "views": 2514,
           "publishedAt": 1792540824,
           "updatedAt": 1793021424,
           "url": "https://gamebanana.com/mods/730190",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 584948,
-          "title": "FRIDAY NIGHT COLORIN'",
-          "description": "腕自慢のアナタに、そうでないアナタにも贈る、ちょっとリッチなFNF MOD。A bit rich mod for both super player and casual player.ひょんなことから迷い込んだ不思議な世界で、In a mysterious world you’ve stumbled into by chance,時にお邪魔を、時にお助けをしてくれるさまざまなギミック・特殊ノーツたちとともにsing your way through countless songs alongside a variety of gimmicks and special notes—多くの楽曲を歌いつくせ！！some of which get in your way, while others come to your aid!!イロとりどりの出会いの先に、After a series of colorful encounters,彼らは元の世界へ帰ることができるのか！？will they be able to return to their original world!?このモッドは一部日本語に対応しています。設定メニュー＞LANGUAGEから言語を変更できます",
-          "author": "Pencil_Color",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a804c9636980.jpg",
-          "likes": 31,
-          "downloads": 4993,
-          "views": 8786,
-          "publishedAt": 1743344360,
-          "updatedAt": 1793089573,
-          "url": "https://gamebanana.com/mods/584948",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -255,8 +255,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 286,
-          "downloads": 37997,
-          "views": 100214,
+          "downloads": 38009,
+          "views": 100243,
           "publishedAt": 1757793620,
           "updatedAt": 1791051178,
           "url": "https://gamebanana.com/mods/613322",
@@ -277,8 +277,8 @@
           "author": "TeiCleM",
           "image": "https://images.gamebanana.com/img/ss/mods/6abd40d3e0535.jpg",
           "likes": 269,
-          "downloads": 93981,
-          "views": 317304,
+          "downloads": 93989,
+          "views": 317319,
           "publishedAt": 1626814781,
           "updatedAt": 1790874860,
           "url": "https://gamebanana.com/mods/306788",
@@ -299,8 +299,8 @@
           "author": "Antreys",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab552c965779.jpg",
           "likes": 196,
-          "downloads": 18880,
-          "views": 18655,
+          "downloads": 18896,
+          "views": 18697,
           "publishedAt": 1790182759,
           "updatedAt": 1791165780,
           "url": "https://gamebanana.com/mods/719888",
@@ -321,8 +321,8 @@
           "author": "kanpei",
           "image": "https://images.gamebanana.com/img/ss/mods/6ac87103dd02e.jpg",
           "likes": 101,
-          "downloads": 17903,
-          "views": 61277,
+          "downloads": 17920,
+          "views": 61283,
           "publishedAt": 1633762538,
           "updatedAt": 1791816643,
           "url": "https://gamebanana.com/mods/326933",
@@ -343,8 +343,8 @@
           "author": "RPG Visual/YouTube",
           "image": "https://images.gamebanana.com/img/ss/mods/69996da487309.jpg",
           "likes": 90,
-          "downloads": 6076,
-          "views": 48193,
+          "downloads": 6077,
+          "views": 48204,
           "publishedAt": 1713327845,
           "updatedAt": 1791739918,
           "url": "https://gamebanana.com/mods/507813",
@@ -365,36 +365,14 @@
       "label": "Best of 3 Months",
       "mods": [
         {
-          "id": 710854,
-          "title": "LittleBigPlanet Groove",
-          "description": "Welcome, sackthings \u0026 craftlings to LittleBigPlanet Groove! This mod is a small tribute to the LBP series and it's poster character: Sackboy! Despite the smaller size of this project, we all hope you enjoy a trip down memory lane and feel that same creative spirit once more!Well? What are you waiting for, a pat on the back?! Off you go!",
-          "author": "fl0pd00dle",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a90f7d16f80a.jpg",
-          "likes": 122,
-          "downloads": 12212,
-          "views": 10311,
-          "publishedAt": 1787938323,
-          "updatedAt": 1787938365,
-          "url": "https://gamebanana.com/mods/710854",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 611878,
           "title": "The Ankha Beat Crossing",
           "description": "You visit Ankha from hit game Animal Crossing but she doesn't know why you want to sing. Ankha short mod based in a old Animal Crossing mod that i worked a few years ago. Contains:- 3 Songs; Hypnosis Vs Ankha ft. Lucky A uhhh \"event\" mechanicHypnosis ErectIn a alternate timeline Ankha is taking this too seriously, and it seems Lucky is getting a bit worried about her... what could be wrong?Completely new backgrounds and visual effectsNew sprites and animations for Ankha, Lucky and moreRamune - New!!A not-so \"special\" character appears as bonus song: LollyThe adorable cat with a cute in game event- Also:New Gf reskinNew cute stickers setAchievementsTHIS IS A P-SLICE MOD FOLDERUse the latest version.Also should work in the latest versions of Psych Engine +1.0, however i still recommend using P-Slice for the best visual experience (better camera events, zooms, etc.)THANK YOU!!!WE REACH THE FINAL GOAL YAYYEven though this wasn't an FNF base mod, it still managed to reach over +100 likes, not bad for just some random hobby artist who nobody knows.As a bonus for the curious people, you can follow me on social medias to see mod behind-the-scenes/unsee content and random art which i will be sharing occasionally. Sooo enjoy the mod. me meow!!!",
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 105,
-          "downloads": 8177,
-          "views": 15233,
+          "downloads": 8186,
+          "views": 15237,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -415,8 +393,8 @@
           "author": "NovaDoggo64",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad1751b79dd3.jpg",
           "likes": 76,
-          "downloads": 6232,
-          "views": 4874,
+          "downloads": 6249,
+          "views": 4901,
           "publishedAt": 1792116583,
           "updatedAt": 1792348893,
           "url": "https://gamebanana.com/mods/728210",
@@ -437,8 +415,8 @@
           "author": "KillLaLotus",
           "image": "https://images.gamebanana.com/img/ss/mods/698535eec2316.jpg",
           "likes": 60,
-          "downloads": 6278,
-          "views": 20618,
+          "downloads": 6284,
+          "views": 20644,
           "publishedAt": 1760283991,
           "updatedAt": 1791781434,
           "url": "https://gamebanana.com/mods/626528",
@@ -459,8 +437,8 @@
           "author": "A_quaa",
           "image": "https://images.gamebanana.com/img/ss/mods/6abfda93712ba.jpg",
           "likes": 49,
-          "downloads": 6661,
-          "views": 6092,
+          "downloads": 6673,
+          "views": 6108,
           "publishedAt": 1790960736,
           "updatedAt": 1791741747,
           "url": "https://gamebanana.com/mods/723160",
@@ -472,6 +450,28 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 705101,
+          "title": "OURPLE GUY: PARKER PACK",
+          "description": "DISCLAIMER: This mod is intended for those who have played, or are familiar with, Vs. OURPLE GUY. We highly recommend you give it a shot before playing OURPLE GUY: PARKER PACK.As the story goes, a pair of lovers, Brooke and Grace, began to spend time in an old childhood establishment of the latter. In the process, they end up stumbling onto a plethora of unique and expansive worlds contained inside of arcade machines. A series of strange and unexplainable events follows, leading both of them to reopen many old wounds as they struggle to cope with new ones.Now, what if I told you there was another version of this story? What if there was a much cooler, dangerous, handsome man that came before them? What if this man's one goal was to completely and utterly kick the crap out of anything and everything in his path, putting a complete stop to the horrors our original protagtonists would've been subjected to otherwise?Well, I would be lying, because this story, and this man, does not exist.Anyways, here's what it would look like if Parker was the protagonist of Vs. OURPLE GUY. Probably.",
+          "author": "RILEYTRONIC",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
+          "likes": 47,
+          "downloads": 3325,
+          "views": 4928,
+          "publishedAt": 1787958224,
+          "updatedAt": 1788038653,
+          "url": "https://gamebanana.com/mods/705101",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
           }
         }
       ]
@@ -487,8 +487,8 @@
           "author": "PickleNuts",
           "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
           "likes": 274,
-          "downloads": 111864,
-          "views": 44097,
+          "downloads": 111898,
+          "views": 44123,
           "publishedAt": 1779474976,
           "updatedAt": 1784228187,
           "url": "https://gamebanana.com/mods/665295",
@@ -503,36 +503,14 @@
           }
         },
         {
-          "id": 705101,
-          "title": "OURPLE GUY: PARKER PACK",
-          "description": "DISCLAIMER: This mod is intended for those who have played, or are familiar with, Vs. OURPLE GUY. We highly recommend you give it a shot before playing OURPLE GUY: PARKER PACK.As the story goes, a pair of lovers, Brooke and Grace, began to spend time in an old childhood establishment of the latter. In the process, they end up stumbling onto a plethora of unique and expansive worlds contained inside of arcade machines. A series of strange and unexplainable events follows, leading both of them to reopen many old wounds as they struggle to cope with new ones.Now, what if I told you there was another version of this story? What if there was a much cooler, dangerous, handsome man that came before them? What if this man's one goal was to completely and utterly kick the crap out of anything and everything in his path, putting a complete stop to the horrors our original protagtonists would've been subjected to otherwise?Well, I would be lying, because this story, and this man, does not exist.Anyways, here's what it would look like if Parker was the protagonist of Vs. OURPLE GUY. Probably.",
-          "author": "RILEYTRONIC",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a81a66175e44.jpg",
-          "likes": 47,
-          "downloads": 3318,
-          "views": 4922,
-          "publishedAt": 1787958224,
-          "updatedAt": 1788038653,
-          "url": "https://gamebanana.com/mods/705101",
-          "engine": {
-            "id": "codename",
-            "name": "Codename Engine",
-            "icon": "codename.png"
-          },
-          "category": {
-            "id": 34764,
-            "name": "Codename Engine Mod Folders"
-          }
-        },
-        {
           "id": 666603,
           "title": "Doki Takeover - Bad Ending Plus !",
           "description": "Doki Doki Takeover: Bad Ending PlusDoki Doki Takeover: Bad Ending Plus is now officially complete.The full project has been finished and is fully playable.Even though the main development is complete, the mod will still continue to receive regular updates, improvements, fixes, and possible additional content over time.Supported EnginesThis mod is currently supported on the following engines:Psych Engine 0.7.3Psych Engine 0.6.3 (Recommended for the best gameplay experience)Psych Engine 0.7hFuture CompatibilitySupport for more engines may be added in V3.0 UpdateContent Warning⚠️ Please read before playing ⚠️This mod contains:Flashing lightsBlood in the HUDBlood effects on screenSome disturbing / “scary” sprites and visualsBecause of these visual effects, some players may experience discomfort while playing.If you feel:DizzyHeadacheEye strainAny kind of discomfortPlease stop playing immediately.Your safety comes first ( \"Roblox be like with updates\" - damienoplayzYT said ), so please play with caution.A version for sensitive users is already in production and is in beta testing. To see it, while in a song, press the \"1\" key on your computer and select \"Content Filter\". - E key to active/deactiveSupported DevicesThis mod is currently playable on:PC / DesktopLaptops / NotebooksMobile devicesAdditional NotesAlthough the project is now complete, future updates may still include:Bug fixesOptimization improvementsVisual polishReworked contentExtra compatibility supportSmall additions or bonus contentMore surprises in future updatesThank you for playing and supporting Doki Doki Takeover: Bad Ending Plus, The full experience is now here, and more updates may still come in the future.Created with love by: Nexus Team",
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 45,
-          "downloads": 29386,
-          "views": 25205,
+          "downloads": 29388,
+          "views": 25209,
           "publishedAt": 1775338865,
           "updatedAt": 1791409401,
           "url": "https://gamebanana.com/mods/666603",
@@ -553,8 +531,8 @@
           "author": "Vibreee",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
           "likes": 43,
-          "downloads": 1984,
-          "views": 13241,
+          "downloads": 1988,
+          "views": 13242,
           "publishedAt": 1727491502,
           "updatedAt": 1790537518,
           "url": "https://gamebanana.com/mods/544976",
@@ -575,11 +553,33 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 42,
-          "downloads": 14172,
-          "views": 23003,
+          "downloads": 14177,
+          "views": 23006,
           "publishedAt": 1730671567,
           "updatedAt": 1792511108,
           "url": "https://gamebanana.com/mods/553388",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 693828,
+          "title": "[0.8.8] V SLICE MULTIPLAYER ONLINE[Beta]PC/Android",
+          "description": "Update:Global Slice 1.2 Beta Preview10 is an experimental multiplayer online fork/mod of FNF V-SliceIt adds online match rooms, Arena Mode, spectator mode, Global Active Rooms, global chat, avatars/skins, and PC/Android supportOh I just came across this video, a totally normal multiplayer gameplay, you can take it as a showcase, watching it says more than a thousand words lolThis is still a beta. Some UI elements, offsets, Android behavior and online features may still changeHow to play online with a friend:1. Open The Multiplayer menu - PC: Press b in the main menu - Android / mouse : press multiplayer panel2. One player creates a room -Give it a recognizable name so your friend can find it3. The other player joins the room from the list4. Pick a song, difficulty and variation5. Both players press Ready to Start Spectator Mode:You can spectate a match and its progress; you are just a spectator, To play, you have to join through join. While playing, you might see an eye with a counter showing the spectatorsArena Mode:Arena Mode is enabled by default and is the recommended way to play onlineIt loads matches in a safer online environment Loading the original song directly can be unstable with some heavy or heavily modified mods, especially on AndroidOnly turn off Arena Mode if you know what you are doingMods:To play online with mods, both players need the same song/chart availableIf one player is missing the required mod or chart, the match may fail or the song may not load correctly, This preview keeps some legacy compatibility features from Global Slice 1.1 to help players use compatible mods for online matches (I’ll talk more about this in detail soon, but it’s playable with mods right now)But what if I want to play with a friend using a manual mod? : The game will look in your mods folder to see if the same song and variant exist as your opponent. To play manually placed mods, you should turn off the 'verify both charts' button since that one checks that both of you have exactly the same thing; otherwise, it might cause problems.Global Active Rooms:Global Active Rooms are not 1v1 matchesThey are always-open song rooms where you may see other players in near real-time if they are playing the same song/variation, For real 1v1 gameplay, use Match Rooms and Arena ModeJust to clarify, it's still a beta and any suggestions are welcome",
+          "author": "laik7u7",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
+          "likes": 39,
+          "downloads": 17847,
+          "views": 20482,
+          "publishedAt": 1783906665,
+          "updatedAt": 1791469201,
+          "url": "https://gamebanana.com/mods/693828",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -597,28 +597,6 @@
       "label": "Best of This Year",
       "mods": [
         {
-          "id": 693828,
-          "title": "[0.8.8] V SLICE MULTIPLAYER ONLINE[Beta]PC/Android",
-          "description": "Update:Global Slice 1.2 Beta Preview10 is an experimental multiplayer online fork/mod of FNF V-SliceIt adds online match rooms, Arena Mode, spectator mode, Global Active Rooms, global chat, avatars/skins, and PC/Android supportOh I just came across this video, a totally normal multiplayer gameplay, you can take it as a showcase, watching it says more than a thousand words lolThis is still a beta. Some UI elements, offsets, Android behavior and online features may still changeHow to play online with a friend:1. Open The Multiplayer menu - PC: Press b in the main menu - Android / mouse : press multiplayer panel2. One player creates a room -Give it a recognizable name so your friend can find it3. The other player joins the room from the list4. Pick a song, difficulty and variation5. Both players press Ready to Start Spectator Mode:You can spectate a match and its progress; you are just a spectator, To play, you have to join through join. While playing, you might see an eye with a counter showing the spectatorsArena Mode:Arena Mode is enabled by default and is the recommended way to play onlineIt loads matches in a safer online environment Loading the original song directly can be unstable with some heavy or heavily modified mods, especially on AndroidOnly turn off Arena Mode if you know what you are doingMods:To play online with mods, both players need the same song/chart availableIf one player is missing the required mod or chart, the match may fail or the song may not load correctly, This preview keeps some legacy compatibility features from Global Slice 1.1 to help players use compatible mods for online matches (I’ll talk more about this in detail soon, but it’s playable with mods right now)But what if I want to play with a friend using a manual mod? : The game will look in your mods folder to see if the same song and variant exist as your opponent. To play manually placed mods, you should turn off the 'verify both charts' button since that one checks that both of you have exactly the same thing; otherwise, it might cause problems.Global Active Rooms:Global Active Rooms are not 1v1 matchesThey are always-open song rooms where you may see other players in near real-time if they are playing the same song/variation, For real 1v1 gameplay, use Match Rooms and Arena ModeJust to clarify, it's still a beta and any suggestions are welcome",
-          "author": "laik7u7",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a547841816b7.jpg",
-          "likes": 39,
-          "downloads": 17827,
-          "views": 20451,
-          "publishedAt": 1783906665,
-          "updatedAt": 1791469201,
-          "url": "https://gamebanana.com/mods/693828",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 622952,
           "title": "FNF: Skyverse Plus",
           "description": "Attention, fans of Sky and the Skyverse!We are pleased to present an Unofficial (Fan-made) mod, created with a lot of love. This is not just a simple tribute; it's set in a completely new Alternate Universe.This mod introduces Heve, the new \"ModSky\" of our manifestation, and tells a unique story! Throughout your game, you'll be able to find and face both familiar faces from the original Skyverse and entirely new ones!What Does this VERSION Include?2 Week with Story: Enjoy a new week with two main songs that will introduce you to Heve's story.9 Extra Songs: After completing Story Mode, you will be able to access a new secret menu in FreePlay: Breakup!3 New Playable Characters: The fun doesn't stop there! Freeplay mode will also allow you to take control of three new characters.Various Hidden Secrets! We've hidden details, easter eggs, and surprises within the mod. Explore every corner, keep your eyes peeled, and see if you can find them all!This is just the beginning of our new story ;3WARNING! The mod contains content such as flashing lights.",
@@ -626,7 +604,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6a00dc8e67dc7.jpg",
           "likes": 38,
           "downloads": 187,
-          "views": 8504,
+          "views": 8510,
           "publishedAt": 1758927330,
           "updatedAt": 1778443101,
           "url": "https://gamebanana.com/mods/622952",
@@ -647,8 +625,8 @@
           "author": "baconeggndee",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9203aaa782d.jpg",
           "likes": 37,
-          "downloads": 2322,
-          "views": 4844,
+          "downloads": 2327,
+          "views": 4850,
           "publishedAt": 1787953964,
           "updatedAt": 1787954095,
           "url": "https://gamebanana.com/mods/710953",
@@ -669,8 +647,8 @@
           "author": "Kinako_Matcha",
           "image": "https://images.gamebanana.com/img/ss/mods/6abe471d63bec.jpg",
           "likes": 37,
-          "downloads": 2465,
-          "views": 3796,
+          "downloads": 2468,
+          "views": 3797,
           "publishedAt": 1790855188,
           "updatedAt": 1790998276,
           "url": "https://gamebanana.com/mods/722786",
@@ -691,8 +669,8 @@
           "author": "rockssaws",
           "image": "https://images.gamebanana.com/img/ss/mods/6aa62c4c7beda.jpg",
           "likes": 33,
-          "downloads": 1705,
-          "views": 7183,
+          "downloads": 1707,
+          "views": 7202,
           "publishedAt": 1787446385,
           "updatedAt": 1789275430,
           "url": "https://gamebanana.com/mods/708382",
@@ -704,6 +682,28 @@
           "category": {
             "id": 34764,
             "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 728206,
+          "title": "Friday Night Funkin'Vs Var Overhaul [Demo]",
+          "description": "Yes, I don’t think there’s much we need to say. We’re back.Please look forward to what’s coming as we continue working toward the full update of Vs Var Overhaul. :)And... Welcome, unexpected guest.",
+          "author": "Headman0213",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ad1511f6cb94.jpg",
+          "likes": 33,
+          "downloads": 666,
+          "views": 2679,
+          "publishedAt": 1792110104,
+          "updatedAt": 1792110873,
+          "url": "https://gamebanana.com/mods/728206",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3202,
-          "downloads": 4644316,
-          "views": 9512681,
+          "downloads": 4644445,
+          "views": 9512721,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2633,
-          "downloads": 2012772,
-          "views": 4439025,
+          "downloads": 2012853,
+          "views": 4439062,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2360,
-          "downloads": 1876337,
-          "views": 3355938,
+          "downloads": 1876480,
+          "views": 3355968,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2196,
-          "downloads": 3747189,
-          "views": 8872317,
+          "downloads": 3747317,
+          "views": 8872348,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2091,
-          "downloads": 842931,
-          "views": 2932618,
+          "downloads": 842941,
+          "views": 2932640,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
