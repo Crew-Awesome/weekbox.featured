@@ -1,0 +1,438 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T20:58:33.213Z",
+  "revision": "a5f31f274f918dc7",
+  "sections": [
+    {
+      "id": "spotlight",
+      "label": "Backstage Spotlight",
+      "mods": [
+        {
+          "id": "6ca85fb2439c",
+          "title": "BACKROOMS MOD",
+          "tagline": "Every place that ever was. A mod is based off Kane Parsons Backrooms series.",
+          "author": "DeathWish",
+          "image": "https://api.funkinbackstage.net/mods/6ca85fb2439c/card?v=1794077964505",
+          "likes": 12,
+          "downloads": 45,
+          "views": 125,
+          "stars": 5,
+          "ratings": 11,
+          "uploaded": "2026-11-07T19:03:29.847Z",
+          "updated": "2026-11-07T20:37:04.618Z",
+          "url": "https://funkinbackstage.net/mods/6ca85fb2439c",
+          "engine": "codename-engine",
+          "category": "full-mods"
+        }
+      ]
+    },
+    {
+      "id": "new",
+      "label": "Just Dropped",
+      "mods": [
+        {
+          "id": "fc7eb403dc14",
+          "title": "PICO (BEAR MIX)",
+          "tagline": "BEAR ALPHA IN FNF!?",
+          "author": "LuccaCappi03",
+          "image": "https://api.funkinbackstage.net/mods/fc7eb403dc14/card?v=1794084326242",
+          "likes": 0,
+          "downloads": 0,
+          "views": 2,
+          "stars": 0,
+          "ratings": 0,
+          "uploaded": "2026-11-07T20:46:20.941Z",
+          "updated": "2026-11-07T20:52:52.529Z",
+          "url": "https://funkinbackstage.net/mods/fc7eb403dc14",
+          "engine": "base-game",
+          "category": "full-mods"
+        },
+        {
+          "id": "d179b4c94204",
+          "title": "Vs Impostor Polished",
+          "tagline": "A remake of vs Impostor Legacy",
+          "author": "RAYUY",
+          "image": "https://api.funkinbackstage.net/mods/d179b4c94204/card?v=1794084263286",
+          "likes": 0,
+          "downloads": 0,
+          "views": 6,
+          "stars": 0,
+          "ratings": 0,
+          "uploaded": "2026-11-07T20:45:17.069Z",
+          "updated": "",
+          "url": "https://funkinbackstage.net/mods/d179b4c94204",
+          "engine": "psych-engine",
+          "category": "full-mods"
+        },
+        {
+          "id": "7fcbc4a0a198",
+          "title": "HUDs and Hitsounds",
+          "tagline": "HUDs, hitsounds, we've got it all, as long as you have enough rupees...",
+          "author": "ADAFunni",
+          "image": "https://api.funkinbackstage.net/mods/7fcbc4a0a198/card?v=1794083700770",
+          "likes": 0,
+          "downloads": 0,
+          "views": 2,
+          "stars": 0,
+          "ratings": 0,
+          "uploaded": "2026-11-07T20:35:05.794Z",
+          "updated": "2026-11-07T20:38:37.102Z",
+          "url": "https://funkinbackstage.net/mods/7fcbc4a0a198",
+          "engine": "base-game",
+          "category": "modpacks"
+        },
+        {
+          "id": "9a27c9a88653",
+          "title": "ASDF Rest In Peace",
+          "tagline": "Die",
+          "author": "Quaso",
+          "image": "https://api.funkinbackstage.net/mods/9a27c9a88653/card?v=1794082763974",
+          "likes": 1,
+          "downloads": 0,
+          "views": 8,
+          "stars": 5,
+          "ratings": 1,
+          "uploaded": "2026-11-07T20:19:37.742Z",
+          "updated": "2026-11-07T20:47:20.243Z",
+          "url": "https://funkinbackstage.net/mods/9a27c9a88653",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 25
+          }
+        },
+        {
+          "id": "124a60a711f1",
+          "title": "Suicide Illusion [DEMO]",
+          "tagline": "Many ways to face our feelings....",
+          "author": "TFB",
+          "image": "https://api.funkinbackstage.net/mods/124a60a711f1/card?v=1794082622471",
+          "likes": 2,
+          "downloads": 0,
+          "views": 9,
+          "stars": 5,
+          "ratings": 3,
+          "uploaded": "2026-11-07T20:17:18.418Z",
+          "updated": "2026-11-07T20:41:59.768Z",
+          "url": "https://funkinbackstage.net/mods/124a60a711f1",
+          "engine": "codename-engine",
+          "category": "modpacks",
+          "wip": {
+            "stage": "In Development",
+            "progress": 45
+          }
+        }
+      ]
+    },
+    {
+      "id": "recently-updated",
+      "label": "Recently Updated",
+      "mods": [
+        {
+          "id": "092be14f91aa",
+          "title": "Aethos REVAMPED!",
+          "tagline": "aethos, irida, sml, fnf, idk",
+          "author": "mangobear41gmailco",
+          "image": "https://api.funkinbackstage.net/mods/092be14f91aa/card?v=1793989637991",
+          "likes": 6,
+          "downloads": 0,
+          "views": 46,
+          "stars": 4,
+          "ratings": 5,
+          "uploaded": "2026-11-06T18:27:41.193Z",
+          "updated": "2026-11-07T20:56:58.121Z",
+          "url": "https://funkinbackstage.net/mods/092be14f91aa",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 5
+          }
+        },
+        {
+          "id": "232c8555fdd1",
+          "title": "funke' monke",
+          "tagline": "uhhhhhhhh🥺",
+          "author": "cody",
+          "image": "https://api.funkinbackstage.net/mods/232c8555fdd1/thumbnail?v=1793574211478",
+          "likes": 0,
+          "downloads": 0,
+          "views": 23,
+          "stars": 0,
+          "ratings": 0,
+          "uploaded": "2026-11-01T23:03:32.809Z",
+          "updated": "2026-11-07T20:31:18.875Z",
+          "url": "https://funkinbackstage.net/mods/232c8555fdd1",
+          "engine": "codename-engine",
+          "category": "modpacks",
+          "wip": {
+            "stage": "In Development",
+            "progress": 20
+          }
+        },
+        {
+          "id": "34b9cc3a45b5",
+          "title": "JEA: Komscore Edition",
+          "tagline": "JEA:KCE",
+          "author": "JEAKomscore",
+          "image": "https://api.funkinbackstage.net/mods/34b9cc3a45b5/card?v=1794082519489",
+          "likes": 2,
+          "downloads": 0,
+          "views": 39,
+          "stars": 5,
+          "ratings": 2,
+          "uploaded": "2026-11-07T18:18:46.284Z",
+          "updated": "2026-11-07T20:25:42.211Z",
+          "url": "https://funkinbackstage.net/mods/34b9cc3a45b5",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 5
+          }
+        },
+        {
+          "id": "760b36f3f1e4",
+          "title": "FNF: Timeless Daydream",
+          "tagline": "A mod about comfort.",
+          "author": "Care",
+          "image": "https://api.funkinbackstage.net/mods/760b36f3f1e4/thumbnail?v=1793547601536",
+          "likes": 20,
+          "downloads": 30,
+          "views": 245,
+          "stars": 5,
+          "ratings": 20,
+          "uploaded": "2026-11-01T15:40:11.688Z",
+          "updated": "2026-11-07T20:08:50.317Z",
+          "url": "https://funkinbackstage.net/mods/760b36f3f1e4",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 50
+          }
+        },
+        {
+          "id": "6a421e2fe8d6",
+          "title": "Funkin' Loading Screen",
+          "tagline": "Loading Screen",
+          "author": "Dzakki_Pro",
+          "image": "https://api.funkinbackstage.net/mods/6a421e2fe8d6/card?v=1794050452474",
+          "likes": 1,
+          "downloads": 18,
+          "views": 56,
+          "stars": 5,
+          "ratings": 1,
+          "uploaded": "2026-11-07T11:21:20.830Z",
+          "updated": "2026-11-07T20:08:06.427Z",
+          "url": "https://funkinbackstage.net/mods/6a421e2fe8d6",
+          "engine": "psych-engine",
+          "category": "scripts"
+        }
+      ]
+    },
+    {
+      "id": "community-favorites",
+      "label": "Community Favorites",
+      "mods": [
+        {
+          "id": "eee5ff9bfd8a",
+          "title": "VS. VAMP",
+          "tagline": "VAMP!",
+          "author": "st4rcannon",
+          "image": "https://api.funkinbackstage.net/mods/eee5ff9bfd8a/thumbnail?v=1793489381546",
+          "likes": 115,
+          "downloads": 178,
+          "views": 1108,
+          "stars": 5,
+          "ratings": 116,
+          "uploaded": "2026-10-31T23:29:52.195Z",
+          "updated": "2026-11-04T05:44:08.889Z",
+          "url": "https://funkinbackstage.net/mods/eee5ff9bfd8a",
+          "engine": "base-game",
+          "category": "full-mods"
+        },
+        {
+          "id": "b25b502e4f81",
+          "title": "FNF': 8R MIXES",
+          "tagline": "YOUR NAME FOREVER IN GOLD",
+          "author": "SwayTheDev",
+          "image": "https://api.funkinbackstage.net/mods/b25b502e4f81/thumbnail?v=1793605190744",
+          "likes": 95,
+          "downloads": 35,
+          "views": 561,
+          "stars": 5,
+          "ratings": 93,
+          "uploaded": "2026-11-02T07:45:41.535Z",
+          "updated": "2026-11-03T06:41:36.808Z",
+          "url": "https://funkinbackstage.net/mods/b25b502e4f81",
+          "engine": "base-game",
+          "category": "full-mods"
+        },
+        {
+          "id": "cd6d749c2d23",
+          "title": "Funkin' on the Heights!",
+          "tagline": "NO NOOBS ALLOWED.",
+          "author": "saki",
+          "image": "https://api.funkinbackstage.net/mods/cd6d749c2d23/thumbnail?v=1793419661515",
+          "likes": 69,
+          "downloads": 50,
+          "views": 2006,
+          "stars": 5,
+          "ratings": 74,
+          "uploaded": "2026-10-31T04:07:43.903Z",
+          "updated": "2026-10-31T21:03:09.539Z",
+          "url": "https://funkinbackstage.net/mods/cd6d749c2d23",
+          "engine": "codename-engine",
+          "category": "full-mods"
+        },
+        {
+          "id": "9b9cff01c91b",
+          "title": "ASDF's Endless Muffin Time",
+          "tagline": "It's muffin time",
+          "author": "Corleyrecord",
+          "image": "https://api.funkinbackstage.net/mods/9b9cff01c91b/thumbnail?v=1793449788592",
+          "likes": 71,
+          "downloads": 70,
+          "views": 939,
+          "stars": 5,
+          "ratings": 71,
+          "uploaded": "2026-10-31T12:29:49.833Z",
+          "updated": "",
+          "url": "https://funkinbackstage.net/mods/9b9cff01c91b",
+          "engine": "codename-engine",
+          "category": "full-mods"
+        },
+        {
+          "id": "e719c27c9a3b",
+          "title": "BFDI 26 (A FOOLS UPDATE)",
+          "tagline": "Oh My Bubble Blower!",
+          "author": "AidenDoesStuff",
+          "image": "https://api.funkinbackstage.net/mods/e719c27c9a3b/thumbnail?v=1793470062527",
+          "likes": 59,
+          "downloads": 25,
+          "views": 998,
+          "stars": 5,
+          "ratings": 56,
+          "uploaded": "2026-10-31T18:07:50.111Z",
+          "updated": "",
+          "url": "https://funkinbackstage.net/mods/e719c27c9a3b",
+          "engine": "psych-engine",
+          "category": "full-mods"
+        }
+      ]
+    },
+    {
+      "id": "in-development",
+      "label": "In Development",
+      "mods": [
+        {
+          "id": "bbac2a733e2f",
+          "title": "Guto's Endless Club Penguin Consuming!",
+          "tagline": "Aethos",
+          "author": "WindoOito",
+          "image": "https://api.funkinbackstage.net/mods/bbac2a733e2f/card?v=1793991443144",
+          "likes": 1,
+          "downloads": 0,
+          "views": 14,
+          "stars": 0,
+          "ratings": 0,
+          "uploaded": "2026-11-06T18:57:36.263Z",
+          "updated": "2026-11-07T19:52:37.568Z",
+          "url": "https://funkinbackstage.net/mods/bbac2a733e2f",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 5
+          }
+        },
+        {
+          "id": "5a01e32527ac",
+          "title": "BIOHAZARD [A ONE-SHOT MOD]",
+          "tagline": "a resident evil 7 one shot mod.",
+          "author": "bradthebradders",
+          "image": "https://api.funkinbackstage.net/mods/5a01e32527ac/card?v=1794069163295",
+          "likes": 2,
+          "downloads": 0,
+          "views": 22,
+          "stars": 5,
+          "ratings": 1,
+          "uploaded": "2026-11-07T16:32:46.660Z",
+          "updated": "2026-11-07T18:56:01.957Z",
+          "url": "https://funkinbackstage.net/mods/5a01e32527ac",
+          "engine": "psych-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 0
+          }
+        },
+        {
+          "id": "017c9f889b3f",
+          "title": "FNF kainixon",
+          "tagline": "Hello Everyone! Welcome back to another vid, and today we're playing...",
+          "author": "LookyReviewsTikTok",
+          "image": "https://api.funkinbackstage.net/mods/017c9f889b3f/card?v=1794075176999",
+          "likes": 1,
+          "downloads": 0,
+          "views": 2,
+          "stars": 5,
+          "ratings": 1,
+          "uploaded": "2026-11-07T18:12:59.751Z",
+          "updated": "2026-11-07T18:29:57.488Z",
+          "url": "https://funkinbackstage.net/mods/017c9f889b3f",
+          "engine": "codename-engine",
+          "category": "modpacks",
+          "wip": {
+            "stage": "In Development",
+            "progress": 0
+          }
+        },
+        {
+          "id": "d5408c9c1c78",
+          "title": "Funkocopia",
+          "tagline": "Time's Out.",
+          "author": "VeloTheDude",
+          "image": "https://api.funkinbackstage.net/mods/d5408c9c1c78/card?v=1794073331844",
+          "likes": 6,
+          "downloads": 1,
+          "views": 38,
+          "stars": 5,
+          "ratings": 4,
+          "uploaded": "2026-11-07T10:16:04.151Z",
+          "updated": "2026-11-07T17:42:13.687Z",
+          "url": "https://funkinbackstage.net/mods/d5408c9c1c78",
+          "engine": "codename-engine",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 5
+          }
+        },
+        {
+          "id": "681cf3faf1ce",
+          "title": "FRIDAY NIGHT FUNKIN': AFTERHOURS",
+          "tagline": "There's always something happening after hours.",
+          "author": "vyrnc0ne",
+          "image": "https://api.funkinbackstage.net/mods/681cf3faf1ce/thumbnail?v=1793557331984",
+          "likes": 8,
+          "downloads": 0,
+          "views": 75,
+          "stars": 5,
+          "ratings": 4,
+          "uploaded": "2026-11-01T18:22:20.253Z",
+          "updated": "2026-11-07T17:28:45.552Z",
+          "url": "https://funkinbackstage.net/mods/681cf3faf1ce",
+          "engine": "base-game",
+          "category": "full-mods",
+          "wip": {
+            "stage": "In Development",
+            "progress": 25
+          }
+        }
+      ]
+    }
+  ]
+}

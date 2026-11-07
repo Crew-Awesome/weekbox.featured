@@ -22,6 +22,7 @@ const (
 	topSubsURL        = "https://gamebanana.com/apiv12/Game/8694/TopSubs"
 	profileURL        = "https://gamebanana.com/apiv11/Mod"
 	modIndexURL       = "https://gamebanana.com/apiv11/Mod/Index"
+	backstageBaseURL  = "https://api.funkinbackstage.net"
 )
 
 var categoryRoots = []int{28367, 34764, 3827, 43798, 43850, 43788}
@@ -145,6 +146,72 @@ type Feed struct {
 	Rankings      []Ranking `json:"rankings"`
 }
 
+type backstageAPIData struct {
+	ID        string `json:"id"`
+	Title     string `json:"title"`
+	Tagline   string `json:"tagline"`
+	Engine    string `json:"engine"`
+	Category  string `json:"category"`
+	Thumbnail string `json:"thumbnail"`
+	Card      string `json:"card"`
+	Submitter *struct {
+		Username string `json:"username"`
+	} `json:"submitter"`
+	Featured  bool    `json:"featured"`
+	Approved  bool    `json:"approved"`
+	Withheld  *string `json:"withheld"`
+	Downloads int64   `json:"downloads"`
+	Views     int64   `json:"views"`
+	Likes     int64   `json:"likes"`
+	Stars     float64 `json:"stars"`
+	Ratings   int64   `json:"ratings"`
+	Uploaded  string  `json:"uploaded"`
+	Updated   string  `json:"updated"`
+	WIP       *struct {
+		Stage    string  `json:"stage"`
+		Progress float64 `json:"progress"`
+	} `json:"wip"`
+}
+
+type BackstageItem struct {
+	ID        string  `json:"id"`
+	Title     string  `json:"title"`
+	Tagline   string  `json:"tagline"`
+	Author    string  `json:"author"`
+	Image     string  `json:"image"`
+	Likes     int64   `json:"likes"`
+	Downloads int64   `json:"downloads"`
+	Views     int64   `json:"views"`
+	Stars     float64 `json:"stars"`
+	Ratings   int64   `json:"ratings"`
+	Uploaded  string  `json:"uploaded"`
+	Updated   string  `json:"updated"`
+	URL       string  `json:"url"`
+	Engine    string  `json:"engine"`
+	Category  string  `json:"category"`
+	WIP       *struct {
+		Stage    string  `json:"stage"`
+		Progress float64 `json:"progress"`
+	} `json:"wip,omitempty"`
+}
+
+type BackstageSection struct {
+	ID    string          `json:"id"`
+	Label string          `json:"label"`
+	Mods  []BackstageItem `json:"mods"`
+}
+
+type BackstageFeed struct {
+	SchemaVersion int                `json:"schemaVersion"`
+	GeneratedAt   string             `json:"generatedAt"`
+	Revision      string             `json:"revision"`
+	Sections      []BackstageSection `json:"sections"`
+}
+
+type backstageFeedContent struct {
+	Sections []BackstageSection `json:"sections"`
+}
+
 type feedContent struct {
 	GameID        int       `json:"gameId"`
 	CategoryRoots []int     `json:"categoryRoots"`
@@ -173,7 +240,7 @@ func (g *generator) getJSON(ctx context.Context, endpoint string, target any) er
 	}
 	defer res.Body.Close()
 	if res.StatusCode < 200 || res.StatusCode >= 300 {
-		return fmt.Errorf("GameBanana returned %s", res.Status)
+		return fmt.Errorf("API returned %s", res.Status)
 	}
 	if err := json.NewDecoder(res.Body).Decode(target); err != nil {
 		return err
@@ -617,6 +684,195 @@ func validateFeed(feed Feed, allowed map[int]bool) error {
 	return nil
 }
 
+func fetchBackstageFeed(ctx context.Context, g *generator) (BackstageFeed, error) {
+	var site struct {
+		TodaysPick string `json:"todaysPick"`
+	}
+	if err := g.getJSON(ctx, backstageBaseURL+"/site", &site); err != nil {
+		return BackstageFeed{}, fmt.Errorf("fetch Backstage site data: %w", err)
+	}
+	var mods []backstageAPIData
+	if err := g.getJSON(ctx, backstageBaseURL+"/mods", &mods); err != nil {
+		return BackstageFeed{}, fmt.Errorf("fetch Backstage mods: %w", err)
+	}
+	return buildBackstageFeed(site.TodaysPick, mods)
+}
+
+func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFeed, error) {
+	visible := make([]backstageAPIData, 0, len(mods))
+	byID := make(map[string]backstageAPIData, len(mods))
+	for _, mod := range mods {
+		if mod.ID != "" && mod.Approved && mod.Withheld == nil {
+			visible = append(visible, mod)
+			byID[mod.ID] = mod
+		}
+	}
+
+	used := make(map[string]bool)
+	sections := []BackstageSection{{ID: "spotlight", Label: "Backstage Spotlight", Mods: make([]BackstageItem, 0, 1)}}
+	spotlight, ok := byID[todaysPick]
+	if !ok {
+		for _, mod := range visible {
+			if mod.Featured {
+				spotlight, ok = mod, true
+				break
+			}
+		}
+	}
+	if ok {
+		sections[0].Mods = append(sections[0].Mods, toBackstageItem(spotlight))
+		used[spotlight.ID] = true
+	}
+
+	newMods := append([]backstageAPIData(nil), visible...)
+	sort.SliceStable(newMods, func(i, j int) bool {
+		left, right := backstageDate(newMods[i].Uploaded), backstageDate(newMods[j].Uploaded)
+		if !left.Equal(right) {
+			return left.After(right)
+		}
+		return newMods[i].ID < newMods[j].ID
+	})
+	sections = append(sections, BackstageSection{ID: "new", Label: "Just Dropped", Mods: selectBackstageItems(newMods, used, 5)})
+
+	updatedMods := append([]backstageAPIData(nil), visible...)
+	sort.SliceStable(updatedMods, func(i, j int) bool {
+		left, right := backstageDate(updatedMods[i].Updated), backstageDate(updatedMods[j].Updated)
+		if !left.Equal(right) {
+			return left.After(right)
+		}
+		return updatedMods[i].ID < updatedMods[j].ID
+	})
+	sections = append(sections, BackstageSection{ID: "recently-updated", Label: "Recently Updated", Mods: selectBackstageItems(updatedMods, used, 5)})
+
+	favorites := make([]backstageAPIData, 0, len(visible))
+	for _, mod := range visible {
+		if mod.Ratings > 0 {
+			favorites = append(favorites, mod)
+		}
+	}
+	sort.SliceStable(favorites, func(i, j int) bool {
+		left, right := favorites[i], favorites[j]
+		if left.Ratings != right.Ratings {
+			return left.Ratings > right.Ratings
+		}
+		if left.Stars != right.Stars {
+			return left.Stars > right.Stars
+		}
+		if left.Likes != right.Likes {
+			return left.Likes > right.Likes
+		}
+		return left.ID < right.ID
+	})
+	sections = append(sections, BackstageSection{ID: "community-favorites", Label: "Community Favorites", Mods: selectBackstageItems(favorites, used, 5)})
+
+	inProgress := make([]backstageAPIData, 0, len(visible))
+	for _, mod := range visible {
+		if mod.WIP != nil {
+			inProgress = append(inProgress, mod)
+		}
+	}
+	sort.SliceStable(inProgress, func(i, j int) bool {
+		left, right := inProgress[i], inProgress[j]
+		leftUpdated, rightUpdated := backstageDate(left.Updated), backstageDate(right.Updated)
+		if !leftUpdated.Equal(rightUpdated) {
+			return leftUpdated.After(rightUpdated)
+		}
+		if left.WIP.Progress != right.WIP.Progress {
+			return left.WIP.Progress > right.WIP.Progress
+		}
+		return left.ID < right.ID
+	})
+	sections = append(sections, BackstageSection{ID: "in-development", Label: "In Development", Mods: selectBackstageItems(inProgress, used, 5)})
+
+	content := backstageFeedContent{Sections: sections}
+	encoded, err := json.Marshal(content)
+	if err != nil {
+		return BackstageFeed{}, err
+	}
+	hash := sha256.Sum256(encoded)
+	feed := BackstageFeed{
+		SchemaVersion: 1,
+		GeneratedAt:   time.Now().UTC().Format("2006-01-02T15:04:05.000Z"),
+		Revision:      fmt.Sprintf("%x", hash[:])[:16],
+		Sections:      sections,
+	}
+	if err := validateBackstageFeed(feed); err != nil {
+		return BackstageFeed{}, err
+	}
+	return feed, nil
+}
+
+func selectBackstageItems(candidates []backstageAPIData, used map[string]bool, limit int) []BackstageItem {
+	items := make([]BackstageItem, 0, limit)
+	for _, mod := range candidates {
+		if used[mod.ID] {
+			continue
+		}
+		items = append(items, toBackstageItem(mod))
+		used[mod.ID] = true
+		if len(items) == limit {
+			break
+		}
+	}
+	return items
+}
+
+func toBackstageItem(mod backstageAPIData) BackstageItem {
+	author := "Unknown"
+	if mod.Submitter != nil && mod.Submitter.Username != "" {
+		author = mod.Submitter.Username
+	}
+	image := firstNonEmpty(mod.Card, mod.Thumbnail)
+	if image != "" {
+		if ref, err := url.Parse(image); err == nil {
+			base, _ := url.Parse(backstageBaseURL)
+			image = base.ResolveReference(ref).String()
+		}
+	}
+	return BackstageItem{
+		ID: mod.ID, Title: mod.Title, Tagline: mod.Tagline, Author: author,
+		Image: image, Likes: mod.Likes, Downloads: mod.Downloads, Views: mod.Views,
+		Stars: mod.Stars, Ratings: mod.Ratings, Uploaded: mod.Uploaded, Updated: mod.Updated,
+		URL:    "https://funkinbackstage.net/mods/" + url.PathEscape(mod.ID),
+		Engine: mod.Engine, Category: mod.Category, WIP: mod.WIP,
+	}
+}
+
+func backstageDate(value string) time.Time {
+	parsed, err := time.Parse(time.RFC3339, value)
+	if err != nil {
+		return time.Time{}
+	}
+	return parsed
+}
+
+func validateBackstageFeed(feed BackstageFeed) error {
+	if len(feed.Sections) != 5 {
+		return fmt.Errorf("Backstage feed has %d sections, want 5", len(feed.Sections))
+	}
+	seenSections, seenMods := make(map[string]bool), make(map[string]bool)
+	for _, section := range feed.Sections {
+		if section.ID == "" || seenSections[section.ID] {
+			return fmt.Errorf("duplicate or empty Backstage section ID %q", section.ID)
+		}
+		seenSections[section.ID] = true
+		limit := 5
+		if section.ID == "spotlight" {
+			limit = 1
+		}
+		if len(section.Mods) > limit {
+			return fmt.Errorf("Backstage section %s has too many mods", section.ID)
+		}
+		for _, mod := range section.Mods {
+			if mod.ID == "" || seenMods[mod.ID] {
+				return fmt.Errorf("duplicate or empty Backstage mod ID %q", mod.ID)
+			}
+			seenMods[mod.ID] = true
+		}
+	}
+	return nil
+}
+
 func readPrevious(path string) previousFeed {
 	data, err := os.ReadFile(path)
 	if err != nil {
@@ -629,7 +885,7 @@ func readPrevious(path string) previousFeed {
 	return previous
 }
 
-func writeFeed(path string, feed Feed) error {
+func writeFeed(path string, feed any) error {
 	data, err := json.MarshalIndent(feed, "", "  ")
 	if err != nil {
 		return err
@@ -670,6 +926,17 @@ func main() {
 	}
 	if err := writeFeed("public/featured-vslice.json", vslice); err != nil {
 		panic(err)
+	}
+	backstage, err := fetchBackstageFeed(ctx, g)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Funkin' Backstage feed not refreshed: %v\n", err)
+	} else {
+		if previous := readPrevious("public/featured-backstage.json"); previous.Revision == backstage.Revision {
+			backstage.GeneratedAt = previous.GeneratedAt
+		}
+		if err := writeFeed("public/featured-backstage.json", backstage); err != nil {
+			panic(err)
+		}
 	}
 	if err := os.Remove("public/featured-manifest.json"); err != nil && !errors.Is(err, os.ErrNotExist) {
 		panic(err)
