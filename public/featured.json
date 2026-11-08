@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-07T23:58:41.520Z",
-  "revision": "e7a69a457fea6711",
+  "generatedAt": "2026-11-08T01:48:37.392Z",
+  "revision": "850da5398470e5d7",
   "gameId": 8694,
   "categoryRoots": [
     28367,
@@ -22,9 +22,9 @@
           "description": "Funkin' Loading Screen is a Psych Engine Modules mod that adds a Loading animation following the base game style that will be coming in the upcoming week 8 update! The look in this mod is just a FAN RECREATION, so hopefully you like the results. You can also turn off Artwork in the background in the mod options menu ↓The assets of this module are entirely owned by Funkin' Crewhttps://github.com/FunkinCrew/funkin.assets/commit/7ad396e54a437da7916ee27ee68415a3485e934dANIMATIONS PREVIEW",
           "author": "DzakkiPro",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6aef05faadc35.jpg",
-          "likes": 25,
-          "downloads": 419,
-          "views": 722,
+          "likes": 26,
+          "downloads": 472,
+          "views": 798,
           "publishedAt": 1794050058,
           "updatedAt": 1794089266,
           "url": "https://gamebanana.com/mods/737396",
@@ -44,9 +44,9 @@
           "description": "Backrooms ModBackrooms Mod is a Friday Night Funkin' Modification based on the found-footage horror series Kane Pixels Backrooms created by Kane Parsons. This mod is directed by Rey131230 and Juno. Currently, Backrooms Mod is in demo form, and more content from the Kane Pixels Backrooms series will be included in future updates.The Demo?The demo for the Backrooms mod consists of fully implemented menus, four demo songs, cutscenes, and other stuff I don't know what to name!SocialsDiscord ServerTwitter",
           "author": "DeathWishFNF",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6aed440b68b6d.jpg",
-          "likes": 14,
-          "downloads": 379,
-          "views": 414,
+          "likes": 17,
+          "downloads": 581,
+          "views": 606,
           "publishedAt": 1794078260,
           "updatedAt": 1794083870,
           "url": "https://gamebanana.com/mods/720136",
@@ -67,8 +67,8 @@
           "author": "Key97",
           "image": "https://images.gamebanana.com/img/ss/mods/68dc67ab65e1a.jpg",
           "likes": 72,
-          "downloads": 15872,
-          "views": 40221,
+          "downloads": 15898,
+          "views": 40227,
           "publishedAt": 1737928649,
           "updatedAt": 1794050213,
           "url": "https://gamebanana.com/mods/571604",
@@ -89,8 +89,8 @@
           "author": "TehHijau39",
           "image": "https://images.gamebanana.com/img/ss/mods/684d373e280b3.jpg",
           "likes": 26,
-          "downloads": 736,
-          "views": 6983,
+          "downloads": 751,
+          "views": 6993,
           "publishedAt": 1736496558,
           "updatedAt": 1794039305,
           "url": "https://gamebanana.com/mods/568046",
@@ -111,8 +111,8 @@
           "author": "chxrlix",
           "image": "https://images.gamebanana.com/img/ss/mods/6aee5e506186a.jpg",
           "likes": 7,
-          "downloads": 172,
-          "views": 401,
+          "downloads": 188,
+          "views": 424,
           "publishedAt": 1794006774,
           "updatedAt": 1794024187,
           "url": "https://gamebanana.com/mods/737179",
@@ -133,58 +133,14 @@
       "label": "Best of This Week",
       "mods": [
         {
-          "id": 381373,
-          "title": "Friday Night Funkin: Sayori's Notebook V8",
-          "description": "Take a look inside Sayori's notebook of mystery, uncovering secrets and...This is a retelling of DDLC through a more unconventional means, plus 2 bonus stories featuring BF and GF, and the club members from the \"Ghost\" menu.Have fun exploring!V8 note: The menu visuals look a bit stiff right now. It's planned to be updated every now and then to look prettier, and more freeplay art is planned to be added as well. We figured you guys didn't want to wait an extra like 3 months for freeplay art that looked like it was drawn just to fill space. Please understand!#fnf #ddlcNon-edited (not-used) sayori, natsuki, yuri, and monika chromatics belong to DusterBuster",
-          "author": "MemeMachine208",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae57584414c0.jpg",
-          "likes": 126,
-          "downloads": 7748,
-          "views": 61769,
-          "publishedAt": 1654220725,
-          "updatedAt": 1793492089,
-          "url": "https://gamebanana.com/mods/381373",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 551713,
-          "title": "VS. Adam Sandler: Hubie's Halloween (Update)",
-          "description": "adam sanddaslew is back in friday nigh ttfunkin play this awonderiosu mod and see what he wantsss to say, rap it, squash it, melt it, boil itthis mod contains (thus far):30+ songs, unique experience, tremendous storytellingand adam sandlers... with friends!made by the association of clinical idiots, enjoy(NEW!!!) We also have a Spinoff mod called Sandler Mix. A great character mix FNF mod with plenty fun to have!(Click) --\u003e FNF: Sandler Mix (Click)",
-          "author": "Sakuroll",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae683320ad9d.jpg",
-          "likes": 77,
-          "downloads": 836,
-          "views": 19658,
-          "publishedAt": 1733719015,
-          "updatedAt": 1793492219,
-          "url": "https://gamebanana.com/mods/551713",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
           "id": 729574,
           "title": "Viernes Noche Webiando: Trifunka!",
           "description": "Después de 4 años de desarrollo, finalmente la última gran actualización más grande de Viernes Noche Webiando está aquí!Acompaña a los pololos en su travesía por Chile, enfrentándote a oponentes como Shaggy, Matt, Maritza, Metal Sonic, Hatsune Miku, Juan Carlos Bodoque, Los Pulentos, y MUCHO, MUCHO MÁS! (Mencionariamos más personajes, pero es mejor que lo descubran por su cuenta)Esta tercera nueva edición de Viernes Noche Webiando incluye:Modo Historia (18 Semanas) Más de 40 canciones* *Canciones adicionales desbloqueablesMenú de Extras: Con la galería de arte conceptual más extensa que nunca, y con nuevas funciones como los comentarios de desarrolladores y minijuegos extra.Cuatro dificultades (Fácil, Canon, Pulenta, Brígido), Nuevas cinemáticas animadas, Relación de aspecto 4:3, Modo Streamer, Sistema de logros, y la participación especial de estrellas invitadas, cameos, entre MUCHAS otras cosas.Viernes Noche Webiando está disponible en 3 idiomas distintos:Español (Chile)InglésJaponésEl soundtrack de “Viernes Noche Webiando: Trifunka!” estará disponible para su descarga en formato MP3 en esta sección, el álbum incluye toda la banda sonora, Mixes Alternativos, versiones descartadas, etc.¡Clickea aquí para descargarlo!After 4 years of development, the latest and biggest update to Viernes Noche Webiando is finally here!Join the pololos on their journey through Chile, facing opponents like Shaggy, Matt, Maritza, Metal Sonic, Hatsune Miku, Juan Carlos Bodoque, Los Pulentos, and MUCH, MUCH MORE! (We’d mention more characters, but it’s better if you discover them for yourselves.)This third installment of Viernes Noche Webiando includes:Story Mode (18 Weeks)Over 40 songs**Additional unlockable songsExtras Menu:With the most extensive concept art gallery ever, and new features like developer commentary and extra minigames.Four difficulties (Easy, Canon, Mania, +5 Keys), new animated cutscenes, 4:3 aspect ratio, Streamer Mode, achievements, and special appearances by guest stars, cameos, and MANY other things.Viernes Noche Webiando is available in 3 different languages:Spanish (Chile)EnglishJapaneseThe soundtrack for “Viernes Noche Webiando: Trifunka!” will be available to download in MP3 format in this section. The album includes the full soundtrack, alternate mixes, and scrapped versions.Click here to download it!",
           "author": "MozaicoTheRobot",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad967e8b54b4.jpg",
           "likes": 72,
-          "downloads": 6228,
-          "views": 9090,
+          "downloads": 6248,
+          "views": 9103,
           "publishedAt": 1792643287,
           "updatedAt": 1793642816,
           "url": "https://gamebanana.com/mods/729574",
@@ -205,8 +161,8 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae6a4f23f409.jpg",
           "likes": 52,
-          "downloads": 10399,
-          "views": 14133,
+          "downloads": 10417,
+          "views": 14134,
           "publishedAt": 1725825645,
           "updatedAt": 1793500950,
           "url": "https://gamebanana.com/mods/541027",
@@ -227,11 +183,55 @@
           "author": "NitroLightOfficial",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae42ef5457d1.jpg",
           "likes": 44,
-          "downloads": 2554,
-          "views": 20323,
+          "downloads": 2568,
+          "views": 20353,
           "publishedAt": 1685592270,
           "updatedAt": 1793646468,
           "url": "https://gamebanana.com/mods/447235",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 732685,
+          "title": "FNF vs jason the gamer",
+          "description": "friday night funky vs jason and carlos modMake sure to check out Jason's Goodie Jar after you've fully played the mod!",
+          "author": "cj_crew",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae92357d2832.jpg",
+          "likes": 41,
+          "downloads": 1219,
+          "views": 2136,
+          "publishedAt": 1793949544,
+          "updatedAt": 1793985027,
+          "url": "https://gamebanana.com/mods/732685",
+          "engine": {
+            "id": "codename",
+            "name": "Codename Engine",
+            "icon": "codename.png"
+          },
+          "category": {
+            "id": 34764,
+            "name": "Codename Engine Mod Folders"
+          }
+        },
+        {
+          "id": 452699,
+          "title": "Sarvente's Mid-Fight Masses Deluxe (Reuploaded)",
+          "description": "All credit goes to Sakurakoto for making the original modIf the original creators see this, please tell me to take it down if you don't want it here",
+          "author": "LuigiChu124",
+          "image": "https://images.gamebanana.com/img/ss/mods/649b6dc6f32b7.jpg",
+          "likes": 40,
+          "downloads": 133792,
+          "views": 185506,
+          "publishedAt": 1687907888,
+          "updatedAt": 1793938692,
+          "url": "https://gamebanana.com/mods/452699",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -249,14 +249,36 @@
       "label": "Best of This Month",
       "mods": [
         {
+          "id": 381373,
+          "title": "Friday Night Funkin: Sayori's Notebook V8",
+          "description": "Take a look inside Sayori's notebook of mystery, uncovering secrets and...This is a retelling of DDLC through a more unconventional means, plus 2 bonus stories featuring BF and GF, and the club members from the \"Ghost\" menu.Have fun exploring!V8 note: The menu visuals look a bit stiff right now. It's planned to be updated every now and then to look prettier, and more freeplay art is planned to be added as well. We figured you guys didn't want to wait an extra like 3 months for freeplay art that looked like it was drawn just to fill space. Please understand!#fnf #ddlcNon-edited (not-used) sayori, natsuki, yuri, and monika chromatics belong to DusterBuster",
+          "author": "MemeMachine208",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae57584414c0.jpg",
+          "likes": 126,
+          "downloads": 7754,
+          "views": 61779,
+          "publishedAt": 1654220725,
+          "updatedAt": 1793492089,
+          "url": "https://gamebanana.com/mods/381373",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 582726,
           "title": "Another FNF Engine Made In Godot v1.7.0",
           "description": "Another FNF Engine Made in Godot is a new FNF engine powered by Godot Engine, designed to be as modder-friendly as possible :)Feel free to check the source code to get full access to the game's code.",
           "author": "The Big Boss 050",
           "image": "https://images.gamebanana.com/img/ss/mods/6a31ceca091c8.jpg",
           "likes": 110,
-          "downloads": 16794,
-          "views": 30539,
+          "downloads": 16837,
+          "views": 30548,
           "publishedAt": 1742496031,
           "updatedAt": 1793490428,
           "url": "https://gamebanana.com/mods/582726",
@@ -278,7 +300,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6ae6531a38bca.jpg",
           "likes": 109,
           "downloads": 3634,
-          "views": 14418,
+          "views": 14419,
           "publishedAt": 1743965896,
           "updatedAt": 1793478894,
           "url": "https://gamebanana.com/mods/586813",
@@ -299,8 +321,8 @@
           "author": "NovaDoggo64",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad1751b79dd3.jpg",
           "likes": 84,
-          "downloads": 8179,
-          "views": 7355,
+          "downloads": 8206,
+          "views": 7385,
           "publishedAt": 1792116583,
           "updatedAt": 1792348893,
           "url": "https://gamebanana.com/mods/728210",
@@ -315,39 +337,17 @@
           }
         },
         {
-          "id": 610131,
-          "title": "Eevee Mix UNOFFICAL [UPDATED BUILD #3]",
-          "description": "DISCLAIMER: THIS A FAN MADE MOD! IT IS NOT OFFICAL!!!Oh NO!!! A Wild Eevee Appeared AND IT WANTS TO..... rap battle? PRESS TAB IN FREEPLAY TO SWITCH OVER TO THE PLAYABLE MIXES!",
-          "author": "DoritosDude76",
-          "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
-          "likes": 75,
-          "downloads": 12868,
-          "views": 25641,
-          "publishedAt": 1753769299,
-          "updatedAt": 1793383973,
-          "url": "https://gamebanana.com/mods/610131",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 615291,
-          "title": "[PICO] The Average OC Mod 2.5",
-          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003e A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u003eOCs, duh.",
-          "author": "cravethyrave",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae658fe4586c.jpg",
-          "likes": 71,
-          "downloads": 3766,
-          "views": 18172,
-          "publishedAt": 1755844445,
-          "updatedAt": 1793481074,
-          "url": "https://gamebanana.com/mods/615291",
+          "id": 551713,
+          "title": "VS. Adam Sandler: Hubie's Halloween (Update)",
+          "description": "adam sanddaslew is back in friday nigh ttfunkin play this awonderiosu mod and see what he wantsss to say, rap it, squash it, melt it, boil itthis mod contains (thus far):30+ songs, unique experience, tremendous storytellingand adam sandlers... with friends!made by the association of clinical idiots, enjoy(NEW!!!) We also have a Spinoff mod called Sandler Mix. A great character mix FNF mod with plenty fun to have!(Click) --\u003e FNF: Sandler Mix (Click)",
+          "author": "Sakuroll",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae683320ad9d.jpg",
+          "likes": 77,
+          "downloads": 836,
+          "views": 19659,
+          "publishedAt": 1733719015,
+          "updatedAt": 1793492219,
+          "url": "https://gamebanana.com/mods/551713",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -371,8 +371,8 @@
           "author": "Nex_isDumb",
           "image": "https://images.gamebanana.com/img/ss/mods/68c5e96da7aca.jpg",
           "likes": 288,
-          "downloads": 38493,
-          "views": 102115,
+          "downloads": 38498,
+          "views": 102130,
           "publishedAt": 1757793620,
           "updatedAt": 1791051178,
           "url": "https://gamebanana.com/mods/613322",
@@ -393,8 +393,8 @@
           "author": "Antonyny",
           "image": "https://images.gamebanana.com/img/ss/mods/69ce0f9e22597.jpg",
           "likes": 106,
-          "downloads": 8736,
-          "views": 15434,
+          "downloads": 8744,
+          "views": 15439,
           "publishedAt": 1754528161,
           "updatedAt": 1790127593,
           "url": "https://gamebanana.com/mods/611878",
@@ -409,14 +409,58 @@
           }
         },
         {
+          "id": 610131,
+          "title": "Eevee Mix UNOFFICAL [UPDATED BUILD #3]",
+          "description": "DISCLAIMER: THIS A FAN MADE MOD! IT IS NOT OFFICAL!!!Oh NO!!! A Wild Eevee Appeared AND IT WANTS TO..... rap battle? PRESS TAB IN FREEPLAY TO SWITCH OVER TO THE PLAYABLE MIXES!",
+          "author": "DoritosDude76",
+          "image": "https://images.gamebanana.com/img/ss/mods/6abaf2a9661c7.jpg",
+          "likes": 75,
+          "downloads": 12870,
+          "views": 25644,
+          "publishedAt": 1753769299,
+          "updatedAt": 1793383973,
+          "url": "https://gamebanana.com/mods/610131",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
+          "id": 615291,
+          "title": "[PICO] The Average OC Mod 2.5",
+          "description": "Less than a month since 2.0, Fah Mix arrives! Fah Mix will be a near yearly campaign of additions--with (likely) a song every two weeks! So buckle down, because a lot of drawing paper is gonna be used.The Average OC Mod is designed to be a parody of common tropes, gimmicks, and cliché's within the FNF modding community.This mod includes:\u003eFive full (?) original songs, featuring vastly different ideas and characters.\u003eA constantly expanding catalogue of a base-game character mix, completely reimagined with new remixes, visuals, and mechanics.\u003eA loosely driven, solely shown in pause menu story spanning every song.\u003eCustom menus, featuring brand new music work and hand-drawn visuals.\u003e40+ Achievements and unlockables\u003e A whole shop, featuring 500+ lines of dialogue and many, many things to buy.\u003eOCs, duh.",
+          "author": "cravethyrave",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae658fe4586c.jpg",
+          "likes": 71,
+          "downloads": 3772,
+          "views": 18173,
+          "publishedAt": 1755844445,
+          "updatedAt": 1793481074,
+          "url": "https://gamebanana.com/mods/615291",
+          "engine": {
+            "id": "executable",
+            "name": "Executable",
+            "icon": "exe.png"
+          },
+          "category": {
+            "id": 3827,
+            "name": "Executable Mod Folders"
+          }
+        },
+        {
           "id": 691582,
           "title": "VS TORD RETORDED [TORD 2 UPDATE]",
           "description": "u need codename 1.0.1 okay? okhello this is tord retorded u should know tord`s car number yes(retake of vs tord/vs tord exprantennnrt)UPDTA 1here first week and 1 freeplay sonkyeah, I renamed archive that wasn't funny, okay? okUPDTA 2WEEk 2 Of REd FUrry REcoloR",
           "author": "tordfan28",
           "image": "https://images.gamebanana.com/img/ss/mods/6adc93b35a118.jpg",
           "likes": 67,
-          "downloads": 5970,
-          "views": 10928,
+          "downloads": 5972,
+          "views": 10937,
           "publishedAt": 1783191342,
           "updatedAt": 1792841634,
           "url": "https://gamebanana.com/mods/691582",
@@ -429,6 +473,34 @@
             "id": 34764,
             "name": "Codename Engine Mod Folders"
           }
+        }
+      ]
+    },
+    {
+      "id": "six-months",
+      "label": "Best of 6 Months",
+      "mods": [
+        {
+          "id": 665295,
+          "title": "Friday Night Funkin': [RESCRIPT]",
+          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
+          "author": "PickleNuts",
+          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
+          "likes": 274,
+          "downloads": 114944,
+          "views": 45896,
+          "publishedAt": 1779474976,
+          "updatedAt": 1784228187,
+          "url": "https://gamebanana.com/mods/665295",
+          "engine": {
+            "id": "pslice",
+            "name": "P-Slice",
+            "icon": "pslice.png"
+          },
+          "category": {
+            "id": 43798,
+            "name": "P-Slice Mod Folders"
+          }
         },
         {
           "id": 551355,
@@ -437,8 +509,8 @@
           "author": "EmmAMT",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae57263975d0.jpg",
           "likes": 65,
-          "downloads": 3299,
-          "views": 13950,
+          "downloads": 3308,
+          "views": 13953,
           "publishedAt": 1729982633,
           "updatedAt": 1793433734,
           "url": "https://gamebanana.com/mods/551355",
@@ -473,34 +545,6 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "six-months",
-      "label": "Best of 6 Months",
-      "mods": [
-        {
-          "id": 665295,
-          "title": "Friday Night Funkin': [RESCRIPT]",
-          "description": "Friday Night Funkin’: [RESCRIPT] is an FNF mod loosely based on Pibby Corrupted’s “Blueballed”. We hope you enjoy this little project! -Team CribThere are optimizations for flashing lights, quality, and shaders. We've tried our best to make this as accessible as possible. This mod uses P-Slice engine",
-          "author": "PickleNuts",
-          "image": "https://images.gamebanana.com/img/ss/mods/69cc5b438fd79.jpg",
-          "likes": 274,
-          "downloads": 114915,
-          "views": 45887,
-          "publishedAt": 1779474976,
-          "updatedAt": 1784228187,
-          "url": "https://gamebanana.com/mods/665295",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
-          }
         },
         {
           "id": 685238,
@@ -510,7 +554,7 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6ae67eae6e68b.jpg",
           "likes": 46,
           "downloads": 1336,
-          "views": 5255,
+          "views": 5259,
           "publishedAt": 1781233884,
           "updatedAt": 1793489363,
           "url": "https://gamebanana.com/mods/685238",
@@ -531,8 +575,8 @@
           "author": "Nexus Team",
           "image": "https://images.gamebanana.com/img/ss/mods/6a9866ba335c1.jpg",
           "likes": 45,
-          "downloads": 30057,
-          "views": 25916,
+          "downloads": 30066,
+          "views": 25928,
           "publishedAt": 1775338865,
           "updatedAt": 1793384683,
           "url": "https://gamebanana.com/mods/666603",
@@ -545,7 +589,13 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "year",
+      "label": "Best of This Year",
+      "mods": [
         {
           "id": 544976,
           "title": "indiscretions: vol. 1 - sendoff update",
@@ -553,8 +603,8 @@
           "author": "Vibreee",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab86c07c5ab3.jpg",
           "likes": 44,
-          "downloads": 2187,
-          "views": 13413,
+          "downloads": 2191,
+          "views": 13415,
           "publishedAt": 1727491502,
           "updatedAt": 1790537518,
           "url": "https://gamebanana.com/mods/544976",
@@ -575,7 +625,7 @@
           "author": "SollaxxScape",
           "image": "https://images.gamebanana.com/img/ss/mods/6a651c2dc0ecf.jpg",
           "likes": 42,
-          "downloads": 14578,
+          "downloads": 14580,
           "views": 23253,
           "publishedAt": 1730671567,
           "updatedAt": 1792511108,
@@ -589,13 +639,7 @@
             "id": 3827,
             "name": "Executable Mod Folders"
           }
-        }
-      ]
-    },
-    {
-      "id": "year",
-      "label": "Best of This Year",
-      "mods": [
+        },
         {
           "id": 731963,
           "title": "Aura Funkin': at South America",
@@ -603,8 +647,8 @@
           "author": "Coopey St. Whistler",
           "image": "https://images.gamebanana.com/img/ss/mods/6add83083acff.jpg",
           "likes": 42,
-          "downloads": 30380,
-          "views": 5853,
+          "downloads": 30479,
+          "views": 5868,
           "publishedAt": 1792901975,
           "updatedAt": 1793063873,
           "url": "https://gamebanana.com/mods/731963",
@@ -625,33 +669,11 @@
           "author": "Comical Chaos",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae1006cd851e.jpg",
           "likes": 41,
-          "downloads": 3397,
-          "views": 4003,
+          "downloads": 3400,
+          "views": 4010,
           "publishedAt": 1793130908,
           "updatedAt": 1793491848,
           "url": "https://gamebanana.com/mods/732934",
-          "engine": {
-            "id": "executable",
-            "name": "Executable",
-            "icon": "exe.png"
-          },
-          "category": {
-            "id": 3827,
-            "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 452699,
-          "title": "Sarvente's Mid-Fight Masses Deluxe (Reuploaded)",
-          "description": "All credit goes to Sakurakoto for making the original modIf the original creators see this, please tell me to take it down if you don't want it here",
-          "author": "LuigiChu124",
-          "image": "https://images.gamebanana.com/img/ss/mods/649b6dc6f32b7.jpg",
-          "likes": 40,
-          "downloads": 133751,
-          "views": 185490,
-          "publishedAt": 1687907888,
-          "updatedAt": 1793938692,
-          "url": "https://gamebanana.com/mods/452699",
           "engine": {
             "id": "executable",
             "name": "Executable",
@@ -669,8 +691,8 @@
           "author": "Niceboy214",
           "image": "https://images.gamebanana.com/img/ss/mods/6733f77d9900d.jpg",
           "likes": 40,
-          "downloads": 5931,
-          "views": 21390,
+          "downloads": 5935,
+          "views": 21393,
           "publishedAt": 1731380331,
           "updatedAt": 1793379048,
           "url": "https://gamebanana.com/mods/555155",
@@ -682,28 +704,6 @@
           "category": {
             "id": 3827,
             "name": "Executable Mod Folders"
-          }
-        },
-        {
-          "id": 622952,
-          "title": "FNF: Skyverse Plus",
-          "description": "Attention, fans of Sky and the Skyverse!We are pleased to present an Unofficial (Fan-made) mod, created with a lot of love. This is not just a simple tribute; it's set in a completely new Alternate Universe.This mod introduces Heve, the new \"ModSky\" of our manifestation, and tells a unique story! Throughout your game, you'll be able to find and face both familiar faces from the original Skyverse and entirely new ones!What Does this VERSION Include?2 Week with Story: Enjoy a new week with two main songs that will introduce you to Heve's story.9 Extra Songs: After completing Story Mode, you will be able to access a new secret menu in FreePlay: Breakup!3 New Playable Characters: The fun doesn't stop there! Freeplay mode will also allow you to take control of three new characters.Various Hidden Secrets! We've hidden details, easter eggs, and surprises within the mod. Explore every corner, keep your eyes peeled, and see if you can find them all!This is just the beginning of our new story ;3WARNING! The mod contains content such as flashing lights.",
-          "author": "ReridotMusic",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a00dc8e67dc7.jpg",
-          "likes": 40,
-          "downloads": 187,
-          "views": 8706,
-          "publishedAt": 1758927330,
-          "updatedAt": 1778443101,
-          "url": "https://gamebanana.com/mods/622952",
-          "engine": {
-            "id": "pslice",
-            "name": "P-Slice",
-            "icon": "pslice.png"
-          },
-          "category": {
-            "id": 43798,
-            "name": "P-Slice Mod Folders"
           }
         }
       ]
@@ -719,8 +719,8 @@
           "author": "Banbuds",
           "image": "https://images.gamebanana.com/img/ss/mods/60b7d8741ac99.jpg",
           "likes": 3202,
-          "downloads": 4653775,
-          "views": 9515626,
+          "downloads": 4653873,
+          "views": 9515654,
           "publishedAt": 1615930285,
           "updatedAt": 1622678310,
           "url": "https://gamebanana.com/mods/44334",
@@ -741,8 +741,8 @@
           "author": "atsuover",
           "image": "https://images.gamebanana.com/img/ss/mods/608f014c1c991.jpg",
           "likes": 2636,
-          "downloads": 2019071,
-          "views": 4441684,
+          "downloads": 2019109,
+          "views": 4441694,
           "publishedAt": 1620061183,
           "updatedAt": 1748771994,
           "url": "https://gamebanana.com/mods/166531",
@@ -763,8 +763,8 @@
           "author": "Clowfoe",
           "image": "https://images.gamebanana.com/img/ss/mods/69ecfeb268eec.jpg",
           "likes": 2362,
-          "downloads": 1889636,
-          "views": 3359044,
+          "downloads": 1889787,
+          "views": 3359072,
           "publishedAt": 1619342831,
           "updatedAt": 1784840160,
           "url": "https://gamebanana.com/mods/55652",
@@ -785,8 +785,8 @@
           "author": "Nate Anim8",
           "image": "https://images.gamebanana.com/img/ss/mods/602ad2dd9c20e.jpg",
           "likes": 2197,
-          "downloads": 3756866,
-          "views": 8874671,
+          "downloads": 3756979,
+          "views": 8874692,
           "publishedAt": 1612158409,
           "updatedAt": 1623015492,
           "url": "https://gamebanana.com/mods/44214",
@@ -807,8 +807,8 @@
           "author": "DusterBuster",
           "image": "https://images.gamebanana.com/img/ss/mods/640df83edbfb5.jpg",
           "likes": 2091,
-          "downloads": 844073,
-          "views": 2934586,
+          "downloads": 844086,
+          "views": 2934600,
           "publishedAt": 1612684315,
           "updatedAt": 1703549459,
           "url": "https://gamebanana.com/mods/47364",
