@@ -23,6 +23,7 @@ const (
 	profileURL        = "https://gamebanana.com/apiv11/Mod"
 	modIndexURL       = "https://gamebanana.com/apiv11/Mod/Index"
 	backstageBaseURL  = "https://api.funkinbackstage.net"
+	backstageProxyURL = "https://funkinbackstage-stats.lefehanims.workers.dev/api/backstage-source"
 )
 
 var categoryRoots = []int{28367, 34764, 3827, 43798, 43850, 43788}
@@ -685,17 +686,17 @@ func validateFeed(feed Feed, allowed map[int]bool) error {
 }
 
 func fetchBackstageFeed(ctx context.Context, g *generator) (BackstageFeed, error) {
-	var site struct {
-		TodaysPick string `json:"todaysPick"`
+	var source struct {
+		TodaysPick string             `json:"todaysPick"`
+		Mods       []backstageAPIData `json:"mods"`
 	}
-	if err := g.getJSON(ctx, backstageBaseURL+"/site", &site); err != nil {
-		return BackstageFeed{}, fmt.Errorf("fetch Backstage site data: %w", err)
+	if err := g.getJSON(ctx, backstageProxyURL, &source); err != nil {
+		return BackstageFeed{}, fmt.Errorf("fetch Backstage data through proxy: %w", err)
 	}
-	var mods []backstageAPIData
-	if err := g.getJSON(ctx, backstageBaseURL+"/mods", &mods); err != nil {
-		return BackstageFeed{}, fmt.Errorf("fetch Backstage mods: %w", err)
+	if source.Mods == nil {
+		return BackstageFeed{}, errors.New("Backstage proxy response has no mods array")
 	}
-	return buildBackstageFeed(site.TodaysPick, mods)
+	return buildBackstageFeed(source.TodaysPick, source.Mods)
 }
 
 func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFeed, error) {
@@ -936,7 +937,7 @@ func main() {
 	}
 	backstage, err := fetchBackstageFeed(ctx, g)
 	if err != nil {
-		fmt.Fprintf(os.Stderr, "Funkin' Backstage feed not refreshed: %v\n", err)
+		panic(fmt.Errorf("refresh Funkin' Backstage feed: %w", err))
 	} else {
 		if previous := readPrevious("public/featured-backstage.json"); previous.Revision == backstage.Revision {
 			backstage.GeneratedAt = previous.GeneratedAt
