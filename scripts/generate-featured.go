@@ -720,7 +720,7 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 		}
 	}
 	if ok {
-		sections[0].Mods = append(sections[0].Mods, toBackstageItem(spotlight))
+		sections[0].Mods = append(sections[0].Mods, toBackstageItem(spotlight, false))
 		used[spotlight.ID] = true
 	}
 
@@ -732,7 +732,7 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 		}
 		return newMods[i].ID < newMods[j].ID
 	})
-	sections = append(sections, BackstageSection{ID: "new", Label: "Just Dropped", Mods: selectBackstageItems(newMods, used, 5)})
+	sections = append(sections, BackstageSection{ID: "new", Label: "Just Dropped", Mods: selectBackstageItems(newMods, used, 5, false)})
 
 	updatedMods := append([]backstageAPIData(nil), visible...)
 	sort.SliceStable(updatedMods, func(i, j int) bool {
@@ -742,7 +742,7 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 		}
 		return updatedMods[i].ID < updatedMods[j].ID
 	})
-	sections = append(sections, BackstageSection{ID: "recently-updated", Label: "Recently Updated", Mods: selectBackstageItems(updatedMods, used, 5)})
+	sections = append(sections, BackstageSection{ID: "recently-updated", Label: "Recently Updated", Mods: selectBackstageItems(updatedMods, used, 5, false)})
 
 	favorites := make([]backstageAPIData, 0, len(visible))
 	for _, mod := range visible {
@@ -763,7 +763,7 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 		}
 		return left.ID < right.ID
 	})
-	sections = append(sections, BackstageSection{ID: "community-favorites", Label: "Community Favorites", Mods: selectBackstageItems(favorites, used, 5)})
+	sections = append(sections, BackstageSection{ID: "community-favorites", Label: "Community Favorites", Mods: selectBackstageItems(favorites, used, 5, false)})
 
 	inProgress := make([]backstageAPIData, 0, len(visible))
 	for _, mod := range visible {
@@ -782,7 +782,7 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 		}
 		return left.ID < right.ID
 	})
-	sections = append(sections, BackstageSection{ID: "in-development", Label: "In Development", Mods: selectBackstageItems(inProgress, used, 5)})
+	sections = append(sections, BackstageSection{ID: "in-development", Label: "In Development", Mods: selectBackstageItems(inProgress, used, 5, true)})
 
 	content := backstageFeedContent{Sections: sections}
 	encoded, err := json.Marshal(content)
@@ -802,13 +802,13 @@ func buildBackstageFeed(todaysPick string, mods []backstageAPIData) (BackstageFe
 	return feed, nil
 }
 
-func selectBackstageItems(candidates []backstageAPIData, used map[string]bool, limit int) []BackstageItem {
+func selectBackstageItems(candidates []backstageAPIData, used map[string]bool, limit int, includeWIP bool) []BackstageItem {
 	items := make([]BackstageItem, 0, limit)
 	for _, mod := range candidates {
 		if used[mod.ID] {
 			continue
 		}
-		items = append(items, toBackstageItem(mod))
+		items = append(items, toBackstageItem(mod, includeWIP))
 		used[mod.ID] = true
 		if len(items) == limit {
 			break
@@ -817,7 +817,7 @@ func selectBackstageItems(candidates []backstageAPIData, used map[string]bool, l
 	return items
 }
 
-func toBackstageItem(mod backstageAPIData) BackstageItem {
+func toBackstageItem(mod backstageAPIData, includeWIP bool) BackstageItem {
 	author := "Unknown"
 	if mod.Submitter != nil && mod.Submitter.Username != "" {
 		author = mod.Submitter.Username
@@ -829,13 +829,17 @@ func toBackstageItem(mod backstageAPIData) BackstageItem {
 			image = base.ResolveReference(ref).String()
 		}
 	}
-	return BackstageItem{
+	item := BackstageItem{
 		ID: mod.ID, Title: mod.Title, Tagline: mod.Tagline, Author: author,
 		Image: image, Likes: mod.Likes, Downloads: mod.Downloads, Views: mod.Views,
 		Stars: mod.Stars, Ratings: mod.Ratings, Uploaded: mod.Uploaded, Updated: mod.Updated,
 		URL:    "https://funkinbackstage.net/mods/" + url.PathEscape(mod.ID),
-		Engine: mod.Engine, Category: mod.Category, WIP: mod.WIP,
+		Engine: mod.Engine, Category: mod.Category,
 	}
+	if includeWIP {
+		item.WIP = mod.WIP
+	}
+	return item
 }
 
 func backstageDate(value string) time.Time {
@@ -864,6 +868,9 @@ func validateBackstageFeed(feed BackstageFeed) error {
 			return fmt.Errorf("Backstage section %s has too many mods", section.ID)
 		}
 		for _, mod := range section.Mods {
+			if section.ID != "in-development" && mod.WIP != nil {
+				return fmt.Errorf("Backstage section %s contains WIP metadata", section.ID)
+			}
 			if mod.ID == "" || seenMods[mod.ID] {
 				return fmt.Errorf("duplicate or empty Backstage mod ID %q", mod.ID)
 			}
