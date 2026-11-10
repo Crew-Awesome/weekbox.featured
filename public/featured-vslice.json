@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-10T18:16:58.888Z",
-  "revision": "2e58ad55fe51c30f",
+  "generatedAt": "2026-11-10T23:27:45.188Z",
+  "revision": "814eee8ca9cff649",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -12,83 +12,17 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 726610,
-          "title": "FNF: Backrooms SongPack",
-          "description": "This is a FNF Mod that is based off the backrooms and mixes it with FNF! This mod is bassically as if there was Backrooms Themed DLC for FNF This is a FNF mod that requires FNF 0.8.6, if you have any issues with the mod, CHECK YOUR VERSION FIRST!!",
-          "author": "Hydietri",
-          "image": "https://images.gamebanana.com/img/ss/mods/6af22b3249fa7.jpg",
-          "likes": 46,
-          "downloads": 7265,
-          "views": 6724,
-          "publishedAt": 1791728412,
-          "updatedAt": 1794257184,
-          "url": "https://gamebanana.com/mods/726610",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
           "id": 737430,
           "title": "[UNOFFICIAL V-SLICE PORT] Funkin' Loading Screen",
           "description": "Funkin' Loading Screen is a mod that adds a Loading animation following the base game style that will be coming in the upcoming week 8 update! The look in this mod is just a fan recreation, so hopefully you like the results.",
           "author": "RandomFNFFan123",
           "image": "https://images.gamebanana.com/img/ss/mods/6aef1ff15c0b2.jpg",
           "likes": 19,
-          "downloads": 1476,
-          "views": 1355,
+          "downloads": 1648,
+          "views": 1487,
           "publishedAt": 1794056650,
           "updatedAt": 1794324986,
           "url": "https://gamebanana.com/mods/737430",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 736800,
-          "title": "Psych Engine Things",
-          "description": "ABOUT THE MOD:Do you remember the old splashes, old arrow behavior, and long notes opacity? So now, you can have it here! This mod is only visual, nothing extraordinary.FEATURES:- Old/Psych Engine Splashes;- Long notes sustain opacity;- Arrow glow remains active while pressed;- Botplay (Psych Engine style, enable or disable it on preferences);- Ghost Tapping (Enable or disable it on preferences).ENGINE THINGS COLLECTION:Check the other Engine Things projects:• Kade Engine Things",
-          "author": "_NoobGuyX",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aed061e6009f.jpg",
-          "likes": 6,
-          "downloads": 583,
-          "views": 1284,
-          "publishedAt": 1793918559,
-          "updatedAt": 1794260851,
-          "url": "https://gamebanana.com/mods/736800",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 737066,
-          "title": "Pico Mixes Vs Boyfriend",
-          "description": "\u0026nbsp;Pico Mixes Vs BoyfriendEver wondered what Pico Mixes would sound like if Boyfriend was the opponent instead?This mod reimagines Pico Mixes as battles against BF, using synchronized vocals to make the two characters sing against each other!How does it work?- BF uses the original opponents' vocals, synchronized with his notes, effectively taking their roles (since he copies everyone before Weekend 1 and I never understand why...).- Pico performs his Pico Mixes normally.- Currently includes songs from Week 1, Pico and Stress.But there's more!Ever noticed how some mods put Girlfriend with Pico and Nene with BF? (Especially in the pre-Character Select era.)No hate, but...There's a little problem with that...Pico REALLY doesn't like GF because he still has feelings for BF, and Nene wants BF dead to get her money (and also to put an end to Pico's feelings for him).So I made a custom V-Slice script (which I have to admit is partially vibecoded, but only because I didn't know how to get shaders working on Nene and GF) that detects when BF and Pico are in the same song and replaces the usual single support character with BOTH GF and Nene, using their Character Select appearances!And you can use it freely in your own mods!This way, neither character has to awkwardly spectate someone they dislike.To access the variations you need to scroll to the last difficulty in Pico's FreePlay (which use Nightmare assets) where you will see the songs but with bf as the opponentThis is a fan-made project and is NOT an official Multiplayer mode. (And if you're here for that, I'm sorry, but Boyfriend is still controlled by AI.)",
-          "author": "Noiceshot",
-          "image": "https://images.gamebanana.com/img/ss/mods/6aee099b24fd2.jpg",
-          "likes": 6,
-          "downloads": 456,
-          "views": 589,
-          "publishedAt": 1793987010,
-          "updatedAt": 1794251565,
-          "url": "https://gamebanana.com/mods/737066",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -106,11 +40,77 @@
           "author": "-ThatOneDude-",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae2a8e42fb4a.jpg",
           "likes": 4,
-          "downloads": 961,
-          "views": 1450,
+          "downloads": 992,
+          "views": 1489,
           "publishedAt": 1793241040,
           "updatedAt": 1794282063,
           "url": "https://gamebanana.com/mods/733452",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 738602,
+          "title": "Mucita Skin Boyfriend V-Slice",
+          "description": "Change boyfriend for a furry I saw on Pinterest whose name I didn't see, so I called him Mucita just like the Mexican candies with 3 colors",
+          "author": "Sporlex",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af26a545fb48.jpg",
+          "likes": 1,
+          "downloads": 36,
+          "views": 408,
+          "publishedAt": 1794272573,
+          "updatedAt": 1794342775,
+          "url": "https://gamebanana.com/mods/738602",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 721662,
+          "title": "PICO (BEAR MIX) (joke Mod lol)",
+          "description": "Lol aaaaaaa",
+          "author": "Lucca Cappi",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ab9a6b45267e.jpg",
+          "likes": 1,
+          "downloads": 107,
+          "views": 274,
+          "publishedAt": 1790551779,
+          "updatedAt": 1794268710,
+          "url": "https://gamebanana.com/mods/721662",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 738594,
+          "title": "PICO (BEAR MIX) (UGH UPDATE/v2.0)",
+          "description": "Aaaaaaaaaaaaaaaaaaáaaaaaaaaaá@aaaaaaaaaaaaaaaaaaa",
+          "author": "Lucca Cappi",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af25f342651c.jpg",
+          "likes": 1,
+          "downloads": 21,
+          "views": 92,
+          "publishedAt": 1794269112,
+          "updatedAt": 1794269112,
+          "url": "https://gamebanana.com/mods/738594",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -128,14 +128,36 @@
       "label": "Best of This Week",
       "mods": [
         {
+          "id": 726610,
+          "title": "FNF: Backrooms SongPack",
+          "description": "This is a FNF Mod that is based off the backrooms and mixes it with FNF! This mod is bassically as if there was Backrooms Themed DLC for FNF This is a FNF mod that requires FNF 0.8.6, if you have any issues with the mod, CHECK YOUR VERSION FIRST!!",
+          "author": "Hydietri",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af22b3249fa7.jpg",
+          "likes": 47,
+          "downloads": 7325,
+          "views": 6784,
+          "publishedAt": 1791728412,
+          "updatedAt": 1794257184,
+          "url": "https://gamebanana.com/mods/726610",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
           "id": 702439,
           "title": "Friday Night Funkin 0.8.8 Optimizado Update",
           "description": "FNF BASE — PERFORMANCE OPTIMIZER ​Unleash maximum FPS and enjoy smooth, lag-free rhythm gameplay even on low-end devices!​ABOUT THE PROJECT​This is an optimized build of base Friday Night Funkin', carefully re-engineered to deliver silky-smooth performance and rock-solid FPS stability on mobile devices and low-spec hardware.​By stripping away heavy GPU filters, background shaders, and unnecessary visual clutter while streamlining memory management, this project completely eliminates frame drops and input latency.​Experience crisp, precise note timing with zero distraction — keeping the iconic FNF vibe alive, but lightweight and faster than ever! ​Lightweight • Ultra Fast • Zero Input Lag Discord serverScript Low Quality by noctrox gato (es casi el mismo porque use la base del Script) perdon bro :(",
           "author": "FunkyFacu",
           "image": "https://images.gamebanana.com/img/ss/mods/6ad938ccce7fa.jpg",
           "likes": 41,
-          "downloads": 48612,
-          "views": 17841,
+          "downloads": 48781,
+          "views": 17880,
           "publishedAt": 1787497443,
           "updatedAt": 1794087569,
           "url": "https://gamebanana.com/mods/702439",
@@ -156,8 +178,8 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6ab3080427919.jpg",
           "likes": 27,
-          "downloads": 9283,
-          "views": 16905,
+          "downloads": 9293,
+          "views": 16934,
           "publishedAt": 1766243684,
           "updatedAt": 1794086379,
           "url": "https://gamebanana.com/mods/640638",
@@ -178,8 +200,8 @@
           "author": "RagdollClash",
           "image": "https://images.gamebanana.com/img/ss/mods/663ec2c7841a6.jpg",
           "likes": 24,
-          "downloads": 1287,
-          "views": 8623,
+          "downloads": 1288,
+          "views": 8635,
           "publishedAt": 1715388856,
           "updatedAt": 1793914658,
           "url": "https://gamebanana.com/mods/512836",
@@ -201,32 +223,10 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6aeb2c830c09c.jpg",
           "likes": 23,
           "downloads": 1566,
-          "views": 3805,
+          "views": 3810,
           "publishedAt": 1786390856,
           "updatedAt": 1793797460,
           "url": "https://gamebanana.com/mods/702667",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 735705,
-          "title": "FNF: Animania! V-Slice Port",
-          "description": "Friday Night Funkin': Animania! V-Slice Port Is HereAll Credits to Animania!Crew (already written in the credits section of the port)This is a port that replicates the FNF: Animania! mod 100% (or nearly so). I am not posting this to make a profit or to claim credit for myself; all credits are already listed.What's insideSongs and weeks: Week 1 (Bopeebo, Fresh, Dad Battle), Week 5 (Cocoa, Eggnog, Winter Horrorland) and the Komi \"Phone Call\" level, each with its own stages, characters and note styles.Recreated menus: title screen with its intro, main menu (with the OST button that opens Animania Crew's music links), Freeplay, Story Menu, loading screen with an audio visualizer, and pause menu. All were visually recreated and then manually coded. The rest of the menus are still being worked on.Pause menu with built-in options: change your keybinds, miss/hit sound volume, framerate, judgements, note splashes, camera shake, hints, flashing lights, auto pause and vsync without leaving the song.Winter Horrorland mechanic: fully working, with its own dodge/attack system, cinematic camera and a special game over.Animania HUD: curved health bar, time bar, score, rating/combo popups, Full Combo animation and custom icons with death animations.Story Mode continuity: your health and camera position carry over between songs of the same week, so transitions feel seamless.Solo Time: the special notes and splash included.Discord Rich Presence (PC) showing the menu or the song you're playing.Mobile and performance(Mobile only) A location selector for the Winter Horrorland mechanic button: left, center or right. You can find it in Options \u003e Preferences.Performance options in Options \u003e Preferences: turn off the custom shaders or enable \"low quality\" mode if your phone or tablet isn't very powerful.Compatible with the \"Mobile Like PC\" mod, so many of its options and settings will work (though you should avoid using \"middlescroll\" during songs that move the notes, unless that doesn't bother you).If you encounter any errors, you can reach out to me on TikTok or report the bug or issue here.The news menu is coming soon...",
-          "author": "FNF Fan (@full.fnf tiktok)",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae8fdb95a8d3.jpg",
-          "likes": 23,
-          "downloads": 8835,
-          "views": 2872,
-          "publishedAt": 1793663996,
-          "updatedAt": 1793842161,
-          "url": "https://gamebanana.com/mods/735705",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -249,9 +249,9 @@
           "description": "Be careful or she just might EAT you!- Full week- Erect Remixes- Pico Mixes- Death Animations + Voicelines- Gameplay Mechanics- Fully Animated Cutscenes- Requires Funkin 0.8.6",
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ae5c56741590.jpg",
-          "likes": 150,
-          "downloads": 11998,
-          "views": 7027,
+          "likes": 151,
+          "downloads": 12294,
+          "views": 7120,
           "publishedAt": 1793431756,
           "updatedAt": 1793552070,
           "url": "https://gamebanana.com/mods/734431",
@@ -272,33 +272,11 @@
           "author": "stryk!",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ad3b6de73c0c.jpg",
           "likes": 86,
-          "downloads": 7297,
-          "views": 5597,
+          "downloads": 7318,
+          "views": 5623,
           "publishedAt": 1792259889,
           "updatedAt": 1792259889,
           "url": "https://gamebanana.com/mods/728872",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 625730,
-          "title": "[SPOOKY] vs. Whitty : V-Slice Port",
-          "description": "Hey! If something is missing you can tell me, also, feel free to comment or criticize anything about this port, I'm a chill person, I'll do my best to make this the best port it can be! Just make sure the thing ur going to comment isn't on the \"PLANNED\" section, or u will look stupid!PLEASE NOTE THAT THIS IS A FAN PORT, I AM NOT AFILIATED WITH THE ORIGINAL CREATORS OF THE MOD! VS. Whitty : V-Slice PortWere you searching for an accurate port of this gold era mod for V-Slice? Now you have it!Mod contents:Songs: Lo-Fight, Overhead and Ballistic.Extra Songs: Low-Rise and Underground. (From vs. Whitty Definitive Edition)Song Variants: Erect and Pico Mixes.Spooky Mixes!: Lo-Fight and Overhead (Ballistic incoming).Difficulties: Easy, Normal, Hard, Erect and Nightmare.All dialogues and cutscenes!Tranlations: English and Spanish.This is a pretty mod made just because I loved the original mod! Play the original here!.Also, this mod contains content from the Whitty ERECT Mod! Play it here!AND, this mod has content from the vs. Whitty Definitive Edition Mod! Play it here!Spooky Mixes:Skid and Pump were walking and running through the city on October 31, until they noticed someone on a dark alley...Wait we are November now-WHO CARES, IT was THE SPOOKY MONTH!In order to play the Whitty spooky mixes, you NEED to have installed the Spooky Mix Mod!The songs will just appear on the spooky freeplay.THESE MIXES ARE 100% OPTIONAL, YOU DO NOT NEED THE SPOOKY MIX MOD TO GET THIS PORT TO WORK CORRECTLY.PLEASE NOTE THAT I AM NOT AFFILIATED WITH THE SPOOKY MIXES TEAM IN ANY WAY, THIS IS COMPLETELY FANMADE.THE SPOOKY MIXES ARE NOT FINISHED YET, THIS ADDITION WAS RUSHED LOL-WHITTY ALT OUTFIT, CUTSCENES, DIALOGUES AND BALLISTIC ARE INCOMING!THE INSTRUMENTALS OF THE SPOOKY MIXES HAVE BEEN CREATED BY THIS CANNEL!If there's any errors, bugs or problems that you've noticed, make a comment about it instead of an issue please!!! (I cannot ask for more information in the issues).PLANNED (While fighting fkin depression-):Whitty Definitive Edition ADDONFinish Spooky Mix Fanmade ExpansionAlt outfit for whitty on Spooky Mixes",
-          "author": "Dipazio347",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae701f075f63.jpg",
-          "likes": 89,
-          "downloads": 495776,
-          "views": 88121,
-          "publishedAt": 1759956851,
-          "updatedAt": 1793524061,
-          "url": "https://gamebanana.com/mods/625730",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -316,8 +294,8 @@
           "author": "ImSnax",
           "image": "https://images.gamebanana.com/img/ss/mods/690a241d4278b.jpg",
           "likes": 53,
-          "downloads": 29659,
-          "views": 38684,
+          "downloads": 29663,
+          "views": 38693,
           "publishedAt": 1685585468,
           "updatedAt": 1793554730,
           "url": "https://gamebanana.com/mods/447217",
@@ -338,11 +316,33 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae5f91a291c3.jpg",
           "likes": 51,
-          "downloads": 16100,
-          "views": 12153,
+          "downloads": 16121,
+          "views": 12178,
           "publishedAt": 1786218482,
           "updatedAt": 1793545725,
           "url": "https://gamebanana.com/mods/701850",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 484423,
+          "title": "Brainrot Funkin': Legacy [EXTRAS ADDON]",
+          "description": "BRF: LEGACYFOR SOME REASON THE MAIN MOBILE BUILD JUST WONT UPLOAD, PLEASE DOWNLOAD THE MOBILE BUILD ON GOOGLE DRIVE FOR THE TIME BEING!!!!!Contains:- 5 Songs- 6 Erect / Pico Mixes- 7 Joke Songs- Animated Cutscenes- A Custom Playable Character- An amazing storyIf you're interested in the mods development, Follow us on twitter:https://x.com/TeamBrainrot\"The most epic fnf mod of 2024\"\u0026nbsp;- Phantom Arcade\u0026nbsp;",
+          "author": "FanReal",
+          "image": "https://images.gamebanana.com/img/ss/mods/69aab95da9ed1.jpg",
+          "likes": 45,
+          "downloads": 3316,
+          "views": 22615,
+          "publishedAt": 1702752969,
+          "updatedAt": 1793668633,
+          "url": "https://gamebanana.com/mods/484423",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -366,8 +366,8 @@
           "author": "Marc Cea",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9c598136c9d.jpg",
           "likes": 387,
-          "downloads": 208872,
-          "views": 44467,
+          "downloads": 209159,
+          "views": 44550,
           "publishedAt": 1790064071,
           "updatedAt": 1790066010,
           "url": "https://gamebanana.com/mods/714051",
@@ -388,8 +388,8 @@
           "author": "-SwayTheDev-",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
           "likes": 226,
-          "downloads": 32311,
-          "views": 19376,
+          "downloads": 32350,
+          "views": 19423,
           "publishedAt": 1788129483,
           "updatedAt": 1793650516,
           "url": "https://gamebanana.com/mods/711896",
@@ -404,17 +404,17 @@
           }
         },
         {
-          "id": 680169,
-          "title": "Results Styled Combo Plus [V-Slice]",
-          "description": "A Friday Night Funkin' Mod for V-Slice that colors judgement and combo popups like in the Result Screen's judgement counter's visuals!The mod can be enabled or disabled in the preferences menu! (On by default)An upgrade of the currently existing mod, with mod support and additonal features! Also implements the MISSED rating popup, taken from this mod, but with official assets. Credits to the original creator.This mod is APPROVED by the original creator!LIST OF SUPPORTED MODS WITH CUSTOM NOTESTYLES:https://gamebanana.com/mods/613835 (VS Camellia V-Slice Port)https://gamebanana.com/mods/44227 (CG5 Mod Remastered)https://gamebanana.com/mods/654379 (Arcade Showdown V-Slice Port)https://gamebanana.com/mods/682373 (FNF V-Bin - Friday Night Vibin in V-Slice)https://gamebanana.com/mods/690489 (For You Someday V-Slice Port)https://gamebanana.com/mods/683489 (High Quality Funkin')https://gamebanana.com/mods/648411 (VS Nonsense 1.0 + 1.5 V-Slice)https://gamebanana.com/mods/618856 (VS Nonsense 1.0 V-Slice)https://gamebanana.com/mods/698172 (VS Sunday V-Slice)https://gamebanana.com/mods/675585 (Wii Funkin' V3 V-Slice Port)https://gamebanana.com/mods/651082 (VS Ghost Twins V-Slice)https://gamebanana.com/mods/695654 (FNF' Fabulous Beats)https://gamebanana.com/mods/714051 (VS Tricky: Clowned Out)LIST OF SUPPORTED MODS THAT MAKE NEW RATINGS:https://gamebanana.com/mods/686217 (Killer Rating)https://gamebanana.com/mods/566597 (QT Rewired) REQUIRES INSTALLATION OF BOTH THIS MOD AND THE OTHER DEPENDENCY MOD FOR IT TO WORK!LIST OF MODS WITH BLACKLISTED NOTEKINDS:https://gamebanana.com/mods/600193 (VS Sonic.EXE V-Slice)https://gamebanana.com/mods/653343 (The Full Accelerant Experience)https://gamebanana.com/mods/609155 (Full Ass Tricky V-Slice Port)https://gamebanana.com/mods/639380 (Doki Doki Takeover Plus+)https://gamebanana.com/mods/714051 (VS Tricky: Clowned Out)Please inform me in case I miss some mods, whether in the comment section or DMs. Thanks! ^^What happens if you put this mod when playing with an unsupported mod:The popups will use the default sprites.If the mod already has custom rating and combo assets, we will NEVER add it to the supported mods list. This mod will now have future support for other mods with different rating and combo assets!ORIGINAL DESCRIPTION:Makes judgements and combo be colored just like how they are on the result screen.",
-          "author": "Ethan_DOORSnFNFFan",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a3a89dfd7339.jpg",
-          "likes": 46,
-          "downloads": 8031,
-          "views": 14806,
-          "publishedAt": 1779702739,
-          "updatedAt": 1793537536,
-          "url": "https://gamebanana.com/mods/680169",
+          "id": 735705,
+          "title": "FNF: Animania! V-Slice Port",
+          "description": "Friday Night Funkin': Animania! V-Slice Port Is HereAll Credits to Animania!Crew (already written in the credits section of the port)This is a port that replicates the FNF: Animania! mod 100% (or nearly so). I am not posting this to make a profit or to claim credit for myself; all credits are already listed.What's insideSongs and weeks: Week 1 (Bopeebo, Fresh, Dad Battle), Week 5 (Cocoa, Eggnog, Winter Horrorland) and the Komi \"Phone Call\" level, each with its own stages, characters and note styles.Recreated menus: title screen with its intro, main menu (with the OST button that opens Animania Crew's music links), Freeplay, Story Menu, loading screen with an audio visualizer, and pause menu. All were visually recreated and then manually coded. The rest of the menus are still being worked on.Pause menu with built-in options: change your keybinds, miss/hit sound volume, framerate, judgements, note splashes, camera shake, hints, flashing lights, auto pause and vsync without leaving the song.Winter Horrorland mechanic: fully working, with its own dodge/attack system, cinematic camera and a special game over.Animania HUD: curved health bar, time bar, score, rating/combo popups, Full Combo animation and custom icons with death animations.Story Mode continuity: your health and camera position carry over between songs of the same week, so transitions feel seamless.Solo Time: the special notes and splash included.Discord Rich Presence (PC) showing the menu or the song you're playing.Mobile and performance(Mobile only) A location selector for the Winter Horrorland mechanic button: left, center or right. You can find it in Options \u003e Preferences.Performance options in Options \u003e Preferences: turn off the custom shaders or enable \"low quality\" mode if your phone or tablet isn't very powerful.Compatible with the \"Mobile Like PC\" mod, so many of its options and settings will work (though you should avoid using \"middlescroll\" during songs that move the notes, unless that doesn't bother you).If you encounter any errors, you can reach out to me on TikTok or report the bug or issue here.The news menu is coming soon...",
+          "author": "FNF Fan (@full.fnf tiktok)",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae8fdb95a8d3.jpg",
+          "likes": 23,
+          "downloads": 9051,
+          "views": 2931,
+          "publishedAt": 1793663996,
+          "updatedAt": 1793842161,
+          "url": "https://gamebanana.com/mods/735705",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -426,39 +426,39 @@
           }
         },
         {
-          "id": 484423,
-          "title": "Brainrot Funkin': Legacy [EXTRAS ADDON]",
-          "description": "BRF: LEGACYFOR SOME REASON THE MAIN MOBILE BUILD JUST WONT UPLOAD, PLEASE DOWNLOAD THE MOBILE BUILD ON GOOGLE DRIVE FOR THE TIME BEING!!!!!Contains:- 5 Songs- 6 Erect / Pico Mixes- 7 Joke Songs- Animated Cutscenes- A Custom Playable Character- An amazing storyIf you're interested in the mods development, Follow us on twitter:https://x.com/TeamBrainrot\"The most epic fnf mod of 2024\"\u0026nbsp;- Phantom Arcade\u0026nbsp;",
-          "author": "FanReal",
-          "image": "https://images.gamebanana.com/img/ss/mods/69aab95da9ed1.jpg",
-          "likes": 44,
-          "downloads": 3312,
-          "views": 22609,
-          "publishedAt": 1702752969,
-          "updatedAt": 1793668633,
-          "url": "https://gamebanana.com/mods/484423",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 616895,
-          "title": "Doki Doki Takeover Switcheroo! (The Encore Update)",
-          "description": "(NOTE: THIS MOD IS NOT AFFILIATED WITH Doki Doki Takeover: Plus!, THIS IS A FAN MOD THAT IS NOT OFFICIAL)Everything will be solved...\"Piece By Piece\"..Doki Doki Takeover Switcheroo is an mod that will tell the history of the younger brothers of the Dokis, two years after the main events of Doki Doki Takeover: Plus!Follow Manuel (Is Not Mateo) in this mod!(The only week available for now is the prologue: Only Manuel, even so, the Freeplay includes + 5 unlockable songs)Find the OSTS Here!",
-          "author": "Shaduwu",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae7c83fead4f.jpg",
+          "id": 738418,
+          "title": "ABSOLUTE Friday Night Funkin' (Reskin Mod)",
+          "description": "Absolute Friday Night Funkin' A reimagining of the original Friday Night Funkin' experience. (Art wise...)Absolute Friday Night Funkin' revisits the Tutorial and Week 1 levels, featuring a new tone, new backgrounds, character sprites, and camera events to give the original experience a fresh new look.Familiar faces such as Boyfriend, Girlfriend and Daddy Dearest have been redesigned, these levels has been revisited with new art direction while keeping the original character of the game, an underground rhythm rapping game.Features:- Redesigns for the original characters.- New camera events and charts.- Remastered Tutorial and Week 1 visuals.- Stock backgrounds lol !!!.Absolute is little love letter to Friday Night Funkin's visuality, having a simple artstyle that encouraged many young artists to turn into greats now and this is a little tribute to it all.Play right now it's out right now !!!",
+          "author": "gazuzbogaz8r",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af1e2a23a386.jpg",
           "likes": 21,
-          "downloads": 1552,
-          "views": 8544,
-          "publishedAt": 1756505693,
-          "updatedAt": 1793536406,
-          "url": "https://gamebanana.com/mods/616895",
+          "downloads": 462,
+          "views": 875,
+          "publishedAt": 1794238223,
+          "updatedAt": 1794239555,
+          "url": "https://gamebanana.com/mods/738418",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 735196,
+          "title": "FNF: Día De Muertos Mix",
+          "description": "Thanks for clicking on our page.This is a V-Slice mod for Friday Night Funkin' based on the Mexican holiday \"Día de los Muertos,\" also known as \"Day of the Dead.\" Instead of your run-of-the-mill Halloween mod, why not one based on the holiday Halloween took from?This is Version 0.9 featuring 3 tracks at this time, including remixes of Spookeez and South, along with an original song featuring a brand new character named \"Unir a Todos.\" He is a skeleton driven by the will of the fiesta, wanting to host the biggest party there ever was. Even if it means capturing attendees from across space and time. But it's totally all in good will, as he hopes to help people remember and move on from the deaths of loved ones.The soundtrack here is heavily inspired by Regional Mexican music, perhaps making it the first of its kind in terms of FNF mods. Preserving the sound was a major priority, as to make sure to not veer off into something more typical for FNF OST's.I, TheOnlyVolume, had a lot of fun figuring out the inner workings of how the genre works and how to execute it. I will be 100% transparent that I am approximately 0% Latin. But I wanted to do this project with absolutely NO INTENTION of exploiting the culture, but because I genuinely appreciate what it stands for and I genuinely had fun doing it. Even then, I made sure to have some Latin representation on the dev team. Not just for their talents, but also for their approval.Thank you to the multiple Latin friends I have who I showed this to for helping me make sure I wasn't doing anything wrong. Thank you, Sammy Andaluz, for being the reason this project was even conceived. And last, but not least, thank YOU for playing the mod.My biggest hope from this project is that actual Latin composers out there are not afraid to do this genre for FNF music. The diversity in how many genres there can be for FNF music is beautiful, and I'd personally love to see more mod OST's featuring this kind of sound.This mod will be updated to Version 1.0 at a later time, featuring more remixes of other FNF songs you may know, alongside more Unir content. But even then, that won't be it.Stay tuned!",
+          "author": "TheOnlyVolume",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ae785a2eb9b5.jpg",
+          "likes": 18,
+          "downloads": 590,
+          "views": 1160,
+          "publishedAt": 1793644410,
+          "updatedAt": 1793740577,
+          "url": "https://gamebanana.com/mods/735196",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -482,55 +482,11 @@
           "author": "SiIvaGunner",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 320,
-          "downloads": 19814,
-          "views": 37066,
+          "downloads": 19823,
+          "views": 37092,
           "publishedAt": 1780711398,
           "updatedAt": 1781909527,
           "url": "https://gamebanana.com/mods/683489",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 738418,
-          "title": "ABSOLUTE Friday Night Funkin' (Reskin Mod)",
-          "description": "Absolute Friday Night Funkin' A reimagining of the original Friday Night Funkin' experience. (Art wise...)Absolute Friday Night Funkin' revisits the Tutorial and Week 1 levels, featuring a new tone, new backgrounds, character sprites, and camera events to give the original experience a fresh new look.Familiar faces such as Boyfriend, Girlfriend and Daddy Dearest have been redesigned, these levels has been revisited with new art direction while keeping the original character of the game, an underground rhythm rapping game.Features:- Redesigns for the original characters.- New camera events and charts.- Remastered Tutorial and Week 1 visuals.- Stock backgrounds lol !!!.Absolute is little love letter to Friday Night Funkin's visuality, having a simple artstyle that encouraged many young artists to turn into greats now and this is a little tribute to it all.Play right now it's out right now !!!",
-          "author": "gazuzbogaz8r",
-          "image": "https://images.gamebanana.com/img/ss/mods/6af1e2a23a386.jpg",
-          "likes": 21,
-          "downloads": 416,
-          "views": 821,
-          "publishedAt": 1794238223,
-          "updatedAt": 1794239555,
-          "url": "https://gamebanana.com/mods/738418",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 735196,
-          "title": "FNF: Día De Muertos Mix",
-          "description": "Thanks for clicking on our page.This is a V-Slice mod for Friday Night Funkin' based on the Mexican holiday \"Día de los Muertos,\" also known as \"Day of the Dead.\" Instead of your run-of-the-mill Halloween mod, why not one based on the holiday Halloween took from?This is Version 0.9 featuring 3 tracks at this time, including remixes of Spookeez and South, along with an original song featuring a brand new character named \"Unir a Todos.\" He is a skeleton driven by the will of the fiesta, wanting to host the biggest party there ever was. Even if it means capturing attendees from across space and time. But it's totally all in good will, as he hopes to help people remember and move on from the deaths of loved ones.The soundtrack here is heavily inspired by Regional Mexican music, perhaps making it the first of its kind in terms of FNF mods. Preserving the sound was a major priority, as to make sure to not veer off into something more typical for FNF OST's.I, TheOnlyVolume, had a lot of fun figuring out the inner workings of how the genre works and how to execute it. I will be 100% transparent that I am approximately 0% Latin. But I wanted to do this project with absolutely NO INTENTION of exploiting the culture, but because I genuinely appreciate what it stands for and I genuinely had fun doing it. Even then, I made sure to have some Latin representation on the dev team. Not just for their talents, but also for their approval.Thank you to the multiple Latin friends I have who I showed this to for helping me make sure I wasn't doing anything wrong. Thank you, Sammy Andaluz, for being the reason this project was even conceived. And last, but not least, thank YOU for playing the mod.My biggest hope from this project is that actual Latin composers out there are not afraid to do this genre for FNF music. The diversity in how many genres there can be for FNF music is beautiful, and I'd personally love to see more mod OST's featuring this kind of sound.This mod will be updated to Version 1.0 at a later time, featuring more remixes of other FNF songs you may know, alongside more Unir content. But even then, that won't be it.Stay tuned!",
-          "author": "TheOnlyVolume",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ae785a2eb9b5.jpg",
-          "likes": 18,
-          "downloads": 588,
-          "views": 1146,
-          "publishedAt": 1793644410,
-          "updatedAt": 1793740577,
-          "url": "https://gamebanana.com/mods/735196",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -548,11 +504,33 @@
           "author": "Bf-el-xd",
           "image": "https://images.gamebanana.com/img/ss/mods/6aebc9a487b78.jpg",
           "likes": 17,
-          "downloads": 971,
-          "views": 1218,
+          "downloads": 975,
+          "views": 1228,
           "publishedAt": 1793837891,
           "updatedAt": 1793841535,
           "url": "https://gamebanana.com/mods/736453",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 646270,
+          "title": "FNF COMMUNITY SAMPLER (Expansion UST)",
+          "description": "This mod brings a full new sampler made by and for the community. It adds:.NEW BF MIXES.NEW PICO MIXES.NEW ERECT MIXES.TEST RE-ADDED TO THE GAME .AND A NEW SONGAnd now, includes a sticker icons DLC for the sticker icons mod (Sticker Icon Compatibility)INSTALL THE STICKER ICONS MOD BEFORE INSTALLING THE DLC!!I want to put something clare, the artist, coders or any other person named in the mod are NOT involucrated with it. I just only took their \"public use\" work to make this mod (With their permission).Installation Instructions:.Extract the \"Community Sampler\" folder.Install it in the mods folder of FNF.Enjoy!",
+          "author": "Brex_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a64e571b59aa.jpg",
+          "likes": 16,
+          "downloads": 8978,
+          "views": 14854,
+          "publishedAt": 1768453310,
+          "updatedAt": 1794002366,
+          "url": "https://gamebanana.com/mods/646270",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -571,10 +549,32 @@
           "image": "https://images.gamebanana.com/img/ss/mods/6ae822da57894.jpg",
           "likes": 16,
           "downloads": 244,
-          "views": 864,
+          "views": 867,
           "publishedAt": 1793551732,
           "updatedAt": 1793617919,
           "url": "https://gamebanana.com/mods/735143",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 685595,
+          "title": "Sonic.EXE Restored Songs In V-Slice (+Mobile)",
+          "description": "This Is A V-Slice+Mobile Port Of The Well-Known Vs. Sonic.EXE Mod! (Restored 5.0 Cuz Why Not),Relive Vs. Sonic.EXE On V-Slice \u0026 Mobile With This Port, Hope You Enjoy!Has Built In Compatibility With Customizable Freeplay Menu [V-Slice] By @Greeny3483If There's Any Bugs, Please Report Them In The Comments.If There's Any Other Songs You Would Like Me To Add, Suggest It In The Comments So I Know!Current Suggestions (And They're Progress):Final Escape (MiiniStar / KIRB0 Mix) - No Progress,Eye To Eye - Added (Completed),Separation - No Progress,Genesis - Added (Completed),Proverbs - Added (Completed),Recommended On PC or Android.iOS Does Work, But It Has Bugs.My Other V-Slice \u0026 Mobile Mods:[V-Slice + Mobile] FNF Zardy: REMAZED (Fanchart)[V-Slice] Satanos Player SkinThe Great Punishment: GBK10 RemixAbout VS. Sonic.EXE:Vs. Sonic.EXE Is A Friday Night Funkin' Mod Originally Made In 2021 (Or 2022 IDK)In This Mod, You Rap Battle Against All Different \"Creepypasta\" Versions Of Sonic The Hedgehog.Opponents Feature:Sonic.EXE, Lord X, Majin Sonic (From Sonic CD), And A WHOLE LOT MORE! The Mod Had A Successful Version 1.0, And Then 2.0, But Then, Due To Team Drama, 2.5/3.0 Was Cancelled, Leaving Us With The Current 2.0, Many Fanmade Restored Builds Have Been Made, Even \"4.0\" \u0026 \"5.0\" Builds. (This Port Is Mainly Supposed To Port The Full 5.0 Builds \u0026 The Full Restoration by Merphi. Even \"Finale\" Type Of Songs May Be Added, Such As Omnipresent)USE GOOGLE DRIVE DOWNLOAD",
+          "author": "GBK10Mods",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a2d2afda96cd.jpg",
+          "likes": 15,
+          "downloads": 10691,
+          "views": 14852,
+          "publishedAt": 1781346855,
+          "updatedAt": 1793653209,
+          "url": "https://gamebanana.com/mods/685595",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -598,8 +598,8 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 592,
-          "downloads": 214866,
-          "views": 88955,
+          "downloads": 215000,
+          "views": 88996,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
@@ -620,55 +620,11 @@
           "author": "Dra9on5",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
           "likes": 586,
-          "downloads": 518233,
-          "views": 129426,
+          "downloads": 518568,
+          "views": 129480,
           "publishedAt": 1763770731,
           "updatedAt": 1785891137,
           "url": "https://gamebanana.com/mods/632935",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 646270,
-          "title": "FNF COMMUNITY SAMPLER (Expansion UST)",
-          "description": "This mod brings a full new sampler made by and for the community. It adds:.NEW BF MIXES.NEW PICO MIXES.NEW ERECT MIXES.TEST RE-ADDED TO THE GAME .AND A NEW SONGAnd now, includes a sticker icons DLC for the sticker icons mod (Sticker Icon Compatibility)INSTALL THE STICKER ICONS MOD BEFORE INSTALLING THE DLC!!I want to put something clare, the artist, coders or any other person named in the mod are NOT involucrated with it. I just only took their \"public use\" work to make this mod (With their permission).Installation Instructions:.Extract the \"Community Sampler\" folder.Install it in the mods folder of FNF.Enjoy!",
-          "author": "Brex_",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a64e571b59aa.jpg",
-          "likes": 15,
-          "downloads": 8972,
-          "views": 14846,
-          "publishedAt": 1768453310,
-          "updatedAt": 1794002366,
-          "url": "https://gamebanana.com/mods/646270",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 685595,
-          "title": "Sonic.EXE Restored Songs In V-Slice (+Mobile)",
-          "description": "This Is A V-Slice+Mobile Port Of The Well-Known Vs. Sonic.EXE Mod! (Restored 5.0 Cuz Why Not),Relive Vs. Sonic.EXE On V-Slice \u0026 Mobile With This Port, Hope You Enjoy!Has Built In Compatibility With Customizable Freeplay Menu [V-Slice] By @Greeny3483If There's Any Bugs, Please Report Them In The Comments.If There's Any Other Songs You Would Like Me To Add, Suggest It In The Comments So I Know!Current Suggestions (And They're Progress):Final Escape (MiiniStar / KIRB0 Mix) - No Progress,Eye To Eye - Added (Completed),Separation - No Progress,Genesis - Added (Completed),Proverbs - Added (Completed),Recommended On PC or Android.iOS Does Work, But It Has Bugs.My Other V-Slice \u0026 Mobile Mods:[V-Slice + Mobile] FNF Zardy: REMAZED (Fanchart)[V-Slice] Satanos Player SkinThe Great Punishment: GBK10 RemixAbout VS. Sonic.EXE:Vs. Sonic.EXE Is A Friday Night Funkin' Mod Originally Made In 2021 (Or 2022 IDK)In This Mod, You Rap Battle Against All Different \"Creepypasta\" Versions Of Sonic The Hedgehog.Opponents Feature:Sonic.EXE, Lord X, Majin Sonic (From Sonic CD), And A WHOLE LOT MORE! The Mod Had A Successful Version 1.0, And Then 2.0, But Then, Due To Team Drama, 2.5/3.0 Was Cancelled, Leaving Us With The Current 2.0, Many Fanmade Restored Builds Have Been Made, Even \"4.0\" \u0026 \"5.0\" Builds. (This Port Is Mainly Supposed To Port The Full 5.0 Builds \u0026 The Full Restoration by Merphi. Even \"Finale\" Type Of Songs May Be Added, Such As Omnipresent)USE GOOGLE DRIVE DOWNLOAD",
-          "author": "GBK10Mods",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a2d2afda96cd.jpg",
-          "likes": 15,
-          "downloads": 10688,
-          "views": 14829,
-          "publishedAt": 1781346855,
-          "updatedAt": 1793653209,
-          "url": "https://gamebanana.com/mods/685595",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -686,11 +642,55 @@
           "author": "Minenpro8208",
           "image": "https://images.gamebanana.com/img/ss/mods/69d73f5a03622.jpg",
           "likes": 15,
-          "downloads": 634,
-          "views": 2211,
+          "downloads": 636,
+          "views": 2215,
           "publishedAt": 1775714408,
           "updatedAt": 1793565773,
           "url": "https://gamebanana.com/mods/667808",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 736316,
+          "title": "THE FUNKIN' HILL 8",
+          "description": "(NO AI CODING IS USED THROUGHOUT THIS DEVELOPMENT. AS THE DEVELOPMENT STARTED IN OCTOBER 22ND!)\"The Green Hill 8\" BY Selbi, AS OF NOVEMBER 7TH, 2026, IS THE WINNER OF SONIC HACKING CONTEST 2026 AS PART OF ROM HACK ENTRY. TWICE.Herox/Arie's Note (in case people put it in YT descriptions):So before this mod was made, Selbi announced one of his upcoming Sonic ROM Hack, called \"The Green Hill 8\". The only thing I found out about this was Twitter/X in which Sonic Stadium made a tweet about Selbi's upcoming Sonic ROM Hack. And then when looking through Selbi's recent video, I immediately created the mod folder for Psych Engine as soon as I see it. Waited until its release.After the ROM Hack being released within' Sonic Hacking Contest 2026 (SHC2026), I just went and played it. And to be fair, it was a fun experience! Even if it was a fun experience, it also made me go insane hahahah! I then decided to make the song based on this by Selbi.There are 60 different anomalies in the original ROM Hack! I cut it down to 15 due to how many anomalies there are and is difficult to code them in!-HOW TO BEAT THE SONG IN PSYCH ENGINE:Due to how the custom Pause Menu existing in Psych Engine, you can actually use it for a useful reason! Because default FNF pause menu doesn't let you do that! All in LUA!For each 15 anomalies (plus 1), you must reset the song until you get to Act 8. If failed to recognize that it's an anomaly, it resets back to 0 and restarts the song in the process at the end of the song. After Act 8, you can now beat the song normally!Otherwise, Base Game users can beat the song as if nothing ever happened.-This FNF Sonic Mod and the original ROM Hack is based on \"The Exit 8\"! Play it here when you can!\u0026gt;\u0026gt; Selbi, if you're reading this, if you wish to do anything to this (like taking it down for example), do let me know and I'll follow your words! \u0026lt;\u0026lt;See also:SONIC IS ALONE. (FNF)",
+          "author": "Herox_",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aefb8ccc19e7.jpg",
+          "likes": 14,
+          "downloads": 714,
+          "views": 1187,
+          "publishedAt": 1793829604,
+          "updatedAt": 1794095195,
+          "url": "https://gamebanana.com/mods/736316",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 709202,
+          "title": "17bucks songpack (V-SLICE)",
+          "description": "Ts a SUPA, MEGA, ULTRA modpack for 17bucks, contains the musics for 17bucks: floor1 and fanmades (which in my opinion, I think are very cool) this songpack includes (in total) more than 39 SONGS! This songpack have fanmades, remixes, fancharts and musics with new sprites, i hope you like it!Honestly, I have more plans for the future, but for now, enjoy this version. I hope you like it because this was the most difficult thing to adapt in my entire life! P.S: And this is the channel that made the video for the page for me, and his channel will be tagged here, subscribe! He's a cool dawg!My tiktok",
+          "author": "pixelbit",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a8c83a73c9a6.jpg",
+          "likes": 13,
+          "downloads": 5021,
+          "views": 8646,
+          "publishedAt": 1787593950,
+          "updatedAt": 1793831806,
+          "url": "https://gamebanana.com/mods/709202",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -714,8 +714,8 @@
           "author": "YingYang48",
           "image": "https://images.gamebanana.com/img/ss/mods/6ac78879a9175.jpg",
           "likes": 1497,
-          "downloads": 1492378,
-          "views": 3367357,
+          "downloads": 1492447,
+          "views": 3367413,
           "publishedAt": 1613001538,
           "updatedAt": 1791571807,
           "url": "https://gamebanana.com/mods/44225",
@@ -736,8 +736,8 @@
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 1093,
-          "downloads": 1850918,
-          "views": 303900,
+          "downloads": 1851871,
+          "views": 303962,
           "publishedAt": 1738810121,
           "updatedAt": 1791706100,
           "url": "https://gamebanana.com/mods/566597",
@@ -757,9 +757,9 @@
           "description": "Play as the spookiest kids around town, Skid and Pump, in 26 spoOoOoky remixes of songs from base game (every song from Tutorial to Weekend 1). Each level has been given updated Halloween-themed visuals, having every character dress up for the occasion and even complete overhauls of some backgrounds. There's also an original bonus song in story mode.THANK YOU FOR 1 MILLION DOWNLOADS!!PLEASE REMEMBER, CONTENT UPDATES ARE INDEFINITELY ON HOLD",
           "author": "Denoohay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e827a0e607.jpg",
-          "likes": 758,
-          "downloads": 1271562,
-          "views": 264115,
+          "likes": 759,
+          "downloads": 1271828,
+          "views": 264163,
           "publishedAt": 1730328189,
           "updatedAt": 1786678298,
           "url": "https://gamebanana.com/mods/551727",
@@ -779,9 +779,9 @@
           "description": "You've heard the story before, Sky teleports Boyfriend into her void, GF comes along too I suppose.This is a FAN remake.\u0026nbsp;No we did NOT make this for clout, we just were having fun.Special thanks to Dawn, Alex, \u0026amp; bbpanzu for giving us permission to make this mod!Proof we are allowed to release the mod: QT REWIRED\u0026nbsp;MUST BE INSTALLED FOR BLISSFUL (SKY MIX) TO WORKALLEGRO REQUANTISED MUST BE INSTALLED FOR MODERATO (SKY MIX) TO WORK",
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
-          "likes": 621,
-          "downloads": 1659772,
-          "views": 235802,
+          "likes": 622,
+          "downloads": 1660377,
+          "views": 235868,
           "publishedAt": 1750701603,
           "updatedAt": 1774746521,
           "url": "https://gamebanana.com/mods/602414",
@@ -802,8 +802,8 @@
           "author": "elikapika",
           "image": "https://images.gamebanana.com/img/ss/mods/69aca7df1a0dc.jpg",
           "likes": 560,
-          "downloads": 297754,
-          "views": 786718,
+          "downloads": 297773,
+          "views": 786732,
           "publishedAt": 1612918137,
           "updatedAt": 1776224000,
           "url": "https://gamebanana.com/mods/44227",
