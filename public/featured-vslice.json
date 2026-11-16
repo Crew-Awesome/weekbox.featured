@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-16T09:40:58.211Z",
-  "revision": "27400954df708d6e",
+  "generatedAt": "2026-11-16T19:52:34.132Z",
+  "revision": "3065b00e9ead8b03",
   "gameId": 8694,
   "categoryRoots": [
     29202
@@ -12,36 +12,14 @@
       "label": "Best of Today",
       "mods": [
         {
-          "id": 44225,
-          "title": "VS Hex Mod (V3 / THE EVENT UPDATE)",
-          "description": "The basketball-loving TV Head returns for a third time! This time, on court! Join Boyfriend and Hex as they get through a sports match for charity, although... who knows, someone might interrupt this festival of joy and hospitality.The Event Update / V3 is available as \"Mod Only\", \"Mobile\"\u0026nbsp;, and \"Game + Mod\"\u0026nbsp;downloads,\u0026nbsp;the contents include:A new story week - \"Event X\"!7 new freeplay songs + 10 new remixes, including old song versions, thus totaling the unique song count to 30 songs!Lower difficulties available for some songs with modcharts.Base Game / VSlice compatibility, the mod was\u0026nbsp;reworked from the ground up to work on base game engine.New UI for every menu, including Story Mode, Freeplay, Gallery, Jukebox, Options and Credits. The visual, step-by-step tutorials for installing are available above and below.The \"Mod Only\" download contains the PC version of the mod, without the game. Currently the mod only supports version Preview #4, which needs to be downloaded from the Funkin' Blog post listed below:https://funkin.me/blog/2026-11-14/The \"Mobile\" download contains the Mobile version of the mod, without the app.\u0026nbsp;Currently the mod only supports version Preview #4, which can be accessed by following steps on Funkin' Blog post listed above.The \"Game + Mod\" bundle allows you to play the mod now\u0026nbsp;on PC,\u0026nbsp;without additional steps.IMPORTANT: THE MOD SHOULD BE FORWARD COMPATIBLE WITH FUTURE VERSIONS OF V-SLICEANDROID TUTORIAL:iOS TUTORIAL:If you wanna listen to Hexcess, an album consisting of songs from Full Week Update, here they are uploaded onto Spotify and Apple Music!:\u0026nbsp;https://open.spotify.com/album/7ATqQPKkEt6xdPU1uPkJPx?si=6bf9a28a16354774 https://music.apple.com/us/album/hexcess/6818832021If you wanna listen to Hextravaganza, an album consisting of songs from Full Week Update, here they are\u0026nbsp;uploaded onto Spotify, Apple Music and Soundcloud!:\u0026nbsp;https://open.spotify.com/album/3Zb3Hvk89POlwrx8nQLL7ohttps://music.apple.com/us/album/hextravaganza-ep/1563141570https://soundcloud.com/yingyang48/sets/hextravaganzaIf you wanna listen to Hexperience, an album consisting of songs from The Weekend Update and remaining songs from the mod,\u0026nbsp;here they are\u0026nbsp;uploaded onto Spotify and Apple Music!:\u0026nbsp;https://open.spotify.com/album/6m6og2zeiHn7bqFe9SGprqhttps://music.apple.com/us/album/hexperience/1603683226Source code:https://github.com/Kade-github/Hex-V3",
-          "author": "YingYang48",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ac78879a9175.jpg",
-          "likes": 1498,
-          "downloads": 1497897,
-          "views": 3370288,
-          "publishedAt": 1613001538,
-          "updatedAt": 1794766807,
-          "url": "https://gamebanana.com/mods/44225",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
           "id": 609272,
           "title": "[Mobile] Mobile like PC",
           "description": "Big thanks to StarNova (Original Owner/Author)This is a solo passion project, so updates may take around a month to release. For more information about changes, improvements, and additions, please read the update logs. Reading them is highly recommended!HAVE FUN AND EXPECT BUGS!!!",
           "author": "zoomfastasabullet",
           "image": "https://images.gamebanana.com/img/ss/mods/6a3e06075fc68.jpg",
-          "likes": 112,
-          "downloads": 188890,
-          "views": 87823,
+          "likes": 114,
+          "downloads": 189300,
+          "views": 88007,
           "publishedAt": 1753454705,
           "updatedAt": 1794781407,
           "url": "https://gamebanana.com/mods/609272",
@@ -56,39 +34,17 @@
           }
         },
         {
-          "id": 513366,
-          "title": "(Festival) Doki Doki Takeover Plus! V-Slice Port",
-          "description": "WARNING FOR STREAMERS AND CONTENT CREATORSIF YOU PLAN ON RECORDING/STREAMING THIS PORT, AND YOU ARE NOT RECORDING USING THE FOLLOWING PROGRAMS:OBSBDCamFrapsXsplitHycam2Twitch StudioYOU MUST DISABLE \"Self Awareness\" IN PREFERENCES WHEN PLAYING THE EPIPHANY SONGS AS THEY WILL READ YOUR PC USERNAMEA port of the popular DDLC mod, Doki Doki Takeover Plus, into the base engine/V-Slice.The mod is currently still a demo, which includes the following songs:High School Conflict (Plus)Bara no Yume (Plus)Your Demise (Plus)You Reality (Takeover Mix)Rain CloudsMy ConfessionMy SweetsBaka (Original and Tankman Mix)Deep BreathsObsessionReconciliationCrucify (Yuri Mix)Beathoven (Natsuki Mix)It's Complicated (Sayori Mix)Glitcher (Monika Mix)Titular (MC Mix)Poems n' Thorns v2Dual DemiseYou and Me (All Versions)CatfightDrinks on MeLibitinaEpiphany (Original and with Lyrics)WiltedExtra Song 1 (Fanmade)Extra whatever the hell (still here)For an accurate UI experience, use mikolka9144's DDTO Hud mod hereINSTALL INSTRUCTIONS:Extract the zip file and drag into your mods folder",
-          "author": "Comedy Lost",
-          "image": "https://images.gamebanana.com/img/ss/mods/6788409e8facb.jpg",
-          "likes": 104,
-          "downloads": 105156,
-          "views": 78087,
-          "publishedAt": 1715579563,
-          "updatedAt": 1794765966,
-          "url": "https://gamebanana.com/mods/513366",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 637333,
-          "title": "Taunt! (A V-Slice/Mobile Script)",
-          "description": "Have You Looked At Literally Fnf (A Roblox Game) And Told Yourself \"This Is Great! I Love The Fact That They Added A Button For Just The 'Hey' Animation, But, Would It Be Funny If A Guy With A Studio Made This Dumb Idea For The Real Fnf?\" Well, Now Its A Reality!TAUNT! ✌A V-Slice/Mobile Script That Adds A New Function To The Game, The Ability To Taunt! (Or, For New People In The Fnf Community, Do The 'Hey' Animation)Here Is How It Works:PC: When You Press The G Button, It Will Not Only Do The Animation, But Also A Sound! (It Will Sound Different If You Play A Song Where The Playable Character Is Pico)MOBILE: When You Load A Song, It Will Appear A Button On The Bottom-Right Of The Screen (Can Look Different if You Choose A Week 6 Song Or Pico Mixes) If You Press It, It Will Not Only Do The Animation, But Also A Sound! (It Will Sound Different If You Play A Song Where The Playable Character Is Pico)WARNING!! (Stuff That We Added In This Mod)This Mod, Not Only Adds The Ability To Taunt, But Also Adds New Taunt Animations For Car Boyfriend, Pixel Boyfriend, Boyfriend Holding Girlfriend, Pixel Pico And Christmas Pico!But Nonetheless,Hope You Enjoyed This Silly Mod! :DThank You All So Much!! :DTAUNT! + ✌️A V-Slice/Mobile Dlc For \"Taunt!\" That Adds Custom Playable Characters To The Party!The Mods Compatible With \"Taunt! +\" Right Now Are:\"SONIC JAM!\",\"PTR X FNF (Playable Parappa)\",\"FNF: SPOOKY MIX\",\"FNF: Philly Mix\",\"Sky: REBORN\",\"FNF: Remnants\",\"FNF: Gooey Mix\",\"Girlfriend Mix\",\"FNF 2\",\"The Stick-Mix Collection\",And \"Playable Tankman\".(MORE CUSTOM PLAYABLE CHARACTERS WILL COME IN FUTURE UPDATES OF THE DLC!!)NOTE: You Dont Need All Of The Supported Mods For \"Taunt! +\" To Work, But You Do Need The Mod Itself For The Dlc To WorkBut Nonetheless,Hope You Enjoyed This Silly Dlc! :D",
-          "author": "GabriGameYT",
-          "image": "https://images.gamebanana.com/img/ss/mods/69305ba4c8b37.jpg",
-          "likes": 91,
-          "downloads": 66946,
-          "views": 47438,
-          "publishedAt": 1764775688,
-          "updatedAt": 1794763200,
-          "url": "https://gamebanana.com/mods/637333",
+          "id": 657203,
+          "title": "[\"PREVIEW 4\"] KASSETTE HUD/QOL V-SLICE",
+          "description": "Tired of installing a bunch of mods just to get what you consider essential? Introducing Kassette HUD, a modular HUD for the base game (V-Slice). Compatible with both PC and Mobile, it's designed so you can modify it to your liking with custom modules. It also brings along other features to improve your overall gameplay experience. NEW: The entire mod was built from scratch! It now supports a brand new system for skins, layouts, and much more. I am really very grateful for the support that this project has had, and to commemorate it, I have brought an update with several suggestions and bugfixes that I had been asked for. What's New \u0026 Fixed: Strumline Rewritten: The entire strumline positioning system has been rewritten to support most resolutions and prevent overlap. Mobile Navigation: Many issues with the touch navigation of the options menu have been fixed to make it easier to use on mobile devices. Doppelganger Bugfix: A minor bug has been fixed that caused a player's HealthBar to appear in doppelganger songs (such as Pico Pico Mix). Menu Crash Fix: The menu has been reworked to prevent Character Scripts loads from launching when the options menu is opened, which caused crashes. A UNIQUE DESIGN Kassette HUD stands out by having a layout that doesn't look like any other HUD you know. You can customize it to your liking and add whatever you want, as long as it's for you and your friends. MODULAR, BEYOND LIMITS My HUD is built on modules that depend on a custom API. A brand new \"Skin Folders\" system has been created, which will allow you to easily create your own skins for the mod or customize any skin however you like (it will continue to improve over time). Feel free to create skins or adapt my HUD for your own mod or a third-party mod, you are entirely free to do so (please read the RULES \u0026 DISCLAIMERS). AND KASSETTE HUD LITE: A separate and lighter version with the absolute essentials for those looking for something more lightweight. This hud is compatible with GAMMOD. Play with AWESOME GAMEPLAY MODIFIERS WITHOUT DELETING UR CUSTOM HUD FEATURES: Score Bar (Full and Lite): A score bar with more info, such as your accuracy, Rank, FC tier, etc... COLORED HEALTHBAR: Added dynamic coloring support for the healthbar. Health Bar Positions: You can now choose to place the health bar on the right, the left, or in the center. Clean HUD Layout: A new layout has been added to provide a more compact experience without sacrificing features. Custom Discord RPC [PC ONLY]: A modifier has been added so you can customize how your Discord status appears while playing. Ghost Tapping: A custom module so you can play without getting your Score deducted when pressing keys with no notes. Ghost Sing: Dance to the rhythm of the music without worries. MIDDLESCROLL (Full and Lite): A great module to play with a centered strumline. Play however you like and choose how you want to see the opponent's notes, worry-free. SUBTITLES PLUS: Customize your subtitles in the most visual way you prefer. Forget about events; these are the same classic subtitles as always, just with a little disguise to look cooler, with srt format and cutscenes support. JUDGE COUNTER (Full and Lite): Monitor your playstyle, flex that you're a pro and hit only Sicks. ACCURACY ASCENDING: Gain aura with an accuracy counter that is always increasing as you play better. BREAK BAR: Don't worry about forgetting your part of the song, this little bar will tell you how much time you have to stretch and get ready. PAUSE COUNTDOWN: Prepare yourself with a bit more time before jumping back into the action, don't lose your combo! TimeBar (Full and Lite): I don't know why you’d want to know when the song ends, but hey, here it is! :D There are also mini versions available. FONTS, FONTS, AND MORE FONTS: Now you can choose ANY FONT. Yes, ANY FONT YOU WANT. Just install the .ttf or .otf file into the HUD's fonts folder to make your menu feel more personal. You can even use fonts from other mods you own! Song Name Intro: Just a new module that shows the title and artist in the song intro :D OPTIONS MENU: A menu so you can customize your gameplay intuitively. Categories have now been added to improve navigation! Low Detail Mode: Added to the options menu for users who have trouble running the normal menu. NITE MODE: Getting tired of so many colors? Apply a small dark filter to take care of your eyes, schedule the time you want. HITSOUND: Oh yeah... Hear feedback when you press a note and feel like a super pro. Note Fade: A new option has been added to display a fade when notes are just a few seconds away from playing. Hide Opponent Notes: Now you can hide the opponent strumline without middlescroll. HealthBar for Opponentless songs: Just a bar with 1 icon. Icon Positions: Added a new layout option to position the character icons at the far edges of the health bar (Corners) rather than tracking along the middle. OPPONENT STRUMLINE OPACITY: Options for Opponent Opacity adjust lol. [MOBILE ONLY] FALLING NOTES: Now you can view the opponent notes in mobile :D RULES \u0026 DISCLAIMERS: Kassette HUD allows you to create custom modules to adapt my HUD to your liking or for a mod that uses its own HUD, as well as making it possible to disable itself automatically for your mods. Kassette HUD must strictly be a dependency if you want to create Skins or custom modules for it. The redistribution of the integrated modules and especially the API (which is exclusive to this mod) is NOT allowed. Taking code or assets used in this HUD for other HUDs or mods is not allowed. Recreating this HUD or its aesthetics for another V-Slice mod or another engine is not allowed. If you find any bugs, please let me know in the comments or through any contact method you find on my profile. ENJOY AND HAVE FUN! EXTRA!! COMPATIBILITY MODULE FOR SKY REDUX To showcase the HUD's capabilities with custom module integration, I have created a module that makes my HUD compatible with the Vs. Sky: REDUX Mod aesthetic. You can find it in the \"sky_redux_ksshud\" zip file. Just add it to the following path: \"/scripts/modules/CustomModules\" Note: Remember you must have Vs. Sky: REDUX Mod installed to use it. Thank you very much for the support of this project, soon I will be communicating new projects that I will be working on!",
+          "author": "Mikassette",
+          "image": "https://images.gamebanana.com/img/ss/mods/6aadbd86f1abd.jpg",
+          "likes": 93,
+          "downloads": 46729,
+          "views": 40967,
+          "publishedAt": 1772483249,
+          "updatedAt": 1794850102,
+          "url": "https://gamebanana.com/mods/657203",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -106,11 +62,55 @@
           "author": "Fan De FNF (V Slice Porter)",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae5f91a291c3.jpg",
           "likes": 51,
-          "downloads": 17114,
-          "views": 12928,
+          "downloads": 17300,
+          "views": 13035,
           "publishedAt": 1786218482,
           "updatedAt": 1794775930,
           "url": "https://gamebanana.com/mods/701850",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 625397,
+          "title": "FNF IOI Mix",
+          "description": "This fnf mod is created for IOIGA in honor of the birthdayLink Soc IOIGA https://x.com/I0i0G?t=tNocLyJFd1Ujx96PdWDDAQ\u0026amp;s=09 (follow)If you have any problems with RAr, check alternative sources file!",
+          "author": "TheLog1cs",
+          "image": "https://images.gamebanana.com/img/ss/mods/68e4a67ea52f7.jpg",
+          "likes": 49,
+          "downloads": 4383,
+          "views": 8877,
+          "publishedAt": 1759821212,
+          "updatedAt": 1794850740,
+          "url": "https://gamebanana.com/mods/625397",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 609484,
+          "title": "FNF Stickers Icons V-Slice + Wins Icons",
+          "description": "Change your classic fnf icons with cool game transition sticker fnf icons!It's been a year since FNF Sticker Icons were available on Psych Engine, and now they're available on the V-Slice version. This means you can experience them on both PC and mobile. Enjoy the Mod!Using Psych Engine? Download the Psych Engine version [here]Join FNF Sticker Icons WhatsApp Channel To see the Latest Update of this mod [here]",
+          "author": "DzakkiPro",
+          "image": "https://images.gamebanana.com/img/ss/mods/6884db809e888.jpg",
+          "likes": 48,
+          "downloads": 54556,
+          "views": 51853,
+          "publishedAt": 1753537561,
+          "updatedAt": 1794784399,
+          "url": "https://gamebanana.com/mods/609484",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -128,14 +128,36 @@
       "label": "Best of This Week",
       "mods": [
         {
+          "id": 44225,
+          "title": "VS Hex Mod (V3 / THE EVENT UPDATE)",
+          "description": "The basketball-loving TV Head returns for a third time! This time, on court! Join Boyfriend and Hex as they get through a sports match for charity, although... who knows, someone might interrupt this festival of joy and hospitality.The Event Update / V3 is available as \"Mod Only\", \"Mobile\"\u0026nbsp;, and \"Game + Mod\"\u0026nbsp;downloads,\u0026nbsp;the contents include:A new story week - \"Event X\"!7 new freeplay songs + 10 new remixes, including old song versions, thus totaling the unique song count to 30 songs!Lower difficulties available for some songs with modcharts.Base Game / VSlice compatibility, the mod was\u0026nbsp;reworked from the ground up to work on base game engine.New UI for every menu, including Story Mode, Freeplay, Gallery, Jukebox, Options and Credits. The visual, step-by-step tutorials for installing are available above and below.The \"Mod Only\" download contains the PC version of the mod, without the game. Currently the mod only supports version Preview #4, which needs to be downloaded from the Funkin' Blog post listed below:https://funkin.me/blog/2026-11-14/The \"Mobile\" download contains the Mobile version of the mod, without the app.\u0026nbsp;Currently the mod only supports version Preview #4, which can be accessed by following steps on Funkin' Blog post listed above.The \"Game + Mod\" bundle allows you to play the mod now\u0026nbsp;on PC,\u0026nbsp;without additional steps.IMPORTANT: THE MOD SHOULD BE FORWARD COMPATIBLE WITH FUTURE VERSIONS OF V-SLICEANDROID TUTORIAL:iOS TUTORIAL:If you wanna listen to Hexcess, an album consisting of songs from Full Week Update, here they are uploaded onto Spotify and Apple Music!:\u0026nbsp;https://open.spotify.com/album/7ATqQPKkEt6xdPU1uPkJPx?si=6bf9a28a16354774 https://music.apple.com/us/album/hexcess/6818832021If you wanna listen to Hextravaganza, an album consisting of songs from Full Week Update, here they are\u0026nbsp;uploaded onto Spotify, Apple Music and Soundcloud!:\u0026nbsp;https://open.spotify.com/album/3Zb3Hvk89POlwrx8nQLL7ohttps://music.apple.com/us/album/hextravaganza-ep/1563141570https://soundcloud.com/yingyang48/sets/hextravaganzaIf you wanna listen to Hexperience, an album consisting of songs from The Weekend Update and remaining songs from the mod,\u0026nbsp;here they are\u0026nbsp;uploaded onto Spotify and Apple Music!:\u0026nbsp;https://open.spotify.com/album/6m6og2zeiHn7bqFe9SGprqhttps://music.apple.com/us/album/hexperience/1603683226Source code:https://github.com/Kade-github/Hex-V3",
+          "author": "YingYang48",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ac78879a9175.jpg",
+          "likes": 1501,
+          "downloads": 1499258,
+          "views": 3370682,
+          "publishedAt": 1613001538,
+          "updatedAt": 1794766807,
+          "url": "https://gamebanana.com/mods/44225",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
           "id": 700143,
           "title": "Green Boyfriend",
           "description": "He's very green!",
           "author": "FNF_Developers",
           "image": "https://images.gamebanana.com/img/ss/mods/6a70c68254aa0.jpg",
           "likes": 223,
-          "downloads": 7666,
-          "views": 18501,
+          "downloads": 7695,
+          "views": 18571,
           "publishedAt": 1785798871,
           "updatedAt": 1794706109,
           "url": "https://gamebanana.com/mods/700143",
@@ -155,9 +177,9 @@
           "description": "Be careful or she just might EAT you!- Full week- Erect Remixes- Pico Mixes- Death Animations + Voicelines- Gameplay Mechanics- Fully Animated Cutscenes- Requires Funkin 0.8.6",
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6ae5c56741590.jpg",
-          "likes": 180,
-          "downloads": 20186,
-          "views": 10521,
+          "likes": 181,
+          "downloads": 20969,
+          "views": 10697,
           "publishedAt": 1793431756,
           "updatedAt": 1794613558,
           "url": "https://gamebanana.com/mods/734431",
@@ -178,8 +200,8 @@
           "author": "Keoiki",
           "image": "https://images.gamebanana.com/img/ss/mods/699e375fe34d7.jpg",
           "likes": 168,
-          "downloads": 10413,
-          "views": 20357,
+          "downloads": 10470,
+          "views": 20429,
           "publishedAt": 1771981366,
           "updatedAt": 1794698320,
           "url": "https://gamebanana.com/mods/655831",
@@ -194,39 +216,17 @@
           }
         },
         {
-          "id": 516762,
-          "title": "Middlescroll [V-Slice Mod]",
-          "description": "A mod for the FNF V-Slice Engine that adds a middlescroll feature from \"Blazin'\" to all of the songs and adds new options.Features:Toggleable Middlescroll Option.An option that allows you to move the rating and combo number popups.An option that allows you to make the opponent's notes translucent or completely hide them.An option that allows you to toggle note splashes and hold covers.An option that allows you to toggle wider note lanes.Thank you to Mofoy for for helping with porting this mod to mobile!GitHub Link",
-          "author": "JugieNoob",
-          "image": "https://images.gamebanana.com/img/ss/mods/6657945fa1669.jpg",
-          "likes": 93,
-          "downloads": 189439,
-          "views": 88008,
-          "publishedAt": 1717015995,
-          "updatedAt": 1794700756,
-          "url": "https://gamebanana.com/mods/516762",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 725611,
-          "title": "Mod Engine",
-          "description": "A fully 3D modchart engine made in CPPIA for VSlice.make some modfiles or something yo!",
-          "author": "KadeDeveloper",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ac83783e430d.jpg",
-          "likes": 71,
-          "downloads": 1499,
-          "views": 6020,
-          "publishedAt": 1791506265,
-          "updatedAt": 1794533850,
-          "url": "https://gamebanana.com/mods/725611",
+          "id": 513366,
+          "title": "(Festival) Doki Doki Takeover Plus! V-Slice Port",
+          "description": "WARNING FOR STREAMERS AND CONTENT CREATORSIF YOU PLAN ON RECORDING/STREAMING THIS PORT, AND YOU ARE NOT RECORDING USING THE FOLLOWING PROGRAMS:OBSBDCamFrapsXsplitHycam2Twitch StudioYOU MUST DISABLE \"Self Awareness\" IN PREFERENCES WHEN PLAYING THE EPIPHANY SONGS AS THEY WILL READ YOUR PC USERNAMEA port of the popular DDLC mod, Doki Doki Takeover Plus, into the base engine/V-Slice.The mod is currently still a demo, which includes the following songs:High School Conflict (Plus)Bara no Yume (Plus)Your Demise (Plus)You Reality (Takeover Mix)Rain CloudsMy ConfessionMy SweetsBaka (Original and Tankman Mix)Deep BreathsObsessionReconciliationCrucify (Yuri Mix)Beathoven (Natsuki Mix)It's Complicated (Sayori Mix)Glitcher (Monika Mix)Titular (MC Mix)Poems n' Thorns v2Dual DemiseYou and Me (All Versions)CatfightDrinks on MeLibitinaEpiphany (Original and with Lyrics)WiltedExtra Song 1 (Fanmade)Extra whatever the hell (still here)For an accurate UI experience, use mikolka9144's DDTO Hud mod hereINSTALL INSTRUCTIONS:Extract the zip file and drag into your mods folder",
+          "author": "Comedy Lost",
+          "image": "https://images.gamebanana.com/img/ss/mods/6788409e8facb.jpg",
+          "likes": 104,
+          "downloads": 105368,
+          "views": 78198,
+          "publishedAt": 1715579563,
+          "updatedAt": 1794765966,
+          "url": "https://gamebanana.com/mods/513366",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -250,11 +250,77 @@
           "author": "stryk!",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6ad3b6de73c0c.jpg",
           "likes": 91,
-          "downloads": 8153,
-          "views": 6516,
+          "downloads": 8198,
+          "views": 6580,
           "publishedAt": 1792259889,
-          "updatedAt": 1794776263,
+          "updatedAt": 1794848292,
           "url": "https://gamebanana.com/mods/728872",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 516762,
+          "title": "Middlescroll [V-Slice Mod]",
+          "description": "A mod for the FNF V-Slice Engine that adds a middlescroll feature from \"Blazin'\" to all of the songs and adds new options.Features:Toggleable Middlescroll Option.An option that allows you to move the rating and combo number popups.An option that allows you to make the opponent's notes translucent or completely hide them.An option that allows you to toggle note splashes and hold covers.An option that allows you to toggle wider note lanes.Thank you to Mofoy for for helping with porting this mod to mobile!GitHub Link",
+          "author": "JugieNoob",
+          "image": "https://images.gamebanana.com/img/ss/mods/6657945fa1669.jpg",
+          "likes": 93,
+          "downloads": 189555,
+          "views": 88068,
+          "publishedAt": 1717015995,
+          "updatedAt": 1794700756,
+          "url": "https://gamebanana.com/mods/516762",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 637333,
+          "title": "Taunt! (A V-Slice/Mobile Script)",
+          "description": "Have You Looked At Literally Fnf (A Roblox Game) And Told Yourself \"This Is Great! I Love The Fact That They Added A Button For Just The 'Hey' Animation, But, Would It Be Funny If A Guy With A Studio Made This Dumb Idea For The Real Fnf?\" Well, Now Its A Reality!TAUNT! ✌A V-Slice/Mobile Script That Adds A New Function To The Game, The Ability To Taunt! (Or, For New People In The Fnf Community, Do The 'Hey' Animation)Here Is How It Works:PC: When You Press The G Button, It Will Not Only Do The Animation, But Also A Sound! (It Will Sound Different If You Play A Song Where The Playable Character Is Pico)MOBILE: When You Load A Song, It Will Appear A Button On The Bottom-Right Of The Screen (Can Look Different if You Choose A Week 6 Song Or Pico Mixes) If You Press It, It Will Not Only Do The Animation, But Also A Sound! (It Will Sound Different If You Play A Song Where The Playable Character Is Pico)WARNING!! (Stuff That We Added In This Mod)This Mod, Not Only Adds The Ability To Taunt, But Also Adds New Taunt Animations For Car Boyfriend, Pixel Boyfriend, Boyfriend Holding Girlfriend, Pixel Pico And Christmas Pico!But Nonetheless,Hope You Enjoyed This Silly Mod! :DThank You All So Much!! :DTAUNT! + ✌️A V-Slice/Mobile Dlc For \"Taunt!\" That Adds Custom Playable Characters To The Party!The Mods Compatible With \"Taunt! +\" Right Now Are:\"SONIC JAM!\",\"PTR X FNF (Playable Parappa)\",\"FNF: SPOOKY MIX\",\"FNF: Philly Mix\",\"Sky: REBORN\",\"FNF: Remnants\",\"FNF: Gooey Mix\",\"Girlfriend Mix\",\"FNF 2\",\"The Stick-Mix Collection\",And \"Playable Tankman\".(MORE CUSTOM PLAYABLE CHARACTERS WILL COME IN FUTURE UPDATES OF THE DLC!!)NOTE: You Dont Need All Of The Supported Mods For \"Taunt! +\" To Work, But You Do Need The Mod Itself For The Dlc To WorkBut Nonetheless,Hope You Enjoyed This Silly Dlc! :D",
+          "author": "GabriGameYT",
+          "image": "https://images.gamebanana.com/img/ss/mods/69305ba4c8b37.jpg",
+          "likes": 91,
+          "downloads": 67107,
+          "views": 47506,
+          "publishedAt": 1764775688,
+          "updatedAt": 1794763200,
+          "url": "https://gamebanana.com/mods/637333",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 725611,
+          "title": "Mod Engine",
+          "description": "A fully 3D modchart engine made in CPPIA for VSlice.make some modfiles or something yo!",
+          "author": "KadeDeveloper",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ac83783e430d.jpg",
+          "likes": 71,
+          "downloads": 1503,
+          "views": 6059,
+          "publishedAt": 1791506265,
+          "updatedAt": 1794533850,
+          "url": "https://gamebanana.com/mods/725611",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -272,77 +338,11 @@
           "author": "NeLeeO",
           "image": "https://images.gamebanana.com/img/ss/mods/6af4af44db8a3.jpg",
           "likes": 67,
-          "downloads": 3903,
-          "views": 10483,
+          "downloads": 3910,
+          "views": 10519,
           "publishedAt": 1756840322,
           "updatedAt": 1794435753,
           "url": "https://gamebanana.com/mods/617753",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 726610,
-          "title": "FNF: Backrooms SongPack",
-          "description": "This is a FNF Mod that is based off the backrooms and mixes it with FNF! This mod is bassically as if there was Backrooms Themed DLC for FNF This is a FNF mod that requires FNF 0.8.6, if you have any issues with the mod, CHECK YOUR VERSION FIRST!!",
-          "author": "Hydietri",
-          "image": "https://images.gamebanana.com/img/ss/mods/6af22b3249fa7.jpg",
-          "likes": 51,
-          "downloads": 8043,
-          "views": 7824,
-          "publishedAt": 1791728412,
-          "updatedAt": 1794257184,
-          "url": "https://gamebanana.com/mods/726610",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 609484,
-          "title": "FNF Stickers Icons V-Slice + Wins Icons",
-          "description": "Change your classic fnf icons with cool game transition sticker fnf icons!It's been a year since FNF Sticker Icons were available on Psych Engine, and now they're available on the V-Slice version. This means you can experience them on both PC and mobile. Enjoy the Mod!Using Psych Engine? Download the Psych Engine version [here]Join FNF Sticker Icons WhatsApp Channel To see the Latest Update of this mod [here]",
-          "author": "DzakkiPro",
-          "image": "https://images.gamebanana.com/img/ss/mods/6884db809e888.jpg",
-          "likes": 48,
-          "downloads": 54409,
-          "views": 51763,
-          "publishedAt": 1753537561,
-          "updatedAt": 1794784399,
-          "url": "https://gamebanana.com/mods/609484",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 623710,
-          "title": "Funkin' Tweaked Charts",
-          "description": "Funkin' Tweaked Charts (formerly FNF Tweaked Charts) is a QOL mod that reimagines (currently) all charts in the game to be a bit harder.",
-          "author": "Konsoku",
-          "image": "https://images.gamebanana.com/img/ss/mods/68db5108ce380.jpg",
-          "likes": 31,
-          "downloads": 15317,
-          "views": 21152,
-          "publishedAt": 1759203731,
-          "updatedAt": 1794787794,
-          "url": "https://gamebanana.com/mods/623710",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -365,9 +365,9 @@
           "description": "Tricky Mod is back and swinging hard!! Enjoy this visually recreated from the ground up take on Vs. Tricky. The mod includes full recreations of all 4 phases including some goodies for those who poke around the freeplay!INFO: This mod is made years later and going for entirely different things! please go in with a fresh mindset for the best enjoyment.THIS IS A BASE GAME (V-SLICE MOD) FOLDER WORKING ON VERSION 0.8.6!! PLEASE MAKE SURE YOU HAVE THE CORRECT VERSION OF THE GAME.\u0026nbsp;the original mod page will be left up and accessible for anyone who wishes to play the original mod: hereLast thing to mention, the CLOWN cut scene after Madness is a placeholder and will be replaced when the proper cuts scene gets finished. Animation takes time!!",
           "author": "Marc Cea",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9c598136c9d.jpg",
-          "likes": 389,
-          "downloads": 217302,
-          "views": 46346,
+          "likes": 390,
+          "downloads": 217942,
+          "views": 46470,
           "publishedAt": 1790064071,
           "updatedAt": 1790066010,
           "url": "https://gamebanana.com/mods/714051",
@@ -387,9 +387,9 @@
           "description": "Wanna play as an assassin demon with a 8-ball magic toy on his head? Yeah I've got you.FNF': 8R MIXES is a \"Playable character\" mod featuring Eighter (8R for short \u0026 RRRRRRRR for long) and as the main character to beat butts of characters from the base game... but now with style 'cause Eighter is pack of a punch, yeah!This update features...- New playable character!- New backgrounds and remixes for Weeks 1, 3, 5, 7 \u0026 Weekend!- Custom results screen...- ...And more!Unfortunately this is only a slice of the mod (press \"Enter\" on \"WeekOff\" in Story Menu to see more) but Safenot Team hopes that you will like what we have in store for you! See ya later and stay tuned!Wanna learn more about characters? Check out official FunkiPedia page for 8R Mixes! (work still in progress...)",
           "author": "-SwayTheDev-",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a9da4bfdee9f.jpg",
-          "likes": 229,
-          "downloads": 33696,
-          "views": 20465,
+          "likes": 230,
+          "downloads": 33810,
+          "views": 20540,
           "publishedAt": 1788129483,
           "updatedAt": 1793650516,
           "url": "https://gamebanana.com/mods/711896",
@@ -404,14 +404,36 @@
           }
         },
         {
+          "id": 726610,
+          "title": "FNF: Backrooms SongPack",
+          "description": "This is a FNF Mod that is based off the backrooms and mixes it with FNF! This mod is bassically as if there was Backrooms Themed DLC for FNF This is a FNF mod that requires FNF 0.8.6, if you have any issues with the mod, CHECK YOUR VERSION FIRST!!",
+          "author": "Hydietri",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af22b3249fa7.jpg",
+          "likes": 51,
+          "downloads": 8081,
+          "views": 7891,
+          "publishedAt": 1791728412,
+          "updatedAt": 1794257184,
+          "url": "https://gamebanana.com/mods/726610",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
           "id": 740715,
           "title": "FNAF World Loading Screen",
-          "description": "Replaces Funkin's new loading screen with the one from FNAF World. Why does this exist? Because it's funny.Yes, this has every possible loading screen from FNAF World. It even has both Phantom Mangle loading screens.THIS ONLY WORKS WITH THE NEWLY RELEASED PREVIEW 4",
+          "description": "Replaces Funkin's new loading screen with the one from FNAF World. Why does this exist? Because it's funny.Yes, this has every possible loading screen from FNAF World. It even has both Phantom Mangle loading screens.This mod is also compatible with mobile.THIS ONLY WORKS WITH THE NEWLY RELEASED PREVIEW 4",
           "author": "__virtu",
           "image": "https://images.gamebanana.com/img/ss/mods/6af8e5ae1bccd.jpg",
-          "likes": 31,
-          "downloads": 490,
-          "views": 960,
+          "likes": 32,
+          "downloads": 533,
+          "views": 1025,
           "publishedAt": 1794696864,
           "updatedAt": 1794768733,
           "url": "https://gamebanana.com/mods/740715",
@@ -426,39 +448,17 @@
           }
         },
         {
-          "id": 610002,
-          "title": "FNF El Chavo del 8 T2 (V-Slice Mobile Port)",
-          "description": "An unofficial Chavo del 8 T2 mobile V-slice port for those mobile players out there (obviously)THIS PORT WAS MADE ONLY FOR MOBILE PLAYERS IN MIND, IF YOU'RE IN PC JUST PLAY THE OG VERSION (pc doesn't support astc + it needs to stay that way for optimization purposes)All main credits to the original authors of the mod",
-          "author": "Aaronify",
-          "image": "https://images.gamebanana.com/img/ss/mods/6af9eb51790b4.jpg",
-          "likes": 29,
-          "downloads": 427291,
-          "views": 80706,
-          "publishedAt": 1753729382,
-          "updatedAt": 1794765044,
-          "url": "https://gamebanana.com/mods/610002",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 697844,
-          "title": "Vs Fnaf 2 V-Slice Port",
-          "description": "VS. FNAF 2 — Unofficial V-Slice Port V1Original Mod Authors: Pouria_SFMs \u0026 The Funky Modders---# OVERVIEWThis publication serves as an unofficial, fan-made port of the VS. FNAF 2 mod, ported to FNF V-Slice v0.8.8. The primary goal of this project is to bring the original gameplay mechanics, aesthetic, and assets into a modern, optimized framework.---# LEGAL DISCLAIMER \u0026 COPYRIGHT NOTICEAsset Ownership: I do NOT claim ownership of any original assets, music, character designs, or art used in this project. All rights belong strictly to Pouria_SFMs and The Funky Modders.Intent: This project is non-commercial and strictly educational/community-driven.Takedown Policy: If any original team member requests the removal of this page or file, the upload will be taken down immediately without dispute.---# INCLUDED CONTENTThis initial beta build includes the core assets ready for testing:* Story Mode: Week T (Toy Animatronics), Week W (Withered Animatronics) and Finale Week complete.* Freeplay: Tracks — \"Freddy-FartBear\",\"Welcome\", \"Shadows\", \"Enigma\", \"Flashing-Lights\", \"Gamer-Fazbear\", \"Nightshift\", \"Challeng-Fredd\" and \"helium\".* Custom User Interface:TitleState (Custom Title Screen)MainMenuState (Custom Main Menu)PauseSubState (Custom Pause Menu)---# CRITICAL INCOMPATIBILITY WARNINGDO NOT keep or load this mod alongside the \"VS. FNAF 1 Port\" within the same FNF installation.Reason: Both ports share identical internal character identifiers (JSON IDs). Because the engine loads global mod assets on boot, keeping both mods active simultaneously will cause sprite offset corruption and misaligned camera behaviors.Solution: Remove or disable the VS. FNAF 1 directory from your mods folder prior to launching VS. FNAF 2.---# BUG REPORTING* Platform Testing: Verified for Windows and Android. Performance on other platforms (macOS / Linux / Web) is currently unverified.If you encounter any bugs not listed above, please submit a detailed report in the comments section.---# CREDITS \u0026 ACKNOWLEDGMENTSOriginal Mod Development (The Funky Modders):* Pouria_SFMs — Lead Animator, Coder \u0026 Project Owner* penove — Music Composer* Thunderrino92 — Music Composer* c00t doggo — Charting* Beph — Icon ArtistPorting \u0026 Engine Integration:* Flamygamer235 — V-Slice Haxe Scripting, Asset Porting \u0026 Mobile Optimization",
-          "author": "Flamygamer235",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a669d9e39361.jpg",
-          "likes": 27,
-          "downloads": 17904,
-          "views": 12198,
-          "publishedAt": 1785111436,
-          "updatedAt": 1794806204,
-          "url": "https://gamebanana.com/mods/697844",
+          "id": 623710,
+          "title": "Funkin' Tweaked Charts",
+          "description": "Funkin' Tweaked Charts (formerly FNF Tweaked Charts) is a QOL mod that reimagines (currently) all charts in the game to be a bit harder.",
+          "author": "Konsoku",
+          "image": "https://images.gamebanana.com/img/ss/mods/68db5108ce380.jpg",
+          "likes": 31,
+          "downloads": 15356,
+          "views": 21220,
+          "publishedAt": 1759203731,
+          "updatedAt": 1794787794,
+          "url": "https://gamebanana.com/mods/623710",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -482,11 +482,55 @@
           "author": "SiIvaGunner",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_6a237d04312fc.jpg",
           "likes": 322,
-          "downloads": 20054,
-          "views": 37872,
+          "downloads": 20072,
+          "views": 37919,
           "publishedAt": 1780711398,
           "updatedAt": 1781909527,
           "url": "https://gamebanana.com/mods/683489",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 610002,
+          "title": "FNF El Chavo del 8 T2 (V-Slice Mobile Port)",
+          "description": "An unofficial Chavo del 8 T2 mobile V-slice port for those mobile players out there (obviously)THIS PORT WAS MADE ONLY FOR MOBILE PLAYERS IN MIND, IF YOU'RE IN PC JUST PLAY THE OG VERSION (pc doesn't support astc + it needs to stay that way for optimization purposes)All main credits to the original authors of the mod",
+          "author": "Aaronify",
+          "image": "https://images.gamebanana.com/img/ss/mods/6af9eb51790b4.jpg",
+          "likes": 29,
+          "downloads": 427704,
+          "views": 80803,
+          "publishedAt": 1753729382,
+          "updatedAt": 1794765044,
+          "url": "https://gamebanana.com/mods/610002",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 697844,
+          "title": "Vs Fnaf 2 V-Slice Port",
+          "description": "VS. FNAF 2 — Unofficial V-Slice Port V1Original Mod Authors: Pouria_SFMs \u0026 The Funky Modders---# OVERVIEWThis publication serves as an unofficial, fan-made port of the VS. FNAF 2 mod, ported to FNF V-Slice v0.8.8. The primary goal of this project is to bring the original gameplay mechanics, aesthetic, and assets into a modern, optimized framework.---# LEGAL DISCLAIMER \u0026 COPYRIGHT NOTICEAsset Ownership: I do NOT claim ownership of any original assets, music, character designs, or art used in this project. All rights belong strictly to Pouria_SFMs and The Funky Modders.Intent: This project is non-commercial and strictly educational/community-driven.Takedown Policy: If any original team member requests the removal of this page or file, the upload will be taken down immediately without dispute.---# INCLUDED CONTENTThis initial beta build includes the core assets ready for testing:* Story Mode: Week T (Toy Animatronics), Week W (Withered Animatronics) and Finale Week complete.* Freeplay: Tracks — \"Freddy-FartBear\",\"Welcome\", \"Shadows\", \"Enigma\", \"Flashing-Lights\", \"Gamer-Fazbear\", \"Nightshift\", \"Challeng-Fredd\" and \"helium\".* Custom User Interface:TitleState (Custom Title Screen)MainMenuState (Custom Main Menu)PauseSubState (Custom Pause Menu)---# CRITICAL INCOMPATIBILITY WARNINGDO NOT keep or load this mod alongside the \"VS. FNAF 1 Port\" within the same FNF installation.Reason: Both ports share identical internal character identifiers (JSON IDs). Because the engine loads global mod assets on boot, keeping both mods active simultaneously will cause sprite offset corruption and misaligned camera behaviors.Solution: Remove or disable the VS. FNAF 1 directory from your mods folder prior to launching VS. FNAF 2.---# BUG REPORTING* Platform Testing: Verified for Windows and Android. Performance on other platforms (macOS / Linux / Web) is currently unverified.If you encounter any bugs not listed above, please submit a detailed report in the comments section.---# CREDITS \u0026 ACKNOWLEDGMENTSOriginal Mod Development (The Funky Modders):* Pouria_SFMs — Lead Animator, Coder \u0026 Project Owner* penove — Music Composer* Thunderrino92 — Music Composer* c00t doggo — Charting* Beph — Icon ArtistPorting \u0026 Engine Integration:* Flamygamer235 — V-Slice Haxe Scripting, Asset Porting \u0026 Mobile Optimization",
+          "author": "Flamygamer235",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a669d9e39361.jpg",
+          "likes": 28,
+          "downloads": 18333,
+          "views": 12350,
+          "publishedAt": 1785111436,
+          "updatedAt": 1794806204,
+          "url": "https://gamebanana.com/mods/697844",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -504,8 +548,8 @@
           "author": "danypr008",
           "image": "https://images.gamebanana.com/img/ss/mods/68cf0bff2ef57.jpg",
           "likes": 24,
-          "downloads": 62085,
-          "views": 35614,
+          "downloads": 62151,
+          "views": 35663,
           "publishedAt": 1758401350,
           "updatedAt": 1794367040,
           "url": "https://gamebanana.com/mods/621548",
@@ -526,55 +570,11 @@
           "author": "Omenun",
           "image": "https://images.gamebanana.com/img/ss/mods/6a72019fdb095.jpg",
           "likes": 24,
-          "downloads": 4980,
-          "views": 14288,
+          "downloads": 4989,
+          "views": 14309,
           "publishedAt": 1752604404,
           "updatedAt": 1794710589,
           "url": "https://gamebanana.com/mods/607150",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 729370,
-          "title": "GF Who Stole BF's Sneakers ATLAS [V-SLICE]",
-          "description": "Me siento raro haciendo esto Hice este Atlas con permiso del creador original y de su Fla solo lo hice por que no tenia mas ideas no quiero que me vean de otra de forma rara solo hice el atlas por aburrimiento",
-          "author": "felixmx2013",
-          "image": "https://images.gamebanana.com/img/ss/mods/6ad6a267c13e1.jpg",
-          "likes": 24,
-          "downloads": 2675,
-          "views": 4891,
-          "publishedAt": 1792357281,
-          "updatedAt": 1794663268,
-          "url": "https://gamebanana.com/mods/729370",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 711290,
-          "title": "Pause Menu Options [V-SLICE]",
-          "description": "This mod makes it so that you can access the Options Menu in the Pause Screen.Pretty much it.While this isn't an original idea, it is implemented better than other mods that do something similar, most notably it adds the sticker transition when switching the state.This also supports the mobile version of the game if you didn't knew.YOU CAN'T USE THIS MOD FOR YOUR OWN MODPACK",
-          "author": "stryk!",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a930058dd2b0.jpg",
-          "likes": 24,
-          "downloads": 815,
-          "views": 1650,
-          "publishedAt": 1788018974,
-          "updatedAt": 1794776125,
-          "url": "https://gamebanana.com/mods/711290",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -598,8 +598,8 @@
           "author": "DingusCola",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_697e98f2a2968.jpg",
           "likes": 593,
-          "downloads": 218751,
-          "views": 90131,
+          "downloads": 219020,
+          "views": 90210,
           "publishedAt": 1769918333,
           "updatedAt": 1772032782,
           "url": "https://gamebanana.com/mods/650004",
@@ -620,11 +620,55 @@
           "author": "Dra9on5",
           "image": "https://images.gamebanana.com/img/ss/mods/800-90_69128623d3f36.jpg",
           "likes": 589,
-          "downloads": 527888,
-          "views": 130951,
+          "downloads": 528495,
+          "views": 131039,
           "publishedAt": 1763770731,
           "updatedAt": 1785891137,
           "url": "https://gamebanana.com/mods/632935",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 729370,
+          "title": "GF Who Stole BF's Sneakers ATLAS [V-SLICE]",
+          "description": "Me siento raro haciendo esto Hice este Atlas con permiso del creador original y de su Fla solo lo hice por que no tenia mas ideas no quiero que me vean de otra de forma rara solo hice el atlas por aburrimiento",
+          "author": "felixmx2013",
+          "image": "https://images.gamebanana.com/img/ss/mods/6ad6a267c13e1.jpg",
+          "likes": 24,
+          "downloads": 2743,
+          "views": 4960,
+          "publishedAt": 1792357281,
+          "updatedAt": 1794663268,
+          "url": "https://gamebanana.com/mods/729370",
+          "engine": {
+            "id": "vslice",
+            "name": "Base Game",
+            "icon": "vslice.png"
+          },
+          "category": {
+            "id": 29202,
+            "name": "Base Game Mod Folders"
+          }
+        },
+        {
+          "id": 711290,
+          "title": "Pause Menu Options [V-SLICE]",
+          "description": "This mod makes it so that you can access the Options Menu in the Pause Screen.Pretty much it.While this isn't an original idea, it is implemented better than other mods that do something similar, most notably it adds the sticker transition when switching the state.This also supports the mobile version of the game if you didn't knew.YOU CAN'T USE THIS MOD FOR YOUR OWN MODPACK",
+          "author": "stryk!",
+          "image": "https://images.gamebanana.com/img/ss/mods/6a930058dd2b0.jpg",
+          "likes": 24,
+          "downloads": 844,
+          "views": 1697,
+          "publishedAt": 1788018974,
+          "updatedAt": 1794776125,
+          "url": "https://gamebanana.com/mods/711290",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -642,55 +686,11 @@
           "author": "gazuzbogaz8r",
           "image": "https://images.gamebanana.com/img/ss/mods/6af1e2a23a386.jpg",
           "likes": 23,
-          "downloads": 681,
-          "views": 1462,
+          "downloads": 683,
+          "views": 1475,
           "publishedAt": 1794238223,
           "updatedAt": 1794239555,
           "url": "https://gamebanana.com/mods/738418",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 689563,
-          "title": "WTF Notes",
-          "description": "I was told to port over the note style from my engine due to how charming the art is, so I did so. Here you go. WTF Engine notes in V-Slice.Play Friday Funkin' in style! This is mod is guaranteed to get you bitches because girls love a good note style (boys do too if you love boys).Go check out WTF Engine if you haven't already!",
-          "author": "__virtu",
-          "image": "https://images.gamebanana.com/img/ss/mods/6a4007e4915e1.jpg",
-          "likes": 22,
-          "downloads": 966,
-          "views": 3709,
-          "publishedAt": 1782582618,
-          "updatedAt": 1794749353,
-          "url": "https://gamebanana.com/mods/689563",
-          "engine": {
-            "id": "vslice",
-            "name": "Base Game",
-            "icon": "vslice.png"
-          },
-          "category": {
-            "id": 29202,
-            "name": "Base Game Mod Folders"
-          }
-        },
-        {
-          "id": 658038,
-          "title": "Minesweeper!",
-          "description": "A recreation of Minesweeper for FNF!Based off the \"kaboom\" secret in ADOFAIHow to access(PC) Type \"KABOOM\" on the main menu!(Mobile) Drag the bomb on top of the tile in the options menu!",
-          "author": "Kludge54n5",
-          "image": "https://images.gamebanana.com/img/ss/mods/69ab1cc2a00a3.jpg",
-          "likes": 22,
-          "downloads": 330,
-          "views": 1906,
-          "publishedAt": 1772822147,
-          "updatedAt": 1794759370,
-          "url": "https://gamebanana.com/mods/658038",
           "engine": {
             "id": "vslice",
             "name": "Base Game",
@@ -714,8 +714,8 @@
           "author": "JoaDash",
           "image": "https://images.gamebanana.com/img/ss/mods/67775d6828587.jpg",
           "likes": 1096,
-          "downloads": 1873788,
-          "views": 306104,
+          "downloads": 1875403,
+          "views": 306274,
           "publishedAt": 1738810121,
           "updatedAt": 1791706100,
           "url": "https://gamebanana.com/mods/566597",
@@ -736,8 +736,8 @@
           "author": "Denoohay",
           "image": "https://images.gamebanana.com/img/ss/mods/6a7e827a0e607.jpg",
           "likes": 760,
-          "downloads": 1281365,
-          "views": 265542,
+          "downloads": 1282026,
+          "views": 265648,
           "publishedAt": 1730328189,
           "updatedAt": 1786678298,
           "url": "https://gamebanana.com/mods/551727",
@@ -758,8 +758,8 @@
           "author": "st4rcannon",
           "image": "https://images.gamebanana.com/img/ss/mods/6955e8ea4021e.jpg",
           "likes": 622,
-          "downloads": 1676009,
-          "views": 237612,
+          "downloads": 1677116,
+          "views": 237722,
           "publishedAt": 1750701603,
           "updatedAt": 1774746521,
           "url": "https://gamebanana.com/mods/602414",
@@ -780,8 +780,8 @@
           "author": "elikapika",
           "image": "https://images.gamebanana.com/img/ss/mods/69aca7df1a0dc.jpg",
           "likes": 560,
-          "downloads": 298082,
-          "views": 787106,
+          "downloads": 298101,
+          "views": 787137,
           "publishedAt": 1612918137,
           "updatedAt": 1776224000,
           "url": "https://gamebanana.com/mods/44227",
@@ -802,8 +802,8 @@
           "author": "NonsenseNH",
           "image": "https://images.gamebanana.com/img/ss/mods/686fd9ffae1a1.jpg",
           "likes": 514,
-          "downloads": 952415,
-          "views": 175855,
+          "downloads": 952674,
+          "views": 175935,
           "publishedAt": 1752150630,
           "updatedAt": 1790994439,
           "url": "https://gamebanana.com/mods/606077",
